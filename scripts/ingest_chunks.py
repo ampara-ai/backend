@@ -2,13 +2,15 @@
 Ingesta de chunks legales en MongoDB Atlas y creación de índices de búsqueda.
 
 Uso:
-    uv run python scripts/ingest_chunks.py                       # ingesta sin embeddings
-    uv run python scripts/ingest_chunks.py --with-embeddings     # ingesta + embeddings via Model Service
-    uv run python scripts/ingest_chunks.py --create-indexes-only # solo crea/verifica índices
-    uv run python scripts/ingest_chunks.py --jsonl ./otro.jsonl  # ruta custom del JSONL
+    uv run python scripts/ingest_chunks.py                          # ingesta sin embeddings
+    uv run python scripts/ingest_chunks.py --with-embeddings        # ingesta + embeddings finetuned (/embed)
+    uv run python scripts/ingest_chunks.py --with-base-embeddings   # ingesta + embeddings base (/embed_base)
+    uv run python scripts/ingest_chunks.py --create-indexes-only    # solo crea/verifica índices
+    uv run python scripts/ingest_chunks.py --jsonl ./otro.jsonl     # ruta custom del JSONL
 
 El script es idempotente: re-correrlo actualiza documentos existentes (upsert por chunk_id).
-Cuando el Model Service esté listo, correr con --with-embeddings para poblar el campo embedding.
+Usar --with-embeddings para indexar con el modelo finetuned, --with-base-embeddings para el base.
+Los dos flags son mutuamente excluyentes — cada ejecución reindexará la DB con un modelo distinto.
 """
 
 import argparse
@@ -54,10 +56,10 @@ def upsert_chunks(collection, chunks: list[dict]) -> None:
     print(f"  ✓ Upserted: {inserted} nuevos, {modified} actualizados  (total: {len(chunks)})")
 
 
-def add_embeddings(collection, chunks: list[dict]) -> None:
+def add_embeddings(collection, chunks: list[dict], endpoint: str) -> None:
     import httpx
 
-    url = settings.model_service_url.rstrip("/") + settings.embedding_endpoint
+    url = settings.model_service_url.rstrip("/") + endpoint
     total = len(chunks)
     ok = 0
     errors = 0
@@ -170,8 +172,12 @@ def print_index_status(collection) -> None:
 def main():
     parser = argparse.ArgumentParser(description="Ingesta de chunks + índices MongoDB Atlas")
     parser.add_argument("--jsonl", type=Path, default=DEFAULT_JSONL, help="Ruta al archivo JSONL")
-    parser.add_argument("--with-embeddings", action="store_true", help="Generar embeddings via Model Service")
     parser.add_argument("--create-indexes-only", action="store_true", help="Solo crear/verificar índices")
+    emb_group = parser.add_mutually_exclusive_group()
+    emb_group.add_argument("--with-embeddings", action="store_true",
+        help="Generar embeddings finetuned via /embed")
+    emb_group.add_argument("--with-base-embeddings", action="store_true",
+        help="Generar embeddings base via /embed_base")
     args = parser.parse_args()
 
     print("=" * 56)
@@ -212,11 +218,15 @@ def main():
     upsert_chunks(collection, chunks)
 
     # --- Embeddings (opcional) ---
-    if args.with_embeddings:
+    if args.with_embeddings or args.with_base_embeddings:
         if settings.model_service_url.lower() == "mock":
-            print("\n  ✗ --with-embeddings requiere MODEL_SERVICE_URL real (no 'mock')")
+            flag = "--with-embeddings" if args.with_embeddings else "--with-base-embeddings"
+            print(f"\n  ✗ {flag} requiere MODEL_SERVICE_URL real (no 'mock')")
             sys.exit(1)
-        add_embeddings(collection, chunks)
+        if args.with_embeddings:
+            add_embeddings(collection, chunks, settings.embedding_endpoint)
+        else:
+            add_embeddings(collection, chunks, settings.embedding_base_endpoint)
 
     # --- Indexes ---
     create_indexes(collection)

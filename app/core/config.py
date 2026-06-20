@@ -16,10 +16,21 @@ class Settings(BaseSettings):
     # Model Service (ONNX) — usar "mock" para desarrollo
     model_service_url: str = "mock"
     embedding_endpoint: str = "/embed"
+    embedding_base_endpoint: str = "/embed_base"
     reranker_endpoint: str = "/rerank"
+
+    # OpenRouter base URL (compartido por el LLM del grafo y el judge de RAGAS)
+    openrouter_base_url: str = "https://openrouter.ai/api/v1"
+
+    # RAGAS — modelos juez
+    ragas_llm_model: str = "deepseek/deepseek-v4-flash"
+    ragas_embeddings_model: str = "nomic-ai/nomic-embed-text-v1.5"
 
     # PostgreSQL (métricas RAGAS — vacío = deshabilitado)
     postgres_dsn: str = ""
+
+    # RAGAS evaluación por consulta individual (requiere postgres_dsn configurado)
+    ragas_enabled: bool = False
 
     # App
     app_env: str = "development"

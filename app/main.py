@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.v1.chat import router as chat_router
 from app.services.mongodb import close_client, get_client
+from app.services.postgres import close_pool, create_tables_if_not_exist
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -21,10 +22,13 @@ async def lifespan(app: FastAPI):
     except Exception:
         logger.warning("MongoDB not reachable at startup — continuing anyway")
 
+    await create_tables_if_not_exist()
+
     yield
 
     # Shutdown
     await close_client()
+    await close_pool()
     logger.info("MongoDB client closed")
 
 
