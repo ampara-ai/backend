@@ -24,13 +24,20 @@ class Settings(BaseSettings):
 
     # RAGAS — modelos juez
     ragas_llm_model: str = "deepseek/deepseek-v4-flash"
+    # Embeddings para el script de evaluación batch (HuggingFace local)
     ragas_embeddings_model: str = "nomic-ai/nomic-embed-text-v1.5"
+    # Embeddings para la evaluación en tiempo real (API via OpenRouter)
+    ragas_realtime_embeddings_model: str = "qwen/qwen3-embedding-8b"
 
-    # PostgreSQL (métricas RAGAS — vacío = deshabilitado)
+    # PostgreSQL (métricas RAGAS y admin — vacío = deshabilitado)
     postgres_dsn: str = ""
 
     # RAGAS evaluación por consulta individual (requiere postgres_dsn configurado)
     ragas_enabled: bool = False
+
+    # JWT autenticación admin
+    jwt_secret_key: str = "change-me-in-production"
+    jwt_expire_minutes: int = 480
 
     # App
     app_env: str = "development"

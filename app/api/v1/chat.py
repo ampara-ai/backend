@@ -1,6 +1,7 @@
 import asyncio
 import json
 import logging
+import time
 from collections.abc import AsyncGenerator
 
 from fastapi import APIRouter, HTTPException
@@ -9,7 +10,7 @@ from fastapi.responses import StreamingResponse
 from app.api.v1.schemas import ChatRequest, ChatResponse, SourceDocument
 from app.core.config import settings
 from app.graph.rag_graph import clear_session_history, rag_graph
-from app.services import ragas_eval
+from app.services import postgres, ragas_eval
 
 logger = logging.getLogger(__name__)
 router = APIRouter()
@@ -56,11 +57,66 @@ def _build_done_event(session_id: str, terminal: dict, answer: str) -> dict:
     }
 
 
+async def _save_metrics(
+    session_id: str,
+    terminal: dict,
+    latencia_ms: int,
+    reranked_docs: list[dict],
+    answer: str,
+    user_query: str,
+) -> None:
+    """Persist session + consulta rows; schedule RAGAS if enabled."""
+    if not settings.postgres_dsn:
+        return
+
+    out_of_domain = bool(terminal.get("out_of_domain"))
+    no_results = bool(terminal.get("no_results"))
+    from_context = bool(terminal.get("from_context"))
+    fue_relevante = not out_of_domain
+    tuvo_rechazo = out_of_domain or no_results
+    chunks_recuperados = len(reranked_docs)
+
+    fuente_citada_id: int | None = None
+    raw_sources = terminal.get("sources") or []
+    if raw_sources:
+        top_source_type = raw_sources[0].get("source_type", "")
+        fuente_citada_id = await postgres.get_fuente_id_by_source_type(top_source_type)
+
+    await postgres.upsert_session(session_id)
+    consulta_id = await postgres.save_consulta(
+        session_id=session_id,
+        fue_relevante=fue_relevante,
+        contexto_suficiente=from_context,
+        latencia_ms=latencia_ms,
+        chunks_recuperados=chunks_recuperados,
+        tuvo_rechazo=tuvo_rechazo,
+        fuente_citada_id=fuente_citada_id,
+    )
+
+    if (
+        settings.ragas_enabled
+        and consulta_id is not None
+        and not out_of_domain
+        and not no_results
+        and not from_context
+        and reranked_docs
+        and answer
+    ):
+        contexts = [doc["text"] for doc in reranked_docs]
+        asyncio.create_task(ragas_eval.evaluate_and_save(
+            consulta_id=consulta_id,
+            user_query=user_query,
+            retrieved_contexts=contexts,
+            answer=answer,
+        ))
+
+
 async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
     config = {"configurable": {"thread_id": request.session_id}}
     terminal_update: dict = {}
     accumulated_answer: list[str] = []
     generate_status_sent = False
+    start_time = time.time()
 
     try:
         async for mode, data in rag_graph.astream(
@@ -93,30 +149,25 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
                     accumulated_answer.append(token.content)
                     yield _sse("token", {"content": token.content})
 
-        # RAGAS background evaluation — solo para consultas con retrieval real
-        if (
-            settings.postgres_dsn
-            and not terminal_update.get("out_of_domain")
-            and not terminal_update.get("no_results")
-            and not terminal_update.get("from_context")
-            and accumulated_answer  # hubo tokens = generate corrió
-        ):
-            try:
-                final_state = await rag_graph.aget_state(config)
-                reranked_docs = final_state.values.get("reranked_docs") or []
-                contexts = [doc["text"] for doc in reranked_docs]
-                asyncio.create_task(ragas_eval.evaluate_and_save(
-                    session_id=request.session_id,
-                    user_query=request.message,
-                    retrieved_contexts=contexts,
-                    answer="".join(accumulated_answer),
-                ))
-            except Exception:
-                logger.exception("Failed to schedule RAGAS task for session %s", request.session_id)
+        latencia_ms = int((time.time() - start_time) * 1000)
+        answer = "".join(accumulated_answer)
 
-        yield _sse("done", _build_done_event(
-            request.session_id, terminal_update, "".join(accumulated_answer)
+        try:
+            final_state = await rag_graph.aget_state(config)
+            reranked_docs = final_state.values.get("reranked_docs") or []
+        except Exception:
+            reranked_docs = []
+
+        asyncio.create_task(_save_metrics(
+            session_id=request.session_id,
+            terminal=terminal_update,
+            latencia_ms=latencia_ms,
+            reranked_docs=reranked_docs,
+            answer=answer,
+            user_query=request.message,
         ))
+
+        yield _sse("done", _build_done_event(request.session_id, terminal_update, answer))
 
     except Exception:
         logger.exception("Stream error for session %s", request.session_id)
@@ -126,6 +177,7 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
 @router.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest) -> ChatResponse:
     config = {"configurable": {"thread_id": request.session_id}}
+    start_time = time.time()
     try:
         result = await rag_graph.ainvoke(
             {
@@ -139,6 +191,8 @@ async def chat(request: ChatRequest) -> ChatResponse:
         logger.exception("RAG graph error for session %s", request.session_id)
         raise HTTPException(status_code=500, detail="Error interno al procesar la consulta.") from exc
 
+    latencia_ms = int((time.time() - start_time) * 1000)
+
     raw_sources = result.get("sources") or []
     sources = [
         SourceDocument(
@@ -150,26 +204,20 @@ async def chat(request: ChatRequest) -> ChatResponse:
         for s in raw_sources
     ]
 
-    # RAGAS background evaluation — solo para consultas con retrieval real
-    if (
-        settings.ragas_enabled
-        and settings.postgres_dsn
-        and not result.get("out_of_domain")
-        and not result.get("no_results")
-        and not result.get("from_context")
-    ):
-        try:
-            final_state = await rag_graph.aget_state(config)
-            reranked_docs = final_state.values.get("reranked_docs") or []
-            contexts = [doc["text"] for doc in reranked_docs]
-            asyncio.create_task(ragas_eval.evaluate_and_save(
-                session_id=request.session_id,
-                user_query=request.message,
-                retrieved_contexts=contexts,
-                answer=result.get("answer", ""),
-            ))
-        except Exception:
-            logger.exception("Failed to schedule RAGAS task for session %s", request.session_id)
+    try:
+        final_state = await rag_graph.aget_state(config)
+        reranked_docs = final_state.values.get("reranked_docs") or []
+    except Exception:
+        reranked_docs = []
+
+    asyncio.create_task(_save_metrics(
+        session_id=request.session_id,
+        terminal=result,
+        latencia_ms=latencia_ms,
+        reranked_docs=reranked_docs,
+        answer=result.get("answer", ""),
+        user_query=request.message,
+    ))
 
     return ChatResponse(
         session_id=request.session_id,

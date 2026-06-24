@@ -7,34 +7,39 @@ Métricas calculadas (solo disponibles sin ground truth):
 
 context_precision y context_recall quedan NULL (requieren respuestas de referencia).
 
-Se omite silenciosamente si POSTGRES_DSN no está configurado.
+Se omite silenciosamente si POSTGRES_DSN no está configurado o ragas no está disponible.
 """
 
 import logging
 
-from openai import AsyncOpenAI
-from ragas.embeddings import OpenAIEmbeddings
-from ragas.llms import llm_factory
-from ragas.metrics.collections import AnswerRelevancy, Faithfulness
-
 from app.core.config import settings
-from app.services.postgres import save_ragas_metrics
+from app.services.postgres import update_consulta_ragas
 
 logger = logging.getLogger(__name__)
 
 
 def _build_ragas_tools():
+    # Lazy imports — ragas has version-specific transitive deps that may not
+    # be present in all environments. Keeping them inside the function lets
+    # the server start even if ragas is partially broken.
+    from openai import AsyncOpenAI
+    from ragas.embeddings import OpenAIEmbeddings
+    from ragas.llms import llm_factory
+    from ragas.metrics.collections import AnswerRelevancy, Faithfulness
+
     client = AsyncOpenAI(
         base_url=settings.openrouter_base_url,
         api_key=settings.openrouter_api_key,
     )
-    llm = llm_factory(settings.ragas_llm_model, provider="openai", client=client)
-    embeddings = OpenAIEmbeddings(client=client, model=settings.ragas_embeddings_model)
-    return llm, embeddings
+    llm = llm_factory(settings.ragas_llm_model, provider="openai", client=client,max_tokens=10000)
+    embeddings = OpenAIEmbeddings(client=client, model=settings.ragas_realtime_embeddings_model)
+    faithfulness_metric = Faithfulness(llm=llm)
+    relevancy_metric = AnswerRelevancy(llm=llm, embeddings=embeddings)
+    return faithfulness_metric, relevancy_metric
 
 
 async def evaluate_and_save(
-    session_id: str,
+    consulta_id: int,
     user_query: str,
     retrieved_contexts: list[str],
     answer: str,
@@ -43,10 +48,7 @@ async def evaluate_and_save(
         return
 
     try:
-        llm, embeddings = _build_ragas_tools()
-
-        faithfulness_metric = Faithfulness(llm=llm)
-        relevancy_metric = AnswerRelevancy(llm=llm, embeddings=embeddings)
+        faithfulness_metric, relevancy_metric = _build_ragas_tools()
 
         f_result = await faithfulness_metric.ascore(
             user_input=user_query,
@@ -64,13 +66,13 @@ async def evaluate_and_save(
             "context_precision": None,
             "context_recall": None,
         }
-        await save_ragas_metrics(metrics, session_id, user_query)
+        await update_consulta_ragas(consulta_id, metrics)
         logger.info(
-            "RAGAS saved — session=%s faithfulness=%.3f answer_relevancy=%.3f",
-            session_id,
+            "RAGAS saved — consulta_id=%d faithfulness=%.3f answer_relevancy=%.3f",
+            consulta_id,
             f_result.value,
             r_result.value,
         )
 
     except Exception:
-        logger.exception("RAGAS evaluation failed for session %s", session_id)
+        logger.exception("RAGAS evaluation failed for consulta_id %d", consulta_id)
