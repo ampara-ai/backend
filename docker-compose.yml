@@ -21,12 +21,19 @@ services:
       - "80:8000"
     env_file: .env
     environment:
-      # Sobreescribe POSTGRES_DSN del .env para apuntar al contenedor "db"
-      POSTGRES_DSN: postgresql://ampara:${POSTGRES_PASSWORD}@db:5432/ampara
+      # POSTGRES_DSN debe venir URL-encoded desde .env.
+      POSTGRES_DSN: ${POSTGRES_DSN}
       APP_ENV: production
     depends_on:
       db:
         condition: service_healthy
+    networks:
+      - default
+      - rag_shared
 
 volumes:
   postgres_data:
+
+networks:
+  rag_shared:
+    external: true
