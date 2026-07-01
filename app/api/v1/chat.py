@@ -64,6 +64,7 @@ async def _save_metrics(
     reranked_docs: list[dict],
     answer: str,
     user_query: str,
+    hubo_error: bool = False,
 ) -> None:
     """Persist session + consulta rows; schedule RAGAS if enabled."""
     if not settings.postgres_dsn:
@@ -91,6 +92,7 @@ async def _save_metrics(
         chunks_recuperados=chunks_recuperados,
         tuvo_rechazo=tuvo_rechazo,
         fuente_citada_id=fuente_citada_id,
+        hubo_error=hubo_error,
     )
 
     if (
@@ -171,6 +173,15 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
 
     except Exception:
         logger.exception("Stream error for session %s", request.session_id)
+        asyncio.create_task(_save_metrics(
+            session_id=request.session_id,
+            terminal={},
+            latencia_ms=int((time.time() - start_time) * 1000),
+            reranked_docs=[],
+            answer="",
+            user_query=request.message,
+            hubo_error=True,
+        ))
         yield _sse("error", {"detail": "Error interno al procesar la consulta."})
 
 
@@ -189,6 +200,15 @@ async def chat(request: ChatRequest) -> ChatResponse:
         )
     except Exception as exc:
         logger.exception("RAG graph error for session %s", request.session_id)
+        asyncio.create_task(_save_metrics(
+            session_id=request.session_id,
+            terminal={},
+            latencia_ms=int((time.time() - start_time) * 1000),
+            reranked_docs=[],
+            answer="",
+            user_query=request.message,
+            hubo_error=True,
+        ))
         raise HTTPException(status_code=500, detail="Error interno al procesar la consulta.") from exc
 
     latencia_ms = int((time.time() - start_time) * 1000)

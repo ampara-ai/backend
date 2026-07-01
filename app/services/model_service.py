@@ -37,3 +37,15 @@ async def rerank(query: str, documents: list[str]) -> list[dict]:
         results = response.json()["results"]
 
     return sorted(results, key=lambda x: x["score"], reverse=True)
+
+
+async def health_check() -> str:
+    if _is_mock():
+        return "online"
+    try:
+        url = settings.model_service_url.rstrip("/") + "/health"
+        async with httpx.AsyncClient(timeout=5) as client:
+            resp = await client.get(url)
+            return "online" if resp.status_code == 200 else "degraded"
+    except Exception:
+        return "offline"

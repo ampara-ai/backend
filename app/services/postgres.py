@@ -120,6 +120,9 @@ async def create_tables_if_not_exist() -> None:
                 """,
                 nombre, tipo, desc, ref,
             )
+        await conn.execute(
+            "ALTER TABLE consultas ADD COLUMN IF NOT EXISTS hubo_error BOOLEAN DEFAULT FALSE"
+        )
     logger.info("PostgreSQL tables ready")
 
 
@@ -197,6 +200,7 @@ async def save_consulta(
     chunks_recuperados: int,
     tuvo_rechazo: bool,
     fuente_citada_id: int | None,
+    hubo_error: bool = False,
 ) -> int | None:
     pool = await _get_pool()
     if pool is None:
@@ -207,8 +211,8 @@ async def save_consulta(
                 """
                 INSERT INTO consultas
                     (sesion_id, fuente_citada_id, fue_relevante, contexto_suficiente,
-                     latencia_ms, chunks_recuperados)
-                VALUES ($1, $2, $3, $4, $5, $6)
+                     latencia_ms, chunks_recuperados, hubo_error)
+                VALUES ($1, $2, $3, $4, $5, $6, $7)
                 RETURNING id
                 """,
                 session_id,
@@ -217,6 +221,7 @@ async def save_consulta(
                 contexto_suficiente,
                 latencia_ms,
                 chunks_recuperados,
+                hubo_error,
             )
             await conn.execute(
                 """
@@ -257,6 +262,34 @@ async def update_consulta_ragas(consulta_id: int, metrics: dict) -> None:
             )
     except Exception:
         logger.exception("Failed to update RAGAS metrics for consulta %d", consulta_id)
+
+
+async def get_dashboard_metrics() -> dict:
+    pool = await _get_pool()
+    if pool is None:
+        return {"total_queries": 0, "avg_latency_ms": 0.0, "error_rate_pct": 0.0}
+    try:
+        async with pool.acquire() as conn:
+            row = await conn.fetchrow(
+                """
+                SELECT
+                    COUNT(*)                                                                AS total_queries,
+                    COALESCE(AVG(latencia_ms) FILTER (WHERE NOT hubo_error), 0)            AS avg_latency_ms,
+                    COALESCE(
+                        COUNT(*) FILTER (WHERE hubo_error) * 100.0 / NULLIF(COUNT(*), 0),
+                        0.0
+                    )                                                                       AS error_rate_pct
+                FROM consultas
+                """
+            )
+        return {
+            "total_queries": row["total_queries"],
+            "avg_latency_ms": float(row["avg_latency_ms"]),
+            "error_rate_pct": float(row["error_rate_pct"]),
+        }
+    except Exception:
+        logger.exception("Failed to fetch dashboard metrics")
+        return {"total_queries": 0, "avg_latency_ms": 0.0, "error_rate_pct": 0.0}
 
 
 async def get_fuente_id_by_source_type(source_type: str) -> int | None:
