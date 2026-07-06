@@ -6,6 +6,7 @@ from app.graph.nodes import no_results_node, out_of_domain_node
 from app.graph.nodes.context_check import context_check_node
 from app.graph.nodes.embedding import embed_query_node
 from app.graph.nodes.generation import generate_node
+from app.graph.nodes.source_grounding import source_grounding_node
 from app.graph.nodes.relevance_filter import relevance_filter_node
 from app.graph.nodes.reranker import rerank_node
 from app.graph.nodes.retrieval import bm25_search_node, semantic_search_node
@@ -30,6 +31,7 @@ def build_rag_graph():
         .add_node("rrf_fusion", rrf_fusion_node)
         .add_node("rerank", rerank_node)
         .add_node("generate", generate_node)
+        .add_node("source_grounding", source_grounding_node)
         .add_node("out_of_domain", out_of_domain_node)
         .add_node("no_results", no_results_node)
         .add_edge(START, "relevance_filter")
@@ -47,7 +49,8 @@ def build_rag_graph():
         .add_edge("semantic_search", "rrf_fusion")
         .add_edge("rrf_fusion", "rerank")
         .add_conditional_edges("rerank", route_rerank, ["generate", "no_results"])
-        .add_edge("generate", END)
+        .add_edge("generate", "source_grounding")
+        .add_edge("source_grounding", END)
         .add_edge("out_of_domain", END)
         .add_edge("no_results", END)
         .compile(checkpointer=checkpointer)

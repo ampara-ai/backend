@@ -31,7 +31,7 @@ _NODE_STATUS: dict[str, str | None] = {
     "no_results": None,
 }
 
-_TERMINAL_NODES = {"generate", "out_of_domain", "no_results"}
+_TERMINAL_NODES = {"source_grounding", "out_of_domain", "no_results"}
 
 
 def _sse(event: str, data: dict) -> str:

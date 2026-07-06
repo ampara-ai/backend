@@ -1,6 +1,5 @@
 from app.core.dependencies import get_llm
 from app.core.prompt_provider import prompts
-from app.core.source_labels import get_source_label
 from app.graph.state import RAGState
 
 
@@ -49,25 +48,9 @@ async def generate_node(state: RAGState) -> dict:
     result = await llm.ainvoke(chat_messages)
     answer = result.content.strip()
 
-    docs_used = state.get("reranked_docs") or []
-    sources = []
-    for doc in docs_used:
-        meta = doc.get("metadata", {})
-        sources.append(
-            {
-                "source_type": get_source_label(
-                    doc.get("source_type", ""),
-                    meta.get("resolution_type"),
-                ),
-                "source_label": doc.get("title", ""),
-                "excerpt": doc["text"][:250],
-                "score": doc.get("rerank_score", 0.0),
-            }
-        )
-
     return {
         "answer": answer,
-        "sources": sources,
+        "sources": [],   # source_grounding_node builds the final sources
         "from_context": False,
         "messages": [{"role": "assistant", "content": answer}],
     }
