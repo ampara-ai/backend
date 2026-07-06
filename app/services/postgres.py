@@ -123,6 +123,12 @@ async def create_tables_if_not_exist() -> None:
         await conn.execute(
             "ALTER TABLE consultas ADD COLUMN IF NOT EXISTS hubo_error BOOLEAN DEFAULT FALSE"
         )
+        await conn.execute(
+            "ALTER TABLE sesiones ADD COLUMN IF NOT EXISTS genero VARCHAR(20) NOT NULL DEFAULT 'otros'"
+        )
+        await conn.execute(
+            "ALTER TABLE consultas ADD COLUMN IF NOT EXISTS fue_util BOOLEAN NULL"
+        )
     logger.info("PostgreSQL tables ready")
 
 
@@ -262,6 +268,88 @@ async def update_consulta_ragas(consulta_id: int, metrics: dict) -> None:
             )
     except Exception:
         logger.exception("Failed to update RAGAS metrics for consulta %d", consulta_id)
+
+
+async def update_session_genero(session_id: str, genero: str) -> None:
+    pool = await _get_pool()
+    if pool is None:
+        return
+    try:
+        async with pool.acquire() as conn:
+            await conn.execute(
+                "INSERT INTO sesiones (id) VALUES ($1) ON CONFLICT (id) DO NOTHING",
+                session_id,
+            )
+            await conn.execute(
+                "UPDATE sesiones SET genero = $2 WHERE id = $1",
+                session_id,
+                genero,
+            )
+    except Exception:
+        logger.exception("Failed to update genero for session %s", session_id)
+
+
+async def update_consulta_rating(consulta_id: int, session_id: str, fue_util: bool) -> bool:
+    pool = await _get_pool()
+    if pool is None:
+        return False
+    try:
+        async with pool.acquire() as conn:
+            row = await conn.fetchval(
+                """
+                UPDATE consultas SET fue_util = $3
+                WHERE id = $1 AND sesion_id = $2
+                RETURNING id
+                """,
+                consulta_id,
+                session_id,
+                fue_util,
+            )
+        return row is not None
+    except Exception:
+        logger.exception("Failed to update rating for consulta %d", consulta_id)
+        return False
+
+
+async def get_user_metrics() -> dict:
+    pool = await _get_pool()
+    if pool is None:
+        return {
+            "por_genero": {"masculino": 0, "femenino": 0, "otros": 0},
+            "calificaciones": {"utiles": 0, "no_utiles": 0, "sin_calificar": 0},
+        }
+    try:
+        async with pool.acquire() as conn:
+            genero_rows = await conn.fetch(
+                "SELECT genero, COUNT(*) AS total FROM sesiones GROUP BY genero"
+            )
+            cal_row = await conn.fetchrow(
+                """
+                SELECT
+                    COUNT(*) FILTER (WHERE fue_util = TRUE)  AS utiles,
+                    COUNT(*) FILTER (WHERE fue_util = FALSE) AS no_utiles,
+                    COUNT(*) FILTER (WHERE fue_util IS NULL) AS sin_calificar
+                FROM consultas
+                """
+            )
+        por_genero = {"masculino": 0, "femenino": 0, "otros": 0}
+        for row in genero_rows:
+            key = row["genero"] if row["genero"] in por_genero else "otros"
+            por_genero[key] += row["total"]
+        return {
+            "por_genero": por_genero,
+            "calificaciones": {
+                "utiles":        int(cal_row["utiles"]),
+                "no_utiles":     int(cal_row["no_utiles"]),
+                "sin_calificar": int(cal_row["sin_calificar"]),
+            },
+        }
+    except Exception:
+        logger.exception("Failed to fetch user metrics")
+        return {
+            "por_genero": {"masculino": 0, "femenino": 0, "otros": 0},
+            "calificaciones": {"utiles": 0, "no_utiles": 0, "sin_calificar": 0},
+        }
 
 
 async def get_dashboard_metrics() -> dict:

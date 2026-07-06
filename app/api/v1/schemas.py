@@ -20,3 +20,4 @@ class ChatResponse(BaseModel):
     from_context: bool = False  # True cuando se respondió desde el historial
     out_of_domain: bool = False
     no_results: bool = False
+    consulta_id: int | None = None

@@ -1,3 +1,4 @@
+import asyncio
 import logging
 
 from fastapi import APIRouter, Depends, HTTPException, UploadFile, File, status
@@ -58,9 +59,27 @@ class DashboardServices(BaseModel):
     inference_service: str
 
 
+class GeneroBreakdown(BaseModel):
+    masculino: int
+    femenino: int
+    otros: int
+
+
+class CalificacionesStats(BaseModel):
+    utiles: int
+    no_utiles: int
+    sin_calificar: int
+
+
+class UsuariosMetrics(BaseModel):
+    por_genero: GeneroBreakdown
+    calificaciones: CalificacionesStats
+
+
 class DashboardResponse(BaseModel):
     metrics: DashboardMetrics
     services: DashboardServices
+    usuarios: UsuariosMetrics
 
 
 class QueueItem(BaseModel):
@@ -153,8 +172,13 @@ async def upload_document(
 async def get_dashboard(
     current_admin: dict = Depends(auth.get_current_admin),
 ) -> DashboardResponse:
-    metrics = await postgres.get_dashboard_metrics()
-    inference_status = await model_service.health_check()
+    metrics, user_metrics, inference_status = await asyncio.gather(
+        postgres.get_dashboard_metrics(),
+        postgres.get_user_metrics(),
+        model_service.health_check(),
+    )
+    pg = user_metrics["por_genero"]
+    cal = user_metrics["calificaciones"]
     return DashboardResponse(
         metrics=DashboardMetrics(
             avg_latency_ms=round(metrics["avg_latency_ms"]),
@@ -164,6 +188,18 @@ async def get_dashboard(
         services=DashboardServices(
             rag_api="online",
             inference_service=inference_status,
+        ),
+        usuarios=UsuariosMetrics(
+            por_genero=GeneroBreakdown(
+                masculino=pg["masculino"],
+                femenino=pg["femenino"],
+                otros=pg["otros"],
+            ),
+            calificaciones=CalificacionesStats(
+                utiles=cal["utiles"],
+                no_utiles=cal["no_utiles"],
+                sin_calificar=cal["sin_calificar"],
+            ),
         ),
     )
 

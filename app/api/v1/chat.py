@@ -3,9 +3,11 @@ import json
 import logging
 import time
 from collections.abc import AsyncGenerator
+from typing import Literal
 
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import StreamingResponse
+from pydantic import BaseModel
 
 from app.api.v1.schemas import ChatRequest, ChatResponse, SourceDocument
 from app.core.config import settings
@@ -36,7 +38,7 @@ def _sse(event: str, data: dict) -> str:
     return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
 
 
-def _build_done_event(session_id: str, terminal: dict, answer: str) -> dict:
+def _build_done_event(session_id: str, terminal: dict, answer: str, consulta_id: int | None = None) -> dict:
     raw_sources = terminal.get("sources") or []
     sources = [
         {
@@ -54,6 +56,7 @@ def _build_done_event(session_id: str, terminal: dict, answer: str) -> dict:
         "from_context": bool(terminal.get("from_context", False)),
         "out_of_domain": bool(terminal.get("out_of_domain", False)),
         "no_results": bool(terminal.get("no_results", False)),
+        "consulta_id": consulta_id,
     }
 
 
@@ -65,10 +68,10 @@ async def _save_metrics(
     answer: str,
     user_query: str,
     hubo_error: bool = False,
-) -> None:
-    """Persist session + consulta rows; schedule RAGAS if enabled."""
+) -> int | None:
+    """Persist session + consulta rows; schedule RAGAS if enabled. Returns consulta_id."""
     if not settings.postgres_dsn:
-        return
+        return None
 
     out_of_domain = bool(terminal.get("out_of_domain"))
     no_results = bool(terminal.get("no_results"))
@@ -111,6 +114,8 @@ async def _save_metrics(
             retrieved_contexts=contexts,
             answer=answer,
         ))
+
+    return consulta_id
 
 
 async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
@@ -160,16 +165,16 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
         except Exception:
             reranked_docs = []
 
-        asyncio.create_task(_save_metrics(
+        consulta_id = await _save_metrics(
             session_id=request.session_id,
             terminal=terminal_update,
             latencia_ms=latencia_ms,
             reranked_docs=reranked_docs,
             answer=answer,
             user_query=request.message,
-        ))
+        )
 
-        yield _sse("done", _build_done_event(request.session_id, terminal_update, answer))
+        yield _sse("done", _build_done_event(request.session_id, terminal_update, answer, consulta_id))
 
     except Exception:
         logger.exception("Stream error for session %s", request.session_id)
@@ -230,14 +235,14 @@ async def chat(request: ChatRequest) -> ChatResponse:
     except Exception:
         reranked_docs = []
 
-    asyncio.create_task(_save_metrics(
+    consulta_id = await _save_metrics(
         session_id=request.session_id,
         terminal=result,
         latencia_ms=latencia_ms,
         reranked_docs=reranked_docs,
         answer=result.get("answer", ""),
         user_query=request.message,
-    ))
+    )
 
     return ChatResponse(
         session_id=request.session_id,
@@ -246,6 +251,7 @@ async def chat(request: ChatRequest) -> ChatResponse:
         from_context=result.get("from_context", False),
         out_of_domain=result.get("out_of_domain", False),
         no_results=result.get("no_results", False),
+        consulta_id=consulta_id,
     )
 
 
@@ -262,3 +268,26 @@ async def chat_stream(request: ChatRequest) -> StreamingResponse:
 async def clear_session(session_id: str) -> dict:
     clear_session_history(session_id)
     return {"cleared": True, "session_id": session_id}
+
+
+class GeneroRequest(BaseModel):
+    genero: Literal["masculino", "femenino", "otros"]
+
+
+@router.post("/session/{session_id}/genero")
+async def set_session_genero(session_id: str, body: GeneroRequest) -> dict:
+    await postgres.update_session_genero(session_id, body.genero)
+    return {"ok": True}
+
+
+class RatingRequest(BaseModel):
+    session_id: str
+    fue_util: bool
+
+
+@router.post("/consulta/{consulta_id}/rate")
+async def rate_consulta(consulta_id: int, body: RatingRequest) -> dict:
+    updated = await postgres.update_consulta_rating(consulta_id, body.session_id, body.fue_util)
+    if not updated:
+        raise HTTPException(status_code=404, detail="Consulta no encontrada para esta sesión")
+    return {"ok": True}
