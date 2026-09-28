@@ -250,8 +250,10 @@ async def main() -> None:
     results = await run_all(items, concurrency=args.concurrency)
     print_report(results)
 
+    out_dir = Path(__file__).resolve().parents[1] / "results"
+    out_dir.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    csv_path = Path(__file__).resolve().parents[1] / f"oe3_results_{timestamp}.csv"
+    csv_path = out_dir / f"oe3_results_{timestamp}.csv"
     save_csv(results, csv_path)
 
 

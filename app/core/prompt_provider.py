@@ -12,7 +12,6 @@ class PromptProvider:
     def __init__(self, prompts_dir: Path = _PROMPTS_DIR) -> None:
         self.relevance_filter = self._load(prompts_dir, "relevance_filter.md")
         self.context_check = self._load(prompts_dir, "context_check.md")
-        self.query_synthesis = self._load(prompts_dir, "query_synthesis.md")
         self.generation = self._load(prompts_dir, "generation.md")
 
     @staticmethod

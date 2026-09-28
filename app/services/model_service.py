@@ -23,14 +23,14 @@ async def get_embedding(text: str, use_base: bool = False) -> list[float]:
         return response.json()["embedding"]
 
 
-async def rerank(query: str, documents: list[str]) -> list[dict]:
+async def rerank(query: str, documents: list[str], endpoint: str | None = None) -> list[dict]:
     if _is_mock():
         return [
             {"index": i, "score": 0.9 - i * 0.05, "text": doc}
             for i, doc in enumerate(documents)
         ]
 
-    url = settings.model_service_url.rstrip("/") + settings.reranker_endpoint
+    url = settings.model_service_url.rstrip("/") + (endpoint or settings.reranker_endpoint)
     async with httpx.AsyncClient(timeout=30) as client:
         response = await client.post(url, json={"query": query, "documents": documents})
         response.raise_for_status()

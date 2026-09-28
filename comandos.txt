@@ -1,0 +1,37 @@
+# Validación cuantitativa (OE4) — comandos para replicar el experimento
+#
+# Prerrequisitos:
+#   - Model service (ONNX) corriendo (MODEL_SERVICE_URL en .env, no "mock")
+#   - MongoDB Atlas con los índices vector_index/text_index en estado READY
+#     (uv run python scripts/ingest_chunks.py --create-indexes-only si hace falta)
+#   - datasets/test90_clean.jsonl presente (82 preguntas genuinamente held-out,
+#     sin fuga hacia el entrenamiento del embedding). Se construyó reconciliando
+#     datasets/training.json + datasets/test_queries.jsonl +
+#     datasets/test_qrels_fixed.jsonl + datasets/corpus_fixed.jsonl — 8 de las
+#     90 originales se excluyeron por fuga o ambigüedad (ver historial de esta
+#     sesión si hay que reconstruirlo desde cero).
+
+# 1. Ablación de recuperación pura — 4 configs de comparación (sin LLM, gratis)
+#    bm25_only / dense_base / hybrid_no_rerank / hybrid_rerank sobre las 82
+#    preguntas limpias. hybrid_rerank usa el reranker de OpenRouter (Voyage),
+#    no el local (mucho más lento).
+uv run python scripts/eval_ablation.py \
+  --dataset-path datasets/test90_clean.jsonl --samples 82 \
+  --configs bm25_only dense_base hybrid_no_rerank hybrid_rerank \
+  --reranker-backend openrouter --skip-ragas
+
+# 2. Arquitectura final (dense_finetuned) — con Faithfulness/Answer Relevancy
+#    reales. Generador y juez: openai/gpt-5.6-luna-pro (vía OpenRouter).
+#    Answer Relevancy usa el embedding qwen3-embedding-8b vía API (ya
+#    configurado como RAGAS_REALTIME_EMBEDDINGS_MODEL) — no el local, para
+#    poder correr con concurrencia real sin crashear.
+#    --resume permite cortar y retomar sin perder lo ya calculado (por
+#    dataset_id); si se corta a mitad de camino, correr el mismo comando de
+#    nuevo con --resume termina solo lo que falta.
+LLM_MODEL="openai/gpt-5.6-luna-pro" RAGAS_LLM_MODEL="openai/gpt-5.6-luna-pro" \
+  uv run python scripts/eval_ablation.py \
+  --dataset-path datasets/test90_clean.jsonl --samples 82 \
+  --configs dense_finetuned --concurrency 10 --resume
+
+# 3. Tabla final consolidada (results/tabla_resultados_oe4.csv y .xlsx)
+uv run python scripts/build_final_table.py

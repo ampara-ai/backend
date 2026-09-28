@@ -57,14 +57,14 @@ from app.graph.nodes.reranker import rerank_node
 from app.graph.nodes.retrieval import bm25_search_node, semantic_search_node
 from app.graph.nodes.rrf_fusion import rrf_fusion_node
 from app.services import model_service
-from app.services.postgres import create_tables_if_not_exist, save_ragas_metrics
 
 # ---------------------------------------------------------------------------
 # Configuración
 # ---------------------------------------------------------------------------
 
 DATASET_PATH = Path(__file__).resolve().parents[1] / "questions_with_positive_context.jsonl"
-OUT_DIR = Path(__file__).resolve().parent
+OUT_DIR = Path(__file__).resolve().parents[1] / "results"
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 METRIC_COLS = [
     "recall_candidates",
@@ -154,15 +154,20 @@ def context_precision(retrieved_ids: list[str], reference_ids: set[str]) -> floa
 # ---------------------------------------------------------------------------
 
 async def run_rag_pipeline(
-    query: str, use_base: bool
-) -> tuple[list[dict], list[dict], str]:
+    query: str, use_base: bool, retrieval_only: bool = False,
+) -> tuple[list[dict], list[dict], list[dict], str]:
     """
     Corre el pipeline: embed → bm25+semantic → RRF → rerank → generate.
-    Retorna (fused_docs, reranked_docs, answer).
+    Retorna (candidate_pool, fused_docs, reranked_docs, answer).
 
     El threshold del reranker se ignora para evaluación: si el reranker
     encontró docs los usamos para medir retrieval quality, aunque en
     producción el sistema hubiera respondido "no encontré información".
+
+    Con retrieval_only=True se salta el paso 5 (generate_node) por completo:
+    no llama al LLM generador — el único paso de este pipeline que cuesta
+    dinero/tiempo real (bm25/semantic/RRF/rerank son Mongo + el modelo ONNX
+    local del model service, no un LLM). answer queda "" en ese caso.
     """
     # 1. Embedding
     query_embedding = await model_service.get_embedding(query, use_base=use_base)
@@ -203,6 +208,9 @@ async def run_rag_pipeline(
     if not reranked_docs:
         return candidate_pool, fused_docs, [], "No se encontraron documentos relevantes para responder la pregunta."
 
+    if retrieval_only:
+        return candidate_pool, fused_docs, reranked_docs, ""
+
     # 5. Generación (usa los docs rerankeados sin importar el threshold)
     gen_state = await generate_node({
         "reranked_docs": reranked_docs,
@@ -239,7 +247,9 @@ async def evaluate_model(
         print(f"  [{label}] [{i+1}/{len(dataset)}] {query[:70]}...")
 
         try:
-            candidate_pool, fused_docs, reranked_docs, answer = await run_rag_pipeline(query, use_base=use_base)
+            candidate_pool, fused_docs, reranked_docs, answer = await run_rag_pipeline(
+                query, use_base=use_base, retrieval_only=retrieval_only,
+            )
         except Exception as exc:
             print(f"    ERROR en pipeline: {exc}")
             rows.append({
@@ -322,25 +332,6 @@ async def evaluate_model(
             f"mrr={pre_mrr:.3f} prec={pre_precision:.3f} | post={post_recall:.3f} "
             f"| faith={faith_str} rel={rel_str}"
         )
-
-        # Guardar en PostgreSQL si está configurado
-        if settings.postgres_dsn:
-            await save_ragas_metrics(
-                {
-                    "context_recall_pre": pre_recall,
-                    "context_precision_pre": pre_precision,
-                    "context_recall_post": post_recall,
-                    "context_precision_post": post_precision,
-                    "faithfulness": f_val,
-                    "answer_relevancy": r_val,
-                    "model_variant": label,
-                    "topic": item.get("topic"),
-                    "barrier": item.get("barrier"),
-                    "dataset_id": item.get("dataset_id"),
-                },
-                session_id=f"eval_{label}",
-                query=query,
-            )
 
     df = pd.DataFrame(rows)
     summary = {"modelo": label, "n_queries": len(df)}
@@ -444,21 +435,21 @@ async def main() -> None:
     filter_label = f" [{', '.join(filters_desc)}]" if filters_desc else ""
     print(f"Ejemplos a evaluar: {len(dataset)}{filter_label}\n")
 
-    async_client = AsyncOpenAI(
-        base_url=settings.openrouter_base_url,
-        api_key=settings.openrouter_api_key,
-    )
-    evaluator_llm = llm_factory(
-        settings.ragas_llm_model,
-        provider="openai",
-        client=async_client,
-        max_tokens=10000
-    )
-    evaluator_embeddings = HuggingFaceEmbeddings(
-        model=settings.ragas_embeddings_model,
-    )
-
-    await create_tables_if_not_exist()
+    evaluator_llm, evaluator_embeddings = None, None
+    if not args.retrieval_only:
+        async_client = AsyncOpenAI(
+            base_url=settings.openrouter_base_url,
+            api_key=settings.openrouter_api_key,
+        )
+        evaluator_llm = llm_factory(
+            settings.ragas_llm_model,
+            provider="openai",
+            client=async_client,
+            max_tokens=10000
+        )
+        evaluator_embeddings = HuggingFaceEmbeddings(
+            model=settings.ragas_embeddings_model,
+        )
 
     endpoint = "/embed_base" if use_base else "/embed"
     mode_label = " [retrieval-only]" if args.retrieval_only else ""

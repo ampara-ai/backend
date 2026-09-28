@@ -5,6 +5,10 @@ from app.services import model_service
 _TOP_N = 5
 
 
+# No se usa en producción (app/graph/rag_graph.py) — el experimento de
+# ablación (scripts/eval_ablation.py, config hybrid_rerank) mostró que el
+# reranker empeora el retrieval del embedding finetuneado en este dominio,
+# incluso sin BM25 de por medio. Se mantiene solo como punto de comparación.
 async def rerank_node(state: RAGState) -> dict:
     fused = state.get("fused_results") or []
 

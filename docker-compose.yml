@@ -2,9 +2,12 @@ services:
   db:
     image: postgres:16-alpine
     restart: unless-stopped
+    # env_file (no ${VAR} de Compose): así no importa cómo se llame el
+    # archivo ni depende de que exista un ".env" literal en el proyecto —
+    # POSTGRES_PASSWORD llega directo del archivo a Postgres.
+    env_file: .env.production
     environment:
       POSTGRES_USER: ampara
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ampara
     volumes:
       - postgres_data:/var/lib/postgresql/data
@@ -19,10 +22,8 @@ services:
     restart: unless-stopped
     ports:
       - "80:8000"
-    env_file: .env
+    env_file: .env.production
     environment:
-      # POSTGRES_DSN debe venir URL-encoded desde .env.
-      POSTGRES_DSN: ${POSTGRES_DSN}
       APP_ENV: production
     depends_on:
       db:
@@ -35,5 +36,8 @@ volumes:
   postgres_data:
 
 networks:
+  # Sin external: true — el que arranque primero (este repo o model-service)
+  # crea la red con este nombre fijo; el otro la reutiliza automáticamente.
+  # Ya no hace falta `docker network create rag_shared` a mano.
   rag_shared:
-    external: true
+    name: rag_shared

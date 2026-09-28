@@ -11,6 +11,10 @@ wheels/
 
 # Environment variables
 .env
-# Archivos del sistema macOS
+.env.production
+
+# macOS
 .DS_Store
-._*
+
+# Resultados de evaluación (scripts/eval_*, scripts/validate_oe3.py, scripts/build_final_table.py)
+results/

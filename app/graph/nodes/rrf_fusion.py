@@ -2,6 +2,10 @@ _RRF_K = 60
 _TOP_N = 10
 
 
+# No se usa en producción (app/graph/rag_graph.py) — solo recupera con el
+# embedding finetuneado, sin BM25 que fusionar. Se mantiene como punto de
+# comparación del experimento de ablación (scripts/eval_ablation.py, configs
+# hybrid_no_rerank/hybrid_rerank) y de scripts/eval_dataset_ragas.py.
 def _rrf_score(rank: int) -> float:
     return 1.0 / (_RRF_K + rank + 1)
 

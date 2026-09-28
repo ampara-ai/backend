@@ -5,7 +5,7 @@ import time
 from collections.abc import AsyncGenerator
 from typing import Literal
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
 
@@ -17,15 +17,34 @@ from app.services import postgres, ragas_eval
 logger = logging.getLogger(__name__)
 router = APIRouter()
 
+# Tope de consultas por IP para la validación cualitativa — en memoria, se
+# reinicia si el proceso se reinicia. Consistente con InMemorySaver en
+# rag_graph.py: este backend ya asume un solo proceso/worker, no varios.
+_ip_query_counts: dict[str, int] = {}
+
+
+def _get_client_ip(request: Request) -> str:
+    forwarded = request.headers.get("x-forwarded-for")
+    if forwarded:
+        return forwarded.split(",")[0].strip()
+    return request.client.host if request.client else "unknown"
+
+
+def _check_rate_limit(request: Request) -> None:
+    ip = _get_client_ip(request)
+    count = _ip_query_counts.get(ip, 0)
+    if count >= settings.max_queries_per_ip:
+        raise HTTPException(
+            status_code=429,
+            detail=f"Límite de {settings.max_queries_per_ip} consultas alcanzado para esta IP.",
+        )
+    _ip_query_counts[ip] = count + 1
+
 _NODE_STATUS: dict[str, str | None] = {
     "relevance_filter": "Verificando relevancia...",
     "context_check": "Analizando contexto...",
-    "query_synthesis": "Reformulando consulta...",
     "embed_query": "Generando embedding...",
-    "bm25_search": "Buscando (léxico)...",
     "semantic_search": "Buscando (semántico)...",
-    "rrf_fusion": "Fusionando resultados...",
-    "rerank": "Reordenando resultados...",
     # "generate" status is emitted on first token (before "updates" arrives)
     "out_of_domain": None,
     "no_results": None,
@@ -190,7 +209,7 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
         yield _sse("error", {"detail": "Error interno al procesar la consulta."})
 
 
-@router.post("/chat", response_model=ChatResponse)
+@router.post("/chat", response_model=ChatResponse, dependencies=[Depends(_check_rate_limit)])
 async def chat(request: ChatRequest) -> ChatResponse:
     config = {"configurable": {"thread_id": request.session_id}}
     start_time = time.time()
@@ -255,7 +274,7 @@ async def chat(request: ChatRequest) -> ChatResponse:
     )
 
 
-@router.post("/chat/stream")
+@router.post("/chat/stream", dependencies=[Depends(_check_rate_limit)])
 async def chat_stream(request: ChatRequest) -> StreamingResponse:
     return StreamingResponse(
         _stream_chat_sse(request),

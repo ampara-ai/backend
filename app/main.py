@@ -6,11 +6,30 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.v1.admin import router as admin_router
 from app.api.v1.chat import router as chat_router
+from app.core.config import settings
+from app.services import postgres as postgres_service
+from app.services.auth import hash_password
 from app.services.mongodb import close_client, get_client
 from app.services.postgres import close_pool, create_tables_if_not_exist
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+
+async def _bootstrap_admin() -> None:
+    """Crea el primer admin desde ADMIN_USERNAME/ADMIN_PASSWORD si están
+    seteados. Idempotente: no hace nada si ya existe algún admin (mismo
+    guard que scripts/create_first_admin.py) — seguro dejarlo siempre
+    activo, no duplica ni sobrescribe en reinicios."""
+    if not settings.admin_username or not settings.admin_password:
+        return
+    if not settings.postgres_dsn:
+        logger.warning("ADMIN_USERNAME/ADMIN_PASSWORD seteados pero POSTGRES_DSN no está configurado — omitiendo bootstrap de admin")
+        return
+    if await postgres_service.count_admins() > 0:
+        return
+    await postgres_service.create_admin(settings.admin_username, hash_password(settings.admin_password))
+    logger.info("Admin '%s' creado automáticamente al arrancar", settings.admin_username)
 
 
 @asynccontextmanager
@@ -24,6 +43,7 @@ async def lifespan(app: FastAPI):
         logger.warning("MongoDB not reachable at startup — continuing anyway")
 
     await create_tables_if_not_exist()
+    await _bootstrap_admin()
 
     yield
 

@@ -85,7 +85,7 @@ async def source_grounding_node(state: RAGState) -> dict:
             ),
             "source_label": entry.get("title") or doc.get("title", ""),
             "excerpt": entry.get("summary") or doc["text"][:250],
-            "score": doc.get("rerank_score", 0.0),
+            "score": doc.get("score", 0.0),
         })
 
     # Fallback: LLM returned nothing valid → expose all reranked docs unchanged
@@ -98,7 +98,7 @@ async def source_grounding_node(state: RAGState) -> dict:
                 ),
                 "source_label": doc.get("title", ""),
                 "excerpt": doc["text"][:250],
-                "score": doc.get("rerank_score", 0.0),
+                "score": doc.get("score", 0.0),
             })
 
     return {
