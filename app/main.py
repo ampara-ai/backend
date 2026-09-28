@@ -1,14 +1,16 @@
 import logging
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI, HTTPException, status
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.openapi.docs import get_redoc_html, get_swagger_ui_html
+from fastapi.security import HTTPBasic, HTTPBasicCredentials
 
 from app.api.v1.admin import router as admin_router
 from app.api.v1.chat import router as chat_router
 from app.core.config import settings
 from app.services import postgres as postgres_service
-from app.services.auth import hash_password
+from app.services.auth import hash_password, verify_password
 from app.services.mongodb import close_client, get_client
 from app.services.postgres import close_pool, create_tables_if_not_exist
 
@@ -58,7 +60,38 @@ app = FastAPI(
     description="Backend RAG legal — violencia familiar Perú",
     version="0.1.0",
     lifespan=lifespan,
+    docs_url=None,
+    redoc_url=None,
+    openapi_url=None,
 )
+
+docs_security = HTTPBasic()
+
+
+async def require_docs_admin(credentials: HTTPBasicCredentials = Depends(docs_security)) -> None:
+    admin = await postgres_service.get_admin_by_username(credentials.username)
+    if not admin or not admin["is_active"] or not verify_password(credentials.password, admin["password_hash"]):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Credenciales inválidas",
+            headers={"WWW-Authenticate": 'Basic realm="Ampara docs"'},
+        )
+
+
+@app.get("/openapi.json", include_in_schema=False, dependencies=[Depends(require_docs_admin)])
+async def openapi_schema():
+    return app.openapi()
+
+
+@app.get("/docs", include_in_schema=False, dependencies=[Depends(require_docs_admin)])
+async def swagger_docs():
+    return get_swagger_ui_html(openapi_url="/openapi.json", title=f"{app.title} - Swagger UI")
+
+
+@app.get("/redoc", include_in_schema=False, dependencies=[Depends(require_docs_admin)])
+async def redoc_docs():
+    return get_redoc_html(openapi_url="/openapi.json", title=f"{app.title} - ReDoc")
+
 
 app.add_middleware(
     CORSMiddleware,

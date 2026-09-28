@@ -24,9 +24,8 @@ _ip_query_counts: dict[str, int] = {}
 
 
 def _get_client_ip(request: Request) -> str:
-    forwarded = request.headers.get("x-forwarded-for")
-    if forwarded:
-        return forwarded.split(",")[0].strip()
+    # Uvicorn solo debe aceptar cabeceras de proxy de orígenes confiables.
+    # Leer X-Forwarded-For directamente permitiría saltar el límite por IP.
     return request.client.host if request.client else "unknown"
 
 
