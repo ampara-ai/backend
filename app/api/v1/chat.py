@@ -11,7 +11,7 @@ from pydantic import BaseModel
 
 from app.api.v1.schemas import ChatRequest, ChatResponse, SourceDocument
 from app.core.config import settings
-from app.graph.rag_graph import clear_session_history, rag_graph
+from app.graph.rag_graph import clear_session_history, rag_graph, touch_session
 from app.services import postgres, ragas_eval
 
 logger = logging.getLogger(__name__)
@@ -142,6 +142,7 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
     accumulated_answer: list[str] = []
     generate_status_sent = False
     start_time = time.time()
+    touch_session(request.session_id)
 
     try:
         async for mode, data in rag_graph.astream(
@@ -212,6 +213,7 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
 async def chat(request: ChatRequest) -> ChatResponse:
     config = {"configurable": {"thread_id": request.session_id}}
     start_time = time.time()
+    touch_session(request.session_id)
     try:
         result = await rag_graph.ainvoke(
             {

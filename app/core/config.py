@@ -7,6 +7,12 @@ class Settings(BaseSettings):
     # LLM — OpenRouter (OpenAI-compatible)
     openrouter_api_key: str
     llm_model: str = "openai/gpt-oss-120b"
+    # Enrutamiento de proveedor fijado en cada request (no solo en la cuenta de
+    # OpenRouter): solo este proveedor, sin fallback a otros, y excluyendo
+    # proveedores que guardan datos. Vacío = sin restricción.
+    llm_provider_only: str = "groq"
+    llm_allow_fallbacks: bool = False
+    llm_data_collection: str = "deny"
 
     # MongoDB Atlas
     mongodb_uri: str
@@ -52,6 +58,9 @@ class Settings(BaseSettings):
     # App
     app_env: str = "development"
     session_max_messages: int = 5
+    # Historial de una sesión inactiva más de este tiempo se borra de memoria
+    # (InMemorySaver no expira nada por sí solo).
+    session_idle_ttl_minutes: int = 15
     # Umbral del reranker — NO se usa en producción (ver nota de
     # reranker_endpoint arriba), solo lo lee scripts/eval_ablation.py.
     reranker_score_threshold: float = 0.5

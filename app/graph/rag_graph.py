@@ -1,6 +1,9 @@
+import time
+
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.graph import END, START, StateGraph
 
+from app.core.config import settings
 from app.graph.edges import route_context, route_relevance
 from app.graph.nodes import out_of_domain_node
 from app.graph.nodes.context_check import context_check_node
@@ -57,6 +60,7 @@ rag_graph = build_rag_graph()
 
 
 def clear_session_history(session_id: str) -> None:
+    _last_activity.pop(session_id, None)
     cp = rag_graph.checkpointer
     if hasattr(cp, "storage"):
         cp.storage.pop(session_id, None)
@@ -64,3 +68,21 @@ def clear_session_history(session_id: str) -> None:
         stale = [k for k in list(cp.writes) if k[0] == session_id]
         for k in stale:
             del cp.writes[k]
+
+
+# Última actividad por sesión (reloj monotónico). InMemorySaver no expira nada:
+# sin esto, el texto de una conversación queda en memoria hasta que el proceso
+# se reinicia, aunque el usuario recargue la página o la abandone.
+_last_activity: dict[str, float] = {}
+
+
+def touch_session(session_id: str, now: float | None = None) -> None:
+    """Registra actividad de `session_id` y borra el historial de las sesiones
+    inactivas por más de session_idle_ttl_minutes (incluida esta, si expiró).
+    Se llama al inicio de cada request de chat."""
+    now = time.monotonic() if now is None else now
+    ttl_seconds = settings.session_idle_ttl_minutes * 60
+    for sid, last in list(_last_activity.items()):
+        if now - last > ttl_seconds:
+            clear_session_history(sid)
+    _last_activity[session_id] = now
