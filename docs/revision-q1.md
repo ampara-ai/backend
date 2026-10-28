@@ -39,6 +39,8 @@ Esto contradice la sección 3.6 del artículo, según la cual una recarga borra 
 
 ## Pendientes
 
+El detalle de lo que necesitamos de los coautores, con el formato de entrega, está en [requerimientos-coautores.md](requerimientos-coautores.md).
+
 - [ ] Datos y código finales de la evaluación: 198 preguntas de prueba, juicios agrupados, archivo de entrenamiento de 2,057 registros y resultados por consulta.
 - [ ] Calificaciones originales del panel de expertos, para el análisis de acuerdo.
 - [ ] Confirmar la temperatura, la configuración de RAGAS y el número de workers.
