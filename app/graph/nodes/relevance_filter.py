@@ -1,8 +1,8 @@
 from pydantic import BaseModel
 
-from app.core.config import settings
 from app.core.dependencies import get_llm_structured
 from app.core.prompt_provider import prompts
+from app.graph.history import previous_turns
 from app.graph.state import RAGState
 
 
@@ -12,8 +12,7 @@ class _RelevanceOutput(BaseModel):
 
 
 async def relevance_filter_node(state: RAGState) -> dict:
-    recent = state.get("messages", [])[-settings.session_max_messages :]
-    history_text = "\n".join(f"{m['role']}: {m['content']}" for m in recent[:-1])
+    history_text = "\n".join(f"{m['role']}: {m['content']}" for m in previous_turns(state.get("messages", [])))
 
     user_content = state["user_query"]
     if history_text:

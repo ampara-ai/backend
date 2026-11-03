@@ -3,6 +3,18 @@ from langchain_openai import ChatOpenAI
 from app.core.config import settings
 
 
+def _provider_preferences() -> dict | None:
+    if not settings.llm_provider_only:
+        return None
+    return {
+        "provider": {
+            "only": [settings.llm_provider_only],
+            "allow_fallbacks": settings.llm_allow_fallbacks,
+            "data_collection": settings.llm_data_collection,
+        }
+    }
+
+
 def get_llm() -> ChatOpenAI:
     return ChatOpenAI(
         model=settings.llm_model,
@@ -15,6 +27,7 @@ def get_llm() -> ChatOpenAI:
         # (ChatRequest.message max_length) no alcanza a frenar este caso
         # porque el mensaje en sí es corto.
         max_tokens=settings.llm_max_output_tokens,
+        extra_body=_provider_preferences(),
         default_headers={
             "HTTP-Referer": "https://ampara.app",
             "X-Title": "Ampara Legal Chatbot",

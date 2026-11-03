@@ -1,6 +1,7 @@
 from app.core.dependencies import get_llm
 from app.core.prompt_provider import prompts
 from app.core.source_labels import get_source_label
+from app.graph.history import previous_turns
 from app.graph.state import RAGState
 
 
@@ -24,7 +25,8 @@ async def generate_node(state: RAGState) -> dict:
     if state.get("context_sufficient"):
         chat_messages = [{"role": "system", "content": prompts.generation}]
         chat_messages += [
-            {"role": m["role"], "content": m["content"]} for m in messages_history
+            {"role": m["role"], "content": m["content"]}
+            for m in previous_turns(messages_history) + messages_history[-1:]
         ]
         result = await llm.ainvoke(chat_messages)
         return {
@@ -42,9 +44,9 @@ async def generate_node(state: RAGState) -> dict:
             f"Pregunta: {state['user_query']}"
         )
 
-        # Include full conversation history for multi-turn coherence
+        # Historial de los últimos pares pregunta-respuesta (misma ventana que los demás nodos)
         chat_messages = [{"role": "system", "content": prompts.generation}]
-        for m in messages_history[:-1]:  # all turns except the current one
+        for m in previous_turns(messages_history):
             chat_messages.append({"role": m["role"], "content": m["content"]})
         chat_messages.append({"role": "user", "content": user_prompt})
 

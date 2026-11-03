@@ -2,6 +2,7 @@ from pydantic import BaseModel
 
 from app.core.dependencies import get_llm_structured
 from app.core.prompt_provider import prompts
+from app.graph.history import previous_turns
 from app.graph.state import RAGState
 
 
@@ -17,7 +18,7 @@ async def context_check_node(state: RAGState) -> dict:
     if len(messages) < 2:
         return {"context_sufficient": False}
 
-    history_text = "\n".join(f"{m['role']}: {m['content']}" for m in messages[:-1])
+    history_text = "\n".join(f"{m['role']}: {m['content']}" for m in previous_turns(messages))
     user_content = (
         f"Historial:\n{history_text}\n\n"
         f"Pregunta actual: {state['user_query']}\n\n"
