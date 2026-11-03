@@ -1,0 +1,425 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "Regula exención de pena, no impugnación del archivo ni libertad por sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "Regula impugnación de medidas de investigación, un procedimiento distinto del archivo judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Explica subsistencia de la acción civil tras sobreseimiento, sin responder recurso ni libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Regula conformidad del acusado y conclusión anticipada, no archivo judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "Describe una pena de limitación de días libres."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "Regula detención para extradición, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "Regula terminación anticipada por acuerdo con el fiscal, no impugnación del archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Delimita facultades del tribunal revisor sin precisar apelación del archivo o libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "parcial",
+      "rationale": "Prevé apelación del archivo en faltas ante el juez penal, pero no su efecto sobre la libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica revisión del sobreseimiento a iniciativa de la víctima y sus límites, sin resolver libertad durante el recurso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "Regula modificación de condenas durante su ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "Regula libertad al cumplirse la pena impuesta, no por archivo judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata igualdad de armas en actuación probatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de persona incapaz de consentir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata medidas de protección sin audiencia del denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata control de identidad y detención ilegal, no archivo del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata sustitución de jueces en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula recalificación de hechos y acusación complementaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "no",
+      "rationale": "Regula auto de enjuiciamiento, no sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que tras formalizar la investigación el fiscal no puede archivarla solo, sin resolver apelación ni excarcelación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Examina límites del sobreseimiento de oficio en apelación, sin responder la libertad durante su impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Regula impugnación limitada del sobreseimiento por oportunidad, un supuesto especial que no resuelve el archivo general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "Regula concurrencia de partes al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce expresamente el derecho del agraviado a impugnar sobreseimiento, pero no explica la libertad durante el recurso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "parcial",
+      "rationale": "Ordena libertad aun sin firmeza de una absolución, pero no regula el archivo por sobreseimiento consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "Regula impugnación del archivo fiscal ante fiscal superior, distinto del archivo decidido por juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Regula tratamiento de agresores en libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "Regula contiendas de competencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "Regula desistimiento o transacción en faltas sin abordar recurso ni excarcelación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "parcial",
+      "rationale": "Explica oposición al pedido de archivo antes de la decisión judicial, sin resolver apelación o libertad posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "Trata decisiones de libertad durante conflictos de competencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "Regula extradición activa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "Regula libertad por vencimiento de prisión preventiva, no por sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Trata límites de apelación de absoluciones por el actor civil, sin resolver el archivo consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "no",
+      "rationale": "Describe apelación de sentencias, no el régimen del auto de archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "Regula revocación de beneficios por colaboración eficaz."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Ofrece una línea de asistencia sin responder recurso ni libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce impugnación en los supuestos legales sin precisar el archivo ni sus efectos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "Regula nulidad de transferencias fraudulentas de bienes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Reconoce derecho a vida libre de violencia sin resolver la consulta procesal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "parcial",
+      "rationale": "Regula comunicación del archivo para reevaluar protección sin responder apelación ni libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Enumera derechos del imputado sin resolver efectos del sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Describe formalidades de recursos sin precisar apelabilidad del archivo ni excarcelación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "parcial",
+      "rationale": "Declara apelables los autos de sobreseimiento, pero no indica si el recurso impide la libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la Sala Penal Superior como revisora sin precisar procedencia ni efectos de la apelación del archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de acumulación de procesos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención judicial en flagrancia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata remisión de copias y calificación alternativa tras absolución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata declaración excepcional de menores víctimas en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Regula sobreseimiento en audiencia preliminar y remite a otro artículo sin reproducir sus efectos sobre recurso y libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Regula observaciones a la acusación y pedido de sobreseimiento antes de la decisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "Regula declaraciones tras fracasar un acuerdo de terminación anticipada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Delimita objetos recurribles por las partes sin resolver procedencia o efectos del recurso de archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de cesación de prisión preventiva, distinta del archivo judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula interrogatorio del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "Regula reserva del fallo condenatorio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata legitimación para impugnar absoluciones bajo otro régimen procesal, no el archivo consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "Regula cuestión prejudicial y suspensión de investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "parcial",
+      "rationale": "Describe trámite de apelación de autos sin determinar apelabilidad del archivo ni libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata atipicidad de omisión de denuncia médica sin resolver efectos de impugnar archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "Regula libertad por ausencia de demanda de extradición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "Regula cese de prisión preventiva por cambio de presupuestos, no archivo judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula amparo contra decisiones fiscales firmes, distinto del recurso contra el archivo judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "Explica efectos de nulidad sin resolver apelación del sobreseimiento ni libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "Reconoce presunción de inocencia sin determinar libertad tras archivo apelado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "Regula cuestión previa y reinicio de investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica libertad y archivo por absolución suprema sin explicar recurso contra sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "parcial",
+      "rationale": "Prevé queja si se deniega apelación, sin establecer el recurso contra archivo o sus efectos sobre libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Ordena libertad y sobreseimiento si se retira la acusación, sin explicar el efecto de una impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_347_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_435_01",
+      "relevance": "no",
+      "rationale": "Regula libertad por efecto de casación, no por archivo apelado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,311 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "Regula los días y horas de las actuaciones, sin establecer el plazo del veredicto tras el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "Resuelve un caso de maltrato mutuo y reserva del fallo, sin indicar cuándo debe anunciarse el veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El plazo corresponde a decisiones de la audiencia preliminar, no al veredicto al concluir el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "parcial",
+      "rationale": "Identifica cuándo se declara cerrado el debate, pero no fija el plazo posterior para emitir el veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "Regula la inspección del hecho investigado y no la emisión del veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_394_01",
+      "relevance": "no",
+      "rationale": "Enumera el contenido de la sentencia sin establecer el plazo para dictarla o anunciarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_423_01",
+      "relevance": "no",
+      "rationale": "Regula la asistencia a la audiencia de apelación, no el plazo del veredicto tras el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Trata de valoración probatoria y duración de una pericia psicológica, no del plazo para anunciar el fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Explica requisitos de nulidad y valoración del testimonio, sin regular el plazo del veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Los plazos se refieren a la práctica de prueba anticipada y no al fallo del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula cambios de acusación y suspensiones para preparar la defensa, no la emisión del veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "El plazo de sentencia pertenece al procedimiento de revisión de condenas, distinto del juicio consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "El plazo corresponde a resolver una solicitud de prisión preventiva y no a emitir el veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "Describe el desarrollo de la audiencia de apelación sin fijar el plazo del fallo tras el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "Regula la conclusión de la investigación preparatoria, una etapa distinta de la emisión del veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "Los plazos corresponden a una contienda de competencia entre órganos judiciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la sentencia puede leerse sin el acusado presente, pero no indica el plazo para anunciarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "Regula la audiencia preliminar y el control de acusación, no el fallo posterior al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "Regula la presencia física o por videoconferencia del imputado y no el plazo del veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "Establece el trámite de observaciones a la acusación antes del juicio, no el plazo del fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "Los plazos regulan la instalación y continuidad del juicio inmediato, sin responder cuándo anunciar el veredicto tras concluirlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "Expone la presunción de inocencia sin establecer el plazo para emitir el fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "Los plazos se refieren a la audiencia y resolución de prisión preventiva, no al veredicto del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "Regula el valor de una declaración en un acuerdo frustrado, sin referirse al plazo del fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho del agraviado a solicitar información sobre el resultado, pero no fija cuándo debe anunciarse el veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "El plazo de veinte días corresponde a una sentencia de casación, procedimiento distinto del juicio consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "Regula la interposición de apelación después de la lectura de sentencia, sin fijar cuándo debe producirse esa lectura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El plazo de sentencia corresponde específicamente al proceso por faltas, cuya aplicación no se desprende de la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "Describe el contenido de la sentencia en violencia familiar, sin señalar el plazo para anunciar el veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "Regula la detención con fines de extradición y no el fallo de un juicio por agresión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "Los plazos corresponden a la decisión fiscal de acusar o pedir sobreseimiento al concluir la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata del juzgamiento anticipado en procesos de familia, sin establecer el plazo del veredicto tras las audiencias penales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "Los plazos corresponden a la sentencia de segunda instancia y no al veredicto del juicio consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "Analiza el cómputo del plazo para recurrir en casación una sentencia ya notificada, no cuándo anunciarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "Regula la instalación del juicio y no el plazo para emitir su veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "no",
+      "rationale": "El plazo regula la remisión de una sentencia firme al juzgado de familia, no su anuncio a las partes tras el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "Regula la continuidad y suspensión del debate, sin fijar el plazo del fallo una vez concluido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "La decisión en audiencia corresponde a un pedido de extradición y no al veredicto por una agresión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Regula un proceso de querella privada y no establece el plazo para anunciar el veredicto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El plazo de cuarenta y ocho horas corresponde a la conclusión anticipada por aceptación de cargos, supuesto no indicado en la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "Describe la ubicación de los participantes en audiencia, sin información sobre el plazo del veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata de una sanción a un abogado por inasistencia a una audiencia y no de la emisión del fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "parcial",
+      "rationale": "Fija la notificación de resoluciones dentro de veinticuatro horas de dictadas, pero no el plazo para dictar el veredicto tras el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "Los plazos regulan el requerimiento de sobreseimiento durante la etapa intermedia y no el veredicto del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "Describe la apertura del juicio y los alegatos iniciales, sin regular el plazo del fallo final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "Regula la citación e inicio del juicio, no el anuncio del veredicto al concluirlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Los plazos corresponden a medidas de protección del juzgado de familia y no al veredicto penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "Regula la solicitud de prueba anticipada antes del juicio, sin información sobre el plazo del fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "parcial",
+      "rationale": "Explica que las resoluciones se pronuncian verbalmente y se notifican en ese momento, pero no fija el plazo del veredicto tras el debate."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "Regula la libertad por vencimiento del plazo de prisión preventiva, sin indicar cuándo anunciar el veredicto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_392_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El plazo corresponde a una sentencia de terminación anticipada mediante acuerdo, procedimiento distinto del juicio concluido consultado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "Analiza la calificación de actos sexuales bajo legislación colombiana, sin establecer el delito ni la pena aplicables a este caso en Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 2. Principio de oportunidad» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 22. Delitos cometidos en un medio de transporte» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Lesiones leves» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 295-2019, Cusco» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 65. La investigación del delito destinada a ejercitar la acción penal» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 16-D. Investigación del delito» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 170.- Violación sexual» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "Reconduce una tentativa a tocamientos en una menor de catorce años, supuesto distinto de los tocamientos entre adultos consultados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-D.- Acoso sexual a menores de catorce años de edad» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata la motivación de la prisión preventiva y la pericia psicológica en tocamientos a una niña, sin tipificar ni penar el caso adulto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Proceso de amparo es vía idónea para el control de actuaciones o decisiones fiscales [Exp. 05121-2015 -PA/TC]» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-F.- Beneficio p or explotación sexual» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 149.- Omisión de prestación de alimentos» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 365. Delito en el juicio» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 442.- Maltrato» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 12.- Delito doloso y delito culposo» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tentativa de violación (RN 316-2021, Lima Este)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-Ñ.- Esclavitud y otras formas de explotación» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 180.- Rufianismo» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Valora pruebas de tocamientos a una niña de cuatro años, sin regular los tocamientos no consentidos entre adultos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-C.- Explotación sexual» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 68-A. Operativo de revelación del delito» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Distingue tentativa y actos contra el pudor en una niña de cuatro años, sin establecer la pena de los tocamientos a una adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 124.- Lesiones Culposas» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 174.- Violación de persona bajo autoridad o vigilancia» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Sanciona el acoso con finalidad sexual, conducta distinta de los tocamientos ya realizados que se consultan."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151.- Coacción» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151-A.- Acoso» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 329. Formas de iniciar la investigación» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 16.- Tentativa» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No desistimiento por llanto de víctima (RN 1178-2018, Lima)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define como violencia sexual los actos sin consentimiento aunque no exista penetración, pero no tipifica el delito ni señala su pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 441.- Lesión dolosa y lesión culposa» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 173.- Violación sexual de menor de edad» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Contacto supera labios mayores (RN 534-2013, Huancavelica)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-D.- Promoción o favorecimiento de la explotación sexual» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 156.- Revelación de la intimidad personal y familiar» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Supuestos de acceso carnal (RN 2289-2011, Lima)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 50.- Concurso real de delitos» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso J. vs. Perú (Corte IDH 2013)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-G.- Gestión de la explotación sexual» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Regula exclusivamente tocamientos a menores de catorce años y no la agresión entre compañeros de trabajo adultos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Lesiones leves» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte)» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 11.- Delitos y faltas» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 154.- Violación de la intimidad» no establece el delito y la pena de los tocamientos no consentidos a una persona adulta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

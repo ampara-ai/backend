@@ -1,0 +1,257 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Queja NCPP 376-2021, Tacna no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "si",
+      "rationale": "Sanciona la explotación sexual forzada y precisa la pena agravada cuando el autor es pareja o conviviente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central] no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205) no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 193.- Apropiación de prenda no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 196.- Estafa no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona gestionar la prostitución de la pareja, pero no aborda la explotación mediante coacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "parcial",
+      "rationale": "Aporta penas por favorecer la prostitución de la pareja, sin resolver el supuesto de explotación forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Explica la agravación por parentesco y su excepción, pero no fija la pena por explotación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-F.- Beneficio p or explotación sexual no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 301.- Coacción al consumo de droga no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-A.- Trata de personas no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "parcial",
+      "rationale": "Trata el beneficio económico de la prostitución de la pareja, pero no la explotación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170.- Violación sexual no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184.- Castigo a cómplices no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23.-Autoría, autoría mediata y coautoría no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "parcial",
+      "rationale": "Regula la gestión de explotación sexual y agravantes de pareja, pero exige una finalidad específica distinta de la descrita."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Permite identificar violencia sexual y económica, pero no establece el castigo penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151.- Coacción no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual no determina la sanción por obligar a la pareja a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Lubricación indica consentimiento (STS 944/2019, España) no determina la sanción por obligar a la pareja a prostituirse."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

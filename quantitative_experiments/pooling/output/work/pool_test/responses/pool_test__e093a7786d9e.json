@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "parcial",
+      "rationale": "Enumera causales de casación, sin distinguir expresamente errores de redacción inocuos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "parcial",
+      "rationale": "Permite rectificar errores y limita los efectos de la nulidad, sin resolver expresamente el error inocuo de sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Admite aclaración o corrección de sentencia, sin precisar cuándo un error de redacción no causa nulidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_394_01",
+      "relevance": "parcial",
+      "rationale": "Describe requisitos de la sentencia, sin indicar consecuencias de errores que no afectan el fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "parcial",
+      "rationale": "Permite nulidad parcial y conserva extremos independientes, sin precisar si un error inocuo justifica anulación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_495_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Permite resolver sin nuevo debate tras casación, sin resolver si el error de redacción es invalidante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Exige subsanar defectos de motivación en apelación y evitar nulidades, pero no trata específicamente errores materiales de redacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica que un error no invalidante y sin perjuicio irreparable no obliga a anular la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_152_01",
+      "relevance": "si",
+      "rationale": "Convalida irregularidades que no afectan derechos y excluye saneamiento si no alteran el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que errores que no influyen en el fallo se corrigen y no causan nulidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena pese a contradicción sobre convivencia que no afecta la tipificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_409_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina las consecuencias de un error de redacción que no afecta la decisión final de la sentencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,323 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333.- Provocación pública a la desobediencia militar no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Causal de riesgo en la vida y salud del agraviado no es motivo para fundar una transferencia de competencia, pero sí para imponer medidas de protección (caso Arlette Contreras) [Transferencia de Competencia 8-2017, Ayacucho] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 545. Penas no privativas de libertad no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 57.- Requisitos para la suspensión de la ejecución de la pena no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_58_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 58. Reglas de conducta no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 402. Ejecución provisional no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 66.- Revocación del régimen de prueba no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 559. Plazo de la detención y libertad provisional no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 149.- Omisión de prestación de alimentos no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 271. Audiencia y resolución no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 490. Cómputo de la pena privativa de libertad no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 59.- Efectos del incumplimiento no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 64.- Reglas de conducta no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 212. Examen corporal de otras personas no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "parcial",
+      "rationale": "Describe las jornadas y supervisión del servicio comunitario, pero no la consecuencia de incumplirlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 566. Ejecución de las penas no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68.- Exención de pena no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 463. Medidas de coerción personal no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 152.- Secuestro no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 485. Medidas de coerción no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192.- Apropiación irregular no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 411. Libertad de los imputados no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_112_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 112. Trámite no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 288. Las restricciones no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 413.- Evasión mediante violencia o amenaza no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "parcial",
+      "rationale": "Describe las jornadas de limitación de días libres, pero no su incumplimiento ni conversión en prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 61.- Condena no pronunciada no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 419.- Detención ilegal no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151.- Coacción no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184.- Castigo a cómplices no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 368.- Resistencia o desobediencia a la autoridad no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 217. Solicitud del Fiscal para incautación y registro de personas no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 208. Motivos y objeto de la inspección no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_215_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 215.- Modalidades de libramientos indebidos no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La ausencia de participación del fiscal a nivel preliminar disminuye la aptitud preliminar pero no es objeto de sanción de nulidad [RN 380-2020, Lima] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_268_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 268. Presupuestos materiales no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 299. Duración no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 65.- Efectos del incumplimiento no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "parcial",
+      "rationale": "Regula incidentes de revocación de conversión de penas, sin indicar la causal por incumplir jornadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 441.- Lesión dolosa y lesión culposa no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "parcial",
+      "rationale": "Explica la conversión de prisión a jornadas y su equivalencia, sin regular la conversión inversa por incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 287. Comparecencia restrictiva no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no regula la prisión por incumplimiento injustificado de jornadas de pena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

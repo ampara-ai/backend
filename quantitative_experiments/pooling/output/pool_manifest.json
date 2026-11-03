@@ -1,0 +1,28 @@
+{
+ "fingerprint": {
+  "corpus_sha256": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0",
+  "dataset_sha256": "3c0ba866883751c3f030e8de967ac26125ee9002f3d98e6c0939ee71016c6b64",
+  "judge_prompt_sha256": "718ed56a374c159a800f65a9a1830492a2f2e1f1be9500926f5b96f02dc3990e"
+ },
+ "runs": [
+  "bm25_only",
+  "bm25_only.retriever",
+  "dense_base",
+  "dense_base.retriever",
+  "dense_base_rerank100",
+  "dense_base_rerank100.retriever",
+  "dense_finetuned",
+  "dense_finetuned.retriever",
+  "dense_finetuned_rerank100",
+  "dense_finetuned_rerank100.retriever",
+  "hybrid_base",
+  "hybrid_base.retriever",
+  "hybrid_base_rerank100",
+  "hybrid_base_rerank100.retriever",
+  "hybrid_finetuned",
+  "hybrid_finetuned.retriever",
+  "hybrid_finetuned_rerank100",
+  "hybrid_finetuned_rerank100.retriever"
+ ],
+ "depth": 20
+}

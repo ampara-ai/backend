@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Existe un desistimiento tácito de querellante que no asiste injustificadamente una vez a audiencia [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Tumbes, 2017] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo II. Presunción de inocencia no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Detalla el derecho y los requisitos mínimos para denunciar, pero no las sanciones al funcionario que no atiende."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona al policía que rehúsa, omite o retrasa injustificadamente el auxilio en casos de violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 485. Medidas de coerción no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece canales para denunciar, pero no consecuencias por la negativa del funcionario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 371.- Negativa a colaborar con la administración de justicia no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 394.- Cohecho pasivo impropio no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 350. Notificación de la acusación y objeción de los demás sujetos procesales no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 55.- Conversión de las penas limitativas de derechos a privativa de libertad no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Señala el deber del funcionario de denunciar hechos punibles conocidos por su cargo, sin regular la negativa a atender."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Rigurosidad en declaración (RN 3175-2015, Lima Sur) no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 232. Aseguramiento de documentos privados no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 85. Reemplazo del abogado defensor no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Rodríguez Pacheco y otra vs. Venezuela, f.j. 112 no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 463. Medidas de coerción personal no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 334. Calificación no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "si",
+      "rationale": "Establece pena de prisión para el funcionario que omite, rehúsa o demora actos de su cargo en violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 327. No obligados a denunciar no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Queja NCPP 630-2021, Lima Norte no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_141_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 141. Recomposición de expedientes no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 407.- Omisión de denuncia no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Tipifica y sanciona la omisión, negativa o demora ilegal de actos funcionales, con agravación por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Prevé prisión por denegar o demorar injustificadamente el auxilio policial en violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona la investigación ineficaz de violencia de género con discriminación, sin precisar responsabilidad del funcionario por rechazar la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 79. Contumacia y Ausencia no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 71. Derechos del imputado no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 483. Iniciación no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 470. Declaración inexistente no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica que una denuncia basta para activar la obligación de investigar, pero no la sanción personal por no atenderla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 66. Poder coercitivo no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Expone responsabilidad estatal por no investigar violencia doméstica, sin determinar las consecuencias para el funcionario peruano."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 421. Trámite inicial no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Implementar medidas de protección no inmediatas ni constantes son inefectivas [López Soto y otros vs. Venezuela] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 368.- Resistencia o desobediencia a la autoridad no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 441.- Lesión dolosa y lesión culposa no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 442.- Maltrato no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 164. Citación y conducción compulsiva no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 188. Requerimiento de informes no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Define quién es funcionario público, pero no sanciona la negativa a atender una denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 229.- Omisión de deberes de funcionarios públicos no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 462. Auto de citación a juicio y audiencia no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 461. Investigación preliminar no determina responsabilidad por negarse a atender una denuncia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 110. Desistimiento del querellante particular no determina responsabilidad por negarse a atender una denuncia de violencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 6. Definición de violencia contra los integrantes del grupo familiar no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_44_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 44. Centro de Altos Estudios no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 442.- Maltrato no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "parcial",
+      "rationale": "Regula violación de personas incapaces de consentir, pero no la responsabilidad de los demás integrantes del grupo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-D.- Promoción o favorecimiento de la explotación sexual no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 1. Objeto de la Ley no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Regula lesiones graves en contextos familiares, sin precisar la responsabilidad de quienes colaboran sin sujetar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Regula lesiones graves y agravantes, pero no la atribución de responsabilidad a cada participante del grupo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Regula lesiones y discapacidad como agravante, sin explicar la responsabilidad de colaboradores sin intervención física."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 108-B.- Feminicidio no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116) no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 151.- Coacción no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Exp. 01386-2020-0 no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 1865-2015, Huancavelica no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 321.- Tortura no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Analiza violencia sexual contra una persona con discapacidad, pero no la responsabilidad de los restantes participantes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 9. Derecho a una vida libre de violencia no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 188.- Robo no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Permite sancionar la ayuda dolosa al delito, aunque el colaborador no ejecute personalmente la agresión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravación por participación de varias personas, sin precisar qué aporte hace responsable a cada una."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica la vulnerabilidad por discapacidad en actos sexuales, pero no la cooperación de quienes no sujetaron."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 208.- Excusa absolutoria. Exención de Pena no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 151-A.- Acoso no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Regula lesiones graves y discapacidad, pero no la coautoría o complicidad del grupo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Exp. 03590-2019-89, f.j. 4.d no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_43_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 43. Observatorio Nacional de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Establece que quienes cometen conjuntamente el delito reciben la pena prevista para la infracción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176-B.- Acoso sexual no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 301.- Coacción al consumo de droga no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 4. Ámbito de aplicación de la Ley no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 441.- Lesión dolosa y lesión culposa no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "parcial",
+      "rationale": "Establece penas por lesiones graves contra personas con discapacidad, sin resolver la responsabilidad de cada integrante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona determinadas formas de cooperación, pero remite a capítulos y requisitos no desarrollados para el supuesto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_41_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 41. Protocolo Base de Actuación Conjunta no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "parcial",
+      "rationale": "Exige responsabilidad personal y excluye responsabilidad objetiva, sin definir la coautoría o complicidad aplicable."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "parcial",
+      "rationale": "Regula el secuestro y la ayuda informativa o material, pero no resuelve plenamente la responsabilidad en la agresión grupal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122. Lesiones leves no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 200.- Extorsión no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 39.- Inhabilitación accesoria no aporta información para resolver la responsabilidad de participantes en una agresión grupal aunque no sujeten a la víctima."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

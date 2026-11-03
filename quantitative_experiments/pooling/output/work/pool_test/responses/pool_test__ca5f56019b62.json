@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona declaraciones repetidas que revictimizan, pero no fija un máximo de citaciones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "parcial",
+      "rationale": "Regula citación y comparecencia del testigo, sin señalar el máximo de citaciones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "parcial",
+      "rationale": "Regula medios de citación de víctimas y testigos, sin establecer cuántas veces pueden citarse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Prevé entrevista única para evitar revictimización, sin fijar el máximo general de citaciones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_519_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "parcial",
+      "rationale": "Limita repetición de diligencias tras formalizar, sin precisar el número de citaciones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de concurrir como testigo, pero no el máximo de citaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza exigir relatos reiterados de violencia sexual, sin fijar el máximo de citaciones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que basta una denuncia para investigar, sin regular el máximo de citaciones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No regula el número de citaciones policiales que puede recibir la denunciante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

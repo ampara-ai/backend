@@ -1,0 +1,425 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_185_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "Regula una medida o actuación distinta y no determina el uso provisional de bienes incautados por el investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "parcial",
+      "rationale": "Permite levantar la incautación y entregar bienes, pero no regula su uso mientras subsiste."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "Regula una medida o actuación distinta y no determina el uso provisional de bienes incautados por el investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "parcial",
+      "rationale": "Regula cuándo procede incautar y confirmar la medida, sin resolver el uso posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Describe las facultades policiales de incautación y conservación, sin autorizar el uso por el imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "Regula una medida o actuación distinta y no determina el uso provisional de bienes incautados por el investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "parcial",
+      "rationale": "Permite devolución provisional de objetos incautados, sin precisar si pueden usarse mientras permanecen incautados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_496_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_220_01",
+      "relevance": "parcial",
+      "rationale": "Regula custodia y conservación de lo incautado, pero no las excepciones de uso provisional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "parcial",
+      "rationale": "Ordena restituir objetos al absolver, sin resolver su uso durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "parcial",
+      "rationale": "Regula los presupuestos de incautación probatoria, sin indicar quién puede utilizar los bienes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_225_01",
+      "relevance": "no",
+      "rationale": "Regula una medida o actuación distinta y no determina el uso provisional de bienes incautados por el investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "Regula una medida o actuación distinta y no determina el uso provisional de bienes incautados por el investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_297_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "parcial",
+      "rationale": "Prevé incautación e inventario durante allanamientos, sin regular el uso posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_302_01",
+      "relevance": "no",
+      "rationale": "Regula una medida o actuación distinta y no determina el uso provisional de bienes incautados por el investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_58_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No determina si el investigado puede seguir usando bienes incautados durante el proceso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

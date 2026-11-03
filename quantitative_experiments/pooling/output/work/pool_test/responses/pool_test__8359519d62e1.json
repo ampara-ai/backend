@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "Los requisitos de prueba judicial de oficio no establecen si se puede extraer sangre al imputado sin su consentimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "La dirección del juicio no regula extracciones de sangre ni su proporcionalidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la fuerza excluye consentimiento sexual, pero no determina la legitimidad de extraer sangre al exmarido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "La conducción forzosa de testigos a juicio no autoriza intervenciones corporales sobre el imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "La prueba de oficio en apelación no resuelve la extracción de sangre al investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "La independencia de investigaciones sobre violencia policial no trata de muestras sanguíneas del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "La obligación de investigar violencia doméstica no establece las condiciones para obtener una muestra de sangre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Los límites de la apelación del actor civil no responden si puede imponerse una extracción de sangre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "Los estereotipos en una condena por aborto no regulan la obtención de muestras sanguíneas del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "La tipicidad de lesiones psicológicas entre exparejas no determina la legitimidad de una extracción sanguínea."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "El grado de penetración necesario para violación no regula obtención de sangre del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "La notificación urgente de una entrevista en cámara Gesell no establece autorización para muestras corporales del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "La prohibición de estereotipos en la investigación no determina las condiciones de extracción sanguínea del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "La falta de maltrato y sus agravantes no regulan pruebas de sangre en una investigación por violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "La denegación de pruebas defensivas en una causa española no establece si cabe extraer sangre al exmarido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "Evitar denuncias repetidas de la víctima no resuelve la extracción sanguínea del investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "La valoración de retractación en tentativa de feminicidio no regula la obtención de sangre del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "Regula extracciones de personas no inculpadas, mientras la consulta se refiere al presunto autor de la violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Establece que una relación sentimental no legitima actos sexuales forzados, pero no resuelve la extracción de sangre para comparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "Los derechos del imputado antes de declarar no determinan la legalidad de una intervención corporal para obtener sangre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "no",
+      "rationale": "El trámite de apelación de sentencia no regula extracción sanguínea del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "La documentación y oralidad del juicio no establecen condiciones para obtener muestras biológicas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "La inadmisibilidad de pruebas sobre vida sexual previa no resuelve la extracción de sangre al investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "parcial",
+      "rationale": "Exige manejo diligente de evidencia en violencia sexual, pero no autoriza extracción sanguínea del imputado ni evalúa su proporcionalidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "La pixelación del testimonio de una víctima no corresponde a la obtención de muestras sanguíneas del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "La conducción compulsiva de una testigo no permite decidir sobre intervenciones corporales del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El alcance del delito colombiano de violencia intrafamiliar no establece reglas para extracción sanguínea en una investigación de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que una relación de control no permite presumir consentimiento sexual, pero no decide la obtención de sangre del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "no",
+      "rationale": "La función probatoria del embarazo no determina si se puede extraer sangre al exmarido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "La notificación de una evaluación psicológica de la menor no regula muestras sanguíneas del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "La excepcionalidad del careo en España no responde sobre extracción sanguínea para comparación genética."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "La reserva de fallo en maltrato mutuo no establece condiciones de pruebas sanguíneas por violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "La tipificación del acoso sexual no regula la extracción de sangre del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "La tutela frente a una entrevista adelantada sin aviso no establece la legalidad de obtener muestras sanguíneas del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia sexual como actos sin consentimiento o bajo coacción en el ámbito familiar, pero no regula la extracción de sangre al investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "La inclusión de exconvivientes en lesiones familiares no determina si cabe imponer una muestra sanguínea en una investigación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "La condición de víctimas de los familiares de personas torturadas no responde sobre pruebas de sangre del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El delito de acoso no establece condiciones para extracción de sangre con fines de comparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "La valoración de lesiones y sugilaciones en un caso de violación no regula extracción sanguínea del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El estándar de violencia suficiente para acceso sexual no determina la autorización para muestras corporales del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "La agravación colombiana de violencia intrafamiliar no regula las intervenciones corporales consultadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "La desobediencia a análisis de sangre para alcohol o drogas corresponde a una finalidad distinta de la comparación por una violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "no",
+      "rationale": "La eficacia de una entrevista única como prueba preconstituida no establece condiciones de extracción sanguínea."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "La agravación de pena por parentesco no determina la legitimidad de obtener sangre al imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Da criterios generales para valorar pericias médicas en delitos sexuales, sin resolver la autorización o proporcionalidad de obtener sangre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige actuar y valorar ADN relevante para el hecho, pero no establece cuándo puede extraerse sangre sin consentimiento del investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "si",
+      "rationale": "Autoriza análisis sanguíneos y genéticos del imputado aun sin consentimiento y establece condiciones sanitarias, autorización y garantías de la intervención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "La suficiencia del testimonio de una menor no regula muestras sanguíneas del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "parcial",
+      "rationale": "Establece límites generales de legalidad y garantías de la prueba, pero no resuelve específicamente la extracción de sangre al exmarido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "no",
+      "rationale": "La consumación de violación por penetración parcial no regula obtención coactiva de muestras sanguíneas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "La calificación de violencia doméstica extrema como tortura no determina autorización para extraer sangre al imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "La igualdad de armas en actuación de medios probatorios no responde sobre extracción de sangre sin consentimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "La validez de una retractación no determina la legalidad de una muestra de sangre del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "La revisión del riesgo al levantar medidas de alejamiento no regula pruebas sanguíneas en una investigación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "La prohibición de confrontación y conciliación con el agresor no establece condiciones para extracción sanguínea del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "La insuficiencia de una declaración contradictoria no establece si se puede extraer sangre al exmarido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "La cuestión prejudicial y suspensión por proceso extrapenal no regulan la obtención de muestras biológicas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

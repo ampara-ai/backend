@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_144_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_67_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "parcial",
+      "rationale": "Describe cuándo y cómo se formaliza la investigación sin indicar su efecto sobre la prescripción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "parcial",
+      "rationale": "Describe la comunicación formal al juez sin explicar su efecto sobre la prescripción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "parcial",
+      "rationale": "Prevé sobreseimiento por extinción de la acción sin explicar qué ocurre al formalizar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_82_01",
+      "relevance": "parcial",
+      "rationale": "Indica el inicio del plazo de prescripción sin resolver su suspensión tras la formalización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_446_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_238_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "si",
+      "rationale": "Explica expresamente que la formalización suspende la prescripción y extiende ese efecto a la acusación directa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_140_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "parcial",
+      "rationale": "Establece los plazos de prescripción sin explicar el efecto de la formalización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "si",
+      "rationale": "Indica que el artículo 339.1 suspende la prescripción con la formalización de la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Regula la interrupción por actuaciones fiscales, pero no la suspensión específica por formalización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Regula la suspensión de prescripción por otro procedimiento, sin mencionar el efecto específico de la formalización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_563_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "si",
+      "rationale": "Reconoce expresamente el efecto suspensivo de la formalización sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_450_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "No explica el efecto de formalizar la investigación sobre la prescripción de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "parcial",
+      "rationale": "Exige acción no prescrita para proseguir, pero no explica el cómputo tras formalizar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

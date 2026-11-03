@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto trata Declaración víctima prueba directa (Apelación 41-2023), sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Identifica las autoridades que reciben denuncias, pero no la obligación policial de trasladarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "si",
+      "rationale": "Ordena comunicar inmediatamente al fiscal el delito conocido por denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Explica la intervención del juzgado de familia, sin indicar cómo llega la denuncia policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 266. Detención judicial en caso de flagrancia, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "parcial",
+      "rationale": "Describe la intervención fiscal posterior al informe policial, sin ordenar el aviso inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 13. Norma aplicable, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 2013-2017, Lima Este, f. j. 3.10-3.12, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 209. Retenciones, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 483. Iniciación, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 22. Delitos cometidos en un medio de transporte, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 23-A. Ejecución de la medida de protección, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 205. Control de identidad policial, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 218. Solicitud del Fiscal, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "parcial",
+      "rationale": "Precisa el papel investigador de la fiscalía penal, sin regular la remisión policial de la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 133. Exhortos a autoridades extranjeras, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Explica que la policía investiga bajo conducción fiscal y remite el informe para la decisión fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 508-2019, Lima, ff. jj. 5, 8, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "si",
+      "rationale": "Ordena remitir al juzgado de familia la ficha de riesgo de la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto trata Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central], sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 16-E. Proceso por faltas, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 89. Tratamiento y pluralidad de imputados, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 210. Registro de personas, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 461. Investigación preliminar, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona omitir comunicar delitos cuando existe obligación, sin precisar el trámite de esta denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna], sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "parcial",
+      "rationale": "Identifica juzgados competentes e intervención fiscal en casos de menores, sin detallar el aviso policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "si",
+      "rationale": "Aclara que la policía investiga bajo conducción del Ministerio Público, titular de la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 536. Requisitos y trámite de la carta rogatoria a autoridades extranjeras, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata Directiva 001-2014-CE-PJ, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "si",
+      "rationale": "Obliga a elevar al fiscal el informe de toda investigación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 3. Comunicación al Juez de la continuación de la investigación, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Impone denunciar a funcionarios que conocen delitos, sin identificar el destinatario de la comunicación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 2528-2010, Junín, f. j. 6, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto trata Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios), sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Exige enviar lo actuado a fiscalía penal y juzgado de familia en veinticuatro horas y comunicar a los servicios de atención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "si",
+      "rationale": "Ordena comunicar inmediatamente al fiscal los delitos y las diligencias policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 178-2024, Tumbes, f. j. 12, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "parcial",
+      "rationale": "Describe el trámite de una denuncia ante fiscalía, como contexto de la intervención de otras autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 10. Indicios de delitos en proceso extra – penal, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Exige comunicación inmediata a fiscalía penal y juzgado de familia en flagrancia de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 16-A. Desconocimiento de domicilio u otros datos de la víctima, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto trata Tentativa de violación (RN 316-2021, Lima Este), sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "parcial",
+      "rationale": "Prevé coordinación institucional entre policía y fiscalía, sin regular el aviso de una denuncia concreta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Menciona autoridades receptoras y protección judicial, sin explicar el deber de comunicación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 70. Prohibición de informar, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 129. Citaciones, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 23-C. Informe de cumplimiento de la medida de protección, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 263. Deberes de la autoridad policial, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_512_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 512. Autoridad Central, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto trata Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto trata Guzmán Albarracín y otras vs. Ecuador, f. j. 119, sin regular la comunicación de esta denuncia policial a otra autoridad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_331_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Establece que las actas de las diligencias y el informe policial se entregan al fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

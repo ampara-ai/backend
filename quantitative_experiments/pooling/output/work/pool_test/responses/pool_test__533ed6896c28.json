@@ -1,0 +1,377 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la necesidad de acompañamiento profesional para evitar revictimización, pero no autoriza compañía materna ni audiencia privada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Disponer la repetición de entrevista de la víctima no solo revictimiza a la menor agraviada, sino que, además, implica que el Estado incumple su rol tuitivo al contravenir el principio del interés superior del niño, al ocasionarle la dolorosa experiencia de recordar el suceso traumático [Casación 330-2022, Ica, f. j. 12] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 169. Testigos residentes fuera del lugar o en el extranjero no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0021_01",
+      "relevance": "parcial",
+      "rationale": "Menciona salas de entrevista única y cámaras Gesell, sin detallar privacidad ni acompañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 324. Reserva y secreto de la investigación no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a declarar en un ambiente que resguarde la intimidad, pero no especifica exclusión del público ni compañía materna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Dispone expresamente que la entrevista de la víctima se realice en un ambiente privado, cómodo y seguro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 457. Reglas especiales no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Describe el uso de una entrevista previa para evitar revictimización, sin regular privacidad ni acompañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Prueba de comportamiento previo inadmisible (Exp. 6265-2020) no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Permite prescindir del testimonio en juicio para evitar revictimización, pero no regula la declaración privada con la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé entrevistas grabadas de menores con psicólogos en cámara Gesell, sin resolver el acompañamiento materno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 367. Concurrencia del imputado y su defensor no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170. Desarrollo del interrogatorio no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025 no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Expone medidas de protección visual y de voz al declarar, pero no el derecho a declarar a solas con acompañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Menciona guías de entrevista única para evitar revictimización, sin precisar las condiciones solicitadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 194. Participación de testigos y peritos no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que menores o incapaces pueden ser acompañados por alguien de confianza, sin regular la declaración privada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 119. Interrogatorio no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 71. Derechos del imputado no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 428. Desestimación no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Permite auxilio familiar en el interrogatorio de menores de dieciséis años, sin prever exclusión del público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe confrontar a la víctima con el agresor, pero no regula declarar en privado ni con su madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 463. Medidas de coerción personal no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 88. Desarrollo de la declaración no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite excluir al acusado durante el interrogatorio por riesgo de perjuicio, pero no al público ni regula acompañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00039-2018-57 no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 163. Obligaciones del testigo no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza soporte psicológico a la menor al declarar, pero no el acompañamiento materno ni la privacidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 361. Oralidad y registro no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 381. Audiencia especial para testigos y peritos no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé entrevistas de menores con psicólogos y grabación para evitar revictimización, sin regular compañía materna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Procede dictar medidas de protección a víctima con «reacción ansiosa situacional» [Pleno Jurisdiccional Regional Penal sobre Violencia contra la Mujer e Integrantes del Grupo Familiar de Arequipa, Ica, Moquegua y Puno, 2020] no regula la privacidad de la declaración ni el acompañamiento de la madre."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

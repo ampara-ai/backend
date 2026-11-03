@@ -1,0 +1,359 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 207. Presupuestos y Ejecución no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 378.- Denegación o deficiente apoyo policial no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "parcial",
+      "rationale": "Define la flagrancia y la detención sin mandato, pero no regula el ingreso a una casa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 295. Solicitud del Fiscal no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 240. Forma de la diligencia no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 5. Definición de violencia contra las mujeres no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68. Atribuciones de la Policía Nacional del Perú no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_215_01",
+      "relevance": "parcial",
+      "rationale": "Detalla la autorización del allanamiento, pero no sus presupuestos ni excepciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 338. Condiciones de las actuaciones de investigación no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 233. Incautación de documentos privados no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 232. Aseguramiento de documentos privados no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 209. Retenciones no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 1. Acción penal no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230-A.- Revisión de equipos informáticos no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "parcial",
+      "rationale": "Prevé que el fiscal solicite incluir la detención en el allanamiento, sin precisar cuándo puede ingresarse sin orden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de afectación psicológica (Exp. 122-2020-65) no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22. Objeto y tipos de medidas de protección no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 330. Investigación preliminar no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 288. Las restricciones no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 11.- Delitos y faltas no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 208. Motivos y objeto de la inspección no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_341-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 341-A. Operaciones encubiertas no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 241. Clausura, vigilancia e inmovilización de urgencia no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 253. Principios y finalidad no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 485. Medidas de coerción no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 70. Prohibición de informar no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 67. Función de investigación de la Policía Nacional no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 329. Formas de iniciar la investigación no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín] no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23-A. Ejecución de la medida de protección no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "parcial",
+      "rationale": "Explica el control judicial de restricciones urgentes, sin identificar las reglas específicas del allanamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 461. Investigación preliminar no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 218. Solicitud del Fiscal no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-A. Desconocimiento de domicilio u otros datos de la víctima no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 322. Dirección de la investigación no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 248. Medidas de protección no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205. Control de identidad policial no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 61. Atribuciones y obligaciones no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 206. Controles policiales públicos en delitos graves no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "parcial",
+      "rationale": "Exige entregar la autorización y ceñirse a ella al allanar, sin explicar las excepciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68-A. Operativo de revelación del delito no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 126. Poder coercitivo no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-E. Proceso por faltas no resuelve la autorización para entrar a una casa a buscar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "si",
+      "rationale": "Permite a la policía allanar el domicilio sin esperar autorización en flagrancia de violencia familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

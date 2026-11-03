@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Directiva 001-2014-CE-PJ, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Citación y conducción compulsiva, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto trata de La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata de La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Valor de prueba de la confesión, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Medidas de coerción, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Ecuador, f. j. 119, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Presunción de inocencia, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Desarrollo de la declaración, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "si",
+      "rationale": "Permite al testigo prestar promesa de decir la verdad como alternativa al juramento ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata de 00226-2019-99], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Supuestos de prueba anticipada, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto trata de j. 3.10-3.12, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Derechos del imputado, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 371.- Negativa a colaborar con la administración de justicia, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Objeto, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Tratamiento y pluralidad de imputados, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Fase de corroboración, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Presupuestos, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Requisitos para constituirse en actor civil, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Examen corporal de otras personas, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Capacidad para rendir testimonio, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto trata de j. 6, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Instrucciones preliminares, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Supuestos de prueba anticipada.-, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_101_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Oportunidad de la constitución en actor civil, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_96_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Deberes del agraviado, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Comparecencia simple, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Medios de prueba, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Interrogatorio, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Momento y carácter de la declaración, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Tentativa de violación (RN 316-2021, Lima Este), sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 409.- Falsedad en juicio, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto trata de jj. 5, 8, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Declaración del acusado, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Abstención para rendir testimonio, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata de México], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata de La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_167_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Testimonio de Altos Dignatarios, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Incorporación, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Derecho de Defensa, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata de La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua], sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber del testigo de comparecer y decir verdad, sin exigir ni dispensar juramento religioso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "si",
+      "rationale": "Establece juramento o promesa de honor según las creencias y reconoce que el testigo puede no tener religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Citaciones, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 152.- Secuestro, sin regular el juramento o su alternativa para quien no tiene religión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_118_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata de j. 12, sin regular el juramento o su alternativa para quien no tiene religión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

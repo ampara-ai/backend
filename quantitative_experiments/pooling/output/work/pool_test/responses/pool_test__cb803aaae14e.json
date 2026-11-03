@@ -1,0 +1,431 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la libertad de declarar o guardar silencio con abogado, pero no regula declaraciones sucesivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "si",
+      "rationale": "Permite al acusado solicitar ser oído en cualquier estado del juicio para ampliar, aclarar o complementar sus afirmaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "parcial",
+      "rationale": "Prevé nueva declaración ante una acusación complementaria, sin regular cambios de versión por iniciativa del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la autodefensa y última palabra del acusado, pero no resuelve la repetición de declaraciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Regula la recepción policial de versiones del imputado con garantías, pero no su modificación posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "parcial",
+      "rationale": "Regula el careo por contradicciones importantes del imputado con otras personas, sin responder si puede declarar reiteradamente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_250_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "parcial",
+      "rationale": "Establece las condiciones para valorar una confesión, pero no el derecho a dar nuevas versiones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Explica la renovación de una confesión policial ante el fiscal, sin regular cambios sucesivos de versión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "parcial",
+      "rationale": "Regula el interrogatorio y la lectura de declaraciones anteriores, pero no cuándo puede solicitar nuevas declaraciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "parcial",
+      "rationale": "Permite confirmar o modificar versiones en un careo, sin establecer un derecho general a cambiarlas en cualquier momento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No regula el derecho del imputado a volver a declarar o modificar su versión de los hechos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

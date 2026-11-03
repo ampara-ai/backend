@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "parcial",
+      "rationale": "Advierte que incumplir reglas de conducta o cometer otro delito puede provocar revocación, pero no enumera las reglas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe cumplimiento domiciliario y reglas de la vigilancia electrónica, una modalidad específica de pena sin cárcel."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "parcial",
+      "rationale": "Explica la conversión de prisión en multa o servicios, sin detallar condiciones para evitar su revocación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Prevé tratamiento del condenado y restricciones en la sentencia por violencia, sin detallar las obligaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "parcial",
+      "rationale": "Prevé servicio comunitario para lesiones constitutivas de falta, sin explicar condiciones de mantenimiento de libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_178-a_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "parcial",
+      "rationale": "Establece que un nuevo delito doloso con pena superior a tres años revoca la suspensión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Explica requisitos iniciales y duración de la reserva de fallo, sin enumerar reglas a cumplir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_22_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "parcial",
+      "rationale": "Establece servicio comunitario o multa por maltrato, pero no explica las condiciones para evitar prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "si",
+      "rationale": "Establece tratamiento especializado y reeducación como regla de conducta para agresores que no cumplen prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra reserva de fallo por maltrato, sin indicar reglas de conducta exigibles."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Vincula la extinción de la condena con no delinquir ni incumplir persistentemente las reglas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Describe requisitos para conceder suspensión y sus exclusiones por violencia familiar, sin enumerar obligaciones posteriores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_58_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No explica obligaciones de un condenado a pena sin cárcel para mantener su libertad."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

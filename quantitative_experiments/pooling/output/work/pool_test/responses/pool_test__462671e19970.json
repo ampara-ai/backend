@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "parcial",
+      "rationale": "Contiene agravantes por discapacidad y parentesco en explotación sexual de menores, pero la pregunta no indica minoría de edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "parcial",
+      "rationale": "Agrava la gestión de explotación sexual por discapacidad y parentesco, pero no regula directamente obligar a ejercerla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_193_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "parcial",
+      "rationale": "Agrava la gestión del beneficio de prostitución por discapacidad y parentesco, sin regular la explotación forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "parcial",
+      "rationale": "Contiene agravantes por discapacidad y parentesco en explotación sexual de menores, pero la pregunta no indica minoría de edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "parcial",
+      "rationale": "Contiene agravantes por discapacidad y parentesco en explotación sexual de menores, pero la pregunta no indica minoría de edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "parcial",
+      "rationale": "Agrava el favorecimiento de prostitución por discapacidad y parentesco, sin regular directamente la explotación forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "si",
+      "rationale": "Prevé mayor pena por explotación sexual cuando la víctima tiene discapacidad o el autor es pariente colateral hasta cuarto grado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Agrava el proxenetismo por discapacidad y parentesco, pero no desarrolla el supuesto de obligar a prostituirse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_129-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "No regula la agravación de la explotación sexual forzada por discapacidad o parentesco."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

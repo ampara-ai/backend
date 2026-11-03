@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68. Atribuciones de la Policía Nacional del Perú no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 463. Medidas de coerción personal no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "si",
+      "rationale": "Contempla videoconferencias para imputados cuando su presencia física no sea posible."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Apelación 312-2023, Lima no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 485. Medidas de coerción no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Explica la citación y consecuencias de no concurrir, sin resolver la declaración virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 265. Detención preliminar incomunicada no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "si",
+      "rationale": "Permite excepcionalmente videoconferencia del imputado preso por distancia o peligro de fuga."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 189. Reconocimientos de personas no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite ausentar al acusado durante ciertos interrogatorios, pero no regula su declaración virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "parcial",
+      "rationale": "Regula la forma oral del interrogatorio, sin precisar si puede realizarse a distancia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "parcial",
+      "rationale": "Regula la presencia del imputado en audiencia de prisión preventiva, sin resolver su declaración virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "parcial",
+      "rationale": "Describe el interrogatorio del acusado, sin regular la videoconferencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 457. Reglas especiales no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "parcial",
+      "rationale": "Establece la concurrencia del acusado al juicio, sin abordar la excepción por videoconferencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica el ejercicio del derecho a declarar, sin resolver su modalidad virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Denuncia no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 212. Examen corporal de otras personas no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 379. Inconcurrencia del testigo o perito no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "parcial",
+      "rationale": "Regula declaraciones separadas de coacusados, sin autorizar participación virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "parcial",
+      "rationale": "Explica las consecuencias de no presentarse al proceso, sin regular videoconferencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 391. Autodefensa del acusado no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "si",
+      "rationale": "Prevé expresamente la declaración del imputado mediante videoconferencia y su registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "parcial",
+      "rationale": "Establece garantías previas a la declaración, sin resolver su realización virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Regula permisos y ausencia posterior del acusado, sin explicar cómo declarar por videollamada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a declarar durante el juicio, sin precisar la modalidad virtual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 381. Audiencia especial para testigos y peritos no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 813-2022, Madre de Dios no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-A.- Trata de personas no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "parcial",
+      "rationale": "Exige presencia del acusado para instalar la audiencia, sin tratar la videoconferencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 286. Presupuestos no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 470. Declaración inexistente no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce silencio y asistencia letrada al declarar, sin resolver la modalidad a distancia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "parcial",
+      "rationale": "Regula condiciones personales y lugar seguro para declarar, sin autorizar videollamadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 169. Testigos residentes fuera del lugar o en el extranjero no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 164. Citación y conducción compulsiva no resuelve la declaración virtual del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_86_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pleno Jurisdiccional Nacional Penal y Procesal Penal, 2025 no resuelve la declaración virtual del acusado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

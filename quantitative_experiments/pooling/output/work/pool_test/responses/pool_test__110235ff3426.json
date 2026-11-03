@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Describe la evaluación inicial del riesgo, sin abordar la revisión tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 7. Sujetos de protección de la Ley, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 247. Personas destinatarias de las medidas de protección, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "no",
+      "rationale": "El texto trata Embarazo confirma consumación (Revisión NCPP 426-2019), sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluaciones periódicas del riesgo, pero no regula la revisión posterior a una condena firme en Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto trata Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo II. Presunción de inocencia, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 283. Cesación de la prisión preventiva o de la comparecencia, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es necesario actuar la prueba de ADN si guarda relación directa con el hecho principal (doctrina jurisprudencial vinculante) [Casación 292-2014, Ancash], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 17-A. Flagrancia en casos de riesgo severo, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber general de protección eficaz, sin precisar la revisión posterior a la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata Suprema reitera que la inaplicación de la reducción de la pena por responsabilidad restringida constituye una vulneración del principio de igualdad [Revision de Sentencia NCPP 433-2024, Lima, f. j. 7, 11, 12], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas a favor de la víctima en la sentencia, sin regular su revisión posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto trata Se debe realizar un juzgamiento anticipado en casos de violencia familiar si solo se ofreció documentales y demandado es rebelde [Pleno Jurisdiccional Distrital Penal y Civil de Apurímac, 2015], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_268_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 268. Presupuestos materiales, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo valorar el peligro doméstico, sin abordar la revisión tras sentencia firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 335. Prohibición de nueva denuncia, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica la concesión urgente de medidas, sin resolver su continuidad tras la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 488. Derechos, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Vincula la protección al riesgo evaluado, sin establecer la revisión posterior a la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 440. Legitimación, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Enumera criterios de riesgo para dictar medidas, sin regular su revisión tras condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal), sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Describe medidas de protección y su finalidad, sin precisar su revisión posterior a la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 248. Medidas de protección, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "parcial",
+      "rationale": "Establece informes periódicos sobre riesgo y cumplimiento, sin detallar el trámite tras condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto trata STS 3147/2022, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Expone el deber de adecuar la protección al riesgo, sin regular la revisión posterior a la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 542. Condiciones para el traslado y el cumplimiento de condenas, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 16-D. Investigación del delito, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto trata Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios), sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "si",
+      "rationale": "Establece que las medidas continúan mientras persista el riesgo y que el juzgado de familia puede revisarlas al conocer la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 92.- La reparación civil: Oportunidad de su determinación, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Describe obligaciones estatales generales de protección, sin precisar la revisión tras sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 380. Examen especial del testigo o perito, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 1865-2015, Huancavelica, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Apelación 333-2025, Corte Suprema, f. j. 12, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Exige considerar nuevas escaladas de violencia, sin regular la revisión tras condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "parcial",
+      "rationale": "Permite ampliar o sustituir medidas ante violencia continuada, sin precisar el trámite tras condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 411. Libertad de los imputados, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Dispone actualizar la valoración de riesgo cuando cambien las circunstancias, sin precisar el trámite posterior a la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige revisión efectiva de órdenes de alejamiento, sin regular la revisión tras sentencia firme en Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_250_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 250. Variabilidad de las medidas, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 151-A.- Acoso, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al juzgado encargado de supervisar las medidas, sin precisar la reevaluación tras condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 61.- Condena no pronunciada, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 178-2024, Tumbes, f. j. 12, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica la ejecución policial de las medidas, sin resolver su revisión posterior a la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El texto trata Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 489. Ejecución Penal, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 402. Ejecución provisional, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 249. Medidas adicionales, sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El texto trata La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur], sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Identifica un protocolo de protección, pero no expone reglas de revisión tras condena firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El texto trata Lubricación indica consentimiento (STS 944/2019, España), sin abordar la reevaluación del riesgo y continuidad de protección tras una condena firme."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

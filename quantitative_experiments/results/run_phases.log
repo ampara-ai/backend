@@ -1,0 +1,15 @@
+=== BM25
+bm25_only: 198 preguntas -> quantitative_experiments/results/runs/bm25_only.json
+=== BASE: reindexando
+  ✓ Embeddings completados: 893 OK, 0 errores
+dense_base: 198 preguntas -> quantitative_experiments/results/runs/dense_base.json
+hybrid_base: 198 preguntas -> quantitative_experiments/results/runs/hybrid_base.json
+dense_base_rerank100: 198 preguntas -> quantitative_experiments/results/runs/dense_base_rerank100.json
+hybrid_base_rerank100: 198 preguntas -> quantitative_experiments/results/runs/hybrid_base_rerank100.json
+=== FINETUNED: reindexando
+  ✓ Embeddings completados: 893 OK, 0 errores
+dense_finetuned: 198 preguntas -> quantitative_experiments/results/runs/dense_finetuned.json
+hybrid_finetuned: 198 preguntas -> quantitative_experiments/results/runs/hybrid_finetuned.json
+dense_finetuned_rerank100: 198 preguntas -> quantitative_experiments/results/runs/dense_finetuned_rerank100.json
+hybrid_finetuned_rerank100: 198 preguntas -> quantitative_experiments/results/runs/hybrid_finetuned_rerank100.json
+=== LISTO: rankings en quantitative_experiments/results/runs. Siguiente: pooling con pooling/pool_eval.py sobre estos rankings.

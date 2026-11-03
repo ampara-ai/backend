@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 434. Efectos de la anulación no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Disponer la repetición de entrevista de la víctima no solo revictimiza a la menor agraviada, sino que, además, implica que el Estado incumple su rol tuitivo al contravenir el principio del interés superior del niño, al ocasionarle la dolorosa experiencia de recordar el suceso traumático [Casación 330-2022, Ica, f. j. 12] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Apelación 324-2023 Puno no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 284. Impugnación no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 482-2024, Lima no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Queja NCPP 376-2021, Tacna no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 417. Competencia no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la nulidad requiere una infracción procesal relevante, pero no aborda el prejuicio judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 407. Ámbito del recurso no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Trata la imparcialidad ante preguntas judiciales en un caso español, sin resolver el prejuicio previo de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 61.- Condena no pronunciada no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "parcial",
+      "rationale": "Impide que los jueces del juicio anulado participen en el nuevo juicio, sin precisar cuándo el prejuicio causa nulidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Describe la anulación en casación y el reenvío, pero no el presupuesto de parcialidad denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Dependencia económica en denuncia (RN 668-2025, Lima Sur) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La existencia de prueba científica contradictoria no permite certeza [Apelación 255-2024, Puno] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 544-A. Ejecución de la condena en el Estado peruano no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza declarar nulidades absolutas en revisión, sin precisar cuándo existe falta de imparcialidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_246_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 246. Apelación no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 204. Impugnación no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la apelación de sentencias, sin resolver el motivo de parcialidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos que limitan la revaloración de la prueba personal en apelación [Casación 2052-2019, Arequipa] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que alegar parcialidad no justifica transferencia de competencia, pero no resuelve la nulidad de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la facultad revisora de anular, sin desarrollar la falta de imparcialidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Regula la nulidad y recursos contra sentencias de apelación, pero no el prejuicio de los magistrados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2030-2019 Lima no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2284-2022, Selva Central, f. j. 15 no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este] no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "parcial",
+      "rationale": "Permite casación por vulneración de garantías constitucionales, sin desarrollar el estándar de imparcialidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 437. Procedencia y efectos no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20. Sentencia no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no aborda la nulidad por prejuicio de los jueces revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona imparcialidad y prohibición de suplir la prueba fiscal, sin tratar el prejuicio previo del tribunal revisor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Explica la procedencia de casación contra sentencias de apelación, sin evaluar la parcialidad alegada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0039_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_541_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 541. Jurisdicción del Perú sobre la condena impuesta no aborda la nulidad por prejuicio de los jueces revisores."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

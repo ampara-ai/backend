@@ -1,0 +1,353 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "parcial",
+      "rationale": "Distingue tentativa y actos contra el pudor, pero no aborda el efecto de la ausencia de embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "si",
+      "rationale": "Establece que basta la penetración mínima para consumar la violación, sin exigir embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "si",
+      "rationale": "Define la violación de menores y su pena sin exigir un embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "si",
+      "rationale": "Explica que basta la introducción parcial para configurar la violación consumada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que no se requieren lesiones para acreditar violencia sexual, pero no trata el embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Descarta atenuar la pena por falta de daño emocional, sin resolver la ausencia de embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la ausencia de lesiones o daño psicológico no descarta el abuso, sin tratar el embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "parcial",
+      "rationale": "Analiza las pruebas del acceso carnal, pero no el embarazo como requisito o atenuante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que puede haber abuso punible sin desfloración, pero no aborda embarazo ni su efecto penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "parcial",
+      "rationale": "Explica el acceso carnal sin rotura del himen, aunque en el caso el embarazo sirve de prueba."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Define el acceso carnal forzado y sus penas sin exigir que produzca embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0032_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la violación por sexo oral, pero la reducción examinada responde a la modalidad del acto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "si",
+      "rationale": "Establece que la penetración parcial basta para consumar el delito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la falta de afectación psicológica no desvirtúa el delito, sin tratar la falta de embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica que los delitos sexuales pueden no dejar huellas materiales, sin resolver el efecto del embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "La falta de daño psicológico no descarta el delito, pero no se analiza la ausencia de embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "si",
+      "rationale": "Califica la violación como delito de mera actividad que no requiere eyaculación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0112_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "No aborda si la ausencia de embarazo excluye el abuso sexual o reduce su castigo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

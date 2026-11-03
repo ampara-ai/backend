@@ -1,0 +1,437 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que una relación sentimental no equivale a consentimiento, pero no resuelve la ausencia de resistencia o golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "si",
+      "rationale": "Explica que la ausencia de resistencia física no equivale a consentimiento bajo control y sumisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "si",
+      "rationale": "La violencia sexual no exige huellas físicas y puede inhibir la resistencia de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "si",
+      "rationale": "Rechaza inferir consentimiento de la falta de resistencia de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la ausencia de lesiones no descarta violencia sexual, sin desarrollar la falta de resistencia por miedo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Prohíbe presumir consentimiento por silencio o falta de resistencia ante coacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "parcial",
+      "rationale": "Valora miedo y lesiones en un caso con prueba insuficiente, sin fijar una regla sobre ausencia de resistencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza estereotipos sobre conducta sexual previa, sin resolver la falta de resistencia durante el hecho."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar las lesiones en el contexto de amenaza, sin resolver directamente la ausencia de resistencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo un ambiente intimidatorio grupal anula la resistencia, en un análisis de cooperación necesaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0005_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El criterio trata de otro aspecto o delito y no resuelve la falta de resistencia por miedo en una relación sexual forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Define violencia sexual por ausencia de consentimiento o coacción, incluso sin contacto físico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica la violación mediante violencia psicológica, amenaza o entornos que impiden el libre consentimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0091_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la falta de resistencia o de golpes impide configurar la violencia sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

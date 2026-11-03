@@ -1,0 +1,443 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184. Incorporación no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129. Citaciones no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 86. Momento y carácter de la declaración no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo IX. Derecho de Defensa no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_228_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 228. Diligencia de reexamen judicial no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 109. Facultades del querellante particular no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 337. Diligencias de la Investigación Preparatoria no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 105. Facultades adicionales del actor civil no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 378. Denegación o deficiente apoyo policial no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 310. Orden de inhibición no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso J. vs. Perú (Corte IDH 2013) no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "parcial",
+      "rationale": "Explica la autorización y confirmación judicial de la incautación, pero no el derecho del propietario a oponerse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205. Control de identidad policial no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 67. Función de investigación de la Policía Nacional no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 295. Solicitud del Fiscal no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que las medidas pueden reformarse cuando cambian sus presupuestos, pero no concreta la intervención del propietario ajeno al proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "parcial",
+      "rationale": "Explica qué bienes pueden incautarse y el control judicial, sin precisar cómo interviene su propietario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 240. Forma de la diligencia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 71. Derechos del imputado no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 66. Poder coercitivo no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 84. Derechos y deberes del abogado defensor no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 87. Instrucciones preliminares no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 209. Retenciones no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 249. Medidas adicionales no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Nulidad de transferencias no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 26. Competencia de la Sala Penal de la Corte Suprema no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_518_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 518. Requisitos de la demanda de extradición no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 312-A. Secuestro conservativo no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 234. Aseguramiento e incautación de documentos contables y administrativos no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 429. Causales no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso Angulo Losada vs. Bolivia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22. Objeto y tipos de medidas de protección no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 350. Notificación de la acusación y objeción de los demás sujetos procesales no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 211. Examen corporal del imputado no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "si",
+      "rationale": "Permite al propietario de buena fe ajeno al delito pedir reexamen, participar en audiencia y apelar para recuperar el bien incautado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 95. Derechos del agraviado no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_138_01",
+      "relevance": "parcial",
+      "rationale": "Permite a particulares con interés legítimo obtener copias, pero no establece cómo oponerse a la incautación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "si",
+      "rationale": "Autoriza al afectado a apelar la medida y solicitar su reexamen ante el juez, con posibilidad de audiencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22-B. Medidas cautelares no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_308_01",
+      "relevance": "parcial",
+      "rationale": "Regula la desafectación de bienes de terceros y la tercería, pero no el reexamen específico de una incautación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 216. Desarrollo de la diligencia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Actos del Ministerio Público no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 483. Iniciación no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 345. Control del requerimiento de sobreseimiento y Audiencia de control del sobreseimiento no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 368.- Resistencia o desobediencia a la autoridad no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 232. Aseguramiento de documentos privados no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 378.- Denegación o deficiente apoyo policial no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 194. Participación de testigos y peritos no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 163. Obligaciones del testigo no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Denuncia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Describe las facultades policiales de incautación e inventario, pero no la oposición del propietario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 104. Facultades del actor civil no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_34_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 34. Declinatoria de competencia no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "parcial",
+      "rationale": "Regula impugnaciones patrimoniales del actor y tercero civil, sin establecer la intervención del propietario ajeno a esas condiciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Lubricación indica consentimiento (STS 944/2019, España) no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_318_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no regula la intervención del propietario para oponerse a la incautación de su vehículo."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

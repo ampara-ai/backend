@@ -1,0 +1,25 @@
+{
+ "config": "dense_finetuned_rerank100",
+ "variant": "finetuned",
+ "endpoint": "/embed",
+ "model_files": [
+  "model-service/modelo_onnx_int8/model_quantized.onnx",
+  "model-service/modelo_onnx_int8/model_quantized.onnx.data"
+ ],
+ "model_sha256": {
+  "model_quantized.onnx": "56763c398ac6d41fd316c7230c1cf088d9e4d8176b3d553be830484d8aab4f86",
+  "model_quantized.onnx.data": "ee04ab853824484ea4099be6b80bd2b24941a60ba114e3f72ec6afb1dd8e6021"
+ },
+ "service_health": {
+  "status": "ok",
+  "mode": "int8",
+  "embedding_model": "modelo_onnx_int8",
+  "base_embedding_model": "modelo_base_onnx_int8",
+  "reranker_model": "reranker_onnx_int8",
+  "embedding_dim": 1024,
+  "base_embedding_dim": 1024
+ },
+ "rrf": null,
+ "rerank_k": 100,
+ "reranker_backend": "openrouter"
+}

@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 95. Derechos del agraviado no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 367. Concurrencia del imputado y su defensor no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada.- no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 375. Orden y modalidad del debate probatorio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 457. Reglas especiales no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho general del imputado a declarar, pero no regula su última palabra ni los abusos al ejercerla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Permite al acusado solicitar ser oído en cualquier estado del juicio, sin regular la autodefensa final ni los gritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 380. Examen especial del testigo o perito no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 359. Concurrencia del Juez y de las partes no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "si",
+      "rationale": "Establece que la última palabra corresponde al acusado y permite limitar la intervención ante abuso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 484. Audiencia no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_465_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 465. Muerte o incapacidad del querellante no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 370. Ubicación de las partes en la audiencia no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "parcial",
+      "rationale": "Faculta al juez a limitar e interrumpir el uso abusivo de la palabra, pero no establece el turno final del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 356. Principios del Juicio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 25. Protección de las víctimas en las actuaciones de investigación no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 384. Trámite de la oralización no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica el derecho del acusado a declarar y su ejercicio oportuno, sin resolver la última palabra ni el control de gritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 137.- Injurias recíprocas no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 424. Audiencia de apelación no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171. Testimonios especiales no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20. Sentencia no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 463. Medidas de coerción personal no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 376. Declaración del acusado no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 287. Comparecencia restrictiva no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 365. Delito en el juicio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 458. Transformación al proceso común y advertencia no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00059-2019-0, f.j. 10 no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 361. Oralidad y registro no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 119. Interrogatorio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 426. Nulidad del juicio no regula la última palabra del acusado ni el control de su intervención final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 487. Desistimiento o transacción no regula la última palabra del acusado ni el control de su intervención final."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

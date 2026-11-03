@@ -1,0 +1,377 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica la corroboración del relato y que no se requieren lesiones, pero no resuelve la suficiencia de un reconocimiento fotográfico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Expone un elemento de corroboración de la declaración, sin evaluar un reconocimiento fotográfico tardío aislado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Analiza corroboraciones periféricas y ausencia de lesiones, sin resolver la identificación fotográfica tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo el testimonio de la víctima puede bastar, pero no evalúa la fiabilidad de una identificación fotográfica tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 68. Atribuciones de la Policía Nacional del Perú no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre El uso de estereotipos de género en el proceso penal evidencia la violación a la presunción de inocencia, la motivación y la imparcialidad [Manuel y otros vs. El Salvador] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar integralmente el testimonio y sus corroboraciones, sin abordar el reconocimiento fotográfico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Analiza garantías de declaraciones y pruebas adicionales, sin resolver el reconocimiento fotográfico aislado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Explica la suficiencia de un relato corroborado, pero no la de una identificación fotográfica tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 19. Declaración de la víctima y entrevista única no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra insuficiencia probatoria en un caso de abuso infantil, sin abordar la identificación mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Casación 295-2019, Cusco no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Casación 576-2022, Del Santa no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_219_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 219. Contenido de la resolución no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige actuar una prueba de ADN disponible, sin establecer el valor de un reconocimiento fotográfico aislado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Analiza validez y corroboración de la entrevista infantil, sin examinar la identificación fotográfica tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige explorar otras pruebas para identificar autores, pero no determina la suficiencia del reconocimiento fotográfico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Examina pericias y motivación de la prisión preventiva, sin resolver el reconocimiento fotográfico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios de credibilidad y corroboración de la víctima, pero no evalúa la identificación fotográfica tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 194. Participación de testigos y peritos no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Exige descripción previa al reconocimiento, pero no determina si una identificación tardía aislada basta para encarcelar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica el valor del testimonio de la víctima y su corroboración, sin resolver la fiabilidad del reconocimiento fotográfico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 283. Cesación de la prisión preventiva o de la comparecencia no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Establece la absolución ante prueba insuficiente, pero no analiza el reconocimiento fotográfico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Analiza demora y cambios en la identificación del agresor, pero no el valor específico de fotografías sin otra evidencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Confirma una declaración corroborada pericialmente, sin evaluar una identificación fotográfica tardía aislada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo una declaración infantil corroborada basta para condenar, sin abordar el reconocimiento fotográfico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0085_01",
+      "relevance": "parcial",
+      "rationale": "Discute la suficiencia del relato sin corroboración, sin resolver la identificación fotográfica tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra deficiencias en entrevista e identificación de la víctima, sin examinar el reconocimiento del agresor en fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Caso Angulo Losada vs. Bolivia no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Analiza denuncia tardía y progresividad de un relato corroborado, sin resolver la identificación fotográfica aislada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Analiza coherencia y corroboración del relato infantil, pero no un reconocimiento fotográfico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 2528-2010, Junín, f. j. 6 no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la tardanza del testimonio no lo desacredita por sí misma, sin resolver la identificación mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "parcial",
+      "rationale": "Regula las garantías del reconocimiento fotográfico, pero no establece su suficiencia aislada después de mucho tiempo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176-B.- Acoso sexual no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Explica que el daño psicológico puede aparecer tardíamente y cómo valorar el relato, sin resolver la identificación fotográfica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Aplica garantías de certeza a una identificación directa corroborada, sin evaluar fotografías mostradas mucho después."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Exp. 00199-2018-0 no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Examina relato tardío corroborado y variaciones secundarias, sin resolver la identificación fotográfica aislada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Tentativa de violación (RN 316-2021, Lima Este) no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Descarta un reconocimiento fotográfico sin fiscal en un caso con retractación y coartada, pero no resuelve por sí solo el supuesto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Medidas de protección deben extremarse en casos de violación sexual de menor [VRP, VPC. y otros vs. Nicaragua] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Explica la insuficiencia de una declaración contradictoria sin corroboración, sin examinar fotografías ni identificación tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 3. Enfoques no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Analiza reconocimiento de un acusado previamente conocido y otras pruebas, sin resolver una identificación fotográfica tardía aislada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín] no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 117. Tiempo no aporta información para resolver la suficiencia de identificar tardíamente al agresor mediante fotografías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Examina pruebas adicionales y protección de menores, sin establecer el valor de un reconocimiento fotográfico tardío aislado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "parcial",
+      "rationale": "Regula la ejecución de una extradición pasiva, sin explicar el retorno al Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_58_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 58. Reglas de conducta no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 547. Pena de multa y el decomiso no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_511_01",
+      "relevance": "parcial",
+      "rationale": "Enumera la extradición entre los actos de cooperación internacional sin precisar cuándo procede."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "parcial",
+      "rationale": "Identifica las autoridades que deciden la extradición activa y pasiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 187.- Hurto de uso no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Opuz vs. Turquía, f.j. 147 no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Voto particular: Estado está obligado a proporcionar un mecanismo para la revisión de las órdenes de alejamiento en casos de violencia doméstica [Malagić v. Croacia] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 546. Cumplimiento de penas no privativas de libertad en el Perú no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 411. Libertad de los imputados no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica el control de detención en extradición pasiva, sin regular el retorno al Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Exp. 01386-2020-0 no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 64.- Reglas de conducta no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 61.- Condena no pronunciada no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_518_01",
+      "relevance": "parcial",
+      "rationale": "Detalla documentos para la extradición pasiva, sin establecer el supuesto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 52.- Conversión de la pena privativa de libertad no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 295. Solicitud del Fiscal no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 931-2016, Cusco no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 544-A. Ejecución de la condena en el Estado peruano no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "parcial",
+      "rationale": "Describe la audiencia de extradición pasiva y no la solicitud peruana de retorno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 549. Penas de multa e inhabilitación y decomiso objeto de cumplimiento en el extranjero no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 566. Ejecución de las penas no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "parcial",
+      "rationale": "Explica la entrega de personas desde Perú al extranjero, en sentido inverso al consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 124.- Lesiones Culposas no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "parcial",
+      "rationale": "Regula la presentación y calificación de una demanda de extradición pasiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la extradición para someter al condenado a proceso en el país, pero no sus condiciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_519_01",
+      "relevance": "parcial",
+      "rationale": "Explica preferencias entre solicitudes de extradición, sin regular el retorno solicitado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 544. Trámite cuando el Perú solicita el traslado del nacional no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 402. Ejecución provisional no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 152.- Secuestro no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_526_01",
+      "relevance": "parcial",
+      "rationale": "Detalla el trámite de extradición activa, pero no establece su ámbito ni sus requisitos centrales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 557. Recepción y trámite no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_541_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 541. Jurisdicción del Perú sobre la condena impuesta no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_548_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 548. Pena de Inhabilitación no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 559. Plazo de la detención y libertad provisional no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "parcial",
+      "rationale": "Establece límites de la extradición pasiva, sin resolver las condiciones del retorno al Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 442.- Maltrato no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "parcial",
+      "rationale": "Regula la detención en Perú por solicitudes extranjeras, en sentido inverso al caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 545. Penas no privativas de libertad no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 533. Traslado al extranjero de persona privada de libertad no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 413.- Evasión mediante violencia o amenaza no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "si",
+      "rationale": "Permite pedir la extradición del procesado o condenado que se encuentra en otro Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_513_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no aborda la extradición para traer al Perú al procesado o condenado fugado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

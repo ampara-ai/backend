@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_91_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 91. Oportunidad y trámite» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 265. Detención preliminar incomunicada» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 40. Trámite» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Violación como tortura (Rosendo Cantú vs. México)» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 264. Plazo de la detención» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 30. Reeducación de las personas agresoras» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 119. Interrogatorio» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_238_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 238. Solicitud del Fiscal» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 218. Solicitud del Fiscal» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 274. Prolongación de la prisión preventiva» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 468. Normas de aplicación» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_146_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 146. Subsidiariedad» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 2. Principio de oportunidad» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 271. Audiencia y resolución» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 16-D. Investigación del delito» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 377.- Omisión, rehusamiento o demora de actos funcionales» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 184.- Castigo a cómplices» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 286. Presupuestos» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 232. Aseguramiento de documentos privados» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 480. Revocación de los beneficios» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 316. Objeto de la incautación» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 377. Omisión, rehusamiento o demora de actos funcionales» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 48. Acumulación de oficio o a pedido de parte» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 266. Detención judicial en caso de flagrancia» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "parcial",
+      "rationale": "Indica que, tras formalizar, el archivo requiere intervención judicial, pero no fija el plazo para decidir acusar o sobreseer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 489. Ejecución Penal» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_102_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 102. Trámite de la constitución en actor civil» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "parcial",
+      "rationale": "Fija plazos del control judicial del sobreseimiento, posteriores a la decisión fiscal consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 16. Proceso especial» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 255. Legitimación y variabilidad» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 387. Alegato oral del Fiscal» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "parcial",
+      "rationale": "Explica los plazos del juez y fiscal superior para revisar un sobreseimiento ya solicitado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 5. Cuestión prejudicial» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_342_01",
+      "relevance": "parcial",
+      "rationale": "Fija la duración de la investigación, pero no el plazo fiscal para resolver tras concluirla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 352. Decisiones adoptadas en la audiencia preliminar» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_241_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 241. Clausura, vigilancia e inmovilización de urgencia» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 10. Indicios de delitos en proceso extra – penal» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "si",
+      "rationale": "Fija diez días para acusar o pedir sobreseimiento cuando el juez ordena concluir la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_227_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 227. Ejecución» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 351. Audiencia Preliminar» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 203. Presupuestos» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 61. Atribuciones y obligaciones» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 32. Tratamiento para las personas agresoras en medio libre» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "parcial",
+      "rationale": "Regula el archivo y los plazos de diligencias preliminares, sin fijar la decisión posterior a la investigación preparatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 279. Cambio de comparecencia por prisión preventiva» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 52. Resolución y diligencias urgentes» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 17-A. Flagrancia en casos de riesgo severo» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 207. Presupuestos y Ejecución» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Violación sexual: prueba en delitos a puerta cerrada (Colombia) [Radicado 58187]» no establece el plazo fiscal para acusar o pedir sobreseimiento al terminar la investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

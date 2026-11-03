@@ -1,0 +1,353 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Enumera nulidades absolutas declarables de oficio aun sin solicitud oportuna de las partes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_80_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "si",
+      "rationale": "Permite declarar nulidades absolutas no advertidas por el recurrente y distingue errores que no anulan la decisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica que la negligencia defensiva al no solicitar oportunamente una declaración no genera nulidad automática y exige perjuicio concreto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00568_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No explica si la falta de reclamo oportuno convalida un defecto del juicio o permite anularlo de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "parcial",
+      "rationale": "Aporta supuestos, límites o vías de impugnación relacionados con la nulidad, pero no desarrolla la convalidación por falta de reclamo oportuno."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

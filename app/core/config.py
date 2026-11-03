@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     embedding_base_endpoint: str = "/embed_base"
     # Reranker: NO se usa en el pipeline de producción (app/graph/rag_graph.py
     # solo recupera con el embedding finetuneado — decisión tras el
-    # experimento de ablación). Sigue existiendo porque scripts/eval_ablation.py
+    # experimento de ablación). Sigue existiendo porque quantitative_experiments/ablation/eval_ablation.py
     # (config hybrid_rerank) todavía lo necesita como punto de comparación.
     reranker_endpoint: str = "/rerank"
 
@@ -53,8 +53,14 @@ class Settings(BaseSettings):
     app_env: str = "development"
     session_max_messages: int = 5
     # Umbral del reranker — NO se usa en producción (ver nota de
-    # reranker_endpoint arriba), solo lo lee scripts/eval_ablation.py.
+    # reranker_endpoint arriba), solo lo lee quantitative_experiments/ablation/eval_ablation.py.
     reranker_score_threshold: float = 0.5
+
+    # Recuperación del pipeline desplegado: top-k por embedding y umbral de similitud. El umbral se aplica al puntaje de Atlas Vector
+    # Search, que para el índice de similitud coseno es (1 + coseno) / 2 (rango 0–1): 0.5 equivale a coseno > 0. No se aplica al
+    # coseno crudo: en el set de desarrollo un umbral de coseno 0.5 dejaría sin ningún chunk al 32 % de las preguntas del dominio.
+    retrieval_k: int = 10
+    retrieval_score_threshold: float = 0.5
 
     # Protección de costos para la validación cualitativa (usuarios reales
     # probando el chatbot): tope de consultas por IP, largo máximo del

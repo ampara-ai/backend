@@ -1,0 +1,14 @@
+bm25_only: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+=== base: reindexando
+  ✓ Embeddings completados: 893 OK, 0 errores
+dense_base: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+hybrid_base: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+dense_base_rerank100: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+hybrid_base_rerank100: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+=== finetuned: reindexando
+  ✓ Embeddings completados: 893 OK, 0 errores
+dense_finetuned: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+hybrid_finetuned: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+dense_finetuned_rerank100: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+hybrid_finetuned_rerank100: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline
+=== LISTO: quantitative_experiments/results/pipeline (<config>.json = nivel pipeline, <config>.retriever.json = nivel recuperador, <config>.trace.jsonl = traza)

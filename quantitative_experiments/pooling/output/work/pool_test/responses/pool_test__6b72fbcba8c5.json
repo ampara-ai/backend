@@ -1,0 +1,437 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Discute procedencia de salidas alternativas, sin aclarar si la víctima puede rechazarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_446_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_69_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_474_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_62_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "si",
+      "rationale": "Excluye expresamente los acuerdos reparatorios en violencia contra la mujer, por lo que el trato no es exigible."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Describe un acuerdo solicitado por la víctima, sin establecer expresamente su libertad de rechazar la propuesta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación civil conjuntamente con la pena, sin regular la aceptación de acuerdos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_14_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Admite acuerdos en estas agresiones, sin explicar el consentimiento de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_476_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe la conciliación con el agresor, pero no precisa el régimen del acuerdo reparatorio fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_2_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "No regula la aceptación por la víctima de un acuerdo reparatorio propuesto por el fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

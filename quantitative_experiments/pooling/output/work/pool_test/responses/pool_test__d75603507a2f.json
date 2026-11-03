@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_64_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 64. Disposiciones y requerimientos no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_96_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 96. Deberes del agraviado no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Delimita las preguntas aclaratorias judiciales en un caso español, sin establecer la prohibición consultada en el proceso peruano."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe técnicas que alteren autodeterminación o recuerdo, pero no precisa las reglas sobre preguntas confusas o sugestivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso J. vs. Perú (Corte IDH 2013) no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 391. Autodefensa del acusado no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 409.- Falsedad en juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 365. Delito en el juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 88. Desarrollo de la declaración no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 86. Momento y carácter de la declaración no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Protege a menores frente al contrainterrogatorio asediante, sin regular específicamente preguntas confusas o sugestivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 484. Audiencia no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 71. Derechos del imputado no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "parcial",
+      "rationale": "Delimita el contenido del testimonio a lo percibido, sin regular la forma confusa o sugestiva de las preguntas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 182. Procedencia no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 183. Reglas del careo no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Examina espontaneidad y preguntas sugestivas en cámara Gesell, sin precisar su admisibilidad en el interrogatorio de juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "si",
+      "rationale": "Prohíbe preguntas capciosas, impertinentes o sugestivas y exige rechazarlas, con excepción de sugestivas en contrainterrogatorio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada.- no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 188. Requerimiento de informes no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 426. Nulidad del juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite proteger al testigo retirando al acusado, pero no resuelve la admisibilidad de preguntas confusas o sugestivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "si",
+      "rationale": "Ordena al juez impedir preguntas capciosas, sugestivas o impertinentes y permite objetarlas durante el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 8. Trámite de los medios de defensa no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 25. Protección de las víctimas en las actuaciones de investigación no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Establece evitar preguntas sugestivas al entrevistar menores, sin desarrollar la regla general para la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 376. Declaración del acusado no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula entrevista única y condiciones seguras para declarar, sin precisar cuáles preguntas están prohibidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 371. Apertura del juicio y posición de las partes no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 163. Obligaciones del testigo no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 181. Examen pericial no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 7. Oportunidad de los medios de defensa no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 87. Instrucciones preliminares no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe declaraciones humillantes y prácticas revictimizantes, sin resolver la confusión o sugestión de las preguntas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "parcial",
+      "rationale": "Identifica quién interroga y la función de dirección del juez, sin precisar las preguntas prohibidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "parcial",
+      "rationale": "Da al juez facultades para frenar actuaciones impertinentes o abusivas, sin detallar las preguntas confusas o sugestivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 367. Concurrencia del imputado y su defensor no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 356. Principios del Juicio no determina si pueden hacerse preguntas confusas o sugestivas a la víctima en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_119_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Aplica reglas testimoniales a la víctima y prevé protección psicológica, sin expresar la prohibición de preguntas consultada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

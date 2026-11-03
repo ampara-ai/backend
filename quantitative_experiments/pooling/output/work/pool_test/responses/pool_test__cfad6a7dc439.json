@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aporta responsabilidad estatal por fallas en la investigación y búsqueda, sin precisar el deber de protección ante amenazas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber estatal de proteger a familiares y testigos amenazados durante investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber de investigar sin discriminación, sin resolver la omisión preventiva de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce derechos de asistencia y protección, sin regular responsabilidad estatal por la muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el derecho de familiares a verdad y reparación, pero en desaparición forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo denunciar violencia, sin resolver el reclamo por la inacción estatal posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece orientación para proceder ante violencia, sin explicar la responsabilidad del Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Expone vías generales de acción civil por delito, sin identificar la responsabilidad estatal por falta de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el derecho de familiares a reparaciones por investigación deficiente, no por omitir protección previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Expone responsabilidad por falta de prevención en el ámbito escolar, un contexto distinto del auxilio policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Establece que la falta de protección frente a violencia doméstica que causa muerte vulnera derechos convencionales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Describe medidas de protección y denuncia, sin resolver responsabilidad estatal por su omisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "si",
+      "rationale": "Declara responsable al Estado por no proteger la vida de una mujer pese al riesgo conocido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad estatal y reparaciones por medidas de protección tardías e inefectivas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "parcial",
+      "rationale": "Regula actuaciones complementarias de protección, sin determinar responsabilidad por la muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Expone el deber estatal de prevenir la violencia de la que las autoridades tenían o debían tener conocimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios para reconocer como víctimas a familiares que reclaman reparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal y reparaciones por falta de protección frente al asesinato de mujeres."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Aporta responsabilidad estatal por investigación discriminatoria, sin abordar la protección ante riesgo conocido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Describe responsabilidad por deficiente búsqueda e investigación, aunque el criterio central trata autopsias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona al policía que omite auxilio requerido, pero no regula reclamar contra el Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Declara la responsabilidad de Italia por no adoptar protección ante un riesgo de muerte conocido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Expone obligaciones y proporcionalidad de las medidas preventivas, sin decidir el reclamo por omisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Explica legitimación para reclamar reparación penal, sin establecer responsabilidad del Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Resuelve precisamente un reclamo contra el Estado por no proteger a una madre asesinada pese a denuncias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Aporta la condición de víctima de familiares directos, sin establecer responsabilidad por omitir protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona la omisión de auxilio policial, pero no regula la responsabilidad del Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Describe una condena estatal por fallas de búsqueda e investigación, centrada en el manejo del cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "Trata otro delito o procedimiento y no resuelve la responsabilidad estatal por omitir protección ante un riesgo de muerte."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

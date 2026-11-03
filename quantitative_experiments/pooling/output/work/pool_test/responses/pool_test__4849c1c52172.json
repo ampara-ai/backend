@@ -1,0 +1,305 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 88. Desarrollo de la declaración» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Que el imputado sea padre de familia no conlleva la aplicación inmediata del principio de interés superior del niño [Casación 1421-2023, Loreto]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Trata la validez procesal de la entrevista en cámara Gesell, sin explicar cómo formular preguntas ni proteger emocionalmente al niño."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "si",
+      "rationale": "Exige psicólogos especializados, cámara Gesell y grabación para evitar revictimizar a niños víctimas de delitos sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Falta de una debida diligencia de la investigación no satisface el derecho de los familiares de la víctima de conocer la verdad de los hechos [García Ibarra y otros vs. Ecuador]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "si",
+      "rationale": "Establece cómo interrogar al menor, con apoyo psicológico y control de preguntas engañosas y presiones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Explica que las entrevistas repetitivas revictimizan a una niña, pero no desarrolla la técnica de entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Exige entrevista única en ambiente privado, cómodo y seguro, limitando las ampliaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Delimita cuándo repetir excepcionalmente el examen del menor y evitar contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Indica que no debe exigirse repetir el relato sexual traumático, sin pautas específicas para entrevistar niños."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Prescribe declaración única, cámara Gesell y reserva para proteger al menor de la victimización secundaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Limita la participación de la niña a diligencias necesarias, sin pautas de preguntas de entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección reforzada de niñas víctimas, sin describir la técnica de entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "si",
+      "rationale": "Dispone entrevista privada, intervención de psicólogo y protección de la integridad emocional del menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre edad y afectación psicológica al valorar testimonios, sin pautas de entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Explica el valor de las preguntas abiertas y el relato espontáneo, sin desarrollar la protección emocional durante la entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe repetir injustificadamente la entrevista porque revictimiza al menor, sin detallar su técnica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 376. Declaración del acusado» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Aborda las formalidades y pericias previas de la entrevista, sin pautas para evitar preguntas confusas o sufrimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta contexto sobre fiabilidad de la cámara Gesell y urgencia, sin pautas de entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige soporte psicológico y evitar contrainterrogatorios rudos o asediantes al menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige evitar reiteraciones del testimonio y obtener otras pruebas, sin técnica específica para entrevistar niños."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Prohíbe declaraciones reiterativas o humillantes y juicios discriminatorios que revictimicen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Caso J. vs. Perú (Corte IDH 2013)» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe preguntas capciosas y regula el interrogatorio del testigo menor, sin desarrollar la protección emocional específica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Guzmán Albarracín y otras vs. Ecuador, f. j. 119» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Declaración víctima prueba directa (Apelación 41-2023)» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe el careo con víctimas menores de catorce años salvo solicitud expresa, pero no regula su entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "si",
+      "rationale": "Exige psicólogos especializados, cámara Gesell y grabación para evitar revictimizar a niños víctimas de delitos sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Descarta exigir denuncias repetidas que revictimicen, sin pautas específicas de entrevista infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Delimita el examen excepcional de la víctima menor y la separación del procesado, sin desarrollar las preguntas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "parcial",
+      "rationale": "Exige relato libre y prohíbe preguntas capciosas o sugestivas, sin pautas específicas de protección infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Señala que una entrevista de cinco minutos resulta insuficiente para la evaluación, sin desarrollar cómo entrevistar sin revictimizar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Presenta la videoconferencia como protección, sin pautas para entrevistar a menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 163. Obligaciones del testigo» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe confrontar a la víctima con el agresor, sin desarrollar la entrevista infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido de «El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Regula la notificación urgente de la cámara Gesell, sin técnica de entrevista ni protección emocional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite excluir al acusado del interrogatorio para evitar perjuicio al menor, sin desarrollar cómo preguntar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido de «La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025]» no aporta pautas para entrevistar a un niño víctima sin confundirlo ni revictimizarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00464_e0002_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Considera revictimizante llevar compulsivamente a las menores a declarar, sin técnica de entrevista."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

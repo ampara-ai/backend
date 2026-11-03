@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_302_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 302. Indagación sobre bienes embargables no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Regula acuerdos reparatorios y la intervención fiscal, sin precisar el efecto de una transacción civil sobre su legitimación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 286. Presupuestos no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 469. Proceso con pluralidad de hechos punibles e imputados no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "parcial",
+      "rationale": "Regula acuerdos judiciales de pena y reparación, sin resolver el efecto de aceptar un pago privado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 335. Prohibición de nueva denuncia no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_475_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 475. Requisitos de la eficacia de la información y beneficios premiales no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 217. Solicitud del Fiscal para incautación y registro de personas no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_446_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 446. Supuestos de aplicación no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 4. Cuestión previa no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 135. Requerimientos del Fiscal no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 160. Valor de prueba de la confesión no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 504. Incidentes de ejecución y recursos no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 295. Solicitud del Fiscal no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 66-2018, Cusco no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 497. Regla general, excepción y recurso no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "parcial",
+      "rationale": "Explica desistimiento de la pretensión civil y su plazo, sin decir si el fiscal puede reclamar tras transacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 235. Levantamiento del secreto bancario no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 499. Personas e Instituciones exentas. Caso especial de imposición no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 5. Cuestión prejudicial no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 289. La caución no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 394.- Cohecho pasivo impropio no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 473. Fase de corroboración no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 476-A. Eficacia de las diligencias de corroboración y su incorporación en otros procesos no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230-A.- Revisión de equipos informáticos no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_563_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 563. Cooperación con el Fiscal de la Corte Penal Internacional no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "parcial",
+      "rationale": "Describe las facultades del actor civil para pedir reparación, sin explicar el efecto de transigir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_234_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 234. Aseguramiento e incautación de documentos contables y administrativos no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Permite objetar o aumentar la reparación solicitada, sin resolver la legitimación fiscal después del acuerdo privado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 209. Retenciones no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Se debe realizar un juzgamiento anticipado en casos de violencia familiar si solo se ofreció documentales y demandado es rebelde [Pleno Jurisdiccional Distrital Penal y Civil de Apurímac, 2015] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 470. Declaración inexistente no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Explica autonomía y vías de la acción civil, sin abordar la transacción y la facultad fiscal posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 226. Autorización no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 218. Solicitud del Fiscal no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_474_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 474. Procedencia no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_303_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 303. Embargo no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada.- no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_476_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 476. El Acta de colaboración eficaz – denegación del Acuerdo no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 78.- Causales de extinción no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "parcial",
+      "rationale": "Regula conformidad y controversia sobre reparación en juicio, sin resolver el efecto de un pago privado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 487. Desistimiento o transacción no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 472. Solicitud no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "parcial",
+      "rationale": "Distingue desistimiento como actor civil y demanda en otra vía, sin tratar la transacción ni la facultad fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 310. Orden de inhibición no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce que el fiscal solicita reparación civil, pero no establece si conserva esa facultad después de transigir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 477. Colaboración durante la etapa de investigación del proceso contradictorio no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_14_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 480. Revocación de los beneficios no resuelve si el fiscal puede pedir reparación después de aceptar un acuerdo económico."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

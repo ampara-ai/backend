@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite prueba de oficio indispensable, pero no resuelve la omisión de valorar un examen existente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "parcial",
+      "rationale": "Regula explicación y debate de pericias, sin establecer las consecuencias de omitirlas al sentenciar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "si",
+      "rationale": "Anula la absolución por omitir valoración integral de pruebas periciales y testimoniales en abuso de menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivar la prescindencia de pruebas por fuerza mayor, sin abordar un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "parcial",
+      "rationale": "Regula obtención de análisis sanguíneos y descendencia, no su valoración en sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "parcial",
+      "rationale": "Excluye pruebas que vulneran derechos fundamentales, pero no justifica omitir un examen genético lícito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aborda proporcionalidad y validez de obtener ADN, sin resolver su omisión al sentenciar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Anula una sentencia por valoración incorrecta y falta de enfoque de género, sin abordar la omisión del examen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Explica el alcance de pericias negativas, pero no si puede ignorarse un examen genético existente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar todas las pruebas, incluidas las pericias, y anula la sentencia que las dejó de lado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Trata la ausencia de ADN no realizado y la valoración conjunta, sin resolver directamente la omisión de un examen existente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "parcial",
+      "rationale": "Regula autenticación y ratificación de documentos médicos privados, sin resolver la omisión de una pericia genética."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "parcial",
+      "rationale": "Exige manejo diligente de pruebas en investigación, sin regular la valoración al sentenciar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Establece criterios obligatorios de valoración pericial, sin resolver expresamente si puede omitirse un examen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "si",
+      "rationale": "Considera ilógico descartar corroboraciones periciales sin fundamento y anula la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "parcial",
+      "rationale": "Regula obtención de muestras genéticas del imputado, sin tratar su valoración al sentenciar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0075_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona exigir ADN no realizado y la valoración pericial, pero no resuelve la omisión del examen existente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite anular decisiones por motivación deficiente, sin tratar la prueba genética omitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige merituar todos los medios probatorios y anula la sentencia que omitió informes periciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Regula incorporación de declaraciones previas de menores, no la valoración de un examen genético."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0085_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Define el valor complementario de pericia psicológica, sin abordar la omisión de un examen genético."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula exposición e interrogatorio pericial, sin explicar la obligación de valorar el examen en sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Anula por impedir prueba testimonial de descargo, sin resolver la omisión de una pericia genética existente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige explicar contradicciones periciales para condenar, sin abordar directamente la omisión de una prueba genética."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00114_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No resuelve si el juez puede sentenciar omitiendo un examen genético ya realizado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

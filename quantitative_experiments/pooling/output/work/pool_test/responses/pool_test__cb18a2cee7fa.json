@@ -1,0 +1,323 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación civil junto con la pena, pero no desarrolla los servicios de recuperación de la Ley 30364."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce indemnización por daños en violencia familiar, sin explicar la recuperación integral prevista por la ley."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "si",
+      "rationale": "Incluye en la sentencia tratamiento terapéutico para la víctima además de medidas contra el condenado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Expone las penas por agresión familiar, pero no las medidas de recuperación de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Prevé tratamiento psicológico para la recuperación emocional y asistencia económica y alojamiento de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_178-a_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que la ley prevé reeducación del agresor, sin explicar recuperación de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0085_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Protege a la víctima durante su declaración, sin establecer servicios de recuperación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal la recuperación de las víctimas y crea servicios de atención y refugio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "parcial",
+      "rationale": "Describe reeducación del agresor preso, sin abordar recuperación de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_x_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Incluye atención médica y psicológica como reparación internacional, sin explicar el alcance de la ley peruana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "parcial",
+      "rationale": "Prevé servicios para detener la violencia mediante reeducación del agresor, sin explicar recuperación de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "parcial",
+      "rationale": "Identifica personas protegidas, sin explicar apoyos para su recuperación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación psicológica y acceso a salud para recuperarse de abuso sexual, sin desarrollar la Ley 30364."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Distingue medidas de protección de sanciones penales, sin abordar servicios de recuperación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Explica representación para reclamar daños, sin describir medidas de recuperación integral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_93_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce indemnización de daños, sin explicar la atención y recuperación de las víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_187_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Explica la acción civil y restitución derivadas del delito, sin abordar los servicios de la Ley 30364."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "parcial",
+      "rationale": "Prevé registro de atención de salud para facilitar atención interinstitucional, sin establecer por sí mismo derechos de recuperación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "parcial",
+      "rationale": "Evita confrontación y revictimización durante diligencias, sin explicar recuperación integral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza atención de secuelas y reinserción educativa, una dimensión específica del apoyo a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "si",
+      "rationale": "Define como fines del sistema la atención, protección y reparación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Garantiza recuperación integral gratuita de la salud física y mental, asistencia jurídica y atención social de las víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No explica si la Ley 30364 ofrece medidas para la recuperación de la víctima además de sancionar al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_1_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación proporcional al daño por violencia familiar, sin explicar los servicios de recuperación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_80_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce intérpretes inmediatos de lengua de señas para denuncias de personas con discapacidad auditiva, pero no regula expresamente el testimonio ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "parcial",
+      "rationale": "Impone coordinar la asistencia de intérpretes a audiencia, pero no determina el derecho concreto de una testigo sorda a recibirlos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce trato digno y acompañamiento para agraviados incapaces, sin establecer asistencia de comunicación por sordera."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza la participación de la víctima y trato acorde con su condición, pero no especifica intérprete ni apoyo para discapacidad auditiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "si",
+      "rationale": "Obliga a brindar ayuda e intérprete a quienes tienen impedimentos para darse a entender, incluidos los sordomudos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "parcial",
+      "rationale": "Permite escritura o intérprete a quienes no pueden hablar, pero no regula específicamente el apoyo a una declarante con sordera."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_171_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "No regula la ayuda de comunicación o interpretación para una víctima sorda que declara ante el juez."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

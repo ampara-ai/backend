@@ -1,0 +1,54 @@
+{
+ "pool_test__6de328cb9426": [
+  [
+   "test::chunk_tipo01_ley30364_art_11_01::q01",
+   "chunk_tipo04_jp_00575_e0003_01"
+  ]
+ ],
+ "pool_test__e3da631d3cd9": [
+  [
+   "test::chunk_tipo01_ley30364_art_14_01::q01",
+   "chunk_tipo04_jp_00624_e0008_01"
+  ]
+ ],
+ "pool_test__8d2787fc5089": [
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo04_jp_00518_e0001_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo04_jp_00540_e0002_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo04_jp_00561_e0001_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo04_jp_00575_e0003_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo04_jp_00598_e0039_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo04_jp_00698_e0004_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+   "chunk_tipo05_mimp_protocolo_base_2019_01"
+  ]
+ ],
+ "pool_test__3ae41fc854a7": [
+  [
+   "test::chunk_tipo01_ley30364_art_21_01::q01",
+   "chunk_tipo04_jp_00641_e0023_01"
+  ],
+  [
+   "test::chunk_tipo01_ley30364_art_21_01::q01",
+   "chunk_tipo04_jp_00653_e0003_01"
+  ]
+ ]
+}

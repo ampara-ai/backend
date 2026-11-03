@@ -1,0 +1,377 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192.- Apropiación irregular no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 188.- Robo no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_511_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 511. Actos de Cooperación Judicial Internacional no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377.- Omisión, rehusamiento o demora de actos funcionales no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Volodina vs. Rusia, f.j. 7,10 no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la contumacia y conducción compulsiva del imputado fugado, pero no la pena por evasión con intimidación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 177.- Formas agravadas no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 196.- Estafa no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_558_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 558. Resolución Suprema y Ejecución no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 557. Recepción y trámite no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 402. Ejecución provisional no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_106_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 106.- Homicidio Simple no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230-A.- Revisión de equipos informáticos no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 404.- Encubrimiento personal no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 156.- Revelación de la intimidad personal y familiar no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170.- Violación sexual no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 24. Incumplimiento de medidas de protección no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 264. Plazo de la detención no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_268_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 268. Presupuestos materiales no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333.- Provocación pública a la desobediencia militar no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 560. Detención provisional con fines de entrega no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 154.- Violación de la intimidad no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108-B.- Feminicidio no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124.- Lesiones Culposas no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 200.- Extorsión no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 50.- Concurso real de delitos no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108.- Homicidio calificado no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184.- Castigo a cómplices no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 206.- Formas agravadas no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 287. Comparecencia restrictiva no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 152.- Secuestro no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151.- Coacción no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-C.- Explotación sexual no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_413_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 368.- Resistencia o desobediencia a la autoridad no responde a la pena por fugarse de la cárcel intimidando a los guardias."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

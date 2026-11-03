@@ -15,6 +15,3 @@ wheels/
 
 # macOS
 .DS_Store
-
-# Resultados de evaluación (scripts/eval_*, scripts/validate_oe3.py, scripts/build_final_table.py)
-results/

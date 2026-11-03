@@ -1,0 +1,323 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 188. Requerimiento de informes no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Corresponde sancionar al abogado que no informa con anticipación su imposibilidad de participar en la audiencia, renuncia a la defensa y habilita la posibilidad de que se designe a un nuevo abogado privado o público [Revisión de medida disciplinaria 18-2023, Selva Central, f. j. 5] no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "parcial",
+      "rationale": "Delimita el secreto de actuaciones y el acceso de la defensa, pero no explica cómo reclamar su incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 109. Facultades del querellante particular no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 72. Identificación del imputado no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 104. Facultades del actor civil no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 484. Audiencia no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Señala el amparo frente a decisiones fiscales firmes lesivas de derechos, sin abordar el trámite ocultado y la ausencia letrada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "parcial",
+      "rationale": "Exige presencia del acusado y defensor en el juicio, sin establecer el medio para reclamar su vulneración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Analiza falta de emplazamiento para declaraciones previas, pero no indica cómo reclamar el ocultamiento del trámite."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_91_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 91. Oportunidad y trámite no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Nulidad de transferencias no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Examina la valoración de una declaración sin abogado y su impugnación, sin resolver el trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce asistencia letrada y postergación de la declaración, sin precisar el remedio por ocultamiento de actuaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 443. Trámite no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 391. Autodefensa del acusado no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Dar un solo día a abogado recién nombrado para estudiar el expediente vulnera el derecho de defensa [Exp. 02165-2018-PHC/TC] no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Permite obtener nulidad por exclusión injustificada del defensor, supuesto relacionado pero distinto de una diligencia no comunicada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Establece cómo recurrir y la legitimación del defensor, sin precisar el remedio para la actuación ocultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Muestra un hábeas corpus por defensa inadecuada al sustituir al abogado, sin tratar la ocultación de una diligencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Regula presencia y sustitución del defensor en juicio, sin explicar cómo denunciar la ocultación de un trámite."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "parcial",
+      "rationale": "Exige defensa pública en registros e incautaciones, sin precisar el reclamo ante una diligencia ocultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Indica que el imputado puede acudir en tutela al juez para corregir vulneraciones de información y asistencia letrada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "si",
+      "rationale": "Establece la nulidad absoluta por ausencia del defensor cuando su presencia es obligatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "parcial",
+      "rationale": "Regula el reemplazo del abogado citado y ausente, sin resolver la falta de comunicación del trámite."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 110. Desistimiento del querellante particular no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 106. Impedimento de acudir a la vía extra – penal no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 100. Requisitos para constituirse en actor civil no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 377. Declaración en caso de pluralidad de acusados no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 470. Declaración inexistente no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "parcial",
+      "rationale": "Exige abogado para la declaración fiscal, pero no explica cómo reclamar la falta de asistencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 376. Declaración del acusado no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce notificación de la acusación y objeciones, sin regular el reclamo por una diligencia oculta sin defensor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce información, asistencia letrada y acceso a la carpeta, sin precisar cómo reclamar la indefensión producida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 384. Trámite de la oralización no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_532_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 532. Trámite de las solicitudes no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184. Incorporación no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 25. Protección de las víctimas en las actuaciones de investigación no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_80_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza defensor de oficio para asegurar legalidad y debido proceso, sin indicar la vía de reclamo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_408_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 408. Extensión del recurso no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 557. Recepción y trámite no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 95. Derechos del agraviado no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108. Requisitos para constituirse en querellante particular no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce participación, acceso al expediente y medios de defensa del abogado, sin concretar el remedio por el trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Exige citación y defensa en prueba anticipada, sin explicar cómo reclamar el incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 438. Trámite no explica cómo reclamar la indefensión por un trámite ocultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 420. Trámite no explica cómo reclamar la indefensión por un trámite ocultado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

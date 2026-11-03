@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Prohíbe la doble victimización mediante declaraciones reiterativas y exige un trato digno."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé atención policial femenina cuando se prefiera y haya disponibilidad, pero no regula el examen médico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Aporta principios generales de diligencia y dignidad, sin precisar el examen ni la repetición del relato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza repetir entrevistas de menores, aportando una regla relacionada sin abordar la atención médica de la consultante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_197_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "parcial",
+      "rationale": "Describe exámenes vejatorios y revictimización, pero no precisa las garantías del examen y el relato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Explica que no debe exigirse repetir los hechos sexuales en cada declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la entrevista única y su finalidad de evitar victimización secundaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "parcial",
+      "rationale": "Protege frente a confrontación y reconstrucción, sin resolver las condiciones del examen y del relato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Exige registrar el relato para evitar repeticiones y examen por personal del sexo indicado por la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce atención especializada y declaración digna, sin precisar el sexo del examinador ni la entrevista única."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Establece que la investigación debe evitar repetir el testimonio y revivir el trauma."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el respeto cultural en la investigación sin resolver el trato concreto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza forzar declaraciones de menores por revictimización, pero no regula el examen de la consultante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe diligencias revictimizantes de reconstrucción, un supuesto relacionado pero distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Evita repetir declaraciones infantiles ya eficaces, sin resolver la atención médica de la consultante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Regula la entrevista única y limita las declaraciones ampliatorias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige interpretar el relato según la experiencia traumática, sin abordar su repetición ni el examen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Exige enfoque de género en la valoración judicial, pero no regula el trato médico consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Califica como violencia institucional las entrevistas repetitivas y los exámenes revictimizantes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Rechaza exigir denuncias y relatos reiterados sobre la violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber de evitar estereotipos institucionales, sin abordar el examen ni los relatos repetidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "No regula las condiciones de atención médica ni la repetición del relato de la víctima."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

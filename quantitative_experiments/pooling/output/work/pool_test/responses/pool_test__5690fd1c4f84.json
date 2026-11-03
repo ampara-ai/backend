@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 288. Las restricciones no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22. Objeto y tipos de medidas de protección no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica] no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 207. Presupuestos y Ejecución no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Posible injerencia en vida privada por medidas de protección [Kurt vs. Austria] no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 248. Medidas de protección no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "parcial",
+      "rationale": "Regula registros personales durante el allanamiento, pero no exige expresamente respetar el pudor de los presentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 461. Investigación preliminar no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "parcial",
+      "rationale": "Describe cuándo y cómo se solicita un allanamiento, sin establecer el cuidado del pudor en su ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 218. Solicitud del Fiscal no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "parcial",
+      "rationale": "Exige respetar el pudor en el registro personal, pero no regula por sí solo el trato a todos los ocupantes durante el allanamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Actos del Ministerio Público no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23-A. Ejecución de la medida de protección no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 209. Retenciones no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iv_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo IV. Titular de la acción penal no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 232. Aseguramiento de documentos privados no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 338. Condiciones de las actuaciones de investigación no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 322. Dirección de la investigación no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 3. Comunicación al Juez de la continuación de la investigación no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 154.- Violación de la intimidad no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 18. Actuación de los operadores de justicia no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 294. Internamiento previo para observación y examen no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 45. Inhibición del Juez no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 193. Adecuación no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205. Control de identidad policial no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_213_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 213. Examen corporal para prueba de alcoholemia no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 291. Comparecencia simple no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_311_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 311. Desalojo preventivo no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68. Atribuciones de la Policía Nacional del Perú no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 290. Detención domiciliaria no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 253. Principios y finalidad no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22-B. Medidas cautelares no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23. Vigencia y validez de las medidas de protección y cautelares no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 359. Concurrencia del Juez y de las partes no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23-B. Órganos de supervisión y apoyo de la ejecución de la medida de protección no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 323. Función del Juez de la Investigación Preparatoria no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2558-2021, Ica no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_551_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 551. Entrega vigilada y protección de la jurisdicción nacional no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 249. Medidas adicionales no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 247. Personas destinatarias de las medidas de protección no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-A. Desconocimiento de domicilio u otros datos de la víctima no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_354_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 354. Notificación del auto de enjuiciamiento no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 369. Instalación de la audiencia no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 203. Presupuestos no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 603-2019, Piura, ff. jj. 2-3 no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 206. Controles policiales públicos en delitos graves no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 67. Función de investigación de la Policía Nacional no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 64.- Reglas de conducta no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 211. Examen corporal del imputado no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 237. Procedencia no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 385. Otros medios de prueba y prueba de oficio no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192. Objeto no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 126. Poder coercitivo no responde a si debe respetarse el pudor de los ocupantes al ejecutar un allanamiento judicial."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_519_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 519. Concurso de extradiciones no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 533. Traslado al extranjero de persona privada de libertad no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 61.- Condena no pronunciada no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 152.- Secuestro no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Contradicciones en declaración (Exp. 02162-2021-6) no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 169. Testigos residentes fuera del lugar o en el extranjero no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 522. Decisión y ejecución de la extradición no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_549_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 549. Penas de multa e inhabilitación y decomiso objeto de cumplimiento en el extranjero no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 517. Rechazo de la extradición no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 547. Pena de multa y el decomiso no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-C.- Explotación sexual no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_545_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 545. Penas no privativas de libertad no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_513_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 513. Procedencia no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 559. Plazo de la detención y libertad provisional no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_546_01",
+      "relevance": "parcial",
+      "rationale": "Regula cumplir penas no privativas de libertad en el país del condenado, pero no sustituir la prisión por expulsión en abuso sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 490. Cómputo de la pena privativa de libertad no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 544-A. Ejecución de la condena en el Estado peruano no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 544. Trámite cuando el Perú solicita el traslado del nacional no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_552_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 552. Función de la Fiscalía de la Nación no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 514. Autoridades que intervienen no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_548_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 548. Pena de Inhabilitación no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_553_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 553. Autorización para utilizar la entrega vigilada no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_541_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que el Perú conserva jurisdicción sobre la condena tras el traslado, pero no regula la expulsión como alternativa a la prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 516. Ámbito no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_566_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 566. Ejecución de las penas no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-F.- Beneficio p or explotación sexual no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 525. Ámbito e Iniciación no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 402. Ejecución provisional no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 129-G.- Gestión de la explotación sexual no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 536. Requisitos y trámite de la carta rogatoria a autoridades extranjeras no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_526_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 526. Procedimiento no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 133. Exhortos a autoridades extranjeras no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 523. Detención Preventiva con fines de extradición no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa) no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 248. Medidas de protección no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_524_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 524. Extradición de tránsito no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 521-B. Recepción y calificación de la demanda no determina si el abuso sexual admite sustituir la prisión por expulsión del extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_52_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "parcial",
+      "rationale": "Detalla las condiciones para trasladar a un condenado al extranjero a cumplir su pena, sin resolver la sustitución por expulsión por abuso sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

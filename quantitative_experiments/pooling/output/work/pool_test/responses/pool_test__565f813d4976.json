@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-B.- Acoso sexual» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 190.- Apropiación ilícita común» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte)» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 68.- Exención de pena» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece de seis a doce años por lesiones graves cuando la víctima es ascendiente del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Regula maltrato sin lesión o daño psicológico, incompatible con las lesiones graves descritas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 29.- Duración de la pena privativa de libertad» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-C.- Explotación sexual» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 177.- Formas agravadas» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Exp. 01386-2020-0» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 2030-2019 Lima» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 152.- Secuestro» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151-A.- Acoso» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-D.- Acoso sexual a menores de catorce años de edad» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra una pena efectiva por lesiones graves familiares, pero en una agresión a la conviviente y sin resolver la agravante de edad de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 188.- Robo» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Explica que las lesiones graves familiares deben respetar el mínimo legal, sin precisar la pena por lesionar a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 441.- Lesión dolosa y lesión culposa» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 50.- Concurso real de delitos» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 60.- Revocación de la suspensión de la pena» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 138.- Ejercicio privado de la acción penal» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Vicky Hernández y otros vs. Honduras, f.j. 129» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 70. Prohibición de informar» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "Fija penas por lesiones leves, no por las lesiones graves a la madre descritas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 1442-2022, Puno» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Explica el aumento por aprovechar el parentesco descendiente, pero no proporciona la pena base de las lesiones graves."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "Sanciona lesiones de menos de diez días o afectación psicológica, no las lesiones graves descritas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios)» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Regula el aumento por abuso del parentesco y su excepción, sin indicar la pena base por las lesiones graves."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2]» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "Sanciona tortura cometida con intervención de agentes públicos, no las lesiones familiares por golpes del hermano."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 208.- Excusa absolutoria. Exención de Pena» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 23.-Autoría, autoría mediata y coautoría» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este)» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa)» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 124.- Lesiones Culposas» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas generales de individualización de la pena, sin señalar el marco punitivo específico por lesiones graves a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 52.- Conversión de la pena privativa de libertad» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 108-B.- Feminicidio» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "si",
+      "rationale": "Fija de seis a doce años por lesiones graves a una persona adulta mayor cuando el agresor aprovecha esa condición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "si",
+      "rationale": "Establece de seis a doce años por lesiones graves a ascendientes y precisa el aumento cuando concurren varias agravantes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 174.- Violación de persona bajo autoridad o vigilancia» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Retractación notarial sin valor (RN 1179-2019, Lima)» no establece la pena por lesiones graves infligidas a una madre adulta mayor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_121-a_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula lesiones leves aunque contempla edad y parentesco, sin establecer la pena de las lesiones graves consultadas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

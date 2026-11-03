@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Exige factores objetivos para dictar protección, pero no regula su levantamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_296_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo evaluar el peligro en violencia doméstica, sin regular el levantamiento de la orden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber de proteger ante riesgo conocido, sin resolver el procedimiento de levantamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé ratificar o variar medidas en flagrancia, sin precisar los requisitos para retirarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona la orden de alejamiento con el riesgo y la necesidad de protección, sin regular su retirada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar continuamente el riesgo y permitir impugnar el levantamiento de la orden de alejamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona proporcionalidad y riesgo evaluado, sin precisar cuándo puede retirarse la orden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "parcial",
+      "rationale": "Exige aplicar una ficha de riesgo, pero solo regula el trámite inicial de la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo apelar decisiones sobre medidas de protección, sin establecer los motivos de su levantamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_268_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "si",
+      "rationale": "Exige variación del riesgo sustentada en informes y audiencia para dejar sin efecto la protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula la evaluación inicial y emisión de medidas, sin establecer los requisitos para retirarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Exige una ficha de riesgo actualizada, pero no detalla el procedimiento de levantamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Exige considerar el riesgo de nueva violencia incluso después de una orden de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_251_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Exige pruebas objetivas para dictar protección urgente, pero no analiza su levantamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_203_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "No aborda los requisitos para levantar una orden de alejamiento por violencia familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

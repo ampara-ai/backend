@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Permite prevalecer la incriminación inicial corroborada frente a la retractación, pero no resuelve la ausencia de la menor en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Explica que el examen de una menor víctima en juicio es excepcional, sin precisar la suficiencia probatoria para condenar si no asiste."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "si",
+      "rationale": "Afirma expresamente que la menor no necesita ratificar en juicio para evitar revictimización y mantiene la condena con corroboraciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "parcial",
+      "rationale": "Valora un relato en cámara Gesell y sus corroboraciones, pero no aclara si puede condenarse sin comparecencia al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Admite oralizar la declaración previa en cámara Gesell para evitar revictimización y confirma la condena bajo garantías de defensa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar otras pruebas aun sin declaraciones previas de la víctima, pero no resuelve expresamente su inasistencia al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica el valor de la declaración y corroboraciones en tocamientos, sin establecer cómo incorporarlas si la menor no comparece."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la validez de la cámara Gesell aun sin prueba anticipada, pero no trata expresamente la ausencia de la menor en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Exige actuar en juicio la entrevista grabada admitida, sin resolver directamente la prescindencia del testimonio presencial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "parcial",
+      "rationale": "Permite sostener la condena frente a una retractación sin sustento, pero no aborda la inasistencia de la menor al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Señala supuestos excepcionales de nuevo examen de menores, sin establecer por sí solo cuándo condenar sin su asistencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "si",
+      "rationale": "Resuelve el mismo supuesto de tocamientos en mototaxi y confirma la condena sin comparecencia de las menores mediante otras pruebas válidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece incorporar la declaración previa del menor y que solo excepcionalmente declare en juicio, anulando una absolución que omitió esas reglas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Permite oralizar una declaración previa de la madre ausente con otras pruebas, pero no analiza la inasistencia de la menor víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0013_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Admite incorporar la entrevista única con contradicción y corroboraciones, pero no explicita que la menor pueda faltar al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Expone garantías y corroboración para valorar declaraciones previas, sin resolver específicamente la inasistencia de una menor al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Analiza una absolución con víctima ausente y otras pruebas insuficientes, pero no fija directamente cuándo puede condenarse sin su comparecencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula la entrevista única como prueba anticipada y limita las ampliaciones, sin explicitar la condena ante inasistencia a juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Mantiene la condena pese a retractación corroborando la versión inicial, pero no trata la inasistencia al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si puede condenarse por tocamientos a una menor que no comparece al juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

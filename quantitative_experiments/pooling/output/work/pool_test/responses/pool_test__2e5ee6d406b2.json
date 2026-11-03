@@ -1,0 +1,401 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Expone el derecho general de impugnación sin precisar el recurso contra el levantamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "si",
+      "rationale": "La vigencia depende del riesgo y el levantamiento exige evaluar sus variaciones o las circunstancias previstas y convocar audiencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_251_01",
+      "relevance": "si",
+      "rationale": "Reconoce apelación contra las resoluciones relativas a medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_319_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_283_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_347_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0005_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Describe requisitos generales de los recursos, sin resolver la procedencia específica del reclamo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "si",
+      "rationale": "Permite apelar la resolución sobre medidas de protección e indica el plazo y el trámite."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar el riesgo y garantizar un recurso efectivo contra el levantamiento de una orden de alejamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_246_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección inmediata y constante, pero no explica cómo impugnar el levantamiento judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "parcial",
+      "rationale": "Regula supuestos generales de apelación, sin identificar específicamente el levantamiento de una medida de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_83_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00265_e0001_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No resuelve la impugnación ni los requisitos para levantar una orden de alejamiento de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

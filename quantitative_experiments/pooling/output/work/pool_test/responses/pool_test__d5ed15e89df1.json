@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Resuelve la validez de una citación urgente para cámara Gesell, no la divulgación de investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "Trata de discriminación en la pena por violencia sexual en Venezuela, no de divulgar un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "Regula las excepciones a la obligación de denunciar, no la difusión pública de una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "Enumera medidas de protección y prohibiciones de contacto, sin sancionar la divulgación de investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registros personales policiales, sin abordar publicaciones sobre una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "Examina el tiempo para preparar la defensa, sin referirse a la divulgación del caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula el impedimento de salida, no las sanciones por divulgar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "no",
+      "rationale": "Establece un principio general de proporcionalidad sin identificar responsabilidad por difundir un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "Sanciona revelar intimidad conocida por trabajo, un supuesto distinto de divulgar lo investigado en un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "Regula la comparecencia restrictiva y sus incumplimientos, no la divulgación de actuaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza la omisión de denuncia de un médico, no la difusión de una investigación en redes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "Determina la condición de víctimas de familiares, sin abordar divulgación ni sanciones por ella."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Regula técnicas especiales de investigación reservadas, sin establecer consecuencias por publicar el contenido del caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "Tipifica acoso sexual mediante contacto u hostigamiento, no divulgar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata de valoración de declaraciones y prueba documental, no de difusión del caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "Aborda consentimiento y debida diligencia en violencia sexual, no sanciones por publicar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Autoriza vigilancia como técnica de investigación, sin regular la divulgación pública de actuaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "Examina la validez de diligencias sin fiscal y la suficiencia probatoria, no la difusión de investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "Resuelve la exclusión de una pericia por falta de notificación, no sanciones por divulgar el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Regula la remisión de indicios de otros delitos a Fiscalía y el falso testimonio, no publicaciones en redes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "Regula la acción privada por delitos contra el honor, sin establecer sanciones por divulgar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_316_01",
+      "relevance": "no",
+      "rationale": "Regula la incautación de efectos e instrumentos del delito, no la divulgación de un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "Define autoría y coautoría sin identificar una infracción por divulgar investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "Exige rendición de cuentas regionales, sin relación con la divulgación de un caso investigado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "Regula la cooperación en otros delitos, no publicaciones sobre investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_535_01",
+      "relevance": "no",
+      "rationale": "Regula confidencialidad en asistencia judicial internacional, un procedimiento distinto, sin sanciones por publicar el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "Examina la validez de la declaración en cámara Gesell, no su divulgación pública."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "Sanciona omitir una denuncia obligatoria, no difundir información de una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Regula el interrogatorio separado de coacusados, no la publicación de actuaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "Sanciona difundir material sexual sin autorización, una conducta distinta de contar lo investigado en un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "parcial",
+      "rationale": "Exige autorización fiscal para que la Policía informe a medios sobre víctimas y testigos, pero no indica sanciones por divulgar la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "Regula la documentación y firma de actas, no las consecuencias de difundir su contenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "Regula la incomunicación del detenido, no la divulgación pública de la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "si",
+      "rationale": "Establece la reserva de la investigación y responsabilidad disciplinaria del abogado que incumple la reserva de las copias, con sustitución en caso de reincidencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "Tipifica el acoso sexual de menores, no la divulgación de una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_198_01",
+      "relevance": "no",
+      "rationale": "Tipifica administración fraudulenta de personas jurídicas, sin relación con publicar información de un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Regula la facultad y obligación de denunciar ante autoridades, no la divulgación en redes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Describe el proceso por faltas, sin sanciones por divulgar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "Regula el inicio de la investigación policial, no la difusión de su contenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "Regula intervención de comunicaciones y secreto de sus operadores, sin establecer la sanción por contar públicamente lo investigado en un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "Sanciona acoso y hostigamiento, una conducta distinta de divulgar información de una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Analiza prisión preventiva e interés superior del niño, no divulgación de actuaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "Describe canales de denuncia y sanciones por violencia familiar, no por publicar información de un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "Tipifica sustraer personas de la persecución penal, no divulgar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "Enumera derechos del imputado y tutela judicial, sin regular publicaciones sobre el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "Sanciona incumplimientos de requerimientos de informes, no divulgar el contenido de una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "Regula interceptación de correspondencia mediante trámite reservado, sin sanciones por difundir el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Ofrece orientación telefónica sobre violencia, sin información sobre sanciones por divulgación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula la comunicación de indicios delictivos desde procesos extrapenales, no la difusión pública del caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "Regula defensa y acceso a copias de la carpeta fiscal, sin abordar sanciones por divulgar su contenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Sanciona la captación y revelación de intimidad personal o familiar, un supuesto distinto de difundir información investigada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "Agrava penas por delitos sexuales y por registrar o transmitir esos actos, no por divulgar una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_420_01",
+      "relevance": "no",
+      "rationale": "Regula el trámite de apelación de autos, sin abordar publicaciones sobre investigaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula incorporación de colaboración eficaz y protección de identidad, no sanciones por divulgar públicamente un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "Sanciona difusión de pornografía infantil y publicidad de explotación sexual, no contar lo investigado en un caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "Tipifica declaraciones falsas en procedimientos judiciales, no publicaciones sobre una investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_139_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "Analiza nulidad y valoración del testimonio de un menor, sin tratar la divulgación del caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 134. Contenido del Expediente Fiscal, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 174.- Violación de persona bajo autoridad o vigilancia, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 383. Lectura de la prueba documental, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo IX. Derecho de Defensa, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 211. Examen corporal del imputado, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 208. Motivos y objeto de la inspección, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua], sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 206. Controles policiales públicos en delitos graves, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 117. Tiempo, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 194. Participación de testigos y peritos, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_66_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 66.- Revocación del régimen de prueba, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 481-A. Utilidad de la información en otros procesos, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica], sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 261. Detención Preliminar Judicial, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 473. Fase de corroboración, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_233_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 233. Incautación de documentos privados, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_239_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 239. Contenido de la resolución, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_243_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 243. Requisitos de la solicitud, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto trata Declaración víctima prueba directa (Apelación 41-2023), sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 116. Lugar, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 205. Control de identidad policial, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 16-E. Proceso por faltas, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 100. Requisitos para constituirse en actor civil, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 210. Registro de personas, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 295. Solicitud del Fiscal, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 71. Derechos del imputado, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 10. Derecho a la asistencia y la protección integrales, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao], sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 188. Requerimiento de informes, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 189. Reconocimientos de personas, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_518_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 518. Requisitos de la demanda de extradición, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 89. Tratamiento y pluralidad de imputados, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto trata Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur], sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 157. Medios de prueba, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "parcial",
+      "rationale": "Explica que el fiscal debe solicitar detención e incautación dentro del allanamiento cuando corresponda, pero no enumera los datos básicos del pedido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 263. Deberes de la autoridad policial, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 70. Prohibición de informar, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 328. Contenido y forma de la denuncia, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_215_01",
+      "relevance": "si",
+      "rationale": "Enumera los datos centrales de la autorización de allanamiento: fiscal, finalidad, inmueble, duración y apercibimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 207. Presupuestos y Ejecución, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 169. Testigos residentes fuera del lugar o en el extranjero, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 88. Desarrollo de la declaración, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_184_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 184. Incorporación, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 16-A. Desconocimiento de domicilio u otros datos de la víctima, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 232. Aseguramiento de documentos privados, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 133. Exhortos a autoridades extranjeras, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 321. Finalidad, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 72. Identificación del imputado, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 118. Juramento, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_535_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 535. Prohibiciones, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 461. Investigación preliminar, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_512_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 512. Autoridad Central, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 385. Otros medios de prueba y prueba de oficio, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "parcial",
+      "rationale": "Añade que la solicitud de allanamiento debe consignar asistencia de defensor público, sin enumerar ubicación, finalidad, diligencias y duración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 68. Atribuciones de la Policía Nacional del Perú, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_238_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 238. Solicitud del Fiscal, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 536. Requisitos y trámite de la carta rogatoria a autoridades extranjeras, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto trata Denunciar casos de violencia contra la mujer en el Ministerio Público, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_214_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 322. Dirección de la investigación, sin indicar los datos que deben consignarse para solicitar un allanamiento y registro."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Flagrancia en casos de riesgo severo, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece orientación del Ministerio Público, pero no explica cómo obtener un defensor gratuito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la asistencia de un defensor, sin indicar quién lo proporciona ante falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata de El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Auto de citación a juicio, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata de 3378-2019-AA/TC], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Medidas adicionales, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Condiciones para el traslado y el cumplimiento de condenas, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho al abogado de oficio, sin explicar su provisión por carencia económica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe la derivación policial al CEM o Defensa Pública, sin precisar la asignación gratuita de un defensor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "si",
+      "rationale": "Dispone designar defensor de oficio al imputado que no pueda nombrar abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Requisitos para constituirse en querellante particular, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Sujetos de protección de la Ley, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Establece asistencia jurídica gratuita y señala las entidades que defienden a las víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Ejecución de la medida de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Denuncia, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_179_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 179.- Favorecimiento a la prostitución, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto trata de 02165-2018-PHC/TC], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 180.- Rufianismo, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Facultades del querellante particular, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_82_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Defensa conjunta, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 45.- Presupuestos para fundamentar y determinar la pena, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Temeridad: Multan con 5 URP a abogado que sostuvo que no conocía del recurso en cuya instancia intervenía y que no estaba preparado [Revisión de Medida Disciplinaria 8-2022, La Libertad], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_113_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Derechos y garantías del tercero civil, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Criterios para dictar medidas de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Medidas de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Reemplazo del abogado defensor, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Personas e Instituciones exentas. Caso especial de imposición, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 150.- Abandono de mujer gestante y en situación crítica, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 129-C.- Explotación sexual, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Protocolo para el otorgamiento de medidas de protección [RA 000071-2022-CE-PJ], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Servicios de promoción, prevención y recuperación de víctimas de violencia, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Personas destinatarias de las medidas de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El texto trata de La caución, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Derechos y deberes del abogado defensor, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Traslado al extranjero de persona privada de libertad, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Concurrencia del imputado y su defensor, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Órganos de supervisión y apoyo de la ejecución de la medida de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Objeto y tipos de medidas de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Designación de apoderado común, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto trata de 02165-2018-PHC/TC], sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 129-G.- Gestión de la explotación sexual, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Dependencia económica en denuncia (RN 668-2025, Lima Sur), sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_252_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Programa de protección, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Presupuestos para fundamentar y determinar la pena, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Desarrollo de la diligencia, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Las restricciones, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 129-D.- Promoción o favorecimiento de la explotación sexual, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Desconocimiento de domicilio u otros datos de la víctima, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes, sin resolver la obtención de defensor por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al defensor público y al CEM como representantes de víctimas menores, sin regular la falta de recursos en general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "El texto trata de Artículo 181.- Proxenetismo, sin resolver la obtención de defensor por falta de recursos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,353 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula comunicación urgente de medidas a sujetos procesales, sin indicar si se notifica a la parte o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_228_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al responsable de gestionar notificaciones, sin precisar quién las recibe cuando hay abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_226_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_132_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_82_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "parcial",
+      "rationale": "Regula citaciones de víctimas y testigos, sin resolver la notificación a quien tiene abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Menciona notificación en domicilio procesal para computar apelaciones, sin establecer la regla de destinatarios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce información al agraviado, sin determinar si los avisos judiciales se dirigen a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_78_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "parcial",
+      "rationale": "Regula notificación por edictos cuando se desconoce la ubicación, sin resolver el supuesto de representación letrada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_354_01",
+      "relevance": "parcial",
+      "rationale": "Regula notificación del auto de enjuiciamiento, sin precisar destinatarios cuando existe abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Regula comunicación de la acusación y de la terminación anticipada, sin resolver la alternativa entre parte y abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_83_01",
+      "relevance": "parcial",
+      "rationale": "Extiende una notificación a todos los abogados de un estudio, sin aclarar cuándo debe notificarse también al patrocinado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Regula emplazamiento a juicio, sin establecer la regla general para partes con abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Exige notificación personal de sentencias que afectan la libertad, pero solo resuelve ese supuesto especial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "parcial",
+      "rationale": "Permite conocer actuaciones directamente o mediante abogado, sin fijar la regla general de notificación judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Explica validez de WhatsApp como medio de notificación, sin resolver si debe recibirla la parte o su abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_127_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No determina si las notificaciones judiciales se dirigen a la parte representada o a su abogado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

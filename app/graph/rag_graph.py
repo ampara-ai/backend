@@ -1,8 +1,8 @@
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.graph import END, START, StateGraph
 
-from app.graph.edges import route_context, route_relevance
-from app.graph.nodes import out_of_domain_node
+from app.graph.edges import route_context, route_relevance, route_retrieval
+from app.graph.nodes import no_results_node, out_of_domain_node
 from app.graph.nodes.context_check import context_check_node
 from app.graph.nodes.embedding import embed_query_node
 from app.graph.nodes.generation import generate_node
@@ -19,14 +19,15 @@ def build_rag_graph():
 
     # Recuperación: solo embedding finetuneado (sin BM25/RRF/reranker/reformulación
     # de consulta) — decisión tomada tras el experimento de ablación en
-    # scripts/eval_ablation.py: el embedding solo rindió mejor que cualquier
+    # quantitative_experiments/ablation/eval_ablation.py: el embedding solo rindió mejor que cualquier
     # combinación probada (RRF con o sin peso, reranker actual, reranker Qwen,
     # interpolación de scores, reformulación jurídica de la consulta).
-    # No hay gating de "no_results" por score de retrieval: el score del
-    # embedding no separa de forma confiable "chunk correcto" de "chunk
-    # relacionado pero incorrecto" en este corpus angosto (ver análisis en la
-    # sesión que motivó este cambio) — el filtro de dominio real es
-    # relevance_filter_node, antes de llegar a recuperar.
+    # Gating por similitud: solo llegan al generador los chunks cuyo puntaje de Atlas supera
+    # settings.retrieval_score_threshold ((1 + coseno) / 2; 0.5 equivale a coseno > 0). El umbral es una
+    # red de seguridad, no un discriminador fino: el score del embedding no separa de forma confiable
+    # "chunk correcto" de "chunk relacionado pero incorrecto" en este corpus angosto. Si ningún chunk
+    # lo supera, el nodo no_results responde con el mensaje fijo y no se llama al generador. El filtro de
+    # dominio real es relevance_filter_node, antes de llegar a recuperar.
     graph = (
         StateGraph(RAGState)
         .add_node("relevance_filter", relevance_filter_node)
@@ -36,6 +37,7 @@ def build_rag_graph():
         .add_node("generate", generate_node)
         .add_node("source_grounding", source_grounding_node)
         .add_node("out_of_domain", out_of_domain_node)
+        .add_node("no_results", no_results_node)
         .add_edge(START, "relevance_filter")
         .add_conditional_edges(
             "relevance_filter", route_relevance, ["context_check", "out_of_domain"]
@@ -44,10 +46,13 @@ def build_rag_graph():
             "context_check", route_context, ["embed_query", "generate"]
         )
         .add_edge("embed_query", "semantic_search")
-        .add_edge("semantic_search", "generate")
+        .add_conditional_edges(
+            "semantic_search", route_retrieval, ["generate", "no_results"]
+        )
         .add_edge("generate", "source_grounding")
         .add_edge("source_grounding", END)
         .add_edge("out_of_domain", END)
+        .add_edge("no_results", END)
         .compile(checkpointer=checkpointer)
     )
     return graph

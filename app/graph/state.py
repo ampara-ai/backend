@@ -14,16 +14,16 @@ class RAGState(TypedDict):
     # --- Routing flags ---
     is_relevant: bool
     context_sufficient: bool
-    # Siempre False en producción desde que se quitó el reranker (no hay señal
-    # de retrieval confiable para gatear "no encontré nada" — ver
-    # app/graph/rag_graph.py). Se mantiene el campo porque la API
-    # (app/api/v1/chat.py, schemas.py) sigue exponiéndolo en la respuesta.
+    # True cuando ningún chunk recuperado supera el umbral de similitud
+    # (settings.retrieval_score_threshold) y el grafo responde con el mensaje fijo de
+    # "sin fuentes suficientes" (app/graph/rag_graph.py). La API
+    # (app/api/v1/chat.py, schemas.py) lo expone en la respuesta.
     no_results: bool
 
     # --- Retrieval pipeline ---
     # Solo recuperación con embedding finetuneado (sin BM25/RRF/reranker/
     # reformulación de consulta — decisión tras el experimento de ablación en
-    # scripts/eval_ablation.py). "reranked_docs" es el nombre histórico de la
+    # quantitative_experiments/ablation/eval_ablation.py). "reranked_docs" es el nombre histórico de la
     # clave que espera generate_node; ya no hay reranker, la puebla
     # directamente semantic_search_node.
     query_embedding: list[float]

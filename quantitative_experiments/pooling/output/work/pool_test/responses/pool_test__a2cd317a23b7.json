@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe estereotipos y juicios discriminatorios en la actuación judicial respecto de víctimas, sin abordar específicamente a la acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Vicky Hernández y otros vs. Honduras, f.j. 129 no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Identifica factores sociales y culturales legalmente valorables al fijar la pena, sin autorizar ni analizar prejuicios de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza imparcialidad e igualdad procesal a toda persona, aunque no desarrolla la prohibición de estereotipos de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 98. Constitución y derechos no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Acoso sexista en protestas (Mujeres Atenco vs. México) no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Tres requisitos que el juez debe cumplir para introducir prueba de oficio [Casación 717-2020, Huancavelica] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo III. Interdicción de la persecución penal múltiple no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 71. Derechos del imputado no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 108-B.- Feminicidio no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 253. Principios y finalidad no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 14. Competencia no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce defensa y participación probatoria en plena igualdad, pero no aborda expresamente el sesgo judicial por ser mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Prohíbe la discriminación basada en el sexo y exige igualdad entre mujeres y hombres en la actuación estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Causal de riesgo en la vida y salud del agraviado no es motivo para fundar una transferencia de competencia, pero sí para imponer medidas de protección (caso Arlette Contreras) [Transferencia de Competencia 8-2017, Ayacucho] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la inhibición por causas graves que afecten la imparcialidad, sin precisar el tratamiento de estereotipos contra mujeres acusadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205) no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 22-A. Criterios para dictar medidas de protección no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00199-2018-0 no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Principios en investigación violencia sexual (J. vs. Perú) no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Condena la actuación estatal discriminatoria contra una niña víctima durante la investigación, sin tratar el juzgamiento de mujeres acusadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Buturugă vs. Rumania, f.j. 60 no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Considera discriminatoria la falta de investigación de móviles de género contra víctimas, pero no aborda a mujeres acusadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_157_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 157. Medios de prueba no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "parcial",
+      "rationale": "Exige valoración probatoria sin estereotipos sobre la vida de la víctima, sin tratar directamente los prejuicios contra una acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 397. Correlación entre acusación y sentencia no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Declara ilícita la investigación sin enfoque de género de un feminicidio, pero no desarrolla las garantías de la mujer acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza un trato penal desigual basado en prejuicios sobre una víctima trabajadora sexual, sin resolver el caso de la acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Enumera factores sociales y culturales para individualizar la pena, pero no desarrolla la prohibición de prejuicios contra mujeres."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 5. Definición de violencia contra las mujeres no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Exige enfoque de género en el proceso penal para evitar discriminación contra víctimas, sin abordar específicamente a mujeres acusadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza estereotipos al valorar el consentimiento de una víctima sexual, sin resolver el juzgamiento de una mujer acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Declara incompatibles con los derechos humanos los estereotipos que culpabilizan a víctimas mujeres, sin referirse a la acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Menciona valorar la prueba sexual sin estereotipos, aunque sus reglas se centran en proteger a víctimas menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 1. Objeto de la Ley no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00039-2018-57 no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo prejuicios y estereotipos distorsionan decisiones e investigaciones sobre víctimas, sin tratar expresamente a la acusada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 429. Causales no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Se debe realizar un juzgamiento anticipado en casos de violencia familiar si solo se ofreció documentales y demandado es rebelde [Pleno Jurisdiccional Distrital Penal y Civil de Apurímac, 2015] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto sobre GUÍA MÉDICO LEGAL DE VALORACIÓN INTEGRAL DE LESIONES CORPORALES no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 16. Proceso especial no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021) no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Estado debe ofrecer medidas de protección eficaces en la práctica [Volodina vs. Rusia] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "no",
+      "rationale": "El texto sobre jp_00051_e0018 no determina la legalidad de juzgar a una mujer acusada mediante prejuicios sociales o de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00381_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho de las mujeres a estar libres de discriminación, estigmatización y patrones sociales estereotipados."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

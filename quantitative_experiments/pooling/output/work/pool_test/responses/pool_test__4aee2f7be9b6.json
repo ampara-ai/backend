@@ -1,0 +1,305 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 19. Declaración de la víctima y entrevista única no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Establece el deber de evaluar las amenazas y adoptar medidas preventivas efectivas frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce asistencia y protección integrales, pero no concreta la respuesta preventiva ante las amenazas denunciadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "si",
+      "rationale": "Exige medidas preventivas adecuadas al riesgo y admite limitar derechos del agresor para proteger a las víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 407.- Omisión de denuncia no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé protección en flagrancia, supuesto que no consta en la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Víctima de violación sexual que declara más de una vez sin asistencia o acompañamientos de profesionales de sexo femenino está siendo revictimizada [López Soto y otros vs. Venezuela] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Incluye el auxilio a víctimas entre las atribuciones policiales, sin precisar el deber preventivo frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 413.- Evasión mediante violencia o amenaza no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 261-A. Impedimento de la detención preliminar judicial no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Detalla medidas de protección urgentes para asegurar la integridad de la víctima según su riesgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona limitarse a oír al agresor y no investigar, pero se centra en investigación penal y no en protección preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona la omisión o demora injustificada del auxilio policial ante peligro y violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "si",
+      "rationale": "Explica que la prevención no exige predecir exactamente el ataque y debe considerar la escalada de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite medidas urgentes sin escuchar al denunciado, pero no desarrolla las obligaciones policiales iniciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica la necesidad de protección proporcional al riesgo conocido en un contexto distinto de violencia de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Reconoce que la falta de protección estatal ante violencia doméstica vulnera la igualdad de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 328. Contenido y forma de la denuncia no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "parcial",
+      "rationale": "Regula supervisión e informes de medidas ya dictadas, sin resolver la respuesta inicial a la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "si",
+      "rationale": "Obliga a la policía a valorar el riesgo, proteger provisionalmente y remitir la denuncia a las autoridades competentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 327. No obligados a denunciar no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Exige diligencias policiales urgentes para impedir consecuencias del delito, sin concretar protección por violencia de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige protección efectiva en la práctica y actuación rápida frente a violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Informa de la aprobación de un protocolo de protección, pero no reproduce sus obligaciones concretas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00199-2018-0 no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "si",
+      "rationale": "Obliga a aplicar y remitir la ficha de riesgo para decidir medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "parcial",
+      "rationale": "Regula el deber policial de ejecutar medidas ya dictadas, sin abordar por sí solo la denuncia inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 86. Momento y carácter de la declaración no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo denunciar y que no se requieren lesiones visibles, pero no determina la respuesta preventiva exigible."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Sustenta investigar sin exigir denuncias reiteradas, pero no aborda protección preventiva ante amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deberes de protección ante amenazas que obstruyen investigaciones, supuesto distinto al planteado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Sanciona la negativa o demora injustificada del auxilio policial requerido ante violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece la obligación estatal de prevenir malos tratos conocidos y proteger efectivamente a víctimas de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "si",
+      "rationale": "Exige evaluar continuamente el riesgo de violencia y mantener protección efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "si",
+      "rationale": "Fija plazos urgentes para dictar medidas de protección y ordena su ejecución inmediata."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Considera insuficiente intervenir sin adoptar medidas para evitar un riesgo conocido de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no establece la protección preventiva exigible frente a amenazas de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige ejecución inmediata y constante de medidas ya ordenadas, sin concretar la respuesta inicial a las amenazas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 206. Controles policiales públicos en delitos graves no establece la protección preventiva exigible frente a amenazas de pareja."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

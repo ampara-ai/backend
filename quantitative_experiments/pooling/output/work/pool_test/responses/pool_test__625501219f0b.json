@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto trata Apelación 312-2023, Lima, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto trata Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 205. Control de identidad policial, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_197_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 197. Embalsamamiento de cadáver, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto trata Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 321. Finalidad, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Exige parámetros médico-legales para valorar daño físico, pero no describe la uniformidad de la evaluación de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0107_01",
+      "relevance": "no",
+      "rationale": "El texto trata Guía Evaluación Psicológica Forense Ley 30364, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto trata Contradicciones en declaración (Exp. 02162-2021-6), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto trata Gutiérrez Hernández y otros vs. Guatemala, f.j. 171, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 122. Lesiones leves, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto trata Exp. 03590-2019-89, f.j. 4.d, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto trata No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 71. Derechos del imputado, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 211. Examen corporal del imputado, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 212. Examen corporal de otras personas, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto trata Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Identifica una guía para estandarizar lesiones corporales, sin precisar criterios nacionales para secuelas en el rostro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Estándares mínimos que se deben seguir ante el hallazgo de un cadáver [Veliz Franco y otros vs. Guatemala], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto trata Retractación notarial sin valor (RN 1179-2019, Lima), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 523. Detención Preventiva con fines de extradición, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto trata Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 1865-2015, Huancavelica, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El texto trata Signos de agresión no consumada (RN 143-2009, Ica), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto trata Víctima de violación sexual que declara más de una vez sin asistencia o acompañamientos de profesionales de sexo femenino está siendo revictimizada [López Soto y otros vs. Venezuela], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El texto trata Falta de afectación psicológica (Exp. 122-2020-65), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 192. Objeto, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 264. Plazo de la detención, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El texto trata Acoso sexista en protestas (Mujeres Atenco vs. México), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 441.- Lesión dolosa y lesión culposa, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto trata RFN 3963-2016-MP-FN Daño Psíquico, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 124-B. Determinación de la lesión psicológica, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "El texto trata Valoración de la prueba pericial en delitos de violación sexual [AP 4-2015/CIJ-116], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El texto trata Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto trata Denuncia tardía resta fuerza (RN 2150-2015, Cusco), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la desfiguración grave y permanente como lesión grave, pero no explica cómo se uniformiza su evaluación pericial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto trata Gonzáles y otros vs. México, f.j. 401, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 295. Solicitud del Fiscal, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 77. Enfermedad del imputado, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Implementar medidas de protección no inmediatas ni constantes son inefectivas [López Soto y otros vs. Venezuela], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El texto trata Lubricación indica consentimiento (STS 944/2019, España), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte], sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 2030-2019 Lima, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_195_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 195. Levantamiento de Cadáver, sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00052_e0019_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto trata Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho), sin explicar la uniformidad nacional de la evaluación médico-legal de secuelas faciales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

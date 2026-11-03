@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Muestra responsabilidad estatal por revictimización en la atención médica, sin tratar la esterilización no consentida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_394_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_294_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce responsabilidad estatal por actuaciones médicas revictimizantes, pero no por esterilización sin consentimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber estatal de investigar, sancionar y reparar la violencia obstétrica, sin resolver la imputación de una esterilización en un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_132_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Permite identificar a quienes ejercen funciones en entidades estatales como servidores públicos, sin establecer la responsabilidad del Estado por sus actos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_366_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0096_01",
+      "relevance": "no",
+      "rationale": "No determina la responsabilidad estatal por esterilización no consentida practicada por un médico de un hospital público."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

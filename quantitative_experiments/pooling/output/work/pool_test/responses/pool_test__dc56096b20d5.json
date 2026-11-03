@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "parcial",
+      "rationale": "Trata la falta de persistencia y la insuficiencia probatoria, pero no evalúa una retractación que atribuye la denuncia a rabia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "no",
+      "rationale": "Regula derechos educativos de las víctimas, sin abordar la retractación ni la libertad del denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar pruebas periféricas y dependencia familiar ante la falta de declaración, pero no analiza una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "Resuelve la incidencia del daño emocional en la pena, sin abordar la retractación de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo valorar contradicciones secundarias del menor, sin resolver el efecto de negar la denuncia inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "Analiza la consumación y el desistimiento del agresor, no la retractación de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona falta de persistencia y corroboración con absolución, pero no determina la validez de una retractación por supuesta mentira."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Distingue precisiones de contradicciones y exige valorar corroboraciones, sin analizar una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "La exención del deber de denunciar a familiares no regula los efectos de retractarse de una denuncia presentada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "Valora mentiras del imputado como indicios en homicidio, no una retractación de la víctima menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena pese a la retractación de una menor, al valorar corroboraciones y presiones familiares."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Regula quiénes pueden o deben denunciar, sin tratar el efecto probatorio de una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "si",
+      "rationale": "Establece criterios para valorar la retractación, incluida la justificación de haber denunciado falsamente, y descarta la absolución automática."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Exige analizar dependencia y pruebas periféricas ante falta de incriminación, sin evaluar una retractación posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Analiza la credibilidad de un testimonio tardío sobre una agresión distinta, sin abordar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Resuelve facultades fiscales de detención para identificación y encubrimiento, no efectos de una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "La absolución obedece a problemas de evaluación e identificación de la víctima, sin tratar una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "Regula la vigencia de medidas de protección, sin determinar la libertad penal por retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "parcial",
+      "rationale": "Explica variaciones menores y progresividad del relato, pero no el cambio de versión que niega los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que puede condenarse sin declaración en juicio mediante otras pruebas, pero no evalúa retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "Examina la oralización de una declaración preliminar sin fiscal, sin abordar la retractación de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0085_01",
+      "relevance": "parcial",
+      "rationale": "Discute suficiencia de la declaración y corroboraciones, sin establecer cómo evaluar una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Confirma una absolución ante falta de ratificación y pruebas insuficientes, pero no analiza una retractación por denuncia falsa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios de credibilidad frente a alegaciones de venganza, sin evaluar una retractación de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Resuelve el inicio de la persecución penal y el encubrimiento personal, no el efecto de retractarse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "Regula comunicaciones e investigaciones policiales, sin abordar la retractación ni su valor probatorio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "si",
+      "rationale": "Anula una absolución por no evaluar la posible influencia paterna en la retractación de una menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza prisión preventiva y ausencia de afectación psicológica, sin abordar una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Reconoce el derecho a vivir sin violencia, sin reglas sobre retractación o libertad del denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "parcial",
+      "rationale": "Discute corroboración mediante testigos de referencia, sin evaluar el efecto de una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "si",
+      "rationale": "Exige analizar presiones y dependencia familiar en la retractación de una hijastra y anula la absolución que omitió ese análisis."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "Resuelve la validez de la citación para cámara Gesell, sin abordar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Explica la fuerza probatoria de la declaración de la víctima, sin resolver cómo valorar su posterior retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Expone una absolución vinculada a la retractación en juicio y a la falta de pruebas válidas de autoría."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "Regula el soporte psicológico durante el contrainterrogatorio, sin abordar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "si",
+      "rationale": "Detalla cinco criterios para validar la retractación de una menor y muestra que puede sustentar una absolución si se cumplen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Regula el tratamiento de agresores en medio libre, sin decidir efectos de retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Aporta pautas generales para valorar el testimonio de menores, pero se centra en la aparición tardía del daño psicológico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "Tipifica el acoso sexual a menores, sin regular retractaciones ni valoración de denuncias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Establece requisitos de una retractación válida, aunque el caso resuelve la retractación notarial de la madre y no la de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "si",
+      "rationale": "Explica que el odio hacia el padrastro no basta para considerar falsa la denuncia y que debe evaluarse la retractación con las demás pruebas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "Describe cómo denunciar violencia y obtener protección, sin tratar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Permite incorporar declaraciones previas de menores frente a relatos posteriores inconsistentes, sin evaluar una retractación por mentira."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Analiza una reducción de pena por circunstancias personales y familiares, sin abordar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige valoración integral y flexibiliza la persistencia incriminatoria, pero no analiza una retractación que niega los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "Resuelve restricciones y caución por peligro de obstaculización en otro caso, sin abordar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza el deber del médico de denunciar y la omisión de denuncia, sin tratar la retractación de una víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Señala que la retractación posterior no obliga a una nueva declaración, pero no establece cuándo permite absolver o liberar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Tipifica la violación de personas incapaces de consentir, sin abordar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza la falta de declaración de la acusada por estrategia defensiva, no la retractación de una víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "Describe la pena de limitación de días libres, sin relación con la retractación de una denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "parcial",
+      "rationale": "Distingue rigor sustancial y detalles circunstanciales del relato, pero la absolución se refiere al error sobre la edad y no a una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece contexto sobre retractación y dependencia en maltrato de pareja, sin resolver la retractación de una menor en delitos sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "Regula la sanción por falsedad en juicio y su rectificación, no la libertad del denunciado ante una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios generales de veracidad y corroboración de la declaración infantil, sin evaluar retractaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "si",
+      "rationale": "Explica que una retractación debe cumplir garantías procesales y que la manifestación ante un psicólogo no basta para absolver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "no",
+      "rationale": "Resuelve la oralización de la entrevista en cámara Gesell, sin analizar la retractación ni sus efectos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

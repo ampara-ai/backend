@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por no proteger la vida de una mujer pese a conocer su riesgo, aportando el fundamento central del reclamo por omisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_246_01",
+      "relevance": "no",
+      "rationale": "La apelación de prueba anticipada no trata de responsabilidad estatal por falta de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona desaparición y muerte de una adolescente con investigación deficiente y discriminación, pero no desarrolla responsabilidad por falta de búsqueda inmediata."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El examen excepcional de una víctima menor en juicio no responde al reclamo por omisión estatal de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Los límites de apelación del actor civil contra una absolución no resuelven responsabilidad del Estado por inacción en una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "si",
+      "rationale": "Describe falta de búsqueda efectiva tras la denuncia y declara responsabilidad internacional del Estado con reparaciones por la desaparición y muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "parcial",
+      "rationale": "Establece comunicación policial inmediata al Ministerio Público, pero no explica responsabilidad estatal ni reparación por falta de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "no",
+      "rationale": "La notificación por edictos de personas de ubicación desconocida no regula búsqueda de desaparecidas ni responsabilidad estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "La agravante y amenaza en actos contra el pudor no ayudan a reclamar al Estado por demora en buscar a una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona la omisión o demora de auxilio policial a personas en peligro, pero no desarrolla responsabilidad del Estado ni reparación a familiares."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Las facultades de identificación policial y el encubrimiento de una fiscal no resuelven responsabilidad estatal por falta de búsqueda oportuna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "La suficiencia probatoria en actos contra el pudor no trata de omisión estatal ante una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deber de investigar y reparaciones por falta de verdad a familiares, aunque se refiere a desaparición forzada y no a omisión de búsqueda preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "La investigación de faltas por juzgados de paz no aborda responsabilidad del Estado por la muerte de una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "La estrategia de silencio de un acusado no ayuda a determinar responsabilidad estatal por búsqueda tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Declara responsabilidad y reparaciones por investigación estatal negligente, pero trata de investigación posterior a una muerte causada por un policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "La motivación de prisión preventiva y valoración psicológica de una menor no responde al reclamo por inacción estatal en una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0017_01",
+      "relevance": "no",
+      "rationale": "La notificación por WhatsApp y los plazos de apelación no tratan de la responsabilidad por no buscar a una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "La retención de personas durante una pesquisa no regula el deber de búsqueda ni las consecuencias de incumplirlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Establece que la falta de protección estatal frente a violencia que terminó en muerte vulnera la igualdad de protección legal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_195_01",
+      "relevance": "no",
+      "rationale": "El levantamiento e identificación de cadáveres no establece responsabilidad estatal por omitir la búsqueda previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "La investigación preliminar de una querella particular no corresponde al reclamo por falta de búsqueda de una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica la omisión o demora ilegal de actos funcionales, pero no establece responsabilidad del Estado o reparación a familiares por la desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "Los requisitos para examinar a una menor en juicio oral no responden al reclamo por búsqueda estatal tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Los límites de la apelación del actor civil no resuelven responsabilidad estatal por falta de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_5_01",
+      "relevance": "no",
+      "rationale": "La determinación territorial del delito no ayuda a reclamar por inacción estatal ante una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad por no prevenir una muerte pese a denuncias y riesgo conocido, explicando el fundamento de un reclamo por omisión estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El valor de una manifestación policial sin fiscal ni abogado no determina responsabilidad del Estado por búsqueda tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Los poderes del tribunal de apelación y el control difuso no tratan de responsabilidad estatal por omisión de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El principio de igualdad de armas sobre pruebas no ayuda a reclamar por falta de búsqueda de una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce responsabilidad y reparaciones por protección tardía e inefectiva durante un proceso, pero no aborda la búsqueda inicial de una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El trámite de apelación de medidas de protección no establece responsabilidad por una desaparición desatendida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal y reparaciones por falta de prevención e investigación diligente de desapariciones y asesinatos de mujeres."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección efectiva e investigación rápida en violencia doméstica, pero no desarrolla el reclamo por desaparición seguida de muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "Trata de tortura sexual cometida por policías y reparaciones por esos actos, sin resolver omisión de búsqueda ante una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El soporte psicológico de una menor en contrainterrogatorio no responde a la responsabilidad por búsqueda tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona responsabilidad estatal con omisión de protección que obstaculiza investigaciones, pero se refiere a amenazas a testigos y familiares."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Declara violación estatal por no adoptar medidas razonables ante un riesgo conocido que terminó en muerte, sosteniendo el reclamo por omisión de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "Los informes de ejecución de medidas protectoras no resuelven responsabilidad estatal por no iniciar la búsqueda de una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "si",
+      "rationale": "Describe falta de búsqueda inmediata tras denuncias de desaparición y declara responsabilidad internacional con reparaciones por la muerte y la investigación deficiente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "La demora judicial en resolver la situación de un detenido por alimentos no corresponde al reclamo por desaparición desatendida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "La valoración del testimonio tardío y la nulidad de una absolución no resuelven responsabilidad estatal por falta de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "no",
+      "rationale": "Los derechos educativos de víctimas no ayudan a reclamar al Estado por inacción ante una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "Los estereotipos en una condena por aborto no resuelven la omisión de búsqueda de una desaparecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "La tipicidad de encubrimiento personal y los límites de detención no resuelven responsabilidad estatal por búsqueda tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "no",
+      "rationale": "La actuación obligatoria de prueba de ADN no trata de responsabilidad por omitir búsqueda urgente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Explica quién puede reclamar reparación por un delito, pero no establece responsabilidad estatal por inacción ante una desaparición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "La omisión de declaración de una acusada por negligencia defensiva no ayuda a reclamar por falta de búsqueda estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad internacional por investigación no diligente ni oportuna de una desaparición, aportando base directa para reclamar al Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "La suspensión de prescripción por acusación directa en alimentos no corresponde al reclamo por búsqueda tardía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "La evaluación de retractación de una víctima menor no establece responsabilidad del Estado por omitir su búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Establece deberes estatales de prevenir e investigar violencia conocida, pero no resuelve responsabilidad por desaparición y muerte tras búsqueda omitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica negativa o demora injustificada del auxilio policial, sin desarrollar la responsabilidad estatal o reparación por falta de búsqueda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Declara vulneración por negarse a investigar denuncias de violencia doméstica, pero no aborda la omisión de búsqueda previa a una muerte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "La continuidad y suspensión del juicio oral no tratan de búsqueda de desaparecidas ni responsabilidad estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad estatal por no actuar ante riesgo real conocido y aclara que no es necesario probar que otras medidas habrían evitado la muerte."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

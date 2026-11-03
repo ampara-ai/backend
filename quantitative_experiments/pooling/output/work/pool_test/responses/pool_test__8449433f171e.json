@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_514_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_146_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_123_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_561_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_83_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe criterios de medidas y su extensión a dependientes, sin establecer que la jueza deba informar sobre su solicitud."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Enumera medidas de ayuda en la sentencia, sin regular el deber de informar sobre tenencia u otras cautelares."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Exige informar a la agraviada sobre sus derechos procesales, sin precisar las medidas de tenencia y ayuda consultadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Impone al Poder Judicial y demás operadores informar a la víctima sobre sus derechos y darle asesoramiento según su situación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_114_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "parcial",
+      "rationale": "Permite solicitar una pensión provisional, sin establecer el deber judicial de informar a la víctima sobre esa posibilidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_535_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_99_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula la emisión y comunicación de medidas, sin exigir informar previamente sobre la posibilidad de solicitarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento no trata el deber de informar a la víctima sobre la solicitud de tenencia u otras medidas de ayuda."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

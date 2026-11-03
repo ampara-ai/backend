@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "parcial",
+      "rationale": "Regula la agravación por abuso del parentesco, pero no establece por sí solo la pena de esta violación ni el efecto del examen sin desgarros."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una condena a cadena perpetua por violación de una hija de once años, sin resolver el supuesto de embarazo y ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "parcial",
+      "rationale": "Explica que no es necesaria la rotura del himen para consumar la violación, pero la pena citada corresponde a otro supuesto concreto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "parcial",
+      "rationale": "Explica que el embarazo contribuye a confirmar la consumación de la violación, pero no indica la pena aplicable al padre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Cita una condena de treinta años por violación de la hija, pero su criterio es probatorio y no resuelve embarazo ni ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_60_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la penetración parcial configura violación consumada, sin determinar la pena del padre en el supuesto planteado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_78_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0102_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_29-a_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Contiene penas y agravantes por parentesco en la violación sexual general, pero no resuelve el régimen específico de una niña ni la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0055_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la violencia sexual no necesita dejar lesiones físicas, pero no determina la pena correspondiente al padre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_181_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Cita cadena perpetua por violación de menor de catorce años, pero se centra en la validez de la entrevista y no en el supuesto médico planteado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Cita treinta y cinco años por violación de una menor por su padrastro, sin resolver la pena para embarazo sin desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Cita cadena perpetua por violación de una niña embarazada por su padrastro, pero su criterio aborda daño emocional y no el examen sin desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No determina la pena por violación de la hija con embarazo pese a la ausencia de desgarro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0065_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo se individualiza una pena dentro del marco legal, sin proporcionar el marco específico de esta violación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

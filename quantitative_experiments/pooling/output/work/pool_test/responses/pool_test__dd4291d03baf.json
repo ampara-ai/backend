@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Describe casación contra decisiones de segunda instancia, pero no identifica la instancia que revisa al juez inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata calificación de lesiones y reforma de condena sin explicar a qué tribunal recurrir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata revictimización al repetir entrevistas sin orientar sobre competencia revisora."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "si",
+      "rationale": "Identifica a las Salas Penales de las Cortes Superiores como competentes para apelar decisiones de jueces penales y de investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "Trata retractación de la víctima y valoración probatoria sin precisar la vía revisora general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "parcial",
+      "rationale": "Enumera decisiones apelables y menciona sede de Sala Penal Superior, pero no distribuye competencia según el juez inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Explica presentación y admisión del recurso sin identificar el tribunal revisor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "si",
+      "rationale": "Identifica a la Sala Penal Superior como órgano que revisa para anular o revocar la resolución impugnada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Muestra revisión por tribunal de apelación y sus facultades, pero no establece la competencia general según el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Indica que el recurso se presenta ante el mismo juez sin identificar quién lo resuelve arriba."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata revisión de órdenes de alejamiento en Croacia, sin identificar el tribunal peruano competente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata igualdad de armas en pruebas sin orientar sobre tribunal competente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Regula registros de víctimas y condenas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Identifica a la Corte Suprema para casación de decisiones de segunda instancia, sin resolver la apelación inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Enumera órganos penales sin decir cuál revisa la decisión de cada juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata calificación alternativa y remisión de copias, sin establecer vía revisora general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "parcial",
+      "rationale": "Indica recurso ante órgano superior cuando se deniega apelación, pero no precisa el tribunal de la apelación ordinaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la Sala Penal Superior para apelar medidas de investigación, sin establecer la competencia general de la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_9_01",
+      "relevance": "parcial",
+      "rationale": "Indica que la Sala Penal Superior revisa autos del juez de investigación en este procedimiento, sin cubrir decisiones de otros jueces."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_35_01",
+      "relevance": "no",
+      "rationale": "Regula una comisión multisectorial, no tribunales revisores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites de revaloración de prueba en la Sala de Apelaciones, sin establecer la competencia general según el juez inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Delimita materia que revisa el tribunal sin identificarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "Regula consecuencias de anular un juicio sin señalar el tribunal al que recurrir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Trata plazos y notificación para apelar, sin establecer de forma general el tribunal competente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "Examina imparcialidad de un tribunal español, no competencia revisora peruana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Muestra actuación de Sala Penal de Apelaciones frente al recurso de la víctima, sin fijar la competencia general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Describe tramitación de casación hacia la Corte Suprema tras segunda instancia, no apelación inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata declaración excepcional de menores víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata reemplazo de jueces durante el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Regula tratamiento de agresores en libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "Regula consultas de cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "parcial",
+      "rationale": "Enumera causales de casación sin identificar el tribunal revisor inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_453_01",
+      "relevance": "no",
+      "rationale": "Regula apelación en procesos especiales contra altos funcionarios, no el proceso ordinario consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Explica competencia de Corte Suprema en casación, una revisión de segunda instancia distinta de la apelación inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "Regula legitimación para revisión extraordinaria del condenado, no apelación de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "Regula contiendas de competencia y no revisión del fondo de una decisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "Regula servicios de reeducación de agresores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata preguntas aclaratorias e imparcialidad en España."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "La guía de evaluación física no trata recursos ni tribunales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula recalificación jurídica y ampliación de acusación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "Regula elevación del pedido de sobreseimiento al fiscal superior por desacuerdo judicial, no apelación ante tribunal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "parcial",
+      "rationale": "Explica trámite de queja sin identificar el tribunal que revisa la decisión del juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "Regula pruebas tras rechazo de colaboración eficaz."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Delimita legitimación de parte civil ante absolución sin indicar el tribunal al que debe recurrir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata control constitucional de decisiones fiscales, no revisión de decisiones del juez penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "La reposición se resuelve por el mismo juez y no indica una instancia superior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_103_01",
+      "relevance": "parcial",
+      "rationale": "Identifica Sala Penal Superior solo para apelación sobre constitución en actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Muestra revisión por Sala Superior y límites del actor civil sin fijar competencia general según el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Muestra que Sala Penal de Apelaciones revisa y puede anular absolución o sobreseimiento sin cubrir la regla general de competencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención judicial en flagrancia sin orientar sobre tribunal revisor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Explica decisiones de la Corte Suprema en casación tras segunda instancia, no el recurso inicial contra el juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Identifica Sala Penal Superior para revisión de sentencia y Corte Suprema para supuestos posteriores, aportando la instancia revisora de sentencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata devolución de acusación en audiencia y reposición, un incidente específico distinto de la revisión general consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_417_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Delimita ámbito de impugnación de las partes sin identificar el tribunal superior."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

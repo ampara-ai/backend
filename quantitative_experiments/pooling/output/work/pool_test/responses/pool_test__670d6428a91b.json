@@ -1,0 +1,353 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Trata los supuestos de nueva declaración de la menor, sin resolver la actuación del video."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce eficacia a la entrevista previa sin repetirla, pero no precisa la reproducción del video en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Analiza el contenido y la validez de una entrevista, sin fijar su actuación en el plenario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "parcial",
+      "rationale": "Regula la reproducción de grabaciones en audiencia, pero no su obligatoriedad específica en este supuesto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor a declaraciones previas, sin tratar la reproducción de la entrevista grabada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la validez de la entrevista con garantías, sin exigir su reproducción en audiencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Ordena incorporar en juicio la declaración previa del menor mediante audio, video o acta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Distingue la entrevista de una evaluación psicológica, sin resolver la reproducción del video."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_139_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "si",
+      "rationale": "Exige incorporar la entrevista única válida mediante oralización y someterla al contradictorio del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Regula oralizar la declaración de otra testigo ausente, sin resolver la actuación de la entrevista infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Protege frente a la repetición de la entrevista, pero no determina la reproducción del video en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Justifica evitar la comparecencia de las menores, sin regular la reproducción del video de entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige incorporación válida y contradicción de la entrevista en el plenario, sin precisar su reproducción audiovisual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Explica cómo incorporar en juicio la entrevista en cámara Gesell con las garantías requeridas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "si",
+      "rationale": "Establece la actuación de la entrevista previa y permite leer su acta si falla el video."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Regula las excepciones de nueva declaración en juicio, sin determinar cómo actuar el video previo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Exige entrevista única como prueba anticipada, sin desarrollar su actuación en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé filmar la entrevista para evitar revictimización, pero no regula su reproducción en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Describe una entrevista visualizada en juicio y su validez, sin establecer que deba actuarse el video."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé grabar las declaraciones anticipadas de menores, sin regular su actuación en el plenario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Promueve una única declaración y la reserva, sin precisar la reproducción en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula el examen de testigos y peritos, pero no la actuación de la entrevista grabada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No aborda la incorporación o reproducción en juicio del video de la entrevista de la menor."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

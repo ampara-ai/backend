@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación civil fijada con la pena y garantizada por el juez, pero no los alimentos por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 2. Principio de oportunidad no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 334. Calificación no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 8. Tipos de violencia no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22-A. Criterios para dictar medidas de protección no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Rodríguez Pacheco y otra vs. Venezuela, f.j. 112 no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_551_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 551. Entrega vigilada y protección de la jurisdicción nacional no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-F.- Beneficio p or explotación sexual no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "parcial",
+      "rationale": "Prevé medidas de alimentos ante el juzgado de familia, sin resolver la facultad del juez penal en el supuesto descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 411. Libertad de los imputados no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 289. La caución no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_312-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo asegurar una reparación civil mediante bienes, pero no establece el derecho al sustento tras el embarazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 365. Delito en el juicio no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 441.- Lesión dolosa y lesión culposa no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 149.- Omisión de prestación de alimentos no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 547. Pena de multa y el decomiso no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 64.- Reglas de conducta no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por hijo con víctima (Casación 2010-2019, Del Santa) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 288. Las restricciones no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo VII.- Responsabilidad Penal no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El uso de estereotipos de género en el proceso penal evidencia la violación a la presunción de inocencia, la motivación y la imparcialidad [Manuel y otros vs. El Salvador] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-C.- Explotación sexual no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Dependencia económica en denuncia (RN 668-2025, Lima Sur) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 1. Objeto de la Ley no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170.- Violación sexual no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la acción civil del perjudicado dentro del proceso penal, sin precisar la obligación alimentaria por la violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 324. Reserva y secreto de la investigación no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "parcial",
+      "rationale": "Permite fijar reparación civil en la conclusión anticipada, pero no trata alimentos por el hijo producto de una violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_489_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 489. Ejecución Penal no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Embarazo confirma consumación (Revisión NCPP 426-2019) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_14_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 14. Transacción no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_93_01",
+      "relevance": "parcial",
+      "rationale": "Incluye indemnización de daños y perjuicios, pero no regula la orden de alimentos por embarazo producto de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Explica quién puede reclamar reparación dentro del proceso penal, sin determinar el sustento del bebé."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Permite ejercer la acción civil ante el juez penal, pero no desarrolla alimentos por embarazo producto de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 111. Citación a personas que tengan responsabilidad civil no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce compensación económica y asistencia psicológica a víctimas de violación, pero no la manutención del bebé."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "si",
+      "rationale": "Permite al juez penal fijar una pensión anticipada por violación sexual cuando la víctima no puede obtener su sustento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 242. Supuestos de prueba anticipada.- no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "parcial",
+      "rationale": "Confirma reparación civil en una violación con embarazo, pero no establece una pensión de alimentos para el hijo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 310. Orden de inhibición no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023] no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 107. Derechos del querellante particular no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Bien jurídico libertad sexual (Casación 148-2010, Moquegua) no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_178_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no determina si el juez penal puede ordenar apoyo económico por embarazo derivado de violación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

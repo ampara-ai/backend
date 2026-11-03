@@ -1,0 +1,389 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Trata la incorporación de entrevistas de la menor, no la declaración policial de su madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece examen fuera de sala cuando el testigo tiene impedimento, sin resolver el valor de lo declarado antes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Describe videoconferencia ante imposibilidad de presencia física, sin resolver el valor de la declaración policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la ausencia fiscal no causa nulidad, pero exige contradicción en juicio y no resuelve la inasistencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Valida una entrevista de la menor con garantías distintas de la declaración policial de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "parcial",
+      "rationale": "Indica que la ausencia de testigos no impide instalar juicio, sin decidir el valor de su manifestación previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Permite proseguir sin actor civil, pero no resuelve la eficacia de su declaración policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "parcial",
+      "rationale": "Expone garantías de prueba anticipada sin validar la manifestación policial previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_431_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "parcial",
+      "rationale": "Regula testimonios de quien no puede comparecer sin decidir el valor de una declaración policial anterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Trata una entrevista de víctima con conducción fiscal, no la manifestación de la madre sin fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "parcial",
+      "rationale": "Regula la comparecencia compulsiva del testigo sin resolver el valor de su declaración previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Analiza declaraciones previas de menores y madre sin emplazamiento, pero no la ausencia fiscal planteada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "parcial",
+      "rationale": "Permite valorar una declaración preliminar con fiscal, supuesto distinto al consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Expone la obligación de concurrir, pero no la eficacia de la manifestación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Trata la eficacia de entrevista única de menores, no la declaración policial materna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Regula declaraciones previas de menores, no la manifestación policial de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece alternativas para testigos lejanos sin resolver la eficacia de su manifestación previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "si",
+      "rationale": "Exige declaración ante fiscal y garantías de contradicción para leer el testimonio de quien no concurre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Cuestiona el valor de la declaración policial, pero en acusación directa y no ante inasistencia al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé prueba anticipada por impedimento sin resolver el valor de la declaración policial previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Indica que las manifestaciones policiales sin participación fiscal carecen de solvencia probatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Regula nuevo examen de menores, no el testimonio previo de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_351_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_463_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Expone las facultades policiales de investigación sin determinar el valor probatorio en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé prueba anticipada por impedimento sin resolver la eficacia de lo declarado antes a la policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "si",
+      "rationale": "Analiza la ausencia de la madre en juicio y la valoración de su denuncia junto con otras pruebas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula entrevista única de la víctima, no la manifestación de su madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Autoriza a la policía a recibir declaraciones de denunciantes sin determinar su eficacia ante inasistencia al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00468_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve la eficacia del testimonio policial de una madre ausente del juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

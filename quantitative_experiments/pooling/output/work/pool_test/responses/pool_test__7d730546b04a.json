@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 214. Solicitud y ámbito del allanamiento no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_333_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 333.- Provocación pública a la desobediencia militar no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 260. Arresto Ciudadano no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 124.- Lesiones Culposas no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 378. Examen de testigos y peritos no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 196.- Estafa no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121.- Lesiones graves no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 25.- Complicidad primaria y complicidad secundaria no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 177.- Formas agravadas no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 301.- Coacción al consumo de droga no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Analiza el castigo de insultos con afectación psicológica, pero no el efecto de responder a una provocación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 50.- Concurso real de delitos no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 45.- Presupuestos para fundamentar y determinar la pena no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20.- Inimputabilidad no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 321.- Tortura no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 107. Derechos del querellante particular no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122. Lesiones leves no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Buturugă vs. Rumania, f.j. 60 no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Distingue insultos en conflictos familiares y violencia psicológica, sin explicar las injurias provocadas o recíprocas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para la admisión en apelación de prueba testimonial ya rendida en primera instancia (doctrina jurisprudencial vinculante) [Casación 854-2015, Ica] no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 12.- Delito doloso y delito culposo no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 1865-2015, Huancavelica no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 462. Auto de citación a juicio y audiencia no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184.- Castigo a cómplices no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas] no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_106_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 106.- Homicidio Simple no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 504. Incidentes de ejecución y recursos no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 11.- Delitos y faltas no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 182. Procedencia no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 237. Procedencia no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108-B.- Feminicidio no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 23.-Autoría, autoría mediata y coautoría no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 143.- Alteración o supresión del estado civil no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 194. Participación de testigos y peritos no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_240_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 240. Forma de la diligencia no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra consecuencias distintas en agresiones verbales y físicas recíprocas, pero no la exención por injuria provocada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151.- Coacción no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "parcial",
+      "rationale": "Contempla emoción o temor excusables como atenuantes, sin regular la injuria provocada o recíproca."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205.- Daño simple no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 441.- Lesión dolosa y lesión culposa no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192. Objeto no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 208. Motivos y objeto de la inspección no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15.- Error de comprensión culturalmente condicionado no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Temeridad: Multan con 5 URP a abogado que sostuvo que no conocía del recurso en cuya instancia intervenía y que no estaba preparado [Revisión de Medida Disciplinaria 8-2022, La Libertad] no explica el castigo de las injurias recíprocas o provocadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_137_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 428. Desestimación no explica el castigo de las injurias recíprocas o provocadas."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

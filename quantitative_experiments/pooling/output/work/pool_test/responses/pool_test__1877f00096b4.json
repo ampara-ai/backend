@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Expone fines de rehabilitación, pero no autoriza terapia judicial sin prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la reeducación del agresor como finalidad del sistema, sin regular la orden judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "si",
+      "rationale": "Dispone tratamiento especializado al condenado incluso en reserva del fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_58_01",
+      "relevance": "si",
+      "rationale": "Permite imponer tratamiento psicológico o psiquiátrico al suspender la pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Menciona tratamiento reeducativo, pero en una condena de prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "si",
+      "rationale": "Permite imponer tratamiento psicológico o psiquiátrico al reservar el fallo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "parcial",
+      "rationale": "Prevé servicios de reeducación para detener la violencia, sin precisar la facultad judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Describe terapia pactada ante el fiscal, sin establecer una imposición judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_178-a_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_77_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_32_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "No establece la facultad judicial de ordenar terapia al agresor que no cumple prisión efectiva."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

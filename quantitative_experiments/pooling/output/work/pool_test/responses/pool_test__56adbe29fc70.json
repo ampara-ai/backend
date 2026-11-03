@@ -1,0 +1,413 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 124.- Lesiones Culposas no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica la violencia como medio de violación, pero no el efecto del matrimonio sobre su gravedad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Considera matrimonio posterior y otras circunstancias para reducir una pena, sin resolver una violación cometida por el esposo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 441.- Lesión dolosa y lesión culposa no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Establece que aprovechar el vínculo conyugal agrava la pena, en lugar de atenuarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 14.- Error de tipo y error de prohibición no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Procede principio de oportunidad en el delito de lesiones leves por violencia de género no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 482-2024, Lima no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Posible injerencia en vida privada por medidas de protección [Kurt vs. Austria] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Tentativa de violación (RN 316-2021, Lima Este) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 442.- Maltrato no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre STS 3147/2022 no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-C.- Explotación sexual no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 17-A. Flagrancia en casos de riesgo severo no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que una relación de pareja y la falta de resistencia no implican consentimiento, sin precisar la gravedad por matrimonio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Dinámica de violencia doméstica para evaluar riesgo [Kurt vs. Austria] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Voto particular: Estado está obligado a proporcionar un mecanismo para la revisión de las órdenes de alejamiento en casos de violencia doméstica [Malagić v. Croacia] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "si",
+      "rationale": "Establece un aumento de pena por abuso del vínculo conyugal, salvo que ya constituya agravante específica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 11.- Delitos y faltas no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 16-E. Proceso por faltas no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 508-2019, Lima, ff. jj. 5, 8 no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 483. Iniciación no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que el vínculo sentimental no legitima relaciones sexuales forzadas, sin determinar la agravación por matrimonio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre STS 4001/2022 (España) - Excusa absolutoria no aplica a apoderamientos violentos o intimidatorios no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 2030-2019 Lima no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Consecuencias de la falta de un enfoque de género en la investigación penal [Velásquez Paiz vs. Guatemala] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Concepto violación sexual (Espinoza Gonzáles vs. Perú) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Da criterios generales para determinar la pena, pero no establece el efecto del vínculo conyugal en la violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176-B.- Acoso sexual no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la fuerza o coacción invalidan el consentimiento, sin abordar el efecto del matrimonio sobre la gravedad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122. Lesiones leves no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre jp_00051_e0006 no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Exp. 00199-2018-0 no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Exp. 01386-2020-0 no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Sí procede el acuerdo reparatorio en el delito de lesiones leves por violencia contra la mujer [Pleno Jurisdiccional Distrital Penal de Ventanilla, 2017] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Sugilaciones no prueban violencia (RN 1708-2021, Lima Este) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-D.- Promoción o favorecimiento de la explotación sexual no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 151-A.- Acoso no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Incluye aprovechar la condición de cónyuge entre las agravantes de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122. Lesiones leves no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Falta de afectación psicológica (Exp. 122-2020-65) no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "parcial",
+      "rationale": "Describe una imputación de violación entre cónyuges, pero resuelve suficiencia probatoria y no una menor gravedad por matrimonio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Falta de una debida diligencia de la investigación no satisface el derecho de los familiares de la víctima de conocer la verdad de los hechos [García Ibarra y otros vs. Ecuador] no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 21. Responsabilidad funcional no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00219_e0010_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 124-B. Determinación de la lesión psicológica no aporta información para resolver el efecto del vínculo matrimonial sobre la gravedad de la violación sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

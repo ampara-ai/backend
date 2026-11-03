@@ -1,0 +1,359 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 45. Inhibición del Juez no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 371. Apertura del juicio y posición de las partes no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 20-A. Comunicación de sentencia firme y de disposición de archivo no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_340_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 340. Circulación y entrega vigilada de bienes delictivos no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 97. Designación de apoderado común no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 426. Nulidad del juicio no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 525. Ámbito e Iniciación no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_519_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 519. Concurso de extradiciones no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 355. Auto de citación a juicio no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 536. Requisitos y trámite de la carta rogatoria a autoridades extranjeras no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_562_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 562. Asistencia Judicial no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 116. Lugar no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_26_01",
+      "relevance": "parcial",
+      "rationale": "Identifica la autoridad que transfiere competencia, pero no las causales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16. Proceso especial no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 429. Causales no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 487. Desistimiento o transacción no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_516_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 516. Ámbito no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 133. Exhortos a autoridades extranjeras no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-A. Desconocimiento de domicilio u otros datos de la víctima no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Bien jurídico libertad sexual (Casación 148-2010, Moquegua) no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_517_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 517. Rechazo de la extradición no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_541_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 541. Jurisdicción del Perú sobre la condena impuesta no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 6. Excepciones no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 542. Condiciones para el traslado y el cumplimiento de condenas no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 191.- Sustracción de bien propio no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_248_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 248. Medidas de protección no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica las causales de transferencia y aclara qué riesgos no la justifican."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_513_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 513. Procedencia no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 12. Ejercicio alternativo y accesoriedad no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 430. Interposición y admisión no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 000359-2024-PA/TC, f. j. 13 no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_222_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 222. Devolución de bienes incautados y entrega de bienes sustraídos no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 416. Resoluciones apelables y exigencia formal no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 437. Procedencia y efectos no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_381_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 381. Audiencia especial para testigos y peritos no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108. Requisitos para constituirse en querellante particular no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_318_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 318. Bienes incautados no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_40_01",
+      "relevance": "parcial",
+      "rationale": "Describe cómo solicitar la transferencia, pero no cuándo procede."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 169. Testigos residentes fuera del lugar o en el extranjero no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_551_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 551. Entrega vigilada y protección de la jurisdicción nacional no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_302_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 302. Indagación sobre bienes embargables no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_34_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 34. Declinatoria de competencia no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 404. Facultad de recurrir no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 244. Trámite de la solicitud no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 533. Traslado al extranjero de persona privada de libertad no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150. Nulidad absoluta no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 43. Contienda de competencia por inhibición no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 53. Inhibición no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 363. Dirección del juicio no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 223. Remate o subasta del bien incautado no establece las situaciones que permiten transferir el juicio a otra jurisdicción."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

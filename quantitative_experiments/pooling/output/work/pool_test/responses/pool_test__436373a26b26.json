@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Expone control judicial de decisiones de sobreseimiento, sin regular el archivo fiscal tras la formalización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a comunicar al juez la continuación formal, sin establecer sus efectos sobre el archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "parcial",
+      "rationale": "Describe la formalización y su comunicación al juez, sin regular el cierre posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo controlar un archivo fiscal mediante amparo, sin resolver el límite tras formalizar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Regula disposiciones de archivo en general, sin precisar el límite tras formalizar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "parcial",
+      "rationale": "Regula el archivo previo a formalizar, útil como contraste pero no resuelve el supuesto posterior."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "parcial",
+      "rationale": "Distingue conclusión de investigación y solicitud de sobreseimiento, sin desarrollar el archivo unilateral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "si",
+      "rationale": "Establece que el sobreseimiento requiere una decisión del juez sobre el pedido fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_188_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iv_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "parcial",
+      "rationale": "Describe efectos del archivo fiscal previo, sin resolver el supuesto de investigación formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aborda revisión judicial del sobreseimiento y conformidad fiscal, sin regular el archivo unilateral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "si",
+      "rationale": "Exige sobreseimiento judicial si la acción penal ya fue promovida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "si",
+      "rationale": "Tras concluir la investigación, el fiscal debe requerir el sobreseimiento, no archivarla por sí solo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_91_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_339_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_14_01",
+      "relevance": "no",
+      "rationale": "No aborda si el fiscal puede archivar unilateralmente una investigación ya formalizada."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

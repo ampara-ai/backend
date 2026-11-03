@@ -1,0 +1,413 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 442.- Maltrato» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_99_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 99. Concurrencia de peticiones» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 64.- Reglas de conducta» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 22-B. Medidas cautelares» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 138.- Ejercicio privado de la acción penal» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 208.- Excusa absolutoria. Exención de Pena» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151-A.- Acoso» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 1865-2015, Huancavelica» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 39.- Inhabilitación accesoria» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 508-2019, Lima, ff. jj. 5, 8» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_188_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 188.- Robo» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 2284-2022, Selva Central, f. j. 15» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-F.- Beneficio p or explotación sexual» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_547_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 547. Pena de multa y el decomiso» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 57.- Requisitos para la suspensión de la ejecución de la pena» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_191_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 191.- Sustracción de bien propio» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 1. Objeto de la Ley» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Víctima de violación sexual que declara más de una vez sin asistencia o acompañamientos de profesionales de sexo femenino está siendo revictimizada [López Soto y otros vs. Venezuela]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 314. Pensión anticipada de alimentos» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 542. Condiciones para el traslado y el cumplimiento de condenas» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 523. Detención Preventiva con fines de extradición» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 8. Tipos de violencia» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_519_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 519. Concurso de extradiciones» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 92.- La reparación civil: Oportunidad de su determinación» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 7. Sujetos de protección de la Ley» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Exp. 01386-2020-0» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-C.- Explotación sexual» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 189.- Robo agravado» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 29.- Duración de la pena privativa de libertad» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121.- Lesiones graves» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Existe un desistimiento tácito de querellante que no asiste injustificadamente una vez a audiencia [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Tumbes, 2017]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Opuz vs. Turquía, f.j. 147» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_190_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 190.- Apropiación ilícita común» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Procede aplicar el principio de oportunidad o acuerdo reparatorio en el delito del art. 122-B del CP [Pleno Jurisdiccional Distrital Penal de Áncash, 2017]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_94_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 94. Definición» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur)» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Lesiones leves» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 408-2025, Lima Sur - Nieto se apropió de S/184 800 de su abuela en contexto de violencia familiar» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 62. Reserva del fallo condenatorio. Circunstancias y requisitos» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que el imputado sea padre de familia no conlleva la aplicación inmediata del principio de interés superior del niño [Casación 1421-2023, Loreto]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 441.- Lesión dolosa y lesión culposa» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 931-2016, Cusco» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 108-B.- Feminicidio» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_36_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 36. Inhabilitación» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Lesiones leves» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete]» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 490. Cómputo de la pena privativa de libertad» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 20. Sentencia» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 152.- Secuestro» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 50.- Concurso real de delitos» no aporta información para resolver la exclusión de la herencia por condenas reiteradas de violencia contra la causante."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

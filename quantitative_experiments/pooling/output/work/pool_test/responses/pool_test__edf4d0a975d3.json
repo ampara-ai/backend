@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Penal Miguel Castro Castro vs. Perú, f.j. 303 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 440. Legitimación no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 138.- Ejercicio privado de la acción penal no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122. Lesiones leves no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Casación 178-2024, Tumbes, f. j. 12 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 15-C. Trámite de la denuncia presentada ante el juzgado de familia no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 184.- Castigo a cómplices no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Contempla protección de dependientes y víctimas indirectas en ciertos casos, pero no define a familiares de víctimas de tortura como damnificados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Acoso sexista en protestas (Mujeres Atenco vs. México) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 16-B. Remisión de actuados a la fiscalía penal y formación del cuaderno de medidas de protección no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 2030-2019 Lima no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Que el imputado sea padre de familia no conlleva la aplicación inmediata del principio de interés superior del niño [Casación 1421-2023, Loreto] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121.- Lesiones graves no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 47. Intervención de los pueblos indígenas u originarios y justicia en zonas rurales no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 8. Tipos de violencia no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Caso J. vs. Perú (Corte IDH 2013) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 441.- Lesión dolosa y lesión culposa no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 9. Derecho a una vida libre de violencia no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Declaración víctima prueba directa (Apelación 41-2023) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 247. Personas destinatarias de las medidas de protección no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 442.- Maltrato no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 27. Servicios de promoción, prevención y recuperación de víctimas de violencia no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 16-C. Apelación de la medida de protección o cautelar no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 14. Competencia no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Concepto violación sexual (Espinoza Gonzáles vs. Perú) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 208.- Excusa absolutoria. Exención de Pena no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Menciona violaciones y reparaciones a la víctima y familiares en un caso de tortura sexual, sin explicar su reconocimiento por daño propio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Reconoce que familiares pueden ser víctimas por afectación psíquica y moral y precisa cómo acreditar ese daño."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RFN 3963-2016-MP-FN Daño Psíquico no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Buturugă vs. Rumania, f.j. 60 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Volodina vs. Rusia, f.j. 7,10 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce reparación mediante el derecho a la verdad para familiares de desaparecidos, sin resolver específicamente el daño familiar por tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Exp. 01386-2020-0 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 16. Proceso especial no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 7. Sujetos de protección de la Ley no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 23. Vigencia y validez de las medidas de protección y cautelares no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 10. Derecho a la asistencia y la protección integrales no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Opuz vs. Turquía, f.j. 147 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce acción reparatoria a perjudicados por el delito, pero no precisa cuándo los familiares afectados adquieren esa condición."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 6. Definición de violencia contra los integrantes del grupo familiar no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 544. Trámite cuando el Perú solicita el traslado del nacional no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 5. Definición de violencia contra las mujeres no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Ordena considerar la afectación de los intereses de la familia al determinar la pena, sin reconocer expresamente su condición de agraviados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre I.V. vs. Bolivia, f.j. 255 no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 18. Actuación de los operadores de justicia no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Corte IDH prejuicios personales estereotipos genero afectan objetividad investigador - López y otros vs. Venezuela no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Violación como tortura (Rosendo Cantú vs. México) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 1865-2015, Huancavelica no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_94_01",
+      "relevance": "si",
+      "rationale": "Incluye como agraviados a quienes resultan perjudicados por las consecuencias del delito, lo que permite comprender a familiares afectados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205) no aporta información para resolver el reconocimiento como agraviados de familiares afectados por la tortura de la víctima."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,323 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "si",
+      "rationale": "Reconoce que la parte civil puede reclamar la reparación y muestra su incremento al impugnar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la reparación como derecho de la víctima, sin regular su impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_104_01",
+      "relevance": "parcial",
+      "rationale": "Faculta al actor civil a interponer recursos, pero no precisa la impugnación exclusiva del extremo civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al perjudicado legitimado para reclamar reparación, sin regular recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Permite revocar parcialmente la resolución, sin precisar la legitimación sobre la reparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Admite casación sobre responsabilidad civil bajo ciertos límites, sin explicar la facultad general de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Limita la revisión a la materia impugnada, sin especificar el derecho de la víctima sobre la reparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica que la actora civil puede impugnar el extremo civil mientras el extremo penal queda firme."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Explica la autonomía de la acción civil, pero no cómo impugnar su cuantía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce al perjudicado el ejercicio de la acción civil, sin abordar la apelación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Da las reglas generales de legitimación para recurrir, sin concretar la impugnación civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la apelación de sentencias en general, sin abordar el extremo civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "parcial",
+      "rationale": "Permite la anulación parcial en casación, sin precisar la facultad de reclamar solo la reparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Describe la revisión y nulidad parcial en apelación, sin determinar la facultad civil de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_93_01",
+      "relevance": "parcial",
+      "rationale": "Define la indemnización como reparación, pero no su impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Exige precisar los puntos impugnados, sin concretar la legitimación para recurrir la reparación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_394_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivar la sentencia y recoger las pretensiones civiles, pero no regula su impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_14_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "parcial",
+      "rationale": "Regula apelaciones de incidentes de ejecución civil, sin resolver la impugnación de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "No resuelve si la víctima puede impugnar únicamente la reparación civil de la sentencia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Analiza insuficiencia probatoria y falta de ratificación de la menor, sin resolver la omisión de su entrevista en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por descartar indebidamente el testimonio de una niña, pero no por omitir su entrevista ante especialista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_112_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Anula sentencias por no incorporar la declaración previa de la menor y fija reglas de actuación con intervención psicológica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica la validez de la declaración en cámara Gesell, sin resolver la repetición del juicio por omitirla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "parcial",
+      "rationale": "Regula quiénes intervienen en un nuevo juicio ya ordenado, sin establecer la causal consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica el valor de la declaración infantil y la pericia psicológica, sin resolver la omisión de su actuación en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por valoración deficiente y pruebas omitidas, sin abordar específicamente la entrevista infantil no incorporada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Explica corroboración y retractación de la menor, sin tratar la omisión de su declaración previa en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por omitir pruebas testimoniales de descargo, sin resolver la entrevista previa de la hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Ordena un nuevo pronunciamiento por excluir indebidamente una entrevista en cámara Gesell, sin ordenar repetir todo el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Aborda el valor de lo dicho ante un psicólogo y un nuevo juicio de apelación, pero por valoración indebida de una retractación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Permite repetir testimonios en apelación por defectos graves, sin resolver la omisión de la entrevista infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Fija excepciones para examinar nuevamente a una menor, sin determinar la nulidad del juicio por omitir su entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Analiza defectos de una entrevista y obstáculos para un nuevo juicio, sin resolver la falta de incorporación consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Anula una absolución por valoración y enfoque de género deficientes, sin abordar la omisión de la entrevista ante especialista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Exige incorporar y contradecir la entrevista única válida, sin precisar la nulidad o repetición del juicio por omitirla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Limita la repetición de entrevistas a menores por revictimización, sin resolver el nuevo juicio por omitir la prueba."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por prescindir de una testigo esencial, sin tratar la entrevista previa de la hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite anular decisiones por violaciones al derecho a la prueba, sin examinar la entrevista infantil omitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Analiza cuándo puede prescindirse de testimonios infantiles con otras pruebas suficientes, sin resolver la entrevista omitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite incorporar prueba de oficio en apelación, sin determinar si debe repetirse el juicio por omitir la entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nueva apelación por revaloración indebida de prueba personal, sin tratar su falta de incorporación en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Permite leer el acta de cámara Gesell ante fallas del video, sin resolver la omisión completa de esa prueba."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Explica que no es necesario reiterar el testimonio infantil, sin establecer nulidad por omitir la declaración previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "parcial",
+      "rationale": "Expone principios de actuación probatoria en juicio, sin determinar el efecto de omitir la entrevista infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula la entrevista única y su ampliación, sin establecer el efecto de no actuarla en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_383_01",
+      "relevance": "parcial",
+      "rationale": "Regula la incorporación por lectura de pruebas previas, sin establecer la repetición del juicio por omitirlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaraciones infantiles con psicólogos y su grabación como prueba anticipada, sin resolver su omisión en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nueva apelación por valoración ilógica de versiones de la menor, sin tratar la omisión de actuar su entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por no agotar la comparecencia de testigos, sin resolver la entrevista previa no incorporada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce eficacia de la primera entrevista y evita repetirla, sin resolver la nulidad del juicio por omitir su actuación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Expone la prevención de revictimización por relatos reiterados, sin regular la nulidad del juicio por omitir una entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Analiza la oralización válida de una declaración previa, sin abordar su omisión y la repetición de todo el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula el interrogatorio infantil y el uso de declaraciones anteriores, sin determinar la nulidad por omitir la entrevista."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por desvalorizar indebidamente la entrevista en cámara Gesell, sin tratar su falta de actuación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica condiciones para oralizar la entrevista infantil como prueba documentada, sin resolver la nulidad por omitirla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Mantiene la condena con otras pruebas pese a declaraciones inválidas, sin resolver la omisión de una entrevista admitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento no resuelve la omisión de la entrevista de la hija en juicio ni su efecto sobre la repetición del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0004_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica la exclusión de una pericia por falta de notificación, sin establecer un nuevo juicio por omitir una entrevista."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

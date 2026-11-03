@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto trata Exp. 7498-2014-54, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Analiza falta de fiscal en declaraciones policiales, sin resolver la ausencia del acusado en la declaración de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto trata Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El texto trata Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El texto trata Caso J. vs. Perú (Corte IDH 2013), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Regula incorporación de declaraciones previas de menores, sin determinar consecuencias de la ausencia del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Exige participación de la defensa para eficacia de la entrevista, pero no resuelve la nulidad por ausencia física del acusado en comisaría."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Distingue formalidades y garantías constitucionales de la entrevista, sin abordar la ausencia del acusado en la declaración policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 372. Posición del acusado y conclusión anticipada del juicio, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "El texto trata Signos de agresión no consumada (RN 143-2009, Ica), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige perjuicio concreto para anular actuaciones, pero se refiere al derecho del acusado a declarar en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Admite declaraciones policiales urgentes sin fiscal, pero no analiza ausencia del acusado durante el relato de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "El texto trata Dependencia económica en denuncia (RN 668-2025, Lima Sur), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto trata Retractación notarial sin valor (RN 1179-2019, Lima), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 266. Detención judicial en caso de flagrancia, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El texto trata El testimonio tardío no siempre carece de credibilidad subjetiva [Casación 1425-2018, Tacna], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "no",
+      "rationale": "El texto trata Valoración de la prueba documental extraprocesal [RN 2484-2014, Ucayali], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Niega nulidad automática por ausencia del fiscal, sin resolver la falta de presencia del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 377. Declaración en caso de pluralidad de acusados, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto trata Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto trata Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica oportunidad, taxatividad y trascendencia para declarar nulidad, sin resolver el supuesto específico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 391. Autodefensa del acusado, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El texto trata Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "El texto trata Principio de progresividad en declaraciones (RN 220-2025, Piura), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El texto trata Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "si",
+      "rationale": "Confirma una condena pese a no constar emplazamiento para declaraciones previas, al existir otras pruebas legales suficientes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 482-2024, Lima, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 576-2022, Del Santa, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "parcial",
+      "rationale": "Limita los efectos de nulidad a actos dependientes y permite subsanación, sin decidir si la declaración policial es nula."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite interrogar a menores sin presencia del acusado en audiencia judicial, sin regular la declaración policial previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "parcial",
+      "rationale": "Identifica defectos de intervención y defensa que generan nulidad, sin establecer si el acusado debía estar en esa declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto trata Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Permite excluir una entrevista no notificada a la defensa, sin equiparar eso a la ausencia física del acusado ni a anular todo el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 508-2019, Lima, ff. jj. 5, 8, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 1889-2021, Huánuco, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El texto trata La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto trata Denuncia tardía resta fuerza (RN 2150-2015, Cusco), sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 376. Declaración del acusado, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 668-2025, Lima Sur, f. j. 10 - El Estado tiene la obligación de explorar todas las líneas investigativas posibles, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "parcial",
+      "rationale": "Indica que ausencia o contumacia no suspenden la investigación, sin resolver la validez concreta de la declaración policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 15. Nulidad de transferencias, sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata Conducción compulsiva de testigos: Aún cuando las medidas sean fallidas se debe insistir en su conducción siempre que el testimonio resulte de vital importancia [RN 711-2024, Lima Sur], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0005_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios], sin resolver si la ausencia del acusado en la declaración policial de la menor invalida el caso."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

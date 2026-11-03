@@ -1,0 +1,419 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "parcial",
+      "rationale": "Exige presencia del fiscal y defensor en la declaración preparatoria, pero no aclara el uso de ligaduras."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "parcial",
+      "rationale": "Distribuye a los participantes del juicio, sin establecer condiciones de la declaración del detenido durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Exige defensor y contempla participación fiscal en la manifestación policial, pero no regula ligaduras."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce defensa y declaración en juicio, sin resolver el uso de ligaduras al declarar detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "parcial",
+      "rationale": "Indica quién interroga y prohíbe coacción, pero no precisa si comparece sin ligaduras."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "parcial",
+      "rationale": "Exige abogado en la declaración, sin precisar ligaduras ni la totalidad de asistentes permitidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo se responde al interrogatorio, sin aclarar ligaduras o asistentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "parcial",
+      "rationale": "Permite separar a coacusados al declarar en juicio, sin resolver condiciones de la declaración del detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_259_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_170_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "parcial",
+      "rationale": "Permite videoconferencia del detenido excepcionalmente, sin aclarar ligaduras ni asistentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "parcial",
+      "rationale": "Regula interrogatorio del acusado en juicio, pero no las ligaduras ni asistentes a su declaración en investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Exige defensor para examinar al detenido y verificar sus derechos, sin aclarar ligaduras durante la declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza abogado y ausencia de coacción, sin establecer expresamente si declara sin ligaduras."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "parcial",
+      "rationale": "Dispone comparecencia sin ligaduras y con policías en juicio, pero no regula la declaración durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "parcial",
+      "rationale": "Enumera participantes necesarios del juicio, sin resolver ligaduras y asistencia a la declaración del detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Exige fiscal y abogado para validar la confesión, sin resolver ligaduras ni demás asistentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0011_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_89_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "No regula las ligaduras ni los asistentes permitidos durante la declaración del imputado detenido."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

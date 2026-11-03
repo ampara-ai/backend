@@ -1,0 +1,353 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "parcial",
+      "rationale": "Explica el incumplimiento de la limitación de días libres, pero no en qué consiste."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_354_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Describe la suspensión de la pena, pero no los talleres ni las charlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_100_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Expone la finalidad resocializadora sin describir esa pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_143_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Incluye tratamiento reeducativo como protección, pero no explica la pena consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_34_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_58_01",
+      "relevance": "parcial",
+      "rationale": "Prevé programas educativos al suspender la pena sin describir la limitación de días libres."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_187_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_33_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la reeducación del agresor sin explicar su ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "parcial",
+      "rationale": "Describe reeducación dentro de prisión, no la alternativa consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_31_01",
+      "relevance": "parcial",
+      "rationale": "Enumera la limitación de días libres sin explicar su contenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "parcial",
+      "rationale": "Describe tratamientos en medio libre, pero no la pena de asistencia a actividades en días libres."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178-a_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "parcial",
+      "rationale": "Establece servicios de reeducación sin detallar la pena consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Ejemplifica terapia en un acuerdo reparatorio, pero no explica la pena consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "parcial",
+      "rationale": "Incluye programas educativos como reglas de conducta sin describir la pena consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_52_01",
+      "relevance": "parcial",
+      "rationale": "Permite convertir prisión en limitación de días libres sin explicar en qué consiste."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Menciona tratamiento especializado en la sentencia sin describir la pena consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_35_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No explica el castigo de asistir a talleres o charlas en lugar de prisión."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,305 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "si",
+      "rationale": "Exige invocar causales y precisar las normas erróneamente aplicadas o inobservadas, por lo que no basta el desacuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Muestra la anulación por no actuar testimonios esenciales, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 15.- Error de comprensión culturalmente condicionado no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 54. Requisitos de la recusación no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_14_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 14.- Error de tipo y error de prohibición no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Muestra la anulación por vulnerar el derecho a la prueba, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites a la revaloración probatoria y un error que motivó casación, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Explica la insuficiencia probatoria y los límites a ordenar un nuevo juicio, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "si",
+      "rationale": "Limita la casación a causales invocadas y errores jurídicos de la resolución recurrida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "parcial",
+      "rationale": "Indica plazos para recurrir, sin explicar los fundamentos necesarios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "parcial",
+      "rationale": "Identifica las sentencias como apelables, pero no exige ni desarrolla motivos del reclamo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 438. Trámite no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019] no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una casación fundada en un error de subsunción jurídica, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a apelar sentencias conforme a ley, sin detallar las causales o fundamentos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Describe el resultado de una casación fundada, sin precisar qué motivos permiten interponerla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Explica decisiones de segunda instancia y menciona requisitos de casación, sin desarrollar las causales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "parcial",
+      "rationale": "Muestra una nulidad por motivación insuficiente, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 204. Impugnación no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Precisa el alcance de la revisión y el efecto de errores de derecho, sin enunciar los requisitos del reclamo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la revisión puede anular o revocar la sentencia, pero no los motivos necesarios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 20. Sentencia no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo anunciar la apelación, pero no qué fundamentos debe contener."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Rigurosidad en declaración (RN 3175-2015, Lima Sur) no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica que un error sin perjuicio relevante no basta para anular, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 469. Proceso con pluralidad de hechos punibles e imputados no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 556. Consultas y acuerdos con la Corte Penal Internacional no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "si",
+      "rationale": "Ordena rechazar la casación por motivos no legales o falta manifiesta de fundamento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 359. Concurrencia del Juez y de las partes no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Limita los recursos a los medios y casos legales, sin precisar los errores que pueden alegarse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Trata la legitimidad para impugnar y un error en la pena, sin establecer los requisitos generales del reclamo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 437. Procedencia y efectos no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Analiza y rechaza una alegada vulneración de igualdad de armas, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 257. Impugnación no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 98. Constitución y derechos no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo deben corregirse errores de motivación, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 415. Ámbito no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "parcial",
+      "rationale": "Describe límites de la sentencia respecto de la acusación, como contexto de posibles errores, sin regular la impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_476_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 476. El Acta de colaboración eficaz – denegación del Acuerdo no explica los motivos exigidos para impugnar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Establece qué resoluciones y supuestos admiten casación, pero no sus causales por errores del juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "parcial",
+      "rationale": "Explica los efectos de anular una sentencia, sin indicar por qué motivos puede reclamarse."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Expone una nulidad por exceder los límites de la apelación, pero no establece de forma completa los requisitos para reclamar una sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Delimita quién puede recurrir los extremos penal y civil, sin explicar los fundamentos necesarios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "si",
+      "rationale": "Exige precisar los puntos impugnados y sus fundamentos de hecho y derecho, además de una pretensión concreta."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

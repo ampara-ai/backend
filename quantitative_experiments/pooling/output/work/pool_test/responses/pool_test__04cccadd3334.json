@@ -1,0 +1,419 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 266. Detención judicial en caso de flagrancia» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «STS 3147/2022» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 31. Tratamiento penitenciario para la reinserción social de las personas agresoras privadas de libertad» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 10. Derecho a la asistencia y la protección integrales» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 30. Reeducación de las personas agresoras» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash)» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «jp_00150_e0012» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Exp. 01386-2020-0» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 372. Posición del acusado y conclusión anticipada del juicio» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "parcial",
+      "rationale": "Menciona las consecuencias accesorias impuestas en sentencia, pero no su contenido ni la asignación de costas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Guía Médico Legal: «Evaluación Física de Presuntos Agresores» (2021)» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 386. Desarrollo de la discusión final» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 21.- Responsabilidad restringida» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "parcial",
+      "rationale": "Exige que la decisión final determine de oficio quién soporta las costas, pero no trata los instrumentos del delito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 352. Decisiones adoptadas en la audiencia preliminar» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 178.- Responsabilidad especial» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "si",
+      "rationale": "Dispone que la sentencia absolutoria restituya los objetos no sujetos a comiso y fije las costas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_223_01",
+      "relevance": "parcial",
+      "rationale": "Explica la subasta de bienes incautados o decomisados, sin precisar el contenido de la resolución final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "parcial",
+      "rationale": "Regula la ejecución de la venta o adjudicación de bienes decomisados, sin exigir el pronunciamiento final consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_64_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 64.- Reglas de conducta» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_551_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 551. Entrega vigilada y protección de la jurisdicción nacional» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 314. Pensión anticipada de alimentos» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tres requisitos que el juez debe cumplir para introducir prueba de oficio [Casación 717-2020, Huancavelica]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_238_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 238. Solicitud del Fiscal» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Describe el contenido adicional de la sentencia y remite al artículo 394, sin reproducir las reglas sobre costas y objetos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso J. vs. Perú (Corte IDH 2013)» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_123_01",
+      "relevance": "parcial",
+      "rationale": "Exige decisiones judiciales claras y expresas, pero no especifica costas ni destino de instrumentos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 107. Derechos del querellante particular» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Declaración víctima prueba directa (Apelación 41-2023)» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este)» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 22. Objeto y tipos de medidas de protección» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Sí procede el acuerdo reparatorio en el delito de lesiones leves por violencia contra la mujer [Pleno Jurisdiccional Distrital Penal de Ventanilla, 2017]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 442.- Maltrato» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 473-A. Participación del agraviado» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_113_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 113. Derechos y garantías del tercero civil» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 92.- La reparación civil: Oportunidad de su determinación» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 47. Intervención de los pueblos indígenas u originarios y justicia en zonas rurales» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Exp. 00059-2019-0, f.j. 10» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Estado debe ofrecer medidas de protección eficaces en la práctica [Volodina vs. Rusia]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 183. Reglas del careo» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 19. Declaración de la víctima y entrevista única» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 355. Auto de citación a juicio» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "parcial",
+      "rationale": "Explica exenciones y supuestos especiales del pago de costas, sin abordar los objetos ni el contenido de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 32. Tratamiento para las personas agresoras en medio libre» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_228_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 228. Diligencia de reexamen judicial» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_393_01",
+      "relevance": "parcial",
+      "rationale": "Incluye consecuencias accesorias y costas entre las cuestiones de deliberación, sin concretar el pronunciamiento sobre los instrumentos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 2030-2019 Lima» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 484. Audiencia» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_302_01",
+      "relevance": "parcial",
+      "rationale": "Prevé indagar bienes para asegurar el pago de costas, pero no el contenido de la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No se debe justificar la imposición de una prisión preventiva con fines preventivo-generales o especiales, sino con un fin legítimo [J. vs. Perú]» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 353. Contenido del auto de enjuiciamiento» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 387. Alegato oral del Fiscal» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_11_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 11. Ejercicio y contenido» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 192. Objeto» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso Angulo Losada vs. Bolivia» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_93_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 93.- Contenido de la reparación civil» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_504_01",
+      "relevance": "parcial",
+      "rationale": "Distribuye costas de incidentes y recursos, sin resolver lo relativo a los objetos usados por el agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 416. Resoluciones apelables y exigencia formal» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_7_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 7. Oportunidad de los medios de defensa» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Contradicciones en declaración (Exp. 02162-2021-6)» no aporta información para resolver las costas y el destino de los instrumentos en la decisión final."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

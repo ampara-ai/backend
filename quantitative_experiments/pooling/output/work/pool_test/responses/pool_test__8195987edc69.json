@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "Define violencia familiar, pero no regula las ofensas al honor de una persona fallecida ni quién puede perseguirlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata la investigación de violencia doméstica y no la legitimación familiar por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza igualdad de armas en un proceso por violación sexual, ajeno a la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "parcial",
+      "rationale": "Explica la legitimación general del directamente ofendido en delitos de acción privada, pero no la de familiares de una persona fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "Regula competencia para denuncias de violencia familiar, un procedimiento distinto del consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "Describe el trámite de denuncias de violencia familiar, sin resolver quién actúa por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_70_01",
+      "relevance": "no",
+      "rationale": "Regula información policial a medios de comunicación y no acciones por ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "Enumera facultades y representación del querellante ya constituido, sin establecer legitimación de familiares de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección en violencia familiar y no querellas por ofensas a personas fallecidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata prueba y no revictimización en delitos sexuales contra menores, sin relación con la legitimación consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "Permite denuncias de terceros en violencia familiar, pero esa regla corresponde a otro procedimiento y no resuelve las ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "Regula la actuación policial ante violencia familiar y no la legitimación por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Analiza funciones acusatorias y recursos en delitos de persecución pública, distintos del supuesto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "no",
+      "rationale": "Trata obligaciones estatales ante riesgo de muerte por violencia doméstica, sin abordar ofensas al honor de fallecidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "Regula investigación de faltas de violencia familiar, sin resolver la legitimación para actuar por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "Establece exenciones de la obligación de denunciar a parientes, sin regular denuncias en nombre de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata recursos de la parte civil en delitos de persecución pública y no querellas por ofensas al honor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Analiza la omisión de denuncia de un médico y no la facultad de familiares para actuar por una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "parcial",
+      "rationale": "Explica quién formula querella y ante qué juzgado, pero no establece qué familiares pueden actuar por ofensas a una persona ya fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "no",
+      "rationale": "Indica normas aplicables a violencia familiar, un procedimiento distinto al de ofensas al honor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata nulidad por falta de declaración de una acusada, sin relación con la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Ofrece asistencia para casos de violencia contra la mujer, pero no regula acciones por ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "Reconoce familiares como víctimas de graves violaciones de derechos humanos, un supuesto distinto de ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Analiza credibilidad testimonial en un caso de feminicidio, sin resolver quién puede actuar por ofensas al honor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "Regula el inicio de procesos por faltas, sin establecer legitimación familiar por ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "Detalla la forma de la denuncia, pero no determina quién puede actuar por ofensas al honor de una persona fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "Regula registros personales policiales, sin relación con la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "no",
+      "rationale": "Regula legitimación para reparación civil, sin establecer quién ejerce acción penal por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_465_01",
+      "relevance": "parcial",
+      "rationale": "Permite que herederos continúen una querella tras morir el querellante, pero no resuelve la iniciación por ofensas a una persona ya fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Valora prueba de actos sexuales contra una menor, sin abordar la legitimación consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato y sus agravantes, un supuesto distinto de ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "no",
+      "rationale": "Trata responsabilidad estatal por violencia doméstica, sin resolver acciones por ofensas a fallecidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "Regula revisión de condenas a solicitud de familiares del condenado fallecido, una acción distinta de la consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "no",
+      "rationale": "Autoriza denuncias de cualquier persona solo para delitos de acción pública, sin resolver la legitimación en ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata reducción de pena por violación sexual y no acciones por ofensas al honor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación de la intimidad, un delito distinto del supuesto consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_94_01",
+      "relevance": "no",
+      "rationale": "Reconoce sucesores como agraviados cuando el delito causa la muerte, sin regular ofensas posteriores al fallecimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "Detalla requisitos del escrito de querella, pero no establece legitimación familiar por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "Analiza prisión preventiva e interés superior del niño, sin relación con la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "Regula documentación de actuaciones procesales mediante actas, sin abordar la legitimación consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "Trata protección estatal frente a violencia doméstica, sin regular ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "no",
+      "rationale": "Regula vigencia de medidas de protección por violencia familiar, un procedimiento distinto al consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "Describe canales de denuncia de violencia contra la mujer, sin resolver quién actúa por ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula asistencia integral a víctimas de violencia, sin establecer legitimación familiar por ofensas al honor de fallecidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "Regula la condición de víctima de familiares ante graves violaciones de derechos humanos, un supuesto distinto del consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Explica que los delitos de persecución privada requieren querella del directamente ofendido, pero no contempla la legitimación por ofensas a una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata mecanismos de denuncia de violencia obstétrica, sin relación con ofensas al honor de fallecidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "Regula apelación de medidas de protección, sin abordar la acción por ofensas al honor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Analiza suficiencia probatoria para acusación por violencia familiar, sin resolver la legitimación consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "Regula valoración del riesgo en violencia familiar, sin relación con ofensas al honor de una fallecida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "Trata recalificación de delitos sexuales contra menores, sin abordar la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "Regula protección de víctimas durante investigaciones de violencia familiar, sin resolver quién actúa por ofensas a una fallecida."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

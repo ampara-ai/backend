@@ -1,0 +1,383 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata del examen judicial de una víctima de violación, no de la intervención de un fiscal especial ante una denuncia de golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Regula la sanción del maltrato, sin identificar al fiscal que interviene desde la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "Prevé comunicación inmediata a la fiscalía penal en flagrancia, pero no la intervención especial por tratarse de un adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_69_01",
+      "relevance": "parcial",
+      "rationale": "Describe la coordinación general entre fiscales y policía, sin determinar la intervención de un fiscal especial para víctimas adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "La facultad de requerir fuerza pública no determina qué fiscal debe intervenir en la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza motivación de prisión preventiva y pericia psicológica en un delito sexual, sin resolver la intervención fiscal especial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "parcial",
+      "rationale": "Menciona actuación de fiscalías penales o de familia al recibir denuncias, pero no su intervención desde una comisaría por violencia contra adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "Discute prisión preventiva de un progenitor e interés superior del niño, no la fiscalía competente por golpes al adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Exige comunicación inmediata al fiscal al comenzar la investigación policial, pero no identifica un fiscal especial por la edad de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Explica la intervención fiscal general en la investigación, sin establecer la intervención especial solicitada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "parcial",
+      "rationale": "Establece comunicación inmediata al Ministerio Público, pero no precisa intervención de un fiscal especial por violencia contra adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "La valoración del riesgo no identifica qué fiscal especial participa desde la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "Regula medidas de protección de personas amenazadas durante el proceso, sin resolver la intervención fiscal especial inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "La obligación alimentaria derivada de delitos sexuales no responde quién interviene en la denuncia de golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_332_01",
+      "relevance": "parcial",
+      "rationale": "Prevé remisión del informe policial al fiscal, sin precisar el fiscal especial que corresponde a una víctima adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "La modificación de la acusación en juicio no trata de la intervención fiscal desde la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "Discute suficiencia de elementos para acusación directa, no la fiscalía que interviene inicialmente por violencia contra adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "La validez de una confesión renovada ante fiscal no identifica al fiscal especial de protección del adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica remisión de la denuncia policial a fiscalía penal y juzgado de familia, sin establecer intervención de un fiscal especial por minoría de edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "Analiza tipicidad de insultos entre convivientes separados, sin resolver la intervención de un fiscal especial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "parcial",
+      "rationale": "Distingue remisión a fiscalía penal y proceso por faltas, pero no precisa intervención fiscal especial desde la comisaría."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_453_01",
+      "relevance": "no",
+      "rationale": "Regula un proceso ante órganos supremos, ajeno a la denuncia ordinaria por golpes contra un adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El proceso de seguridad del imputado no determina la intervención fiscal por la edad de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Resuelve facultades de control de identidad y encubrimiento personal, no la intervención especial en la denuncia consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "parcial",
+      "rationale": "Describe conducción fiscal de la investigación preliminar y actos urgentes, sin identificar al fiscal especial por la edad de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "no",
+      "rationale": "La prueba anticipada de declaraciones en delitos específicos no responde qué fiscal interviene ante golpes en casa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "Define violencia familiar y atención especial a adolescentes, pero no establece intervención de un fiscal especial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "La valoración de una manifestación policial sin fiscal no determina qué fiscal debe intervenir en la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata de nulidad de declaraciones por ausencia fiscal en delitos sexuales, sin establecer intervención fiscal especial por violencia contra adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "Regula investigación judicial de faltas, sin precisar intervención de un fiscal especial desde la comisaría."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "La sanción por difusión de pornografía infantil no ayuda a identificar al fiscal de la denuncia de golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé remisión a fiscal penal cuando se desconoce la ubicación de la víctima, pero no resuelve la intervención especial por minoría de edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Describe actuación policial bajo conducción fiscal, sin identificar la intervención especial por tratarse de un adolescente agraviado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "La tramitación ante el juzgado de familia no establece intervención de un fiscal especial desde la denuncia policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "parcial",
+      "rationale": "Describe funciones de fiscalía penal en casos de violencia, sin precisar la intervención especial por la edad del agraviado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual de menores, sin regular intervención fiscal en denuncias por golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Regula gestión de explotación sexual de menores, no competencia fiscal ante violencia física en casa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "Los alegatos y retiro de acusación en juicio no resuelven la intervención fiscal especial inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "no",
+      "rationale": "La reducción de pena por edad del autor no determina qué fiscal interviene ante golpes a un adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "Los plazos para medidas judiciales de protección no identifican un fiscal especial interviniente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé operativos coordinados entre fiscal y policía ante peligro para la víctima, sin identificar intervención fiscal especial por edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "Los requisitos de allanamiento no establecen qué fiscal especial interviene desde una denuncia policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Ordena comunicación policial inmediata al fiscal, pero no determina la fiscalía especial para víctimas adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "La entrevista única de víctimas no responde qué fiscal especial participa desde la denuncia policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "La distinción entre acoso y acto sexual violento en Colombia no resuelve intervención fiscal por golpes en casa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "parcial",
+      "rationale": "Señala actuación del Ministerio Público por noticia policial, sin precisar el fiscal especial correspondiente a una víctima adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "Discute valor probatorio de diligencias policiales sin fiscal, no intervención fiscal especial ante una denuncia de violencia física."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "parcial",
+      "rationale": "Explica diligencias que dispone el fiscal, pero no identifica intervención especial desde la comisaría por la edad de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Analiza amenaza en actos contra el pudor, sin resolver intervención de una fiscalía especial ante golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "Regula supervisión de medidas protectoras por equipos y entidades, sin determinar intervención fiscal especial inicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El debate colombiano sobre agravación de violencia intrafamiliar no identifica la fiscalía que interviene en la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Menciona fiscalías especializadas como lugares para denunciar, sin establecer su intervención desde la comisaría por una víctima adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "Las reglas de incautación de bienes no responden qué fiscal interviene en la denuncia de golpes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Menciona límites de competencia de una fiscal y la distinción entre fiscalías, pero no establece la intervención especial inicial consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "La tipificación y agravantes de agresiones familiares no determinan la intervención de un fiscal especial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "La promoción de explotación sexual de menores no trata de intervención fiscal ante golpes en casa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "Las técnicas de agentes encubiertos para otros delitos no responden la competencia fiscal por violencia física contra adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula minoría de edad del imputado, mientras la consulta se refiere a un adolescente víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "parcial",
+      "rationale": "Prevé disposición fiscal inmediata de diligencias policiales, pero no identifica al fiscal especial por minoría de edad de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "no",
+      "rationale": "La prueba anticipada en delitos específicos no determina intervención fiscal especial ante golpes en el hogar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "parcial",
+      "rationale": "Prevé actuación fiscal y asistencia a víctimas en flagrancia con riesgo, sin establecer intervención de un fiscal especial por edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "parcial",
+      "rationale": "Describe dirección fiscal general de la investigación, sin precisar intervención especial por una víctima adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_14_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "La sanción del beneficio de explotación sexual infantil no identifica al fiscal interviniente por una denuncia de golpes."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

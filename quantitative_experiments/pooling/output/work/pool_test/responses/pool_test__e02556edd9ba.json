@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Describe anulación y reenvío en casación, sin determinar si el reemplazo de una jueza durante alegatos invalida el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "parcial",
+      "rationale": "Establece inmediación e identidad física del juzgador, sin explicar la excepción por reemplazo durante alegatos finales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "parcial",
+      "rationale": "Permite nulidad total o parcial de una sentencia, sin establecer si el cambio de jueza consultado la causa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "parcial",
+      "rationale": "Explica la fase de alegatos finales, sin determinar la validez de sustituir en ella a una jueza."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "parcial",
+      "rationale": "Regula los jueces del nuevo juicio ya ordenado, sin establecer si procede por el reemplazo consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_495_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "parcial",
+      "rationale": "Explica los efectos y límites de una nulidad, sin determinar si sustituir una jueza durante alegatos la produce."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_491_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_424_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "parcial",
+      "rationale": "Regula continuidad e interrupción del juicio por suspensión, sin resolver el reemplazo de una jueza en alegatos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "parcial",
+      "rationale": "Prevé nulidad por defectos en la constitución judicial, sin precisar cuándo el reemplazo durante alegatos es válido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_392_01",
+      "relevance": "parcial",
+      "rationale": "Regula deliberación, enfermedad judicial y repetición por vencimiento de plazos, sin resolver el reemplazo durante alegatos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_83_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_54_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "si",
+      "rationale": "Permite reemplazar una vez a un miembro del colegiado sin suspender el juicio y establece condiciones de continuidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00434_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El fragmento trata una cuestión distinta del reemplazo de una jueza durante los alegatos finales y su efecto sobre la validez del juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

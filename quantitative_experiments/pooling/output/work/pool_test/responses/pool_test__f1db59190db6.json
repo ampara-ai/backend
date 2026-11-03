@@ -1,0 +1,395 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 480. Revocación de los beneficios no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 437. Procedencia y efectos no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 43. Contienda de competencia por inhibición no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 124-B.- Del daño psíquico y la afectación psicológica, cognitiva o conductual no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 443. Trámite no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 204. Impugnación no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 10. Indicios de delitos en proceso extra – penal no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_393_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 393. Normas para la deliberación y votación no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Ordenar que el acusado traslade a sus testigos de descargo al juicio viola los principios de citación de las pruebas y de igualdad de armas [RN 980-2015, Puno] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 159. Utilización de la prueba no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Explica la revisión por la Sala Superior, sin establecer si es apelable la denegación de actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 385. Otros medios de prueba y prueba de oficio no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Da reglas generales de impugnación, sin confirmar el recurso contra la denegación de actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho de la víctima a reparación civil, sin explicar cómo impugnar su exclusión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_112_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 112. Trámite no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 473-A. Participación del agraviado no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00542_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Supuestos que limitan la revaloración de la prueba personal en apelación [Casación 2052-2019, Arequipa] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 359. Concurrencia del Juez y de las partes no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 2. Principio de oportunidad no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 429. Causales no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 59.- Efectos del incumplimiento no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_478_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 478. Colaboración durante las otras etapas del proceso contradictorio no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Limita los recursos del actor civil al objeto civil, sin regular la impugnación de su admisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 426. Nulidad del juicio no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra la impugnación de la reparación por una parte civil admitida, sin resolver la denegación de constitución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Proceso de amparo es vía idónea para el control de actuaciones o decisiones fiscales [Exp. 05121-2015 -PA/TC] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_106_01",
+      "relevance": "parcial",
+      "rationale": "Explica efectos de constituirse en actor civil, sin indicar cómo recurrir la denegación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_13_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 13. Desistimiento no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho general a recurrir, sin precisar la apelación de la denegación de actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Establece quién puede constituirse en actor civil, sin regular el recurso contra su rechazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 425. Sentencia de segunda instancia no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Tribunal Superior puede anular el auto de sobreseimiento, aunque el fiscal superior esté conforme [Casación 1089-2017, Amazonas] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00052_e0021_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RFN 3963-2016-MP-FN Daño Psíquico no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 427. Procedencia no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "parcial",
+      "rationale": "Identifica a la Sala Penal Superior como tribunal de apelación, sin establecer la recurribilidad de la denegación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 397. Correlación entre acusación y sentencia no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_257_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 257. Impugnación no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_450_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 450. Reglas específicas para la incoación del proceso penal no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 428. Desestimación no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra recursos de una parte civil constituida, sin abordar el rechazo de la solicitud de constitución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 440. Legitimación no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Explica el principio favorable al acceso a recursos, sin identificar el recurso para la denegación de actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 161. Efecto de la confesión sincera no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RN 2030-2019 Lima no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 415. Ámbito no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Delimita la competencia del tribunal revisor, sin establecer si la denegación es apelable."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Explica las vías para reclamar reparación, sin regular la apelación del rechazo como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Explica límites de apelación de una actora civil admitida, sin resolver el rechazo de su constitución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 477. Colaboración durante la etapa de investigación del proceso contradictorio no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre El uso de estereotipos de género en el proceso penal evidencia la violación a la presunción de inocencia, la motivación y la imparcialidad [Manuel y otros vs. El Salvador] no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Señala requisitos y trámite de un recurso, sin precisar si procede contra la denegación de actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 434. Efectos de la anulación no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 438. Trámite no aborda la apelación contra el rechazo de la constitución como actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_103_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 45. Inhibición del Juez no aborda la apelación contra el rechazo de la constitución como actor civil."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

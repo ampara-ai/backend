@@ -1,0 +1,263 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso Angulo Losada vs. Bolivia no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 154.- Violación de la intimidad no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-F.- Beneficio p or explotación sexual no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Medidas de protección deben extremarse en casos de violación sexual de menor [VRP, VPC. y otros vs. Nicaragua] no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-D.- Promoción o favorecimiento de la explotación sexual no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-N.- Publicación en los medios de comunicación sobre delitos de libertad sexual contra niñas, niños y adolescentes no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-G.- Gestión de la explotación sexual no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 181.- Proxenetismo no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 295-2019, Cusco no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-C.- Explotación sexual no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 173.- Violación sexual de menor de edad no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-A.- Tocamientos, actos de connotación sexual o actos libidinosos en agravio de menores no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "si",
+      "rationale": "Sanciona perseguir con fines sexuales con tres a cinco años y prevé cuatro a ocho si la víctima tiene de catorce a menos de dieciocho años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_404_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 404.- Encubrimiento personal no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 413.- Evasión mediante violencia o amenaza no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Bien jurídico libertad sexual (Casación 148-2010, Moquegua) no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170.- Violación sexual no establece la pena por perseguir a una niña con fines sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua] no establece la pena por perseguir a una niña con fines sexuales."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

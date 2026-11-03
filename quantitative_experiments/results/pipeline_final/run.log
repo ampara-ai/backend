@@ -1,0 +1,8 @@
+source_grounding LLM call failed — using all reranked docs as fallback
+source_grounding LLM call failed — using all reranked docs as fallback
+source_grounding LLM call failed — using all reranked docs as fallback
+source_grounding LLM call failed — using all reranked docs as fallback
+source_grounding LLM call failed — using all reranked docs as fallback
+source_grounding LLM call failed — using all reranked docs as fallback
+source_grounding LLM call failed — using all reranked docs as fallback
+dense_finetuned: 198 preguntas | rechazadas por el filtro de dominio: 24 | sin chunks sobre el umbral: 0 -> quantitative_experiments/results/pipeline_final

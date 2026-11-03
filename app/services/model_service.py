@@ -11,11 +11,11 @@ def _is_mock() -> bool:
     return settings.model_service_url.lower() == "mock"
 
 
-async def get_embedding(text: str, use_base: bool = False) -> list[float]:
+async def get_embedding(text: str, use_base: bool = False, endpoint: str | None = None) -> list[float]:
     if _is_mock():
         return [random.uniform(-1, 1) for _ in range(_MOCK_DIM)]
 
-    endpoint = settings.embedding_base_endpoint if use_base else settings.embedding_endpoint
+    endpoint = endpoint or (settings.embedding_base_endpoint if use_base else settings.embedding_endpoint)
     url = settings.model_service_url.rstrip("/") + endpoint
     async with httpx.AsyncClient(timeout=30) as client:
         response = await client.post(url, json={"text": text})

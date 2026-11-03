@@ -1,0 +1,329 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Define la violencia suficiente para la violación, sin abordar la tortura como castigo por un agente estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "parcial",
+      "rationale": "Prevé agravar la violación por crueldad o degradación, pero no analiza la tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Presenta violencia sexual y tortura por militares, pero desarrolla la investigación y no sus elementos de calificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0085_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona violencia sexual y tortura policial, pero desarrolla el concepto de penetración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0019_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "si",
+      "rationale": "Define la tortura cometida por agentes públicos mediante sufrimientos graves, permitiendo identificar esa calificación adicional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "parcial",
+      "rationale": "Menciona violencia sexual como tortura en detención, sin explicar el castigo o los requisitos de esa calificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "parcial",
+      "rationale": "Describe tortura y violación, pero su criterio central trata discriminación en las penas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Prevé violación agravada por militares en funciones, pero no explica cuándo también es tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona acceso carnal bajo autoridad en contextos de internamiento, sin tratar la tortura ni el propósito de castigo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye tortura y violencia sexual estatal como violencia contra las mujeres, sin delimitar su calificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Vincula violencia sexual estatal con tortura, pero se centra en investigar de oficio y valorar el relato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_333_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No determina si la violación cometida por un soldado con finalidad de castigo constituye también tortura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la fuerza o coacción excluye el consentimiento, sin desarrollar la calificación de tortura."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

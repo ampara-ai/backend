@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "parcial",
+      "rationale": "Limita la reapertura fiscal de hechos archivados a nuevos elementos o investigación anterior deficiente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige actuar prueba científica pertinente antes de sentenciar, sin abordar la repetición para suplir a la acusación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "parcial",
+      "rationale": "Limita la intervención judicial probatoria a dirección y aclaraciones excepcionales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Permite anular una absolución por vulneración de derechos o motivación defectuosa, sin autorizar búsquedas indiscriminadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "parcial",
+      "rationale": "Regula el cierre judicial de la investigación por vencimiento de plazo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Establece exigencias de valoración y corroboración probatoria, sin resolver sobre repetir el proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "parcial",
+      "rationale": "Prevé sobreseimiento por insuficiencia de elementos cuando no sea razonable incorporar nuevos datos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Delimita la aclaración judicial para que no asuma la carga de la acusación, pero trata interrogatorios en otro sistema."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_325_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "parcial",
+      "rationale": "Regula el retiro de acusación y sobreseimiento cuando los cargos quedan enervados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por defectos de motivación y valoración de prueba existente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_244_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "si",
+      "rationale": "Permite investigación suplementaria fundada con diligencias y plazo determinados y prohíbe conceder otro plazo luego de cumplirla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe repetir diligencias preliminares salvo ampliación indispensable por defectos o nuevos elementos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Admite nuevo juicio por omitir agotar la comparecencia de una testigo esencial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Impide condenar tras absolución firme por falta de recurso fiscal, sin resolver la insuficiencia probatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_446_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por vulnerar la prueba de descargo, no para suplir al fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Distingue absolución razonable de nulidad por violaciones de derechos o motivación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "parcial",
+      "rationale": "Prevé sobreseimiento por falta de elementos y falta de posibilidad razonable de incorporar nueva prueba."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Ordena nuevo juicio por omitir valorar pruebas, sin resolver la búsqueda judicial para suplir insuficiencia fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Impide reenviar al fiscal una calificación alternativa ya acusada tras absolver al imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_141_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "si",
+      "rationale": "Limita la prueba judicial de oficio a casos excepcionales e impide reemplazar la actividad probatoria de las partes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "parcial",
+      "rationale": "Permite pedir diligencias adicionales mediante oposición fundamentada al sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_155_01",
+      "relevance": "parcial",
+      "rationale": "Establece que la prueba de oficio solo procede excepcionalmente según la ley."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00598_e0014_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "Regula una cuestión distinta y no resuelve si el juez puede repetir el proceso para suplir la insuficiencia probatoria fiscal."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

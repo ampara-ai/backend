@@ -1,0 +1,425 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_69_01",
+      "relevance": "parcial",
+      "rationale": "Regula coordinación e instrucciones generales, sin precisar la supervisión de la investigación concreta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "parcial",
+      "rationale": "Menciona intervención fiscal desde la etapa policial solo para víctimas menores de edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Exige participación fiscal para solvencia probatoria, pero no desarrolla el control general de la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a remitir lo actuado a fiscalía y juzgado, sin explicar la dirección de las diligencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce información y participación de la víctima, sin identificar el control de la Policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "si",
+      "rationale": "La Policía debe informar al fiscal y practicar las investigaciones delegadas por él."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación imparcial de violencia sexual, sin identificar quién controla a la Policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Establece que la investigación policial se realiza bajo conducción fiscal y con entrega de actas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_337_01",
+      "relevance": "si",
+      "rationale": "El fiscal dispone las diligencias policiales y las partes pueden pedir actuaciones y revisión judicial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Exige comunicación inmediata al fiscal al iniciar investigaciones, sin explicar su alcance de control."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "parcial",
+      "rationale": "Exige objetividad y ausencia de estereotipos, pero no explica la supervisión de la Policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "si",
+      "rationale": "Obliga a informar al Ministerio Público y a investigar a requerimiento fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "parcial",
+      "rationale": "Describe actuaciones e información que requiere la fiscalía, sin precisar su control de las diligencias policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Afirma el deber estatal de investigar, sin explicar el control sobre la investigación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Señala expresamente que la investigación policial está bajo conducción jurídica fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "si",
+      "rationale": "Distingue las etapas y asigna al Ministerio Público la conducción jurídica y dirección investigadora."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Identifica al Ministerio Público como titular de la acción penal, sin definir su supervisión policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "parcial",
+      "rationale": "Regula control judicial del plazo de investigación, no de las decisiones investigadoras policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_341_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Describe la conducción fiscal y el amparo contra decisiones fiscales, sin explicar directamente el control policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_60_01",
+      "relevance": "si",
+      "rationale": "La Policía cumple los mandatos del Ministerio Público, que conduce jurídicamente la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigar sin denuncias reiteradas, sin precisar quién dirige a la Policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Impone debida diligencia investigadora, sin identificar al supervisor de la Policía peruana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Asigna al fiscal la conducción jurídica de la investigación y delimita la actuación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_61_01",
+      "relevance": "si",
+      "rationale": "El fiscal conduce la investigación con criterio objetivo e indaga por intermedio de la Policía."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "si",
+      "rationale": "El fiscal fija objeto, plazos y formalidades y coordina con la Policía para garantizar regularidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "parcial",
+      "rationale": "Crea coordinación policial con el Ministerio Público, sin detallar su control del caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "si",
+      "rationale": "El fiscal dispone operativos conjuntos y debe convalidar los actos policiales urgentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "No explica el control de la investigación policial del agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Explica dirección fiscal y tutela del imputado, sin precisar el control de las decisiones policiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_iv_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce participación y acceso a la carpeta fiscal, sin explicar quién controla a la Policía."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

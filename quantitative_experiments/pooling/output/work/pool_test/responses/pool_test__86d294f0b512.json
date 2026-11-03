@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica violencia eficaz e inhibición de voluntad, sin abordar la dependencia laboral o económica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce violencia sexual en ámbitos doméstico y laboral, sin definir la violación bajo dependencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0112_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "parcial",
+      "rationale": "Define penetración sin consentimiento como violación, sin analizar la dependencia respecto al empleador."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza inferir consentimiento de falta de resistencia, sin analizar coacción por dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que un vínculo previo no legitima el acto sexual, pero no analiza dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_180_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Define violencia sexual bajo coacción, sin precisar la tipificación de violación por el empleador."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Explica dependencia económica como factor en la denuncia, no su alcance para tipificar violación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_181_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_84_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "parcial",
+      "rationale": "Define modalidades de penetración constitutivas de violación, sin explicar coacción o dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "parcial",
+      "rationale": "Explica consumación con penetración parcial, sin abordar el abuso de dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "si",
+      "rationale": "Establece que la coacción o el entorno coercitivo impiden consentimiento válido en violación sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "No determina si el acceso sexual forzado por el empleador constituye violación bajo dependencia laboral."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00423_e0023_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "si",
+      "rationale": "Tipifica acceso carnal forzado y agrava expresamente la relación laboral o el trabajo del hogar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "Regula controles en vías públicas y no preservación del lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata revisión de absoluciones y sobreseimientos, no conservación de evidencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "parcial",
+      "rationale": "Explica inicio de investigación sin detallar preservación de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata protección de una víctima viva de violencia sexual, no el lugar del hallazgo de un cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_120_01",
+      "relevance": "parcial",
+      "rationale": "Indica cómo documentar actuaciones en actas y medios audiovisuales, sin establecer preservación de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "Regula control de identidad y no conservación de la escena del crimen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "Tipifica beneficio de explotación sexual de menores sin regular investigación de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-a_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de medidas de protección a víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "Regula exhortos internacionales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "parcial",
+      "rationale": "Permite retener temporalmente a personas presentes durante una pesquisa, una actuación auxiliar sin detallar conservación de pistas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "parcial",
+      "rationale": "Define coordinación fiscal-policial para investigar sin concretar manejo del lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Menciona una guía forense sin reproducir procedimientos para preservar pistas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "si",
+      "rationale": "Ordena actuaciones urgentes para asegurar elementos materiales y evitar alteraciones de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_169_01",
+      "relevance": "no",
+      "rationale": "Regula testimonios a distancia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_465_01",
+      "relevance": "no",
+      "rationale": "Regula sucesión del querellante fallecido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata notificación de evaluaciones psicológicas, no inspección de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_iv_01",
+      "relevance": "parcial",
+      "rationale": "Distribuye funciones de investigación sin explicar cómo proteger el lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "si",
+      "rationale": "Exige inspeccionar rastros, documentarlos en acta, recogerlos o conservarlos y registrar alteraciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_22_01",
+      "relevance": "no",
+      "rationale": "Regula competencia territorial en medios de transporte."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación con la Corte Penal Internacional, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_29_01",
+      "relevance": "no",
+      "rationale": "Enumera competencias judiciales sin prescribir conservación de pistas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce deber de investigación diligente sin indicar actuaciones de preservación en la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "Tipifica publicaciones sobre explotación sexual infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "parcial",
+      "rationale": "Exige necropsia para determinar causa de muerte, sin desarrollar preservación en el lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "Regula traslado internacional de detenidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68-a_01",
+      "relevance": "no",
+      "rationale": "Regula operativos de revelación del delito, no el procesamiento de una escena con cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-a_01",
+      "relevance": "no",
+      "rationale": "Trata datos de ubicación de víctimas para medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la inspección comprueba huellas y efectos materiales, sin detallar cómo conservarlos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula diligencias solicitadas por autoridades extranjeras."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "Regula incautación durante allanamientos, sin responder sobre el hallazgo de un cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "Regula información y derechos al detener personas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "Tipifica favorecimiento de explotación sexual infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "parcial",
+      "rationale": "Establece coordinación institucional sin detallar conservación de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Ordena aislar y vigilar la escena, conservar indicios y documentarla con fotografías, planos y actas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige preservar evidencia corporal y cadena de custodia en autopsias, pero no desarrolla actuaciones en el lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_74_01",
+      "relevance": "no",
+      "rationale": "Regula minoría de edad del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "Regula vigilancia encubierta del investigado, no preservación del lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Menciona fallas de preservación como contexto de discriminación sin detallar qué hacer en la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_116_01",
+      "relevance": "parcial",
+      "rationale": "Permite al fiscal o juez desplazarse para conocer pruebas sin prescribir cómo conservarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata efectividad de medidas de protección personal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "si",
+      "rationale": "Dispone participación de testigos y peritos y documentación del lugar mediante planos, fotografías y grabaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_322_01",
+      "relevance": "si",
+      "rationale": "Autoriza medidas para proteger y aislar indicios e impedir su desaparición o destrucción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "Tipifica gestión de explotación sexual de menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "no",
+      "rationale": "Regula efectos de formalizar investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata competencia para controlar identidad y legalidad de detenciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_512_01",
+      "relevance": "no",
+      "rationale": "Regula autoridad central de cooperación internacional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata inicio de persecución penal y encubrimiento personal, no manejo de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "Regula cartas rogatorias al extranjero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_195_01",
+      "relevance": "parcial",
+      "rationale": "Regula levantamiento e identificación del cadáver con especialistas y acta, sin detallar conservación de la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "si",
+      "rationale": "Exige inspección minuciosa de la escena y de todo posible elemento de prueba material."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Trata estereotipos y responsabilidad estatal sin detallar conservación de pistas en la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Tipifica violación bajo autoridad o vigilancia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "Regula protección de testigos, no conservación de indicios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Exige diligencias urgentes para reunir y asegurar pruebas, sin desarrollar técnicas en la escena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_128_01",
+      "relevance": "no",
+      "rationale": "Regula notificación por edictos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata desistimiento de competencia y confirmación de condena, no preservación de pistas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "Tipifica explotación sexual infantil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Identifica fallas de recolección y cadena de custodia sin dar procedimientos concretos para el lugar del hallazgo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00395_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Anuncia aprobación de un manual de muertes violentas sin reproducir sus instrucciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "Trata derecho a la verdad en desaparición forzada sin precisar acciones de conservación en la escena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

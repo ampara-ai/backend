@@ -1,0 +1,38 @@
+preguntas: 198 | respondidas: 174 | rechazadas por el filtro: 24 | sin fuentes sobre el umbral: 0
+ya evaluadas: 0 | por evaluar: 174 | juez: openai/gpt-5.6-luna
+{
+ "juez_llm": "openai/gpt-5.6-luna",
+ "embeddings_answer_relevancy": "qwen/qwen3-embedding-8b",
+ "preguntas": 198,
+ "respondidas": 174,
+ "rechazadas_filtro": 24,
+ "sin_fuentes_umbral": 0,
+ "faithfulness": {
+  "n": 174,
+  "media": 0.6043467238193405,
+  "desv": 0.2822440270877333,
+  "mediana": 0.6666666666666666,
+  "p95": 1.0,
+  "min": 0.0,
+  "max": 1.0,
+  "ic95_bootstrap_por_chunk": [
+   0.5599247914537132,
+   0.6493350267591954
+  ]
+ },
+ "answer_relevancy": {
+  "n": 174,
+  "media": 0.6460367737073811,
+  "desv": 0.10311443592068775,
+  "mediana": 0.6493630763408116,
+  "p95": 0.8027291884050225,
+  "min": 0.3844344465280323,
+  "max": 0.8743908704762798,
+  "ic95_bootstrap_por_chunk": [
+   0.630691087725582,
+   0.6619483169024428
+  ]
+ }
+}
+latencia total (respondidas): media 4.12 s | mediana 3.98 s | p95 5.54 s
+crédito OpenRouter: antes 1.22 -> después 0.65 (gastado 0.570 USD)

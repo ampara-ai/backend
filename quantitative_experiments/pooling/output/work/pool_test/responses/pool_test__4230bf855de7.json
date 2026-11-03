@@ -1,0 +1,395 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza reiteraciones innecesarias del relato sexual, pero no precisa las excepciones de comparecencia en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "parcial",
+      "rationale": "Regula la conducción compulsiva general de testigos, sin las reglas especiales para menores víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige soporte psicológico durante el interrogatorio de la menor, sin resolver si debe volver a comparecer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "si",
+      "rationale": "Establece que la declaración previa debe incorporarse y que solo excepcionalmente el menor declara en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "parcial",
+      "rationale": "Regula cómo interrogar y proteger al menor en juicio, sin precisar cuándo puede evitarse su comparecencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "parcial",
+      "rationale": "Exime al menor de inspecciones y reconstrucciones, pero no regula su declaración en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe la confrontación entre la víctima y el agresor en procesos de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "parcial",
+      "rationale": "Regula la citación de testigos al juicio, sin las excepciones para menores víctimas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce valor a la entrevista única previa, pero no resuelve la obligación de declarar nuevamente en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "si",
+      "rationale": "Enumera los supuestos excepcionales para volver a examinar a la víctima menor en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Muestra la visualización en juicio de una entrevista previa, sin definir si puede exigirse otra declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Trata medidas de protección en un proceso español, sin resolver la comparecencia de la menor en Perú."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "si",
+      "rationale": "Rechaza repetir la entrevista de una menor sin que se configure una excepción justificada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "si",
+      "rationale": "Prohíbe el careo del imputado con la víctima menor de catorce años salvo solicitud expresa de su representante o defensa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaraciones anticipadas grabadas de menores para evitar su revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "parcial",
+      "rationale": "Examina la validez de declaraciones previas de menores ausentes del juicio, sin fijar cuándo pueden ser obligadas a asistir."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "si",
+      "rationale": "Precisa cuándo puede examinarse nuevamente al menor en juicio y exige evitar el contacto con el procesado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "parcial",
+      "rationale": "Describe dificultades probatorias por inasistencia de la menor, sin precisar las reglas para obligarla a declarar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Ordena promover una única declaración para evitar la victimización secundaria de menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "si",
+      "rationale": "Considera razonable denegar una segunda declaración en juicio para evitar revictimizar a la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Garantiza protección y trato adecuado a la agraviada, sin resolver la repetición del testimonio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Exige entrevista única y limita la ampliación a aclarar, complementar o precisar lo declarado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaraciones anticipadas grabadas de menores para evitar su revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Exige actuar la entrevista previa en juicio, sin resolver la comparecencia personal de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "si",
+      "rationale": "Permite incorporar la entrevista previa en juicio para evitar la revictimización, con garantías."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "si",
+      "rationale": "Establece que una declaración válida de la menor no debe repetirse salvo necesidad de ampliación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Evita denuncias reiteradas para iniciar investigación, pero no regula la comparecencia al juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Ordena citar a la agraviada en un nuevo juicio, sin analizar protección y excepciones de menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "si",
+      "rationale": "Permite retirar al acusado durante el interrogatorio cuando su presencia pueda perjudicar al menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "si",
+      "rationale": "Regula la declaración privada del menor con psicólogo y medidas de protección emocional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Exige insistir en la conducción de la testigo denunciante, sin regular la declaración de la víctima menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Limita la participación infantil a diligencias necesarias, pero el caso trata inspección y reconstrucción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce revictimización por reiteración de relatos sin asistencia, sin precisar la obligación de comparecer en juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Establece el deber general de concurrir como testigo con excepciones legales, sin desarrollar las de menores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0008_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00462_e0004_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No determina si la menor debe volver a declarar en juicio ni cómo evitar su contacto con el acusado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

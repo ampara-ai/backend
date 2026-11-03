@@ -6,7 +6,7 @@ _TOP_N = 5
 
 
 # No se usa en producción (app/graph/rag_graph.py) — el experimento de
-# ablación (scripts/eval_ablation.py, config hybrid_rerank) mostró que el
+# ablación (quantitative_experiments/ablation/eval_ablation.py, config hybrid_rerank) mostró que el
 # reranker empeora el retrieval del embedding finetuneado en este dominio,
 # incluso sin BM25 de por medio. Se mantiene solo como punto de comparación.
 async def rerank_node(state: RAGState) -> dict:

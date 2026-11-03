@@ -1,0 +1,425 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_481-a_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Contempla la violación por dos o más sujetos, pero no aclara la responsabilidad de quienes solo intimidan."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_107_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce violencia sexual sin contacto físico y mediante intimidación, pero no determina la participación penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica el efecto de la coacción sobre el consentimiento, sin resolver la responsabilidad de los acompañantes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la intimidación puede inhibir la resistencia sin lesiones, pero no analiza coautoría ni complicidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_23autor_01",
+      "relevance": "si",
+      "rationale": "Establece la responsabilidad y pena de quienes cometen conjuntamente el hecho punible."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_82_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_25_01",
+      "relevance": "si",
+      "rationale": "Explica que prestar auxilio o asistencia dolosa al autor genera responsabilidad como cómplice."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00212_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00138_e0104_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica la responsabilidad penal de quienes colaboran intimidando durante una agresión sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

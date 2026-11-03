@@ -1,0 +1,287 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Alude a derechos de la víctima y su familia y a reparaciones, sin explicar el reconocimiento de la madre como afectada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "si",
+      "rationale": "Reconoce una presunción de daño psíquico y moral para familiares directos, incluidos los padres de víctimas de graves violaciones de derechos humanos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación como tortura (Rosendo Cantú vs. México) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 5. Definición de violencia contra las mujeres no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso J. vs. Perú (Corte IDH 2013) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Volodina vs. Rusia, f.j. 7,10 no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Incluye a familiares entre los perjudicados por violaciones estatales en un caso de tortura sexual, sin desarrollar el reconocimiento de la madre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Concepto violación sexual (Espinoza Gonzáles vs. Perú) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Penetración parcial configura violación (Casación 1111-2018, Ayacucho) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00072_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre López Soto y otros vs. Venezuela (Corte IDH) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15-A. Trámite de la denuncia presentada ante la Policía Nacional del Perú no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0084_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de afectación psicológica (Exp. 122-2020-65) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 170.- Violación sexual no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Penal Miguel Castro Castro vs. Perú, f.j. 303 no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Caso Angulo Losada vs. Bolivia no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Penetración superficial suficiente (Valencia Campos vs. Bolivia) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 321.- Tortura no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Víctima de violación sexual que declara más de una vez sin asistencia o acompañamientos de profesionales de sexo femenino está siendo revictimizada [López Soto y otros vs. Venezuela] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Principios en investigación violencia sexual (J. vs. Perú) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acoso sexista en protestas (Mujeres Atenco vs. México) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 10. Derecho a la asistencia y la protección integrales no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68. Atribuciones de la Policía Nacional del Perú no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 370. Ubicación de las partes en la audiencia no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la revictimización de la niña y su familia, sin fijar el criterio para reconocer a la madre como víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 67. Función de investigación de la Policía Nacional no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 3. Enfoques no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 8. Tipos de violencia no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho) no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00670_e0009_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no establece el reconocimiento de la madre como víctima por la tortura sexual de su hija."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

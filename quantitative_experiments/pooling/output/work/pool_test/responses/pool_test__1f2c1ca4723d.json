@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 468. Normas de aplicación no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "parcial",
+      "rationale": "Distingue el alcance total o parcial del sobreseimiento, sin establecer sus causales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 515-2020, Cajamarca no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 324. Reserva y secreto de la investigación no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_135_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 135. Requerimientos del Fiscal no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 266. Detención judicial en caso de flagrancia no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_4_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 4. Cuestión previa no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 214. Solicitud y ámbito del allanamiento no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 360. Continuidad, suspensión e interrupción del juicio no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 232. Aseguramiento de documentos privados no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica el control judicial del sobreseimiento, pero no las causales del pedido fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 284. Impugnación no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_447_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 447. Audiencia única de incoación del proceso inmediato en casos de flagrancia delictiva no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "parcial",
+      "rationale": "Contempla archivo o falta de acusación por un acuerdo de colaboración eficaz, supuesto especial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_350_01",
+      "relevance": "parcial",
+      "rationale": "Permite pedir sobreseimiento al objetar la acusación, sin precisar sus causas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "parcial",
+      "rationale": "Describe requisitos para formalizar y acusar, sin enumerar las causales de sobreseimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_343_01",
+      "relevance": "parcial",
+      "rationale": "Señala cuándo el fiscal debe optar por sobreseer o acusar, sin explicar los motivos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_63_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 63.- Efectos de la Reserva de Fallo Condenatorio no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_456_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 456. Instauración del proceso de seguridad no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 17-A. Flagrancia en casos de riesgo severo no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 487. Desistimiento o transacción no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 328. Contenido y forma de la denuncia no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación de menor: Supuestos en que declaración puede ser sometida a un examen en juicio oral (doctrina legal) [AP 1-2011-CJ-116] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20-a_01",
+      "relevance": "parcial",
+      "rationale": "Regula la comunicación del archivo y la evaluación del riesgo, sin explicar sus causas penales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_218_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 218. Solicitud del Fiscal no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Trata la revisión del sobreseimiento y la conformidad fiscal, sin enumerar sus causales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_347_01",
+      "relevance": "parcial",
+      "rationale": "Explica los efectos definitivos del archivo por sobreseimiento, sin sus presupuestos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 374. Poder del Tribunal y Facultad del Fiscal no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_10_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 10. Indicios de delitos en proceso extra – penal no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_345_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo oponerse al pedido de archivo, sin enumerar sus causales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_134_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 134. Contenido del Expediente Fiscal no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Identifica las decisiones fiscales de archivo y su deber de motivación, sin precisar sus causas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denuncia tardía resta fuerza (RN 2150-2015, Cusco) no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 371. Apertura del juicio y posición de las partes no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_235_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 235. Levantamiento del secreto bancario no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_224_01",
+      "relevance": "parcial",
+      "rationale": "Contempla clausurar una investigación por secreto de Estado sobre prueba esencial, supuesto específico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_146_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 146. Subsidiariedad no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 448. Audiencia única de juicio Inmediato no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_334_01",
+      "relevance": "si",
+      "rationale": "Enumera los supuestos de archivo: hecho no delictivo, no justiciable penalmente o extinción de la acción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_535_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 535. Prohibiciones no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Denuncia no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Explica el control constitucional del archivo fiscal, sin establecer las causales para solicitarlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Vincula el sobreseimiento al resultado de una cuestión prejudicial, sin detallar las causales generales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios] no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_446_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 446. Supuestos de aplicación no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "parcial",
+      "rationale": "Describe efectos y excepciones a la prohibición de investigar otra vez tras el archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "parcial",
+      "rationale": "Explica supuestos de abstención y sobreseimiento por oportunidad, sin desarrollar las causales generales consultadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 483. Iniciación no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que después de formalizar el archivo requiere intervención judicial, sin sus causales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 387. Alegato oral del Fiscal no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Nulidad de transferencias no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "parcial",
+      "rationale": "Describe la decisión judicial sobre el pedido de sobreseimiento y su revisión fiscal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_344_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_286_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 286. Presupuestos no establece cuándo el fiscal puede pedir el archivo antes del juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

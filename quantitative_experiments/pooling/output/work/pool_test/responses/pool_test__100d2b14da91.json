@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Exige protección especial y debida diligencia reforzada para evitar revictimizar a una niña abusada por su padre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber general de investigar violencia doméstica, sin desarrollar cuidados de niñas durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "parcial",
+      "rationale": "Incluye a niñas e hijas entre las personas protegidas, sin precisar el trato especial durante las diligencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Establece cuidados concretos durante la investigación sexual, como privacidad, atención y evitar declaraciones repetidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Limita declaraciones de menores en juicio, pero no desarrolla los cuidados durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Considera edad y trauma al valorar el testimonio, sin establecer cuidados específicos durante las diligencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0102_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Ordena reserva, preservación de identidad y declaración única para proteger a menores víctimas de abuso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula protección urgente según el riesgo, sin detallar el trato especial a la niña en la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "parcial",
+      "rationale": "Prioriza casos de riesgo severo y exige investigar, sin precisar cuidados especiales de la víctima menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce atención psicológica como reparación, sin precisar cuidados durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Exige entrevista única de menores en un ambiente privado, cómodo y seguro."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "si",
+      "rationale": "Exige limitar las diligencias de la niña a las estrictamente necesarias para evitar revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección efectiva e investigación pronta de violencia doméstica, sin desarrollar el cuidado especial de niñas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "parcial",
+      "rationale": "Dispone intervención de la fiscalía de familia cuando hay víctimas menores, sin especificar cómo deben ser tratadas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "si",
+      "rationale": "Prohíbe confrontar a la víctima con el agresor y reconstruir los hechos con presencia de una niña pequeña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige investigar evitando repetir testimonios y reexperimentar el trauma sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "si",
+      "rationale": "Dispensa a menores víctimas sexuales de concurrir a diligencias que puedan afectarlas psicológicamente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Considera edad, dependencia y vulnerabilidad al proteger, sin detallar el trato durante las diligencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Impone evitar la revictimización y no exigir denuncias reiteradas del abuso sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce protección especial de niñas frente al abuso escolar, pero no aborda su trato en la investigación familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "si",
+      "rationale": "Exige soporte psicológico y protección emocional durante el interrogatorio de la menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal por investigación sexual negligente y exámenes revictimizantes de una adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Exige valorar el riesgo, sin precisar los cuidados de una niña abusada durante su declaración o examen."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "parcial",
+      "rationale": "Exige supervisión especial de medidas para menores, pero no regula su trato durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "si",
+      "rationale": "Aplica la no revictimización para evitar llevar compulsivamente a menores abusadas a declarar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "si",
+      "rationale": "Evita repetir innecesariamente declaraciones de niñas pequeñas abusadas por su padre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "No establece cuidados especiales ni garantías contra la revictimización de la niña durante la investigación."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

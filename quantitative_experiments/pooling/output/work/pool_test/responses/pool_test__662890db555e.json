@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "parcial",
+      "rationale": "Prevé casación contra autos sobre extinción de pena ya resueltos en apelación, sin resolver la primera impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_438_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_409_01",
+      "relevance": "parcial",
+      "rationale": "Regula los límites de revisión y corrección del cómputo de penas sin identificar el tribunal competente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_103_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_246_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_544-a_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_414_01",
+      "relevance": "parcial",
+      "rationale": "Da plazos generales para recurrir sin señalar el tribunal competente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_48_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0014_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_430_01",
+      "relevance": "parcial",
+      "rationale": "Explica el trámite de casación sin identificar la instancia inicial para discutir el fin de la pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_432_01",
+      "relevance": "parcial",
+      "rationale": "Describe competencia de casación, no la apelación inicial sobre ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Enumera órganos penales sin asignarles esta impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "parcial",
+      "rationale": "Enumera causales de casación sin identificar la instancia inicial de reclamación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_61_01",
+      "relevance": "parcial",
+      "rationale": "Explica cuándo se tiene por no pronunciada la condena sin regular su impugnación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_421_01",
+      "relevance": "parcial",
+      "rationale": "Describe el trámite de apelación de sentencias sin regular el incidente de ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce apelación de decisiones finales sin identificar el tribunal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_488_01",
+      "relevance": "parcial",
+      "rationale": "Permite observaciones sobre la ejecución ante el juez sin señalar quién revisa su decisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_419_01",
+      "relevance": "parcial",
+      "rationale": "Expone facultades de la Sala Penal Superior sin vincularlas al incidente sobre el fin de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_542_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "parcial",
+      "rationale": "Regula efectos de casación sin resolver la impugnación inicial de ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "parcial",
+      "rationale": "Explica las formalidades de recurrir sin identificar el tribunal competente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_437_01",
+      "relevance": "parcial",
+      "rationale": "Indica la queja ante el superior si se deniega un recurso, no la apelación inicial de ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_284_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_416_01",
+      "relevance": "parcial",
+      "rationale": "Enumera autos apelables sin regular específicamente la extinción de pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_27_01",
+      "relevance": "si",
+      "rationale": "Atribuye a la Sala Penal Superior las apelaciones contra autos de los jueces penales y de investigación preparatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_9_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_401_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Limita la impugnación del actor civil al objeto civil sin identificar el tribunal de ejecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_443_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_12_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-c_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Regula revisión de sentencias, no de incidentes sobre cuándo termina una condena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_417_01",
+      "relevance": "si",
+      "rationale": "Identifica a la Sala Penal Superior como competente para revisar las decisiones del juez penal o de investigación preparatoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_404_01",
+      "relevance": "parcial",
+      "rationale": "Explica ante quién se presenta el recurso sin identificar el tribunal que lo resuelve."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_491_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No identifica la instancia para reclamar contra decisiones sobre el término de la condena."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

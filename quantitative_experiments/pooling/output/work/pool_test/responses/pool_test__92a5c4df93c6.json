@@ -1,0 +1,335 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto trata Omitir prueba de ADN no descarta responsabilidad (Casación 5-2021, Puno), sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "parcial",
+      "rationale": "Identifica a las autoridades competentes para proteger a menores, sin regular responsabilidad por inacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Aclara el deber de investigar violencia sexual sin exigir denuncias repetidas, sin abordar específicamente abuso doméstico de una menor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce fallas de investigación en tortura sexual policial, pero no desarrolla la omisión de respuesta frente a abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "si",
+      "rationale": "Establece que la falta de protección frente a violencia doméstica vulnera la igualdad ante la ley."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Enumera derechos y prestaciones estatales de asistencia y protección, sin precisar responsabilidad por inacción prolongada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Exp. 01386-2020-0, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo VII.- Responsabilidad Penal, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 21.- Responsabilidad restringida, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por no investigar eficazmente denuncias reiteradas de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto trata Ausencia de daño emocional no incide en pena (RN 368-2023, Lima Este), sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "si",
+      "rationale": "Explica que la ineficacia judicial y falta de investigación de violencia de género pueden constituir discriminación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_327_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 327. No obligados a denunciar, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Expone responsabilidad por investigación tardía en una ejecución policial, aportando solo contexto general de acceso a justicia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Impone actuación estatal sin dilaciones y sanciones a autoridades que incumplen la debida diligencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "El texto trata Principio de progresividad en declaraciones (RN 220-2025, Piura), sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 8. Tipos de violencia, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_214_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 214. Solicitud y ámbito del allanamiento, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 813-2022, Madre de Dios, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad estatal por omitir protección razonable frente a un riesgo doméstico conocido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por medidas de protección tardías e inconstantes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 178.- Responsabilidad especial, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 508-2019, Lima, ff. jj. 5, 8, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El texto trata Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este), sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "El texto trata Reducción de pena por familia con víctima (RN 1458-2022, Madre de Dios), sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal por inacción ante denuncias y amenazas de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Establece garantías para evitar revictimización, sin resolver la responsabilidad por falta de actuación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto trata No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal por investigación negligente y falta de acceso a justicia de una menor abusada por su primo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 603-2019, Piura, ff. jj. 2-3, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige prevención e investigación eficaces de violencia doméstica sin demoras innecesarias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigar inmediatamente todas las líneas en abuso sexual infantil, sin desarrollar responsabilidad estatal por omisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce incumplimientos de investigación de violencia sexual por militares, con contexto sobre diligencia y revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 178-2024, Tumbes, f. j. 12, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Reconoce responsabilidad estatal por investigación deficiente y falta de protección especial de una niña violada por su padre."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "si",
+      "rationale": "Reconoce incumplimiento estatal por no adoptar protección pese al riesgo conocido de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Establece deberes positivos de prevención e investigación efectiva en favor de niños y víctimas de violencia doméstica."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto trata I.V. vs. Bolivia, f.j. 255, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Explica la afectación de familiares de víctimas, sin resolver responsabilidad por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_39_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 39.- Inhabilitación accesoria, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad penal, civil o administrativa por omitir o retrasar actos funcionales en casos de violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "si",
+      "rationale": "Establece deber estricto de prevenir y sancionar la violencia contra niñas y responsabilidad estatal por incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_117_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 117. Tiempo, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 111. Citación a personas que tengan responsabilidad civil, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín], sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce responsabilidad por investigar deficientemente una desaparición, aportando contexto de diligencia con perspectiva de género."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la violencia tolerada por agentes estatales en la definición, sin desarrollar las consecuencias de la inacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El texto trata Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este), sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce responsabilidad por falta de diligencia en desapariciones y muertes de mujeres, aportando contexto general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce responsabilidad por revictimizar a una niña, sin abordar la falta prolongada de protección o investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a la autoridad a proteger a la víctima, sin desarrollar responsabilidad por incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "parcial",
+      "rationale": "Atribuye al Estado prevención y recuperación de víctimas, sin precisar responsabilidad por inacción."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00260_e0007_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco, sin abordar la responsabilidad estatal por inacción ante abuso doméstico."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

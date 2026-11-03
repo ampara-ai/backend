@@ -1,0 +1,23 @@
+{
+ "config": "dense_base_rerank100",
+ "variant": "base",
+ "endpoint": "/embed_base",
+ "model_files": [
+  "model-service/modelo_base_onnx_int8/model.onnx"
+ ],
+ "model_sha256": {
+  "model.onnx": "241e0440c735033b8f9907751e8f1487cfbfbeaa90cbf9b34d98daf9a47b3d41"
+ },
+ "service_health": {
+  "status": "ok",
+  "mode": "int8",
+  "embedding_model": "modelo_onnx_int8",
+  "base_embedding_model": "modelo_base_onnx_int8",
+  "reranker_model": "reranker_onnx_int8",
+  "embedding_dim": 1024,
+  "base_embedding_dim": 1024
+ },
+ "rrf": null,
+ "rerank_k": 100,
+ "reranker_backend": "openrouter"
+}

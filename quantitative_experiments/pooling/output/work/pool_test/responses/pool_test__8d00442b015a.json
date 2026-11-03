@@ -1,0 +1,371 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "si",
+      "rationale": "Establece que no debe exigirse reiterar los hechos de violencia sexual ante cada autoridad para evitar la revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "parcial",
+      "rationale": "Protege a la víctima de confrontaciones y reconstrucciones, sin prever la declaración única."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_132_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 132. Forma no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 386. Desarrollo de la discusión final no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación sexual: prueba en delitos a puerta cerrada (Colombia) [Radicado 58187] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_133_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 133. Exhortos a autoridades extranjeras no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Detalles en juicio oral no incoherencia (Casación 1709-2017, Arequipa) no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_384_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 384. Trámite de la oralización no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Limita los supuestos para volver a examinar en juicio a menores víctimas de violación, sin regular la entrevista única de una adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 42. Registro Único de Víctimas y Agresores (RUVA) y Registro Nacional de Condenas no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Justifica prescindir del testimonio en juicio para no revictimizar a menores, sin establecer una declaración única para la consultante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre STS 3147/2022 no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Describe la entrevista única en cámara Gesell de una menor, sin precisar su aplicación a una víctima adulta de violencia de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 361. Oralidad y registro no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_519_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 519. Concurso de extradiciones no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_231_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 231. Registro de la intervención de comunicaciones telefónicas o de otras formas de comunicación no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 263. Deberes de la autoridad policial no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Criterios para adoptar medidas de protección en violencia doméstica [Tapis vs. Italia] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "si",
+      "rationale": "Ordena evitar la doble victimización mediante declaraciones reiterativas o humillantes en procesos de violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_537_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 537. Solicitud a las autoridades extranjeras para el traslado del detenido o condenado no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_230_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 230. Intervención, grabación o registro de comunicaciones telefónicas o de otras formas de comunicación y geolocalización de teléfonos móviles no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 482-2024, Lima no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de investigación de «los móviles» en casos de violencia de género puede constituir una forma de discriminación [Veliz Franco y otros vs. Guatemala] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_160_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 160. Valor de prueba de la confesión no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0021_01",
+      "relevance": "si",
+      "rationale": "Identifica salas de entrevista única y cámaras Gesell para evitar la revictimización en casos de violencia contra mujeres y familiares."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 328. Contenido y forma de la denuncia no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_512_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 512. Autoridad Central no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_329_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 329. Formas de iniciar la investigación no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Prevé declaraciones grabadas en cámara Gesell para evitar revictimizar a menores, sin extender expresamente esa regla a una adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 189. Reconocimientos de personas no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 166. Contenido de la declaración no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "si",
+      "rationale": "Dispone la entrevista única para mujeres víctimas y limita la ampliación a aclarar, complementar o precisar su declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Exige evitar la repetición del testimonio y obtener otras pruebas para no reexperimentar el trauma."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "si",
+      "rationale": "Establece que basta denunciar una vez y que no debe exigirse reiterar los maltratos en cada declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "si",
+      "rationale": "Reconoce como revictimización la reiteración de declaraciones sobre violencia sexual sin las garantías de acompañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 15. Denuncia no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Permite denegar una segunda declaración tras la cámara Gesell en víctimas menores, sin establecer la regla aplicable a una adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_536_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 536. Requisitos y trámite de la carta rogatoria a autoridades extranjeras no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la eficacia de la declaración previa y evita su repetición en menores bajo una versión anterior de la Ley 30364."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "si",
+      "rationale": "Reconoce eficacia probatoria a la entrevista única en cámara Gesell y su incorporación al juicio mediante oralización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Retractación de la víctima por escrito no tiene valor probatorio [RN 372-2020, Lima Este] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Ordena limitar diligencias traumáticas de una niña víctima, sin describir una entrevista única para la consultante."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Admite usar en juicio la declaración previa en cámara Gesell de una menor para evitar revictimización."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "si",
+      "rationale": "Promueve una única declaración de la víctima mediante cámara Gesell para evitar victimización secundaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Rechaza repetir la entrevista de una niña por su interés superior, sin precisar el régimen de una mujer adulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00252_e0022_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 539. Caso de que autoridades extranjeras consideren necesaria la práctica de diligencias en el Perú no responde a cómo evitar repetir el relato de violencia ante distintas autoridades."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

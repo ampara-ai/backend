@@ -1,0 +1,19 @@
+{
+ "preguntas": 198,
+ "pares_juzgados": 11763,
+ "nuevos_en_esta_corrida": 11,
+ "tareas_pendientes": 0,
+ "tareas_invalidas": [],
+ "veredictos": {
+  "no": 9303,
+  "si": 499,
+  "parcial": 1961
+ },
+ "jueces": {
+  "gpt-6.1-sol": 11763
+ },
+ "positivos_origen": 200,
+ "positivos_ampliados_si": 699,
+ "positivos_ampliados_si_parcial": 2660,
+ "positivos_extra_por_pregunta_si": 2.52
+}

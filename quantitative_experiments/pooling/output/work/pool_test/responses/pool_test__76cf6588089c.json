@@ -1,0 +1,311 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_242_01",
+      "relevance": "parcial",
+      "rationale": "Regula la grabación y prueba anticipada infantil, sin resolver la falta de aviso del cambio horario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0036_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Prevé renovar el testimonio cuando la declaración previa incumple exigencias formales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Explica la eficacia de la entrevista previa, pero no resuelve el cambio horario sin notificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "si",
+      "rationale": "Explica que omitir la notificación de fecha y hora vulnera la defensa y permite excluir la diligencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Advierte la falta de emplazamiento y mantiene la condena por otras pruebas, sin precisar el efecto sobre la declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "parcial",
+      "rationale": "Regula la entrevista única como prueba anticipada, sin resolver la notificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Condiciona la validez de la entrevista al respeto de garantías, pero no analiza el cambio de horario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_166_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aporta la exigencia de indefensión material en otra modalidad de protección testimonial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0020_01",
+      "relevance": "parcial",
+      "rationale": "Describe la naturaleza y tutela de la entrevista, sin tratar una omisión efectiva de emplazamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Exige intervención o emplazamiento del defensor para oralizar la declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "parcial",
+      "rationale": "Permite excluir físicamente al acusado del interrogatorio con información posterior, sin regular la citación omitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "si",
+      "rationale": "Vincula la validez de la entrevista y su citación con la ausencia de indefensión concreta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas para incorporar declaraciones previas, sin resolver el cambio de hora."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Prevé un nuevo examen cuando faltan formalidades mínimas, sin decidir el efecto de la notificación omitida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0026_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Condiciona la eficacia de la entrevista a garantías constitucionales y participación de la defensa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "si",
+      "rationale": "Declara inválidas las declaraciones de menores tomadas sin conocimiento ni emplazamiento del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00427_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00384_e0003_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata otro problema probatorio o procesal y no resuelve el cambio horario sin aviso al acusado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

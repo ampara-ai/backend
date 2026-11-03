@@ -27,15 +27,18 @@ def get_chunks_collection() -> AsyncIOMotorCollection:
     return get_client()[settings.mongodb_db_name][settings.mongodb_collection_chunks]
 
 
-async def vector_search(embedding: list[float], k: int = 20) -> list[dict]:
+async def vector_search(embedding: list[float], k: int = 20, exact: bool = False) -> list[dict]:
+    """exact=True usa búsqueda exacta (ENN): ranking determinista, independiente de cómo Atlas
+    reconstruya el índice HNSW. Lo usan los experimentos; producción mantiene ANN (default)."""
     collection = get_chunks_collection()
+    search_params = {"exact": True} if exact else {"numCandidates": k * 10}
     pipeline = [
         {
             "$vectorSearch": {
                 "index": "vector_index",
                 "path": "embedding",
                 "queryVector": embedding,
-                "numCandidates": k * 10,
+                **search_params,
                 "limit": k,
             }
         },

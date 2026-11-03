@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Supuestos en los que familiares «no directos» de la víctima son considerados víctimas en el proceso [Familia Barrios vs. Venezuela] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_207_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 207. Presupuestos y Ejecución no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_189_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 189. Reconocimientos de personas no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 210. Registro de personas no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192. Objeto no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_118_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 118. Juramento no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 440. Legitimación no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Describe estándares para el hallazgo y manejo de un cadáver, sin explicar cómo se confirma su identidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 211. Examen corporal del imputado no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_667_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 667.- Son excluidos de la sucesión de determinada persona, por indignidad, como herederos o legatarios: no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 156.- Revelación de la intimidad personal y familiar no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 212. Examen corporal de otras personas no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 330. Investigación preliminar no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 208. Motivos y objeto de la inspección no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es válida la confesión sincera en presencia policial si manifestación se renueva ante fiscal [Casación 1970-2019, Tacna] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171. Testimonios especiales no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00395_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Identifica un manual de investigación de muertes violentas, pero no detalla los métodos de identificación del cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es necesario actuar la prueba de ADN si guarda relación directa con el hecho principal (doctrina jurisprudencial vinculante) [Casación 292-2014, Ancash] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 76. Anomalía psíquica sobrevenida no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_197_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 197. Embalsamamiento de cadáver no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 138.- Ejercicio privado de la acción penal no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Falta de una debida diligencia de la investigación no satisface el derecho de los familiares de la víctima de conocer la verdad de los hechos [García Ibarra y otros vs. Ecuador] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 6. Definición de violencia contra los integrantes del grupo familiar no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_555_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 555. Trámite inicial de las solicitudes de Cooperación no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_72_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 72. Identificación del imputado no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_65_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 65. La investigación del delito destinada a ejercitar la acción penal no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 173. Nombramiento no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_321_01",
+      "relevance": "parcial",
+      "rationale": "Señala que la investigación debe determinar la identidad de la víctima, sin explicar cómo se identifica un cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 205. Control de identidad policial no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 30. Reeducación de las personas agresoras no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_378_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 378. Examen de testigos y peritos no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_249_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 249. Medidas adicionales no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_162_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 162. Capacidad para rendir testimonio no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Menciona una guía forense de recuperación y análisis de restos de desaparecidos, sin detallar cómo comprobar su identidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_193_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 193. Adecuación no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_26_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 26. Certificados e informes médicos no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iv_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo IV. Titular de la acción penal no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Valoración de la prueba pericial en delitos de violación sexual [AP 4-2015/CIJ-116] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El uso de estereotipos de género en el proceso penal evidencia la violación a la presunción de inocencia, la motivación y la imparcialidad [Manuel y otros vs. El Salvador] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_75_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 75. Inimputabilidad del procesado no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 68. Atribuciones de la Policía Nacional del Perú no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El «indicio polivalente» no sirve para condenar [Casación 2198-2023, El Santa] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0018_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la verdad constituye un medio de reparación para las víctimas y sus familiares [Bámaca Velásquez vs. Guatemala] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Que el encausado mienta para excluir toda sospecha en su contra no es indicio suficiente de que cometió el delito [RN 152-2015, Junín] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_196_01",
+      "relevance": "parcial",
+      "rationale": "Exige identificar el cadáver antes de entregarlo a familiares, pero no explica los métodos para confirmar su identidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-A.- Trata de personas no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_232_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 232. Aseguramiento de documentos privados no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00052_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RJN 000047-2021-MP-FN-JN-IMLCF no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Detalla exámenes y preservación de evidencia en autopsias por violencia de género, sin indicar cómo se verifica la identidad del cadáver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_217_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 217. Solicitud del Fiscal para incautación y registro de personas no responde a cómo se confirma la identidad del cadáver de un familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no responde a cómo se confirma la identidad del cadáver de un familiar."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

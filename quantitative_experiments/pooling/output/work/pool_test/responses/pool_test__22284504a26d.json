@@ -1,0 +1,431 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Permite reemplazar a un fiscal negligente, pero no precisa consecuencias para policías o jueces."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto trata Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023], sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_292-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 292-A. Comparecencia restrictiva para el Policía Nacional del Perú, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 43. Contienda de competencia por inhibición, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "parcial",
+      "rationale": "Enumera deberes de investigación y auxilio policial, sin sancionar su incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 359. Concurrencia del Juez y de las partes, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_66_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 66. Poder coercitivo, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 183. Reglas del careo, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_67_01",
+      "relevance": "parcial",
+      "rationale": "Impone actuación policial y comunicación fiscal, pero no indica consecuencias de la omisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 149.- Omisión de prestación de alimentos, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 442.- Maltrato, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Precisa deberes de valoración y remisión del riesgo, sin consecuencias por desatenderlos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 368.- Resistencia o desobediencia a la autoridad, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Aborda responsabilidad estatal por falta de protección, no la sanción individual del policía o juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 21.- Responsabilidad restringida, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 931-2016, Cusco, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica obligaciones policiales al recibir la denuncia, sin consecuencias por incumplirlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 152.- Secuestro, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_378_01",
+      "relevance": "si",
+      "rationale": "Establece prisión de dos a cuatro años por denegar auxilio policial en violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 377. Declaración en caso de pluralidad de acusados, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 441.- Lesión dolosa y lesión culposa, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_159_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 159. Utilización de la prueba, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 129-B.- Formas agravadas de la Trata de Personas, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "parcial",
+      "rationale": "Identifica las autoridades competentes para la denuncia, sin regular su negligencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 24. Incumplimiento de medidas de protección, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 15.- Error de comprensión culturalmente condicionado, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_228_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 228. Diligencia de reexamen judicial, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Exige sancionar a las autoridades que incumplen la debida diligencia ante la violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_377_01",
+      "relevance": "si",
+      "rationale": "Sanciona con dos a cinco años de prisión la omisión funcional en casos de violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_268-b_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 268-B. Impedimento de la prisión preventiva, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 321.- Tortura, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Trata la falta de investigación y la responsabilidad estatal en violencia sexual, sin sanciones individuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 122. Lesiones leves, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_182_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 182. Procedencia, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Exp. 01386-2020-0, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 419.- Detención ilegal, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 483. Iniciación, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 266. Detención judicial en caso de flagrancia, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "parcial",
+      "rationale": "Menciona el control judicial de plazos y protección, sin tratar la sanción por desatención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 137.- Injurias recíprocas, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_76_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 76. Anomalía psíquica sobrevenida, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 261-A. Impedimento de la detención preliminar judicial, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "parcial",
+      "rationale": "Establece obligaciones del juzgado para proteger e investigar, sin sancionar su omisión."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 53. Inhibición, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 45. Inhibición del Juez, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Fija plazos y responsabilidades de atención judicial, sin precisar las consecuencias del incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "parcial",
+      "rationale": "Exige intervención y comunicación policial inmediata, sin establecer sanciones por omitirlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_377_01",
+      "relevance": "si",
+      "rationale": "Establece la pena por omitir, rehusar o demorar actos funcionales en violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 487. Desistimiento o transacción, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "parcial",
+      "rationale": "Describe deberes de investigación del juzgado, sin consecuencias de incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 97. Designación de apoderado común, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_371_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 371.- Negativa a colaborar con la administración de justicia, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Declara responsabilidad estatal por no investigar violencia doméstica, sin precisar sanciones individuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_229_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 229.- Omisión de deberes de funcionarios públicos, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_34_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 34. Declinatoria de competencia, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_156_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 156.- Revelación de la intimidad personal y familiar, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 409.- Falsedad en juicio, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_378_01",
+      "relevance": "si",
+      "rationale": "Fija la pena del policía que omite o retarda auxilio en violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona la omisión de comunicar delitos, pero no la desatención general del policía o juez."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El texto trata La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur], sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_308_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 308. Desafectación y Tercería, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "parcial",
+      "rationale": "Establece pautas de atención sin revictimización, sin sancionar la desatención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 71. Derechos del imputado, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 484. Audiencia, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios], sin resolver las consecuencias de desatender una denuncia de maltrato."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 85. Reemplazo del abogado defensor, sin resolver las consecuencias de desatender una denuncia de maltrato."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Contempla medidas a favor de la víctima en la sentencia penal, pero no su vigencia cuando se archiva la denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-e_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Distingue protección tutelar y sanción penal, pero no precisa las consecuencias del archivo sobre las medidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_339_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige motivación y revisión para levantar órdenes de alejamiento, sin tratar específicamente el archivo penal peruano."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "si",
+      "rationale": "Establece expresamente que la protección subsiste mientras persista el riesgo, independientemente del archivo penal, y exige decisión del juzgado para modificarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00415_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "parcial",
+      "rationale": "Vincula la protección con la evaluación actualizable del riesgo, sin explicar qué ocurre tras el archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_67_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluar periódicamente el riesgo y permitir impugnar el levantamiento de protección, sin resolver expresamente el efecto del archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-b_01",
+      "relevance": "parcial",
+      "rationale": "Prevé un cuaderno separado para cumplir y evaluar la protección y ampliarla si continúa la violencia, sin regular expresamente el archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica la autonomía y urgencia del procedimiento protector frente a la audiencia del denunciado, sin regular su vigencia tras el archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Refiere un protocolo sobre protección y cautelares, sin exponer sus reglas de vigencia después del archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0016_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00067_e0023_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_154_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "parcial",
+      "rationale": "Distingue la actuación protectora del juzgado y la tramitación penal paralela, sin establecer el efecto del archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00423_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0003_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-c_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00514_e0022_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00670_e0010_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_434_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00212_e0005_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula el otorgamiento y ejecución inmediata de protección según riesgo, pero no su continuidad tras el archivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_250_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00401_e0011_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00008_e0002_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0007_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_20-a_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "No aborda si el archivo de la denuncia penal extingue las medidas de protección del juzgado de familia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

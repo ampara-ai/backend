@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_16_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 16.- Tentativa no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 2. Principio de oportunidad no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RN 2528-2010, Junín, f. j. 6 no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 21.- Responsabilidad restringida no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_161_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 161. Efecto de la confesión sincera no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 20.- Inimputabilidad no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 380. Examen especial del testigo o perito no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 441.- Lesión dolosa y lesión culposa no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Bien jurídico libertad sexual (Casación 148-2010, Moquegua) no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre jp_00150_e0012 no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_331_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 331. Actuación policial no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 151-A.- Acoso no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "si",
+      "rationale": "Reconoce la reducción por responsabilidad restringida de un condenado de 18 años y 7 meses."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_62_01",
+      "relevance": "parcial",
+      "rationale": "Prevé reserva del fallo para menores de 25 años bajo condiciones, sin explicar la reducción por responsabilidad restringida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0021_01",
+      "relevance": "si",
+      "rationale": "Explica que la edad entre 18 y 21 años permite reducir prudencialmente la pena."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 122. Lesiones leves no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Da criterios generales para determinar la pena sin regular la reducción por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 121.- Lesiones graves no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "parcial",
+      "rationale": "Prevé suspensión excepcional para menores de 25 años, sin explicar la reducción de la pena por edad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 184.- Castigo a cómplices no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 442.- Maltrato no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 124.- Lesiones Culposas no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 19. Declaración de la víctima y entrevista única no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 122. Lesiones leves no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Gonzáles y otros vs. México, f.j. 401 no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Interés superior del niño: Ante un contrainterrogatorio rudo y asediante al menor no se le puede negar un soporte psicológico [Casación 2195-2019, Amazonas] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "parcial",
+      "rationale": "Menciona la responsabilidad restringida por edad entre varios motivos de reducción, sin precisar su rango."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 1442-2022, Puno no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Homicidio por género: Autopsia no debe limitarse a causa de muerte sino a actos de violencia [Veliz Franco y otros vs. Guatemala] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 7. Sujetos de protección de la Ley no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 321.- Tortura no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 301.- Coacción al consumo de droga no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la edad como atenuante si influyó en la conducta, pero no precisa la regla para los 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 68.- Exención de pena no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Violación como tortura (Rosendo Cantú vs. México) no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_15_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 15.- Error de comprensión culturalmente condicionado no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Procede aplicar el principio de oportunidad o acuerdo reparatorio en el delito del art. 122-B del CP [Pleno Jurisdiccional Distrital Penal de Áncash, 2017] no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 176-A.- Tocamientos, actos de connotación sexual o actos libidinosos en agravio de menores no aborda la reducción del castigo por tener 19 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_22_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aborda la reducción del castigo por tener 19 años."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

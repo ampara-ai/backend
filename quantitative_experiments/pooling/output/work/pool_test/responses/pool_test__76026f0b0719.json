@@ -1,0 +1,407 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Enfoque de género obligatorio (Exp. 00134-2023-31)» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00312_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Apelación 333-2025, Corte Suprema, f. j. 12» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Identifica un protocolo para otorgar medidas de protección, pero no expone reglas para reforzarlas o sustituirlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 287. Comparecencia restrictiva» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 397. Correlación entre acusación y sentencia» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_368_01",
+      "relevance": "parcial",
+      "rationale": "Establece la sanción penal por incumplir medidas de protección, sin explicar su ampliación o sustitución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 1. Objeto de la Ley» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_3_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 3. Comunicación al Juez de la continuación de la investigación» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige ejecución inmediata y constante de la protección ante hostigamiento, sin regular su modificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_237_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 237. Procedencia» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No todo defecto al «derecho a la debida motivación» amerita su nulidad [Casación 975-2016, Lambayeque]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_375_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 375. Orden y modalidad del debate probatorio» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "parcial",
+      "rationale": "Enumera factores de riesgo y peligrosidad para elegir medidas, pero no regula la modificación de una orden vigente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 426. Nulidad del juicio» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_43_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 43. Contienda de competencia por inhibición» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Siete criterios para aplicar acuerdo reparatorio en delito de agresión contra una mujer [Carpeta Fiscal 550-2019]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_65_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 65.- Efectos del incumplimiento» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_53_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 53. Inhibición» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_255_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 255. Legitimación y variabilidad» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido de «No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116)» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 288. Las restricciones» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 176-B.- Acoso sexual» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 359. Concurrencia del Juez y de las partes» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-b_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 22-B. Medidas cautelares» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios)» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_59_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 59.- Efectos del incumplimiento» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Volodina vs. Rusia, f.j. 7,10» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Incluye medidas de cumplimiento y restricciones en la sentencia, sin explicar cómo reforzar una orden vigente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "si",
+      "rationale": "Autoriza expresamente al juzgado de familia a sustituir o ampliar las medidas ante cambios de riesgo o a pedido de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 419.- Detención ilegal» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00265_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige mecanismos de revisión de órdenes de alejamiento, sin establecer el trámite peruano para reforzarlas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_310_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 310. Orden de inhibición» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Exp. 01386-2020-0» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_346_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 346. Pronunciamiento del Juez de la Investigación Preparatoria» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_204_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 204. Impugnación» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 291. Comparecencia simple» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_250_01",
+      "relevance": "parcial",
+      "rationale": "Permite modificar o añadir protección de víctimas y testigos en juicio penal, sin regular las órdenes del juzgado de familia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "parcial",
+      "rationale": "Describe el acoso y su agravación por una expareja, pero no explica cómo modificar la orden de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios de riesgo y escalada de violencia para la protección, sin regular la sustitución de medidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Señala que el acoso que pone en riesgo a la víctima puede abordarse con protección procesal penal, sin explicar el refuerzo de su orden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Juez que anula fallo so pretexto de buscar la verdad ante la falta de prueba de cargo se parcializa [RN 349-2016, Lima Sur]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 538. Práctica de diligencias en el extranjero por Fiscal o Juez peruanos» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Tres requisitos que el juez debe cumplir para introducir prueba de oficio [Casación 717-2020, Huancavelica]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Explica la adopción urgente de protección sin audiencia previa, pero no su modificación por incumplimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Preguntas aclaratorias del juez en el interrogatorio, límites y pérdida de la imparcialidad (España) [STS 2084/2023]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_126_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 126. Poder coercitivo» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Exige reevaluar el riesgo de escalada aun después de una orden, sin regular cómo ampliarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Exige evaluación periódica de riesgo y revisión efectiva de la protección, sin desarrollar el trámite para reforzarla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_323_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 323. Función del Juez de la Investigación Preparatoria» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Igualdad de armas: Que no se pueda actuar un medio de prueba de una de las partes, no supone que el juez deba negar también a la otra parte la actuación de uno de sus medios de prueba [Casación 922-2022, Cañete]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El contenido de «RN 1865-2015, Huancavelica» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 45. Inhibición del Juez» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 442.- Maltrato» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 254. Requisitos y trámite del auto judicial» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 45.- Presupuestos para fundamentar y determinar la pena» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 151.- Coacción» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_301_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 301. Concurrencia con la comparecencia restrictiva y trámite» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 299. Duración» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Contradicciones en declaración (Exp. 02162-2021-6)» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Agrava las agresiones que contravienen una medida de protección, sin autorizar ni explicar su modificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo 137.- Injurias recíprocas» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_viii_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Artículo VIII.- Proporcionalidad de las sanciones» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido de «Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios]» no regula el refuerzo o cambio de una orden de protección frente al acoso persistente."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

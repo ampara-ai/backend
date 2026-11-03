@@ -1,0 +1,377 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce trato digno y acompañamiento de confianza para menores o incapaces, sin garantizar examinadora o acompañante mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 23-B. Órganos de supervisión y apoyo de la ejecución de la medida de protección no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "parcial",
+      "rationale": "Permite solicitar atención policial femenina según disponibilidad, pero no regula el examen médico ni el acompañamiento consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Exige evitar exámenes revictimizantes y respetar derechos de la víctima, pero no establece elección del sexo del personal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_194_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 194. Participación de testigos y peritos no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 379. Inconcurrencia del testigo o perito no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 25. Protección de las víctimas en las actuaciones de investigación no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 210. Registro de personas no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Lubricación indica consentimiento (STS 944/2019, España) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_385_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 385. Otros medios de prueba y prueba de oficio no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige atención sensible y evitar revictimización, sin reconocer expresamente examinadora o acompañante mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre I.V. vs. Bolivia, f.j. 255 no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176-B.- Acoso sexual no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Violación como tortura (Rosendo Cantú vs. México) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre jp_00150_e0012 no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 14. Competencia no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Caso J. vs. Perú (Corte IDH 2013) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce soporte psicológico durante el interrogatorio infantil, pero no elección de una profesional mujer para examen o acompañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Prueba de comportamiento previo inadmisible (Exp. 6265-2020) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 442.- Maltrato no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_553_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 553. Autorización para utilizar la entrega vigilada no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce atención de salud especializada y respeto a la intimidad, pero no la elección del sexo de quien examina o acompaña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129. Citaciones no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Enfoque de género obligatorio (Exp. 00134-2023-31) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 170.- Violación sexual no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Corte IDH prejuicios personales estereotipos genero afectan objetividad investigador - López y otros vs. Venezuela no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0087_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Violación sexual: prueba en delitos a puerta cerrada (Colombia) [Radicado 58187] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0087_01",
+      "relevance": "si",
+      "rationale": "Reconoce el examen por personal idóneo del sexo que la víctima indique, respondiendo al núcleo de la solicitud."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_440_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 440. Legitimación no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre jp_00260_e0008 no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Contradicciones en declaración (Exp. 02162-2021-6) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 5. Definición de violencia contra las mujeres no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_212_01",
+      "relevance": "parcial",
+      "rationale": "Regula exámenes corporales de personas no inculpadas, sin reconocer elección de examinadora ni acompañante mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 192. Objeto no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Declaración víctima prueba directa (Apelación 41-2023) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0104_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Cooperadores necesarios (STS 6833/2005, España) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_19_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 19. Declaración de la víctima y entrevista única no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0018_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Máximas de experiencia en conducta de víctima (Casación 2439-2021, Huánuco) no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_330_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 330. Investigación preliminar no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0020_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Valoración de la prueba pericial en delitos de violación sexual [AP 4-2015/CIJ-116] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 211. Examen corporal del imputado no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Solicitar que víctima de violación sexual participe de las diligencias de inspección ocular y reconstrucción de los hechos constituye una forma de victimización [V. R. P., V. P. C. y otros vs. Nicaragua] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Denunciar casos de violencia contra la mujer en el Ministerio Público no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00141_e0016_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica] no aporta información para resolver la elección de una mujer para el examen y acompañamiento tras violencia sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

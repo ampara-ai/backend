@@ -1,0 +1,323 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aporta una absolución por duda tras contrastar el relato con pericias, pero se centra en la congruencia del recurso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Analiza una absolución por tentativa y una posible calificación alternativa, sin explicar insuficiencia de identificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Aporta criterios de corroboración del relato infantil, pero trata una condena por violación reiterada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas de valoración del testimonio infantil y del daño psicológico tardío."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Describe garantías y pruebas adicionales necesarias para sostener una condena, sin explicar la absolución consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0071_01",
+      "relevance": "si",
+      "rationale": "Explica una absolución por tentativa contra una niña porque el relato y las pericias no alcanzaron certeza."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el principio general de responsabilidad penal, sin explicar el valor de la identificación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_340_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00395_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta un supuesto de corroboración de la incriminación mediante la manifestación del acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Expone los requisitos de suficiencia del relato corroborado, pero trata una condena por tocamientos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber de motivar con enfoque de género una absolución por violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0063_01",
+      "relevance": "parcial",
+      "rationale": "Analiza retractación y documentos mal valorados al absolver, circunstancias no indicadas en la consulta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Aporta requisitos de certeza y corroboración para condenar, sin resolver la absolución por identificación insuficiente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "si",
+      "rationale": "Explica que una sindicación con contradicciones y sin corroboración suficiente no vence la duda razonable."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "parcial",
+      "rationale": "Aporta otra causa de insuficiencia del testimonio infantil, vinculada a una evaluación inadecuada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "si",
+      "rationale": "Explica una absolución pese a la identificación inicial por retractación y falta de valor de las diligencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0039_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que la ausencia de daño emocional no descarta el delito, sin explicar la identificación insuficiente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0088_01",
+      "relevance": "si",
+      "rationale": "Explica que las pericias contradictorias y la insuficiencia de prueba obligan a absolver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_211_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0008_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "parcial",
+      "rationale": "Expone cuándo el testimonio infantil corroborado puede bastar para condenar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Aporta el deber de valorar pruebas adicionales al testimonio antes de absolver."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0035_01",
+      "relevance": "parcial",
+      "rationale": "Aporta la necesidad de valorar integralmente la prueba y el contexto de la falta de declaración."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Analiza una absolución por tentativa mal motivada y la valoración conjunta del relato y las pericias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0038_01",
+      "relevance": "parcial",
+      "rationale": "Aporta reglas sobre credibilidad infantil tardía en un delito distinto, sin resolver la identificación consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0066_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "parcial",
+      "rationale": "Explica una absolución por retractación válida, supuesto relacionado que la pregunta no menciona."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_197_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "parcial",
+      "rationale": "Expone que el odio no basta para descartar la incriminación y exige evaluar corroboraciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00464_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona una absolución infantil con la falta de incorporación de una declaración previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0022_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Aclara que no se requieren huellas de violencia para condenar, sin resolver la suficiencia de identificar al sospechoso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00178_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica el carácter subsidiario del reconocimiento si el acusado es conocido y hay otras pruebas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0014_01",
+      "relevance": "si",
+      "rationale": "Explica que la identificación inicial no basta cuando falta corroboración y la Fiscalía no acredita responsabilidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0042_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00178_e0030_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata otro supuesto o procedimiento y no explica la absolución pese a la identificación de la niña."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

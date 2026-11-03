@@ -1,0 +1,365 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_379_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Prevé corregir afectaciones del derecho de defensa durante la detención, sin precisar acompañamiento ni comunicación con el abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_291_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_209_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_263_01",
+      "relevance": "parcial",
+      "rationale": "Exige advertir los derechos del detenido y asistencia letrada al examinarlo judicialmente, pero no desarrolla los derechos consultados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_370_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_245_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_338_01",
+      "relevance": "parcial",
+      "rationale": "Da reglas generales de asistencia a diligencias de investigación, sin precisar la asistencia desde la citación policial."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_205_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_68_01",
+      "relevance": "si",
+      "rationale": "Exige abogado defensor en la manifestación del investigado ante la Policía, lo que responde al núcleo de la asistencia en comisaría."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_129_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_335_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Analiza el valor de una manifestación policial sin abogado, pero no establece el derecho a acompañamiento y comunicación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_265_01",
+      "relevance": "si",
+      "rationale": "Garantiza conferencias privadas entre el abogado y el detenido incluso durante la incomunicación, sin autorización previa."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_210_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_109_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_83_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho al abogado de elección y prohíbe su exclusión injustificada, sin precisar el momento inicial ni la comunicación en detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_324_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_369_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Garantiza asistencia de abogado desde que la persona es citada o detenida por la autoridad y durante todo el procedimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_376_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_82_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "si",
+      "rationale": "Reconoce la presencia del defensor y la consulta previa con él antes de la declaración del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_86_01",
+      "relevance": "parcial",
+      "rationale": "Exige asistencia del abogado al declarar ante el fiscal, sin precisar acompañamiento en comisaría ni comunicación durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_119_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "si",
+      "rationale": "Reconoce asistencia letrada desde los actos iniciales y presencia del defensor en la declaración y diligencias del imputado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_164_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "parcial",
+      "rationale": "Regula la continuidad y sustitución de la defensa ante inasistencia a diligencias, sin responder sobre asistencia inicial ni entrevistas con el detenido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_88_01",
+      "relevance": "parcial",
+      "rationale": "Prevé la intervención del defensor en el interrogatorio durante la investigación, sin establecer acompañamiento inicial ni comunicación en detención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_84_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_328_01",
+      "relevance": "no",
+      "rationale": "No resuelve el derecho del denunciado a asistencia letrada desde la citación policial y comunicación con su abogado durante la detención."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,359 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "si",
+      "rationale": "Impone al Estado investigar exhaustivamente la violencia sexual contra menores para identificar responsables."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aporta deber de protección de una defensora amenazada, sin abordar abuso sexual escolar de adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "parcial",
+      "rationale": "Aporta debida diligencia frente a violencia sexual de una adolescente, sin desarrollar prevención y sanción en el colegio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Prohíbe instrumentalizar a una menor en la persecución sexual, sin desarrollar el deber de protección escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-a_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23-b_01",
+      "relevance": "parcial",
+      "rationale": "Regula supervisión de medidas para menores, sin desarrollar prevención y sanción de abuso por docentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Obliga a entidades estatales a atender, proteger y restablecer derechos de las víctimas de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "si",
+      "rationale": "Establece prevención, protección y persecución de violencia en el ámbito público y privado, especialmente de adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce atención educativa de secuelas y continuidad de estudios, sin desarrollar prevención y sanción del profesor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Protege identidad y declaración de menores en juicio, sin desarrollar el deber estatal contra violencia escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_479_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0019_01",
+      "relevance": "parcial",
+      "rationale": "Desarrolla protección frente a violencia doméstica y riesgo vital, sin abordar el abuso sexual escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_2_01",
+      "relevance": "si",
+      "rationale": "Impone al Estado debida diligencia e intervención inmediata para proteger y sancionar violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "parcial",
+      "rationale": "Evita revictimización al declarar, sin desarrollar prevención y sanción del abuso escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce vida libre de violencia, sin concretar obligaciones estatales de protección ante abuso docente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "si",
+      "rationale": "Reconoce expresamente protección estatal de niños y víctimas mediante prevención e investigación efectiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige apoyo psicológico durante el interrogatorio, pero solo aborda una parte de la protección de la adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_178_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección ante amenazas a quienes colaboran con justicia, sin abordar abuso escolar de adolescentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona tocamientos y agrava por adolescencia, sin desarrollar los deberes estatales de prevención y protección escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Exige protección efectiva frente a violencia doméstica, sin desarrollar el deber ante abuso escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Obliga a educadores y funcionarios a denunciar, pero no desarrolla la protección integral de la adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Establece deber estatal reforzado de protección e investigación de violencia sexual contra niñas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Exige enfoque de género al juzgar abuso de una alumna por su profesor, sin desarrollar el deber integral de protección escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00187_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Evita revictimización en diligencias de niñas, sin desarrollar prevención y sanción de abuso por docentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Impone medidas ante riesgo vital doméstico conocido, sin abordar abuso sexual en colegios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Define funcionarios públicos y aporta contexto sobre el profesor estatal, sin establecer el deber de proteger a su alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "parcial",
+      "rationale": "Incluye niñas y adolescentes como protegidas, sin precisar obligaciones de prevención y sanción estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "si",
+      "rationale": "Permite protección judicial de la integridad sexual, incluido alejamiento del centro de estudios y tratamiento psicológico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_27_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad estatal de prevenir violencia y promover recuperación y servicios de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "si",
+      "rationale": "Exige protección reforzada e investigación con perspectiva de género y niñez ante abuso sexual de niñas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "parcial",
+      "rationale": "Establece reeducación de agresores como política estatal, sin desarrollar protección de la alumna o sanción del profesor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Desarrolla medidas frente a riesgo vital doméstico, sin abordar protección ante abuso sexual escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Vincula desprotección doméstica con discriminación, sin desarrollar la protección de adolescentes frente a docentes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "no",
+      "rationale": "No establece obligaciones estatales de protección e investigación aplicables al abuso sexual de la alumna."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

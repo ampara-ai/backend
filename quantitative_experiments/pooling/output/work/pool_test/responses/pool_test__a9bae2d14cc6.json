@@ -1,0 +1,359 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "Regula esclavitud o servidumbre laboral excluyendo expresamente explotación sexual, por lo que no permite calificar el sometimiento sexual descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica actos sexuales obligados para aprovechamiento, pero no explica la esclavitud sexual ni el ejercicio de dominio sobre la víctima retenida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "parcial",
+      "rationale": "Define violación sexual bajo violencia o coacción, pero no la calificación adicional del cautiverio con dominio sexual continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Ofrece orientación telefónica sobre violencia, sin identificar el nombre específico de los hechos descritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce violaciones reiteradas, pero no identifica la esclavitud sexual ni el dominio sobre una víctima cautiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "El deber de investigar y la valoración de términos de la víctima no definen la calificación del sometimiento sexual prolongado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El trámite de terminación anticipada no permite identificar el delito adicional descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "La prevención de revictimización durante investigaciones no define el sometimiento sexual de una víctima cautiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El desistimiento tácito en faltas no ayuda a calificar el cautiverio con abusos sexuales repetidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_538_01",
+      "relevance": "no",
+      "rationale": "Las diligencias procesales en el extranjero no identifican el delito descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_336_01",
+      "relevance": "no",
+      "rationale": "La formalización de investigación y tipificaciones alternativas no aportan la calificación concreta del cautiverio sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "Las agravantes vinculadas al transporte de migrantes no responden al sometimiento sexual descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "La promoción o facilitación de explotación sexual ajena no identifica la conducta de quien mantiene cautiva a la víctima para abusar de ella."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "La explotación sexual específicamente de menores no permite calificar estos hechos sin datos sobre minoría de edad ni dominio como propiedad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El acoso por vigilancia o persecución no corresponde al cautiverio y abuso sexual consumado descritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica actos sexuales no consentidos bajo violencia, pero no identifica la figura adicional de dominio sexual continuado sobre una persona cautiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "La violación tras provocar inconsciencia o imposibilidad de resistir regula un supuesto distinto del dominio y cautiverio sexual continuados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "parcial",
+      "rationale": "Define ampliamente violación sexual, pero no identifica la figura adicional del cautiverio con trato de la persona como propiedad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "La excepcionalidad del careo como diligencia procesal no ayuda a nombrar el sometimiento sexual descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "parcial",
+      "rationale": "Explica que la violación puede constituir tortura para controlar o humillar, pero no desarrolla la esclavitud sexual derivada del cautiverio y dominio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0049_01",
+      "relevance": "no",
+      "rationale": "La recalificación de violación a actos contra el pudor por dudas de penetración no identifica el sometimiento sexual continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "no",
+      "rationale": "La sustitución y sanción de abogados ausentes no ayuda a calificar los hechos descritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "Los enfoques generales de aplicación de la ley no identifican la figura del cautiverio con dominio sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "La falta de maltrato sin lesión no responde a cautiverio y violaciones repetidas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_461_01",
+      "relevance": "no",
+      "rationale": "La investigación preliminar en querellas privadas no identifica el delito descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "La eficacia probatoria del testimonio de menores no define la calificación del cautiverio sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "Las agravantes de lesiones familiares no identifican el dominio sexual continuado sobre una víctima encerrada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica gestión de explotación sexual para acceso carnal propio, pero no define el dominio y cautiverio constitutivos de esclavitud sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_523_01",
+      "relevance": "no",
+      "rationale": "La detención preventiva para extradición no ayuda a calificar el sometimiento sexual descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "parcial",
+      "rationale": "Explica violencia e inhibición de resistencia en la violación, sin identificar la figura adicional del cautiverio y dominio continuados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "La apertura y alegatos preliminares del juicio no aportan la calificación jurídica consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "La suficiencia de declaraciones contradictorias no define el delito adicional por cautiverio y abuso continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_429_01",
+      "relevance": "no",
+      "rationale": "Las causales de casación no permiten identificar el nombre de los hechos descritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "La inadmisión de pruebas defensivas en una causa española no aporta la calificación del dominio sexual continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "La revictimización por declaraciones repetidas tras un secuestro no define la figura del sometimiento sexual como propiedad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona control coercitivo y violencia extrema con tortura, pero no define la esclavitud sexual por cautiverio y abusos repetidos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Regula acceso sexual en establecimientos de internamiento bajo dependencia institucional, un supuesto distinto del cautiverio particular descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "no",
+      "rationale": "La violación de menores de catorce años no identifica la figura adicional consultada ni consta esa edad en la pregunta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "La distinción entre tentativa de violación y actos contra el pudor no corresponde a los abusos repetidos consumados descritos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "La protección de mujeres en detención estatal no identifica el delito específico del cautiverio sexual por un particular."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "parcial",
+      "rationale": "Describe violencia sexual bajo coacción y control psicológico, pero no identifica el nombre específico del sometimiento como propiedad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye secuestro, tortura y violación entre formas de violencia contra mujeres, pero no define la figura que reúne cautiverio y dominio sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "La violación por condiciones psíquicas o alteración de conciencia regula un supuesto distinto del dominio sexual continuado descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica la privación ilegítima de libertad y el trato cruel, cubriendo el encierro pero no la esclavitud sexual que reúne los hechos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "La consideración de familiares como víctimas no identifica la figura del sometimiento sexual continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "La reducción prudencial de pena por eximentes incompletas no permite nombrar el delito descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El reemplazo de jueces durante alegatos finales no ayuda a calificar el cautiverio y abuso sexual repetido."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "La gestión de explotación sexual infantil exige un supuesto de minoría de edad no indicado y no define la figura de dominio sexual consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "La distinción colombiana entre acoso y acto sexual violento no identifica esclavitud sexual o cautiverio continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El listado de agravantes de trata sin definir la conducta no permite identificar la figura del sometimiento sexual descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-f_01",
+      "relevance": "no",
+      "rationale": "El beneficio recibido por quien no participa en explotación sexual no corresponde al agresor que mantiene cautiva y abusa de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0070_01",
+      "relevance": "parcial",
+      "rationale": "Define formas de acceso carnal que constituyen violación, sin explicar el delito adicional por cautiverio y dominio sexual continuado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "La obligación de denuncia de profesionales de salud no identifica la figura del sometimiento sexual descrito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "La suficiencia de una sola denuncia para activar investigación no define el delito adicional consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00122_e0005_01",
+      "relevance": "no",
+      "rationale": "La validez de una confesión ante fiscal no ayuda a calificar cautiverio con abusos sexuales continuados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "parcial",
+      "rationale": "Define retención coercitiva con fines de explotación sexual o esclavitud como trata, pero no desarrolla la figura del ejercicio continuado de dominio sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "parcial",
+      "rationale": "Explica consumación de violación por penetración parcial, pero no identifica el delito adicional por dominio y cautiverio sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El acoso sexual por persecución o búsqueda de cercanía no corresponde a cautiverio con abusos sexuales consumados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00072_e0006_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "parcial",
+      "rationale": "Define violación mediante penetración superficial, pero no identifica la figura adicional por mantener a la víctima como propiedad sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

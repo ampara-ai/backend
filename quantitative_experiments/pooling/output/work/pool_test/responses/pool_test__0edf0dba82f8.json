@@ -1,0 +1,431 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_521-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 521-C. Audiencia ante la Corte Suprema no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto sobre jp_00150_e0012 no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Contradicciones en declaración (Exp. 02162-2021-6) no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 2030-2019 Lima no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 352. Decisiones adoptadas en la audiencia preliminar no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_3_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 3. Enfoques no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_ii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo II. Presunción de inocencia no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 487. Desistimiento o transacción no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_458_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 458. Transformación al proceso común y advertencia no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Primer caso: Es posible condenar a un absuelto por sentencia casatoria por vulnerar el principio lógico de la razón suficiente [Casación 1620-2021, Arequipa] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 273. Libertad del imputado no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 398. Sentencia absolutoria no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 45.- Presupuestos para fundamentar y determinar la pena no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Permite continuar el juicio sin el acusado, pero no regula su expulsión ni la comunicación de la decisión final."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_393_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 393. Normas para la deliberación y votación no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 457. Reglas especiales no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 137.- Injurias recíprocas no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 484. Audiencia no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_344_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 344. Decisión del Ministerio Público no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_415_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 415. Ámbito no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 52. Resolución y diligencias urgentes no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 372. Posición del acusado y conclusión anticipada del juicio no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 1865-2015, Huancavelica no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Existe un desistimiento tácito de querellante que no asiste injustificadamente una vez a audiencia [Pleno Jurisdiccional Distrital Penal y Procesal Penal de Tumbes, 2017] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 21.- Responsabilidad restringida no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_544_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 544. Trámite cuando el Perú solicita el traslado del nacional no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 386. Desarrollo de la discusión final no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00615_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Proceso de amparo es vía idónea para el control de actuaciones o decisiones fiscales [Exp. 05121-2015 -PA/TC] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 442.- Maltrato no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 00059-2019-0, f.j. 10 no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_34_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 34. Declinatoria de competencia no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_522_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 522. Decisión y ejecución de la extradición no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre jp_00051_e0006 no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Excluir del proceso al abogado defensor de elección es causal de nulidad [Casación 509-2019, Ucayali] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_497_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 497. Regla general, excepción y recurso no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Exp. 01386-2020-0 no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre RN 482-2024, Lima no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 470. Declaración inexistente no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_425_01",
+      "relevance": "parcial",
+      "rationale": "Prevé pronunciar la sentencia de segunda instancia con quienes asistan, pero no trata la expulsión por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El texto sobre La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 293. Presupuestos no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_433_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 433. Contenido de la sentencia casatoria y Pleno Casatorio no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 16. Proceso especial no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_405_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 405. Formalidades del recurso no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Juez no puede remitir por otro tipo penal un proceso que concluyó con la absolución del imputado, sobre todo cuando la acusación contra este contemplaba una calificación alternativa [Casación 1221-2019, Amazonas] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00114_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Se debe realizar un juzgamiento anticipado en casos de violencia familiar si solo se ofreció documentales y demandado es rebelde [Pleno Jurisdiccional Distrital Penal y Civil de Apurímac, 2015] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No configura violencia intrafamiliar agresiones de exparejas que ya no conviven aunque tengan hijos en común no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Principio de inmediación: no se quiebra el juicio si se reemplaza a uno de los jueces durante los alegatos de clausura [Casación 2144-2019, Cusco] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 87. Instrucciones preliminares no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_iii_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo III. Interdicción de la persecución penal múltiple no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No es válido el consentimiento a la actividad sexual cuando media fuerza, amenaza, coacción o aprovechamiento de un entorno coercitivo (AP 5-2016/CIJ-116) no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_95_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho de la agraviada a conocer el resultado, pero no regula la decisión tras expulsar al acusado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_380_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 380. Examen especial del testigo o perito no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 468. Normas de aplicación no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Artículo 20. Sentencia no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "El texto sobre No se afecta la imparcialidad del tribunal revisor que solo realiza un control de legalidad (España) [STS 1032/2021] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_391_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre Principio de oportunidad y acuerdo reparatorio no aplican en casos de violencia contra la mujer e integrantes del grupo familiar (doctrina legal) [AP 9-2019/CIJ-116] no regula la comunicación del fallo cuando se expulsa al acusado por desorden."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

@@ -1,0 +1,413 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_35_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 35.- Limitación de días libres no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Volodina vs. Rusia, f.j. 7,10 no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_52_01",
+      "relevance": "parcial",
+      "rationale": "Permite resolver sobre libertad pese a conflictos de competencia, sin dar requisitos de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0048_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cinco elementos para la validez de la retractación de la víctima [RN 1562-2019, Selva Central] no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_457_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 457. Reglas especiales no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_525_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 525. Ámbito e Iniciación no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_559_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 559. Plazo de la detención y libertad provisional no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "parcial",
+      "rationale": "Expone una medida de impedimento de salida alternativa, sin requisitos de encarcelamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 150.- Abandono de mujer gestante y en situación crítica no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_490_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 490. Cómputo de la pena privativa de libertad no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_55_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 55.- Conversión de las penas limitativas de derechos a privativa de libertad no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 261-A. Impedimento de la detención preliminar judicial no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_264_01",
+      "relevance": "parcial",
+      "rationale": "Explica plazos de detención y el pedido fiscal de prisión preventiva para mantenerla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_496_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 496. Otras competencias no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "La pena por lesiones graves aporta contexto para la gravedad del delito, sin requisitos de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_367_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 367. Concurrencia del imputado y su defensor no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "parcial",
+      "rationale": "Indica la pena por lesiones graves familiares, sin establecer presupuestos de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_354_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 354. Notificación del auto de enjuiciamiento no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 79. Contumacia y Ausencia no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 9. Derecho a una vida libre de violencia no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_402_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 402. Ejecución provisional no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_560_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 560. Detención provisional con fines de entrega no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_279_01",
+      "relevance": "parcial",
+      "rationale": "Permite cambiar comparecencia por prisión a pedido fiscal y remite a requisitos que no desarrolla."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_296_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 296. Resolución y audiencia no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_428_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 428. Desestimación no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "parcial",
+      "rationale": "Regula protección urgente ante el riesgo de violencia, sin establecer encarcelamiento preventivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_271_01",
+      "relevance": "parcial",
+      "rationale": "Explica el pedido fiscal, audiencia y resolución judicial de prisión preventiva, sin sus presupuestos materiales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "parcial",
+      "rationale": "Detalla restricciones para controlar al imputado en libertad, sin requisitos de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0018_01",
+      "relevance": "parcial",
+      "rationale": "Se refiere a medidas protectoras para víctimas, sin explicar cuándo corresponde prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_261_01",
+      "relevance": "parcial",
+      "rationale": "Regula detención preliminar y peligro procesal, que no equivalen a prisión durante el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 152.- Secuestro no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_272_01",
+      "relevance": "parcial",
+      "rationale": "Fija la duración de la prisión preventiva, sin explicar sus presupuestos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_293_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 293. Presupuestos no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_247_01",
+      "relevance": "parcial",
+      "rationale": "Da condiciones para proteger a la agraviada amenazada, sin regular prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Las penas de lesiones aportan contexto de gravedad, sin resolver el encarcelamiento cautelar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_419_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 419.- Detención ilegal no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0013_01",
+      "relevance": "parcial",
+      "rationale": "Explica evaluación del riesgo de nueva violencia, sin requisitos peruanos de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 89. Tratamiento y pluralidad de imputados no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 413.- Evasión mediante violencia o amenaza no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_290_01",
+      "relevance": "parcial",
+      "rationale": "Establece supuestos de detención domiciliaria en sustitución de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_274_01",
+      "relevance": "parcial",
+      "rationale": "Explica condiciones y trámite para prolongar una prisión preventiva ya impuesta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_253_01",
+      "relevance": "parcial",
+      "rationale": "Expone necesidad, proporcionalidad, elementos de convicción y riesgos para medidas coercitivas en general."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 176-B.- Acoso sexual no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_127_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 127. Notificación no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 411. Libertad de los imputados no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece alejamiento y otras protecciones ante el miedo de nuevas agresiones, sin regular prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00403_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Desistimiento a la declinatoria de competencia no da lugar a un nuevo pronunciamiento [RN 203-2011, Callao] no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "parcial",
+      "rationale": "Las penas de lesiones familiares aportan contexto, sin resolver prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00163_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Carácter «excepcional» del careo en un proceso penal (España) [STS 1027/2022] no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 365. Delito en el juicio no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "parcial",
+      "rationale": "Regula detención judicial breve por flagrancia y el posterior examen de prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 32. Tratamiento para las personas agresoras en medio libre no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 108-B.- Feminicidio no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_287_01",
+      "relevance": "si",
+      "rationale": "Prevé prisión preventiva si incumple restricciones y permite prohibir que se aproxime a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_533_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 533. Traslado al extranjero de persona privada de libertad no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_23_01",
+      "relevance": "parcial",
+      "rationale": "Explica continuidad de protección según el riesgo, sin requisitos para mantener preso al agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_521-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 521-A. Audiencia de control de la detención con fines de extradición no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_485_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 485. Medidas de coerción no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El derecho a la reparación integral de la víctima no solo abarca una compensación económica, sino una psicológica [RN 541-2020, Lima Sur] no explica la prisión preventiva por la agresión de pareja."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0048_01",
+      "relevance": "si",
+      "rationale": "Exige peligro procesal concreto y motivado para prisión preventiva, sin bastar gravedad o fines de prevención."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "parcial",
+      "rationale": "Indica penas de agresiones familiares, pero no los requisitos para prisión preventiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_268_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "parcial",
+      "rationale": "Ilustra motivación y prueba para prisión preventiva en un delito sexual distinto, sin desarrollar todos los requisitos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

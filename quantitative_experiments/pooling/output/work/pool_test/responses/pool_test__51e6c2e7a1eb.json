@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "La guía de evaluación física no aborda acuerdos ni extinción del caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476_01",
+      "relevance": "no",
+      "rationale": "El acuerdo de colaboración eficaz es distinto de un arreglo entre agresor y víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "La reserva del fallo por maltrato no explica los efectos de aceptar un acuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_99_01",
+      "relevance": "no",
+      "rationale": "Regula representación común de actores civiles."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "Trata la obligación del médico de denunciar, no acuerdos con el agresor."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_348_01",
+      "relevance": "no",
+      "rationale": "Clasifica el sobreseimiento sin relacionarlo con un acuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata límites de apelación por el actor civil."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "Trata la prueba de violencia en delitos sexuales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_539_01",
+      "relevance": "no",
+      "rationale": "Regula cooperación judicial internacional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "Explica cómo denunciar y medidas de protección, sin tratar acuerdos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0009_01",
+      "relevance": "no",
+      "rationale": "Desarrolla reparación integral sin explicar si un acuerdo extingue la persecución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "Ofrece orientación telefónica sin responder los efectos de un acuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_14_01",
+      "relevance": "parcial",
+      "rationale": "Permite transacción de la acción civil y delimita su efecto a la reparación, sin resolver la acción penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_147_01",
+      "relevance": "no",
+      "rationale": "Regula renuncia a plazos, no renuncia al caso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "parcial",
+      "rationale": "La conclusión anticipada requiere aceptación de cargos y acuerdo con el fiscal, distinto del arreglo con la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "Regula tratamiento penitenciario de agresores."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "Regula designación de apoderado común."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "Regula declaraciones de varios acusados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "si",
+      "rationale": "Admite salidas alternativas para lesiones leves por violencia de género, aportando el criterio central sobre su procedencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_469_01",
+      "relevance": "parcial",
+      "rationale": "Regula acuerdos de terminación anticipada entre fiscal e imputados, no acuerdos con la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_468_01",
+      "relevance": "parcial",
+      "rationale": "La terminación anticipada supone acuerdo con el fiscal y sentencia judicial, sin resolver el arreglo ofrecido a la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "no",
+      "rationale": "Regula tratamiento de agresores en libertad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "Regula conciliación en querellas de acción privada, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_92_01",
+      "relevance": "no",
+      "rationale": "Explica la determinación de reparación junto con la pena, sin abordar acuerdos extintivos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_105_01",
+      "relevance": "no",
+      "rationale": "Delimita facultades del actor civil sin explicar los efectos del acuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_556_01",
+      "relevance": "no",
+      "rationale": "Regula acuerdos de cooperación con la Corte Penal Internacional."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0006_01",
+      "relevance": "si",
+      "rationale": "Excluye expresamente conciliación y acuerdos reparatorios en violencia de género e intrafamiliar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_200_01",
+      "relevance": "no",
+      "rationale": "Define y sanciona extorsión, sin tratar el acuerdo consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_481_01",
+      "relevance": "no",
+      "rationale": "Trata las pruebas ante el rechazo de colaboración eficaz, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata condena por robo en casación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_152_01",
+      "relevance": "no",
+      "rationale": "Regula convalidación de defectos procesales."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_78_01",
+      "relevance": "parcial",
+      "rationale": "Permite extinción por transacción solo en acción privada sin determinar el régimen de la agresión consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "no",
+      "rationale": "Describe contenido de sentencias de violencia sin resolver los efectos de un acuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "no",
+      "rationale": "Impone investigación de oficio en violencia sexual sin abordar acuerdos entre partes."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_6_01",
+      "relevance": "no",
+      "rationale": "Enumera excepciones procesales, no acuerdos con la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "Regula declaraciones tras fallar una terminación anticipada, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_477_01",
+      "relevance": "no",
+      "rationale": "Regula aprobación de colaboración eficaz, no arreglos con la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00505_e0001_01",
+      "relevance": "no",
+      "rationale": "Trata calificación alternativa tras absolución."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "si",
+      "rationale": "Explica cuándo un acuerdo reparatorio determina abstención fiscal y qué sucede si no se cumple."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_476-a_01",
+      "relevance": "no",
+      "rationale": "Regula efectos de colaboración eficaz, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica el maltrato sin establecer efectos de acuerdos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "Trata motivación probatoria en violencia sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0016_01",
+      "relevance": "si",
+      "rationale": "Admite acuerdo reparatorio para lesiones leves por violencia contra la mujer y fija sus límites."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "Regula detención judicial en flagrancia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "si",
+      "rationale": "Establece que la conciliación o acuerdo homologado en el proceso por faltas concluye las actuaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "Regula los registros de víctimas, agresores y condenas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "Examina consentimiento sexual, no aceptación de un acuerdo procesal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "Califica actos sexuales de un caso colombiano sin resolver el efecto de un arreglo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_493_01",
+      "relevance": "no",
+      "rationale": "Regula ejecución de reparación civil, no extinción por acuerdo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "Regula participación del agraviado en colaboración eficaz, un procedimiento distinto."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_474_01",
+      "relevance": "no",
+      "rationale": "Regula requisitos de colaboración eficaz, no acuerdos con la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_472_01",
+      "relevance": "no",
+      "rationale": "Regula solicitud de colaboración eficaz, no acuerdos con la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "Establece servicios de reeducación sin abordar acuerdos extintivos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0022_01",
+      "relevance": "si",
+      "rationale": "Explica que el fiscal se abstiene de ejercer acción penal si se cumple el acuerdo en un caso de violencia familiar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00196_e0015_01",
+      "relevance": "si",
+      "rationale": "Admite principio de oportunidad y acuerdo reparatorio en agresiones contra mujeres o familiares."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "no",
+      "rationale": "Trata consentimiento sexual y debida diligencia en una investigación extranjera."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_487_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "no",
+      "rationale": "Enuncia garantías generales del proceso sin tratar acuerdos."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

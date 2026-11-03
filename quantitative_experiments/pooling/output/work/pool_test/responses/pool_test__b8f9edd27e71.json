@@ -1,0 +1,401 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que la declaración de la víctima en cámara Gesell no se haya recabado como prueba anticipada no implica que dicha declaración no sea tomada en cuenta por el juzgador o que esta sea nula [Casación 3251-2022, Huaura]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "Tipifica maltrato sin lesión, sin abordar la intervención quirúrgica ni el consentimiento reproductivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0082_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Prueba de comportamiento previo inadmisible (Exp. 6265-2020)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0024_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Penetración parcial configura violación (Casación 1111-2018, Ayacucho)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0065_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Penetración hasta himen (RN 28-2016, Ayacucho)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0101_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Lubricación indica consentimiento (STS 944/2019, España)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tres requisitos que se deben tener en cuenta para declarar la «nulidad» [Casación 469-2021, Piura]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Penal Miguel Castro Castro vs. Perú, f.j. 303» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Que la menor refiera que odia al procesado no justifica falsedad [RN 404-2021, Junín]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación sexual: Inobservancia de los derechos de la víctima durante la investigación constituye «violencia institucional» [VRP, VPC y otros vs. Nicaragua]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acoso sexista en protestas (Mujeres Atenco vs. México)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00686_e0027_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Corte IDH prejuicios personales estereotipos genero afectan objetividad investigador - López y otros vs. Venezuela» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_18_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 18. Actuación de los operadores de justicia» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0093_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Caso López Soto y otros vs. Venezuela: No reducir pena por prostitución como trato desigual» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-B.- Acoso sexual» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Tentativa de violación (RN 316-2021, Lima Este)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "Regula acceso carnal a personas bajo autoridad o vigilancia, no intervenciones reproductivas sin consentimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Extiende la protección frente a la violencia a los ámbitos público y privado, sin caracterizar la intervención reproductiva no consentida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 152.- Secuestro» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0045_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La retractación es propio de las mujeres víctimas de maltratos [RN 896-2020, Lima Sur]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0005_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Apelación 312-2023, Lima» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_39-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 39-B. Obligación de rendir cuentas sobre el trabajo de las instancias regionales de concertación» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_333_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 333. Coordinación lnterinstitucional de la Policía Nacional con el Ministerio Público» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0092_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Penetración superficial suficiente (Valencia Campos vs. Bolivia)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_8_01",
+      "relevance": "si",
+      "rationale": "Define como violencia el daño físico y la vulneración coactiva del derecho a decidir voluntariamente sobre la vida reproductiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 931-2016, Cusco» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violencia sexual: líneas de investigación deben estar orientadas a evitar la revictimización [Fernández Ortega y otros vs. México]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a una vida libre de violencia y discriminación, sin definir el maltrato por esterilización no consentida."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Exp. 01386-2020-0» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Ofrece una definición general de violencia contra las mujeres en ámbitos públicos y privados, sin tratar el consentimiento reproductivo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación como tortura (Rosendo Cantú vs. México)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00381_e0014_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «El uso de estereotipos de género en el proceso penal evidencia la violación a la presunción de inocencia, la motivación y la imparcialidad [Manuel y otros vs. El Salvador]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 170.- Violación sexual» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_425_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 425.- Funcionario o servidor público» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00423_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «STS 3147/2022» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "Describe el delito de tortura por sufrimientos graves con intervención pública, pero no caracteriza la esterilización sin consentimiento como violencia reproductiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Víctima de violación sexual que declara más de una vez sin asistencia o acompañamientos de profesionales de sexo femenino está siendo revictimizada [López Soto y otros vs. Venezuela]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce la violencia obstétrica como violencia contra la mujer, pero no explica cuándo una esterilización sin consentimiento la configura."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0089_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Concepto violación sexual (Espinoza Gonzáles vs. Perú)» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Actos del Ministerio Público» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la violencia en establecimientos de salud y la ejercida por agentes estatales, pero no desarrolla el consentimiento reproductivo ni la esterilización forzada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151-A.- Acoso» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No es razonable que defensor público solo cuente con un día para estudiar el expediente, preparar la defensa y exponer los alegatos [Exp. 02165-2018-PHC/TC]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 359. Concurrencia del Juez y de las partes» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_288_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 288. Las restricciones» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Denunciar casos de violencia contra la mujer en el Ministerio Público» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_150_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 150.- Abandono de mujer gestante y en situación crítica» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_206_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 206. Controles policiales públicos en delitos graves» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 441.- Lesión dolosa y lesión culposa» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 15-B. Trámite de la denuncia presentada ante el Ministerio Público» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00285_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Si el pedido de prisión preventiva recae sobre un adolescente, se debe tener en cuenta el principio de interés superior del niño [Casación 1421-2023, Loreto]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «No es razonable exigir que las víctimas de violencia sexual repitan ante las autoridades los maltratos con naturaleza sexual que sufrieron [J. vs. Perú]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "Aborda el consentimiento a actividades sexuales bajo coacción, sin tratar el consentimiento a una intervención reproductiva."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00259_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Causal de riesgo en la vida y salud del agraviado no es motivo para fundar una transferencia de competencia, pero sí para imponer medidas de protección (caso Arlette Contreras) [Transferencia de Competencia 8-2017, Ayacucho]» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 108-B.- Feminicidio» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Volodina vs. Rusia, f.j. 7,10» no establece la calificación de una esterilización sin consentimiento como violencia contra la mujer."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

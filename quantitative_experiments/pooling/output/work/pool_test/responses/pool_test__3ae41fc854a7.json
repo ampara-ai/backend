@@ -1,0 +1,17 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "Trata de la demora en resolver la situación de un detenido por omisión de asistencia familiar, no de la responsabilidad del funcionario que no atiende una denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_21_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "no",
+      "rationale": "Regula la sanción a un abogado por no comunicar su inasistencia a una audiencia, no las consecuencias para un funcionario que omite atender una denuncia."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

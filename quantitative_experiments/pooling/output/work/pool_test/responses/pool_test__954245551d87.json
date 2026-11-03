@@ -1,0 +1,317 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "si",
+      "rationale": "Dispone nombrar abogado de oficio al imputado que no tenga uno, con la salvedad prevista para procesos por faltas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00030_e0001_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Examina el nombramiento y preparación de un defensor público, sin establecer gratuidad por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_273_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_289_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_i_01",
+      "relevance": "parcial",
+      "rationale": "Declara gratuita la justicia penal, pero no especifica el acceso a abogado gratuito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_499_01",
+      "relevance": "parcial",
+      "rationale": "Regula la exoneración de costas por auxilio judicial, sin garantizar patrocinio gratuito."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_216_01",
+      "relevance": "parcial",
+      "rationale": "Prevé defensor público para un allanamiento, sin resolver la asistencia gratuita en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "si",
+      "rationale": "Reconoce el derecho a abogado de oficio y extiende la defensa a todo estado y grado del procedimiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_82_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_487_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_411_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_85_01",
+      "relevance": "parcial",
+      "rationale": "Prevé reemplazar al abogado ausente por defensor público, sin regular la carencia de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00641_e0023_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_394_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_480_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0003_01",
+      "relevance": "parcial",
+      "rationale": "Contempla el reemplazo del abogado por otro privado o público, pero trata su sanción disciplinaria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_473-a_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "parcial",
+      "rationale": "Exige garantizar la defensa de las partes, sin regular su prestación gratuita."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_2_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00653_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Exige tiempo suficiente al defensor público designado, sin regular el acceso por falta de dinero."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00651_e0006_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00108_e0004_01",
+      "relevance": "parcial",
+      "rationale": "Protege la elección y permanencia del abogado, sin resolver el acceso a defensa gratuita."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_89_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00091_e0011_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_10_01",
+      "relevance": "si",
+      "rationale": "Obliga al Estado a prestar asistencia jurídica gratuita y defensa pública a las víctimas de violencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "parcial",
+      "rationale": "Regula ausencia y reemplazo del defensor en juicio, sin tratar la insuficiencia de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_113_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_79_01",
+      "relevance": "parcial",
+      "rationale": "Prevé defensor de oficio para ausentes o contumaces, sin resolver la falta de recursos del usuario."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "parcial",
+      "rationale": "Exige presencia del defensor en juicio, sin explicar cómo obtenerlo gratuitamente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_110_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_146_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_98_01",
+      "relevance": "parcial",
+      "rationale": "Prevé representación de víctimas menores por defensa pública o CEM, sin resolver el acceso general por falta de recursos."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "si",
+      "rationale": "Dispone designar defensor de oficio al imputado que no pueda nombrar abogado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_173_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_557_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_314_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_97_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_84_01",
+      "relevance": "parcial",
+      "rationale": "Enumera funciones del defensor, sin regular la gratuidad de sus servicios."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_150_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona con nulidad la ausencia de defensor cuando es obligatorio, sin regular asistencia gratuita."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce el derecho a abogado defensor, pero no dice que sea gratuito ni cómo acceder a uno de oficio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_470_01",
+      "relevance": "no",
+      "rationale": "No resuelve el acceso a un abogado gratuito para quien carece de recursos en el juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

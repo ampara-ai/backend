@@ -1,0 +1,305 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Lesiones leves» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-k_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-K.- Beneficio de la explotación sexual de niñas, niños y adolescentes» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 154.- Violación de la intimidad» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151-A.- Acoso» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_20_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 20.- Inimputabilidad» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "La agravante de edad que reproduce corresponde a violación con acceso carnal, no a los tocamientos forzados consultados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 22.- Responsabilidad restringida por la edad» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "Se limita a víctimas menores de catorce años y no permite establecer la pena por tocamientos a una adolescente de dieciséis."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Deber de proteger ante amenaza real e inmediata [Malagić v. Croacia]» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 184.- Castigo a cómplices» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_151_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 151.- Coacción» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-B.- Formas agravadas de la Trata de Personas» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 176-D.- Acoso sexual a menores de catorce años de edad» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_413_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 413.- Evasión mediante violencia o amenaza» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0007_01",
+      "relevance": "no",
+      "rationale": "Explica la invalidez del consentimiento bajo amenaza, sin abordar la agravación de los tocamientos por edad de la víctima."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "Analiza la agravante por discapacidad mental y la eficacia de la amenaza, sin establecer el aumento por tener dieciséis años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «RN 508-2019, Lima, ff. jj. 5, 8» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122. Lesiones leves» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 441.- Lesión dolosa y lesión culposa» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este)» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 173.- Violación sexual de menor de edad» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_301_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 301.- Coacción al consumo de droga» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Denuncia tardía resta fuerza (RN 2150-2015, Cusco)» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios)» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00624_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Manifestación policial sin presencia de fiscal ni abogado defensor puede ser valorada como indicador periférico [RN 3649-2012, Lambayeque]» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Deber de esclarecimiento exige que se disponga que agraviada y testigo sean conducidos por la fuerza a declarar en juicio [RN 1582-2019, Lima Este]» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_46_01",
+      "relevance": "parcial",
+      "rationale": "Incluye la adolescencia de la víctima entre las agravantes generales, pero no precisa el régimen específico de los tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00152_e0008_01",
+      "relevance": "no",
+      "rationale": "Resuelve una agravante por discapacidad mental, sin precisar la agravación por adolescencia en los tocamientos consultados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "parcial",
+      "rationale": "Prevé incrementos para los tocamientos mediante remisión a agravantes del artículo 170, pero no reproduce la circunstancia de edad consultada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-C.- Explotación sexual» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0033_01",
+      "relevance": "no",
+      "rationale": "Distingue libertad e indemnidad sexual en delitos con acceso carnal, sin resolver la pena de los tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 183-B.- Proposiciones a niños, niñas y adolescentes con fines sexuales» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-Ñ.- Esclavitud y otras formas de explotación» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0094_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Violación como tortura (Rosendo Cantú vs. México)» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Casación 178-2024, Tumbes, f. j. 12» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 442.- Maltrato» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00259_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Estado tiene el deber de proteger a los operadores judiciales, investigadores, testigos y familiares de los hostigamientos y las amenazas que afecten la efectividad de la investigación [Carvajal Carvajal y otros vs. Colombia]» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Declaración víctima prueba directa (Apelación 41-2023)» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco]» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 108-B.- Feminicidio» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "El texto sobre «Artículo 129-N.- Publicación en los medios de comunicación sobre delitos de libertad sexual contra niñas, niños y adolescentes» no establece la agravación por tener dieciséis años en el delito de tocamientos forzados."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "no",
+      "rationale": "La agravante por adolescencia pertenece al acoso sexual y no al delito de tocamientos forzados consultado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

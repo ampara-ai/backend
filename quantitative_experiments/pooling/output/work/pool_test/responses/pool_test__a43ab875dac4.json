@@ -1,0 +1,431 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Contradicciones en declaración (Exp. 02162-2021-6) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_1_01",
+      "relevance": "parcial",
+      "rationale": "Describe el ejercicio de la acción pública por el fiscal o a instancia de terceros, sin la exención para denunciar al cuñado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_1_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 1. Objeto de la Ley no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0110_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Declaración víctima prueba directa (Apelación 41-2023) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 442.- Maltrato no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_denuncia_violencia_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo presentar una denuncia de violencia, sin resolver si un familiar está obligado a hacerlo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16. Proceso especial no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 01386-2020-0 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 508-2019, Lima, ff. jj. 5, 8 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_9_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 9. Derecho a una vida libre de violencia no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00670_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Presunción iuris tantum: Familiares directos de la víctima de derechos humanos pueden a su vez ser «víctimas» en el proceso [Mujeres víctimas de tortura sexual en Atenco vs. México] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 22-A. Criterios para dictar medidas de protección no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00055_e0009_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2030-2019 Lima no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Estado debe ofrecer medidas de protección eficaces en la práctica [Volodina vs. Rusia] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_4_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 4. Ámbito de aplicación de la Ley no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 138.- Ejercicio privado de la acción penal no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_6_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 6. Definición de violencia contra los integrantes del grupo familiar no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_47_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 47. Intervención de los pueblos indígenas u originarios y justicia en zonas rurales no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00219_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Proporcionalidad: La intervención corporal del acusado debe estar justificado en la gravedad del delito (España) [STS 7655/2002] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Rodríguez Pacheco y otra vs. Venezuela, f.j. 112 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_17_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 17. Flagrancia no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 2284-2022, Selva Central, f. j. 15 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_7_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 7. Sujetos de protección de la Ley no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_165_01",
+      "relevance": "parcial",
+      "rationale": "Permite abstenerse de testificar por afinidad, pero no regula la obligación de denunciar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_163_01",
+      "relevance": "parcial",
+      "rationale": "Reconoce límites a declarar contra familiares, sin regular el acto de denunciar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_16-d_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 16-D. Investigación del delito no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_14_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 14. Competencia no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_24_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 24. Incumplimiento de medidas de protección no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00472_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es posible incorporar prueba de oficio en segunda instancia [Casación 506-2020, Ica] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0043_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Sugilaciones no prueban violencia (RN 1708-2021, Lima Este) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00073_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La notificación y la diligencia de entrevista en cámara Gesell pueden ejecutarse el mismo día [Casación 2091-2022, Ventanilla] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_15_01",
+      "relevance": "parcial",
+      "rationale": "Permite denunciar por otra persona y señala deberes profesionales, pero no la exención por afinidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_28_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 28. Valoración del riesgo no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_ix_01",
+      "relevance": "parcial",
+      "rationale": "Protege frente a la declaración forzada contra familiares, sin establecer la exención de denuncia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Directiva 001-2014-CE-PJ no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0017_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Buturugă vs. Rumania, f.j. 60 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00260_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Es constitucional dictar medidas de protección a favor de mujeres agredidas sin escuchar al denunciado [Exp. 3378-2019-AA/TC] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Distingue facultad general y deberes específicos de denunciar, pero no incluye la excepción por parentesco."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 151-A.- Acoso no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_208_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 208.- Excusa absolutoria. Exención de Pena no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_483_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 483. Iniciación no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00256_e0001_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La fecha, la hora y el lugar de la evaluación psicológica no se pueden presumir [Casación 2507-2022, Moquegua] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre No es necesario que víctima denuncie más de una vez para iniciar una investigación [J. vs. Perú] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 00199-2018-0 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_25_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 25. Protección de las víctimas en las actuaciones de investigación no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0007_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Exp. 03590-2019-89, f.j. 4.d no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00388_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre El profesional de la salud no está obligado a denunciar si no evidenció signos del delito (caso Edita Guerrero) [Casación 581-2015, Piura] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_459_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 459. Querella no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre RN 2528-2010, Junín, f. j. 6 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 441.- Lesión dolosa y lesión culposa no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 5. Definición de violencia contra las mujeres no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 152.- Secuestro no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0020_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Salvamento de voto: argumentos para no exigir acreditación de elemento contextual de discriminación a la mujer para configurar agravante de violencia intrafamiliar (Colombia, Radicación 56205) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0002_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Imputado que no declara por negligencia de su defensa, no puede deducir nulidad procesal [Casación 113-2022, Junín] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00133_e0010_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre La declaración del testigo es unicomprensiva, puesto que las meras cuestiones de detalles gestuales no pueden enturbiar la valoración ni por el Tribunal de instancia ni por el de apelación (España) [STSJ CAT 879/2025] no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Tentativa de violación (RN 316-2021, Lima Este) no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 21. Responsabilidad funcional no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Casación 178-2024, Tumbes, f. j. 12 no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_13_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 13. Norma aplicable no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_192_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 192. Objeto no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_327_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El contenido sobre Artículo 184.- Castigo a cómplices no determina si existe obligación de denunciar al cuñado por agredir a la hermana."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

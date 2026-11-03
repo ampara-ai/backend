@@ -1,0 +1,341 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_11_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 11.- Delitos y faltas no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_184_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 184.- Castigo a cómplices no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 176.- Tocamientos, actos de connotación sexual o actos libidinosos sin consentimiento no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central] no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_196_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 196.- Estafa no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco] no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 173.- Violación sexual de menor de edad no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 442.- Maltrato no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0061_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Lesión extragenital indica tentativa (RN 1667-2017, Lima Norte) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-C.- Explotación sexual no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_170_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 170.- Violación sexual no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica] no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RN 482-2024, Lima no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-n_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-N.- Publicación en los medios de comunicación sobre delitos de libertad sexual contra niñas, niños y adolescentes no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0054_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Violación reiterada sin precisión de veces (RN 45-2019, Lima Sur) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154-b_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 154-B.- Difusión de imágenes, materiales audiovisuales o audios con contenido sexual no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_12_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 12. Derechos en el campo de la educación no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_295_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 295. Solicitud del Fiscal no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Tentativa de violación (RN 316-2021, Lima Este) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Criterios del «test de referencia» para evaluar la veracidad de la declaración de la víctima no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_154_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 154.- Violación de la intimidad no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-h_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-H.- Explotación sexual de niñas, niños y adolescentes no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0072_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Voto en discordia: Declaración de testigo de oídas no corrobora violación [Exp. 122-2020-65, f. j. 12] no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque] no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0017_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Relación sentimental no legitima acto sexual (Casación 2497-2021, Madre de Dios) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0058_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Acto consentido no genera daño psicológico (RN 1473-2018, Lima Este) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre La negativa del Estado de iniciar una investigación penal sobre las denuncias de malos tratos constituye un supuesto de tortura [Volodina vs. Rusia] no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-b_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica el acoso sexual presencial y digital, pero no contiene la regla específica para una niña de 12 años."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_174_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 174.- Violación de persona bajo autoridad o vigilancia no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0068_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Contacto supera labios mayores (RN 534-2013, Huancavelica) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_22_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 22. Objeto y tipos de medidas de protección no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-A.- Trata de personas no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00468_e0001_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 576-2022, Del Santa no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Cavidad vaginal desde labios mayores (RN 1813-2018, La Libertad) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_172_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 172.- Violación de persona en incapacidad de dar su libre consentimiento no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0005_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 2558-2021, Ica no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Directiva 001-2014-CE-PJ no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_138_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 138.- Ejercicio privado de la acción penal no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RN 2528-2010, Junín, f. j. 6 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 178-2024, Tumbes, f. j. 12 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0030_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Sugilaciones en relación consentida (Casación 201-2014, Ica) no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00152_e0009_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 603-2019, Piura, ff. jj. 2-3 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_151-a_01",
+      "relevance": "parcial",
+      "rationale": "Tipifica la persecución y el contacto no consentido, agravados por minoría de edad, sin abordar específicamente la finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 2284-2022, Selva Central, f. j. 15 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-a_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 176-A.- Tocamientos, actos de connotación sexual o actos libidinosos en agravio de menores no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_183-b_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona el contacto con menores de 14 años para propuestas sexuales, pero el relato no precisa una propuesta."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00196_e0013_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Procede principio de oportunidad en el delito de lesiones leves por violencia de género no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Casación 295-2019, Cusco no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_12_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre Artículo 12.- Delito doloso y delito culposo no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_176-d_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El chunk sobre RN 508-2019, Lima, ff. jj. 5, 8 no aborda la persecución y contacto digital con una niña de 12 años con finalidad sexual."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

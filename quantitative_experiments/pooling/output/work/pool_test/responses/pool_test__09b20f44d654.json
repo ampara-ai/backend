@@ -1,0 +1,311 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_152_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 152.- Secuestro no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_108-b_01",
+      "relevance": "parcial",
+      "rationale": "Regula el feminicidio y remite a agravantes del artículo 108, pero no describe la saña ni permite fijar el mínimo del homicidio consultado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_321_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 321.- Tortura no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0013_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 508-2019, Lima, ff. jj. 5, 8 no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-d_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-D.- Promoción o favorecimiento de la explotación sexual no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121.- Lesiones graves no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Explica cómo individualizar la pena, pero no establece el mínimo por matar con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_409_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 409.- Falsedad en juicio no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Tentativa de violación (RN 316-2021, Lima Este) no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0020_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Guzmán Albarracín y otras vs. Ecuador, f. j. 119 no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_442_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 442.- Maltrato no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-a_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121-A. Formas agravadas. Lesiones graves cuando la víctima es menor de edad, de la tercera edad o persona con discapacidad no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00455_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Cuatro requisitos para que se efectúe una desvinculación procesal [RN 668-2020, Selva Central] no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121-B.- Formas agravadas. Lesiones graves por violencia contra la mujer y su entorno familiar no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 176-D.- Acoso sexual a menores de catorce años de edad no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Suprema reitera que la inaplicación de la reducción de la pena por responsabilidad restringida constituye una vulneración del principio de igualdad [Revision de Sentencia NCPP 433-2024, Lima, f. j. 7, 11, 12] no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_427_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 427. Procedencia no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 46-E. Circunstancia agravante cualificada por abuso de parentesco no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_149_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 149.- Omisión de prestación de alimentos no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0007_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Casación 2284-2022, Selva Central, f. j. 15 no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122. Lesiones leves no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 2528-2010, Junín, f. j. 6 no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_122_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122. Lesiones leves no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_46-e_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 46-E.- Circunstancia agravante cualificada por abuso de parentesco no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0006_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Casación 178-2024, Tumbes, f. j. 12 no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Acción penal: Dos beneficios del «principio de oficialidad» del fiscal en el proceso penal (caso Lady Guillén) [RN 1969-2016, Lima Norte] no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00149_e0015_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre RN 2013-2017, Lima Este, f. j. 3.10-3.12 no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_22_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 22.- Responsabilidad restringida por la edad no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-g_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-G.- Gestión de la explotación sexual no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0057_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Cavidad vaginal desde labios mayores (RN 1813-2018, La Libertad) no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_122-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 122-B.- Agresiones en contra de las mujeres o integrantes del grupo familiar no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_68_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 68.- Exención de pena no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_29_01",
+      "relevance": "parcial",
+      "rationale": "Indica los límites generales de la prisión temporal, pero no el mínimo por homicidio con saña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_189_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 189.- Robo agravado no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_441_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 441.- Lesión dolosa y lesión culposa no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00188_e0004_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Estándares mínimos que se deben seguir ante el hallazgo de un cadáver [Veliz Franco y otros vs. Guatemala] no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_177_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 177.- Formas agravadas no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0040_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Tiempo mínimo en pericia psicológica (RN 1568-2022, Lima Este) no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_303-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 303-B.- Formas agravadas del tráfico ilícito de migrantes no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_124_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 124.- Lesiones Culposas no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-c_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-C.- Explotación sexual no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_121-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 121-B.- Lesiones graves por violencia contra las mujeres e integrantes del grupo familiar no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_299_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 299. Duración no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_111_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 111.- Homicidio Culposo no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-Ñ.- Esclavitud y otras formas de explotación no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_171_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 171.- Violación de persona en estado de inconsciencia o en la imposibilidad de resistir no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_106_01",
+      "relevance": "parcial",
+      "rationale": "Establece la pena del homicidio simple, pero no la agravación por ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_129-b_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 129-B.- Formas agravadas de la Trata de Personas no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_50_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 50.- Concurso real de delitos no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    },
+    {
+      "dataset_id": "test::chunk_tipo02_cp_art_108_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_173_01",
+      "relevance": "no",
+      "rationale": "El fragmento sobre Artículo 173.- Violación sexual de menor de edad no aporta información para resolver el mínimo de pena por homicidio cometido con ensañamiento."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

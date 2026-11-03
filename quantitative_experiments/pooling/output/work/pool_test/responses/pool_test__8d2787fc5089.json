@@ -1,0 +1,47 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00698_e0004_01",
+      "relevance": "no",
+      "rationale": "Trata sobre impugnaciones penales, penas y reparación civil, sin abordar el refuerzo o cambio de medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00598_e0039_01",
+      "relevance": "no",
+      "rationale": "Analiza la imparcialidad de un tribunal revisor en España, sin información sobre modificar medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "Explica los límites de la apelación del actor civil contra una absolución, sin tratar la modificación de órdenes de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00561_e0001_01",
+      "relevance": "no",
+      "rationale": "Aborda la condena en casación por robo agravado, sin relación con el refuerzo de medidas de protección ante acoso persistente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo05_mimp_protocolo_base_2019_01",
+      "relevance": "no",
+      "rationale": "Solo anuncia la aprobación de un protocolo y no aporta reglas sobre la facultad judicial de reforzar o sustituir medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0003_01",
+      "relevance": "no",
+      "rationale": "Trata la motivación judicial al distinguir maltrato emocional y psicológico, sin abordar cambios en medidas de protección."
+    },
+    {
+      "dataset_id": "test::chunk_tipo01_ley30364_art_16-b_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "Examina recursos contra absoluciones y el control difuso, sin información sobre reforzar o cambiar medidas de protección."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

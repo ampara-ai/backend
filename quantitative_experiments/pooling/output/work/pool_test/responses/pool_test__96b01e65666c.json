@@ -1,0 +1,359 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_5_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_361_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_183_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00434_e0006_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_30_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00456_e0005_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_363_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_254_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Explica factores para fundamentar la pena, pero no todos los requisitos de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00051_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_57_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_71_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00252_e0019_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00575_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_353_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_462_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_484_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_371_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00065_e0004_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_20_01",
+      "relevance": "parcial",
+      "rationale": "Enumera contenidos adicionales de sentencias de violencia, sin desarrollar la motivación de hechos y pruebas."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_42_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45_01",
+      "relevance": "parcial",
+      "rationale": "Explica factores para fundamentar la pena, pero no todos los requisitos de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_347_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_136_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_158_01",
+      "relevance": "parcial",
+      "rationale": "Exige exponer resultados y criterios de valoración probatoria, solo una parte de la motivación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_398_01",
+      "relevance": "si",
+      "rationale": "Detalla los hechos y motivos probatorios o jurídicos que debe explicar una sentencia absolutoria."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_365_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_359_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_260_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_387_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_64_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_355_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_356_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_45-a_01",
+      "relevance": "parcial",
+      "rationale": "Exige fundamentación explícita de la pena y explica su determinación, sin cubrir el resto de la sentencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_360_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00118_e0047_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_397_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00141_e0008_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_377_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo02_cp_art_137_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_87_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_374_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_386_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_391_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0108_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00067_e0026_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_393_01",
+      "relevance": "parcial",
+      "rationale": "Enumera cuestiones de deliberación y valoración probatoria, sin precisar su exposición escrita."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_426_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_31_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_123_01",
+      "relevance": "si",
+      "rationale": "Exige hechos debatidos, análisis de pruebas, ley aplicable y decisión clara en las sentencias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_448_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_372_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo04_jp_00138_e0081_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo01_ley30364_art_32_01",
+      "relevance": "parcial",
+      "rationale": "Exige pronunciarse sobre tratamiento del agresor en la sentencia, solo un contenido específico."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_352_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_238_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    },
+    {
+      "dataset_id": "test::chunk_tipo03_cpp_art_394_01::q01",
+      "chunk_id": "chunk_tipo03_cpp_art_108_01",
+      "relevance": "no",
+      "rationale": "No explica qué fundamentos debe contener por escrito la sentencia que resuelve el juicio."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}

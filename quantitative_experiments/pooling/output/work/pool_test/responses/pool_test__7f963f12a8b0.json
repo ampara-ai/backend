@@ -1,0 +1,347 @@
+{
+  "judgments": [
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_176-d_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 176-D.- Acoso sexual a menores de catorce años de edad, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00208_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata Flagrancia: Fiscal no puede realizar un control de identidad, pero sí ordenar que la policía la practique [Apelación 26-2015-NCPP, Madre de Dios], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00382_e0010_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad internacional por investigación deficiente de violencia sexual y ordena reparaciones."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00672_e0015_01",
+      "relevance": "si",
+      "rationale": "Declara responsable al Estado por investigar deficientemente el abuso sexual de una niña cometido por un particular."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_266_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 266. Detención judicial en caso de flagrancia, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0007_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber de investigar con una sola denuncia, pero no la fuga ni el abandono prolongado del proceso."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00458_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Abogado que recomienda ejercer derecho al silencio puede cometer un error estratégico [RN 617-2019, Lambayeque], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0095_01",
+      "relevance": "parcial",
+      "rationale": "Aborda responsabilidad estatal en tortura sexual policial, con un contexto distinto al abuso escolar impune."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0067_01",
+      "relevance": "no",
+      "rationale": "El texto trata Denuncia tardía resta fuerza (RN 2150-2015, Cusco), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0051_01",
+      "relevance": "no",
+      "rationale": "El texto trata Retractación notarial sin valor (RN 1179-2019, Lima), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_vii_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo VII.- Responsabilidad Penal, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00013_e0009_01",
+      "relevance": "no",
+      "rationale": "El texto trata Parte civil no puede impugnar sentencia absolutoria, ya que la incoación de la acción penal solo corresponde al fiscal (caso Lady Guillén) [RN 1969-2016, Lima Norte], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0079_01",
+      "relevance": "parcial",
+      "rationale": "Exige enfoque de género en un abuso cometido por un profesor, sin resolver responsabilidad estatal por impunidad."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0011_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona demora y negligencia con responsabilidad estatal en un homicidio, sin resolver la impunidad del abuso escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00108_e0011_01",
+      "relevance": "no",
+      "rationale": "El texto trata La ausencia de participación del fiscal a nivel preliminar disminuye la aptitud preliminar pero no es objeto de sanción de nulidad [RN 380-2020, Lima], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0007_01",
+      "relevance": "si",
+      "rationale": "Establece responsabilidad estatal por impunidad y falta de diligencia reforzada ante violación sexual de una niña."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0091_01",
+      "relevance": "si",
+      "rationale": "Declara responsabilidad internacional por falta de investigación diligente de violencia sexual contra una adolescente."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_400_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 400. Responsabilidad de persona no comprendida en el proceso o comisión de otro delito, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo01_ley30364_art_21_01",
+      "relevance": "parcial",
+      "rationale": "Prevé responsabilidad individual del funcionario negligente, sin establecer la responsabilidad internacional del Estado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata La persecución penal no inicia con la apertura de una investigación preliminar «formal», sino desde antes, como con la flagrancia [Apelación 26-2015-NCPP, Madre de Dios], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Vincula ineficacia investigadora con discriminación, sin tratar fuga ni prescripción en abuso escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0012_01",
+      "relevance": "parcial",
+      "rationale": "Trata responsabilidad estatal por desaparición y asesinato de mujeres, como contexto de la debida diligencia."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00540_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata Si fiscal superior está conforme con el sobreseimiento o la absolución —y esta es razonable—, el tribunal debe desestimar el recurso de la víctima o actor civil [Casación 1089-2017, Amazonas], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0021_01",
+      "relevance": "no",
+      "rationale": "El texto trata Directiva 002-2018-MP-FN, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_21_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 21.- Responsabilidad restringida, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00406_e0002_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es un imposible jurídico que en delitos de acceso carnal se utilice a una mujer como «agente provocador» solo con fines de persecución punitiva [Casación 138-2022, Cusco], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00233_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata Suprema reitera que la inaplicación de la reducción de la pena por responsabilidad restringida constituye una vulneración del principio de igualdad [Revision de Sentencia NCPP 433-2024, Lima, f. j. 7, 11, 12], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo05_mpfn_asistencia_violencia_01",
+      "relevance": "no",
+      "rationale": "El texto trata Solicitar asistencia al Ministerio Público en caso de violencia contra la mujer, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00149_e0016_01",
+      "relevance": "no",
+      "rationale": "El texto trata RN 2528-2010, Junín, f. j. 6, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_326_01",
+      "relevance": "parcial",
+      "rationale": "Impone a educadores y funcionarios denunciar delitos, sin resolver las consecuencias del abandono de la investigación."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00190_e0002_01",
+      "relevance": "parcial",
+      "rationale": "Relaciona responsabilidad estatal con deficiencias de investigación de homicidio, centradas en autopsias."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_22_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 22.- Responsabilidad restringida por la edad, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00051_e0014_01",
+      "relevance": "parcial",
+      "rationale": "Aborda responsabilidad estatal por investigación estereotipada de desaparición, sin analizar el supuesto escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-l_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 129-L.- Gestión de la explotación sexual de niñas, niños y adolescentes, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00150_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto trata jp_00150_e0012, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0019_01",
+      "relevance": "no",
+      "rationale": "El texto trata Omitir prueba de ADN no descarta responsabilidad (Casación 5-2021, Puno), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0044_01",
+      "relevance": "no",
+      "rationale": "El texto trata Tentativa de violación (RN 316-2021, Lima Este), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00384_e0003_01",
+      "relevance": "no",
+      "rationale": "El texto trata Actos de investigación pueden ser cuestionados vía tutela de derechos [Exp. 00226-2019-99], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0015_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber estatal de investigar sin denuncias reiteradas, sin abordar impunidad por fuga y paso del tiempo."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00260_e0009_01",
+      "relevance": "parcial",
+      "rationale": "Trata responsabilidad estatal por medidas de protección inefectivas, sin resolver el abandono de la persecución penal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00381_e0010_01",
+      "relevance": "parcial",
+      "rationale": "Aborda responsabilidad estatal por investigación de una muerte sin enfoque de género, sin resolver abuso escolar y fuga."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00141_e0012_01",
+      "relevance": "no",
+      "rationale": "El texto trata Violación sexual: Supuestos en los que excepcionalmente el juez penal puede disponer un examen a la víctima menor de edad en juicio [RN 1886-2021, Lima Sur], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00093_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata Es obligatoria la reserva de las actuaciones judiciales en menores víctimas de abuso sexual (doctrina legal), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00044_e0008_01",
+      "relevance": "no",
+      "rationale": "El texto trata Directiva 001-2014-CE-PJ, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_407_01",
+      "relevance": "parcial",
+      "rationale": "Sanciona omitir comunicar delitos, sin establecer responsabilidad del Estado por la investigación abandonada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00496_e0010_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 295-2019, Cusco, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo03_cpp_art_111_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 111. Citación a personas que tengan responsabilidad civil, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00462_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Por el principio de no revictimización es injustificado traer compulsivamente a la agraviada para que declare en juicio [Casación 2558-2021, Ica], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00252_e0004_01",
+      "relevance": "no",
+      "rationale": "El texto trata Casación 1889-2021, Huánuco, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00518_e0001_01",
+      "relevance": "no",
+      "rationale": "El texto trata No se puede revocar la absolución del procesado si la apelación fue interpuesta por el actor civil [Apelación 197-2024, Puno, f. j. 2], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00390_e0008_01",
+      "relevance": "parcial",
+      "rationale": "Aborda responsabilidad por no iniciar investigación de violencia doméstica, sin analizar la fuga y prescripción del abuso escolar."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0025_01",
+      "relevance": "no",
+      "rationale": "El texto trata Pautas para evaluar violencia en acceso sexual (Casación 270-2018, Áncash), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00392_e0001_01",
+      "relevance": "parcial",
+      "rationale": "Exige investigación inmediata y exhaustiva de violencia sexual, pero resuelve una nulidad y no responsabilidad estatal."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0023_01",
+      "relevance": "no",
+      "rationale": "El texto trata Daños psicológicos no inmediatos (Casación 719-2019, Ayacucho), sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00393_e0006_01",
+      "relevance": "no",
+      "rationale": "El texto trata Diligencias policiales sin participación de la Fiscalía no tienen solvencia probatoria [RN 2735-2014, Puno], sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo04_jp_00138_e0088_01",
+      "relevance": "parcial",
+      "rationale": "Explica el deber estatal de investigar de oficio violencia sexual, sin analizar fuga o impunidad prolongada."
+    },
+    {
+      "dataset_id": "test::chunk_tipo04_jp_00149_e0020_01::q02",
+      "chunk_id": "chunk_tipo02_cp_art_129-i_01",
+      "relevance": "no",
+      "rationale": "El texto trata Artículo 129-I.- Promoción y favorecimiento de la explotación sexual de niñas, niños y adolescentes, sin resolver la responsabilidad del Estado por dejar impune el abuso denunciado."
+    }
+  ],
+  "_model": "gpt-6.1-sol"
+}
