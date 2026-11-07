@@ -1,0 +1,35 @@
+{
+ "_source": "AMPARA manuscript v1 (2026-10-24), Tables 9, 10 and 12. Columns: R, MRR, NDCG, MAP at 10, then at 100.",
+ "columns": ["recall@10", "mrr@10", "ndcg@10", "map@10", "recall@100", "mrr@100", "ndcg@100", "map@100"],
+ "table9_pooled": {
+  "bm25_only": [0.114, 0.126, 0.084, 0.051, 0.463, 0.140, 0.176, 0.068],
+  "dense_base": [0.503, 0.520, 0.427, 0.337, 0.855, 0.527, 0.527, 0.363],
+  "dense_finetuned": [0.651, 0.635, 0.545, 0.439, 0.970, 0.642, 0.650, 0.480],
+  "hybrid_base": [0.494, 0.498, 0.407, 0.314, 0.838, 0.506, 0.505, 0.339],
+  "hybrid_finetuned": [0.637, 0.618, 0.532, 0.426, 0.953, 0.624, 0.631, 0.462],
+  "dense_base_rerank100": [0.813, 0.870, 0.774, 0.696, 0.855, 0.870, 0.792, 0.707],
+  "dense_finetuned_rerank100": [0.894, 0.917, 0.843, 0.767, 0.970, 0.917, 0.876, 0.791],
+  "hybrid_base_rerank100": [0.798, 0.868, 0.767, 0.689, 0.838, 0.868, 0.783, 0.697],
+  "hybrid_finetuned_rerank100": [0.885, 0.916, 0.837, 0.758, 0.953, 0.916, 0.866, 0.778]
+ },
+ "table10_strict": {
+  "bm25_only": [0.111, 0.049, 0.063, 0.049, 0.480, 0.061, 0.136, 0.061],
+  "dense_base": [0.626, 0.398, 0.453, 0.398, 0.886, 0.408, 0.507, 0.408],
+  "dense_finetuned": [0.801, 0.499, 0.571, 0.499, 0.970, 0.508, 0.610, 0.508],
+  "hybrid_base": [0.616, 0.365, 0.426, 0.365, 0.874, 0.375, 0.478, 0.375],
+  "hybrid_finetuned": [0.785, 0.482, 0.555, 0.482, 0.970, 0.490, 0.595, 0.490],
+  "dense_base_rerank100": [0.881, 0.715, 0.755, 0.713, 0.886, 0.715, 0.756, 0.713],
+  "dense_finetuned_rerank100": [0.960, 0.773, 0.819, 0.772, 0.970, 0.774, 0.821, 0.773],
+  "hybrid_base_rerank100": [0.869, 0.708, 0.746, 0.704, 0.874, 0.708, 0.747, 0.705],
+  "hybrid_finetuned_rerank100": [0.960, 0.774, 0.819, 0.772, 0.970, 0.774, 0.822, 0.773]
+ },
+ "table12": [
+  {"a": "dense_finetuned", "b": "dense_base", "metric": "ndcg@10", "strict": [0.119, 0.063, 0.176], "pooled": [0.119, 0.073, 0.166]},
+  {"a": "dense_finetuned", "b": "dense_base", "metric": "recall@10", "strict": [0.174, 0.103, 0.247], "pooled": [0.148, 0.096, 0.199]},
+  {"a": "dense_finetuned", "b": "bm25_only", "metric": "ndcg@10", "strict": [0.508, 0.451, 0.566], "pooled": [0.461, 0.412, 0.512]},
+  {"a": "dense_finetuned", "b": "hybrid_finetuned", "metric": "ndcg@10", "strict": [0.016, -0.006, 0.038], "pooled": [0.014, -0.001, 0.029]},
+  {"a": "dense_finetuned_rerank100", "b": "dense_finetuned", "metric": "ndcg@10", "strict": [0.248, 0.193, 0.302], "pooled": null},
+  {"a": "dense_finetuned_rerank100", "b": "dense_finetuned", "metric": "recall@10", "strict": [0.159, 0.105, 0.215], "pooled": null},
+  {"a": "dense_finetuned_rerank100", "b": "dense_base_rerank100", "metric": "ndcg@10", "strict": [0.064, 0.032, 0.100], "pooled": null}
+ ]
+}

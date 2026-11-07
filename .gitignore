@@ -15,3 +15,8 @@ wheels/
 
 # macOS
 .DS_Store
+
+# Revisión Q1: embeddings del corpus (se regeneran con local_retrieval.py)
+quantitative_experiments/results/revision/embeddings/
+# Caché de MTEB (resultados crudos por tarea)
+quantitative_experiments/results/revision/mteb_spanish/cache/

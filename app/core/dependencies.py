@@ -20,7 +20,7 @@ def get_llm() -> ChatOpenAI:
         model=settings.llm_model,
         api_key=settings.openrouter_api_key,
         base_url="https://openrouter.ai/api/v1",
-        temperature=0,
+        temperature=settings.llm_temperature,
         # Tope de tokens de salida — sin esto, un mensaje corto tipo "cuenta
         # del 1 al 100000" puede hacer que el LLM genere una respuesta
         # arbitrariamente larga y cara. El filtro de largo de entrada

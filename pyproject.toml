@@ -37,6 +37,10 @@ dev = [
     "pytest>=9.0.3",
     "pytest-asyncio>=1.4.0",
 ]
+experiments = [
+    "mteb>=2.27.1",
+    "onnxruntime>=1.31.1",
+]
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
