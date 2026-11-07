@@ -88,6 +88,8 @@ async def judge(args) -> None:
         resp = await llm.json(system, "Juzga estos pares:\n\n" + json.dumps(payload, ensure_ascii=False, indent=1), validate=check)
         return q, resp
 
+    if args.limit:
+        tasks = tasks[: args.limit]
     results = await asyncio.gather(*(one(q, cs) for q, cs in tasks))
     print(llm.report())
     if args.dry_run:
@@ -162,6 +164,7 @@ def main() -> None:
     j.add_argument("--chunks-per-task", type=int, default=0, help="0 = todos los chunks de la pregunta en una petición (como el pooling)")
     j.add_argument("--max-tokens", type=int, default=16000)
     j.add_argument("--no-origin", dest="include_origin", action="store_false", help="no juzgar los 200 pares estrictos")
+    j.add_argument("--limit", type=int, default=0, help="solo las N primeras peticiones (piloto); 0 = todas")
     j.add_argument("--dry-run", action="store_true")
     an = sub.add_parser("analyze")
     for p in (j, an):

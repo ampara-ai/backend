@@ -115,6 +115,17 @@ async def generate(args) -> None:
     print(f"-> {DIR / args.condition}.trace.jsonl")
 
 
+def openai_reasoning_args(llm) -> None:
+    """RAGAS 0.4.3 reconoce los modelos de razonamiento de OpenAI por un número de versión entero (gpt-5, gpt-6) y no
+    reconoce gpt-5.6-luna: le enviaría max_tokens y temperatura, que la API de OpenAI rechaza. Se aplica el mismo mapeo
+    que RAGAS usa para gpt-5: max_completion_tokens y sin temperatura ni top_p (solo aceptan el valor por defecto)."""
+    args = llm.model_args
+    if "max_tokens" in args:
+        args["max_completion_tokens"] = args.pop("max_tokens")
+    args.pop("temperature", None)
+    args.pop("top_p", None)
+
+
 async def score(args) -> None:
     settings = _app_settings(False)
     from openai import AsyncOpenAI
@@ -123,7 +134,16 @@ async def score(args) -> None:
     from ragas.metrics.collections import AnswerRelevancy, Faithfulness
 
     client = AsyncOpenAI(base_url=settings.openrouter_base_url, api_key=settings.openrouter_api_key)
-    llm = llm_factory(args.judge_model, provider="openai", client=client, max_tokens=args.max_tokens)
+    # juez de RAGAS por OpenRouter o por la API de OpenAI directa (mismo modelo, facturación de OpenAI);
+    # los embeddings de Answer Relevancy siguen por OpenRouter
+    if args.judge_api == "openai":
+        judge_client = AsyncOpenAI(api_key=os.environ["OPENAI_API_KEY"])
+        judge_model = args.judge_model.removeprefix("openai/")
+    else:
+        judge_client, judge_model = client, args.judge_model
+    llm = llm_factory(judge_model, provider="openai", client=judge_client, max_tokens=args.max_tokens)
+    if args.judge_api == "openai":
+        openai_reasoning_args(llm)
     faith = Faithfulness(llm=llm)
     rel = AnswerRelevancy(llm=llm, embeddings=OpenAIEmbeddings(client=client, model=settings.ragas_realtime_embeddings_model))
     C = corpus()
@@ -294,6 +314,8 @@ def main() -> None:
     s.add_argument("--conditions", nargs="+", required=True)
     s.add_argument("--reference", default="base")
     s.add_argument("--judge-model", default="openai/gpt-5.6-luna", help="el juez de RAGAS del artículo")
+    s.add_argument("--judge-api", choices=["openrouter", "openai"], default="openrouter",
+                   help="openai = API de OpenAI directa (requiere OPENAI_API_KEY en .env)")
     s.add_argument("--max-tokens", type=int, default=20_000)
     s.add_argument("--concurrency", type=int, default=4)
     c = sub.add_parser("citations")

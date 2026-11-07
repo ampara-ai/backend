@@ -133,7 +133,7 @@ async def verify(args) -> None:
     gen = read_jsonl(DIR / "generated.jsonl")
     system = JUDGE_PROMPT.read_text(encoding="utf-8")
     llm = LLM(args.judge_model, DIR / "cache_verify.jsonl", temperature=0, concurrency=args.concurrency,
-              dry_run=args.dry_run, reasoning_effort=args.effort, max_tokens=8000)
+              dry_run=args.dry_run, reasoning_effort=args.effort, max_tokens=8000, api=args.judge_api)
     tasks = [gen[i:i + args.per_task] for i in range(0, len(gen), args.per_task)]
 
     def validator(task):
@@ -194,6 +194,8 @@ def main() -> None:
     v = sub.add_parser("verify")
     v.add_argument("--judge-model", default="openai/gpt-6.1-sol", help="el juez del artículo, para que A y B sean comparables")
     v.add_argument("--effort", default="medium", choices=["low", "medium", "high"])
+    v.add_argument("--judge-api", choices=["openrouter", "openai"], default="openrouter",
+                   help="openai = API de OpenAI directa (requiere OPENAI_API_KEY en .env)")
     v.add_argument("--per-task", type=int, default=3)
     for p in (g, v):
         p.add_argument("--concurrency", type=int, default=6)

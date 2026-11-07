@@ -23,10 +23,11 @@ import asyncio
 import csv
 import json
 import os
+import time
 from collections import Counter, defaultdict
 
 from quantitative_experiments.revision.data import OUT, RESULTS, load_dataset, read_jsonl, write_jsonl
-from quantitative_experiments.revision.llm import LLM
+from quantitative_experiments.revision.llm import LLM, backoff
 
 DIR = OUT / "domain_filter"
 FINAL_TRACE = RESULTS / "pipeline_final" / "dense_finetuned.trace.jsonl"
@@ -121,10 +122,26 @@ async def run(args) -> None:
     from app.graph.nodes.relevance_filter import relevance_filter_node
     from quantitative_experiments.provenance import run_provenance
     sem = asyncio.Semaphore(args.concurrency)
+    lock, next_slot = asyncio.Lock(), [0.0]
+
+    async def pace():  # tope de peticiones por minuto (las cuentas nuevas de OpenRouter tienen 20 por modelo)
+        async with lock:
+            now = time.monotonic()
+            start = max(now, next_slot[0])
+            next_slot[0] = start + 60.0 / args.rpm
+        await asyncio.sleep(start - now)
 
     async def one(it, k):
         async with sem:
-            out = await relevance_filter_node({"user_query": it["text"], "messages": [{"role": "user", "content": it["text"]}]})
+            for attempt in range(1, 7):
+                await pace()
+                try:
+                    out = await relevance_filter_node({"user_query": it["text"], "messages": [{"role": "user", "content": it["text"]}]})
+                    break
+                except Exception as exc:  # noqa: BLE001
+                    if attempt == 6:
+                        raise
+                    await asyncio.sleep(backoff(exc, attempt))
         row = {"id": it["id"], "repeat": k, "accepted": bool(out["is_relevant"])}
         with open(out_path, "a", encoding="utf-8") as f:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
@@ -173,7 +190,8 @@ def main() -> None:
     g.add_argument("--dry-run", action="store_true")
     r = sub.add_parser("run")
     r.add_argument("--repeats", type=int, default=3)
-    r.add_argument("--concurrency", type=int, default=6)
+    r.add_argument("--concurrency", type=int, default=4)
+    r.add_argument("--rpm", type=float, default=18, help="peticiones por minuto como máximo")
     r.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     if args.cmd == "audit-template":

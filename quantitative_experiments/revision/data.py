@@ -13,11 +13,14 @@ from functools import cache
 from pathlib import Path
 
 import numpy as np
+from dotenv import load_dotenv
 
 from evaluation.bootstrap import ClusterBootstrap
 from evaluation.metrics import average_precision_at_k, ndcg_at_k, recall_at_k, reciprocal_rank_at_k
 
 ROOT = Path(__file__).resolve().parents[2]
+# claves de API del .env local (no versionado); las variables ya definidas en el entorno tienen prioridad
+load_dotenv(ROOT / ".env", override=False)
 EXP = ROOT / "quantitative_experiments"
 RESULTS = EXP / "results"
 OUT = RESULTS / "revision"
