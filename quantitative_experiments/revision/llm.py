@@ -16,6 +16,11 @@ import os
 from collections.abc import Callable
 from pathlib import Path
 
+from dotenv import load_dotenv
+
+# La clave vive en el .env del backend (no versionado); las variables ya definidas en el entorno tienen prioridad.
+load_dotenv(Path(__file__).resolve().parents[2] / ".env", override=False)
+
 OPENROUTER_BASE_URL = os.environ.get("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
 
 
