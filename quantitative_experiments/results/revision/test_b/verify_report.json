@@ -1,0 +1,11 @@
+{
+ "judge_model": "openai/gpt-6.1-sol",
+ "judge_prompt_sha256": "718ed56a374c159a800f65a9a1830492a2f2e1f1be9500926f5b96f02dc3990e",
+ "verdicts": {
+  "si": 200,
+  "no": 1,
+  "parcial": 3
+ },
+ "kept": 200,
+ "source_chunks": 113
+}

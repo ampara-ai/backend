@@ -31,6 +31,12 @@ def parse_json(text: str) -> dict:
     return json.loads(text)
 
 
+def backoff(exc: Exception, attempt: int) -> float:
+    """Segundos antes del reintento: los límites de tasa (429, p. ej. 20 por minuto en cuentas nuevas) esperan una ventana."""
+    rate_limited = getattr(exc, "status_code", None) == 429 or "429" in str(exc)[:200]
+    return min(65.0, 15.0 * attempt) if rate_limited else 2.0 * attempt
+
+
 def request_key(model: str, messages: list[dict], params: dict) -> str:
     blob = json.dumps({"model": model, "messages": messages, "params": params}, sort_keys=True, ensure_ascii=False)
     return hashlib.sha256(blob.encode("utf-8")).hexdigest()
@@ -39,7 +45,7 @@ def request_key(model: str, messages: list[dict], params: dict) -> str:
 class LLM:
     def __init__(self, model: str, cache_path: Path, *, temperature: float = 0.0, max_tokens: int = 8000,
                  concurrency: int = 6, dry_run: bool = False, reasoning_effort: str | None = None,
-                 provider: dict | None = None, retries: int = 4) -> None:
+                 provider: dict | None = None, retries: int = 6) -> None:
         self.model, self.cache_path, self.dry_run, self.retries = model, Path(cache_path), dry_run, retries
         self.params = {"temperature": temperature, "max_tokens": max_tokens}
         self.extra_body: dict = {}
@@ -99,7 +105,7 @@ class LLM:
                 return resp
             except Exception as exc:  # noqa: BLE001
                 last = exc
-                await asyncio.sleep(2 * attempt)
+                await asyncio.sleep(backoff(exc, attempt))
         raise RuntimeError(f"{self.model}: sin respuesta válida tras {self.retries} intentos: {last}")
 
     async def text(self, messages: list[dict]) -> str | None:
@@ -124,7 +130,7 @@ class LLM:
                 return content
             except Exception as exc:  # noqa: BLE001
                 last = exc
-                await asyncio.sleep(2 * attempt)
+                await asyncio.sleep(backoff(exc, attempt))
         raise RuntimeError(f"{self.model}: sin respuesta tras {self.retries} intentos: {last}")
 
     def report(self) -> str:
