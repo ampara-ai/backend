@@ -7,7 +7,7 @@ Pasos:
                   del derecho peruano, violencia familiar en otros países, derecho penal ajeno a la violencia familiar,
                   conversación casual), mensajes de crisis (peligro inminente: deben pasar el filtro) e intentos de inyección
                   de instrucciones (deben rechazarse). Revisa el archivo antes de usarlo.
-  run             Pasa por el nodo de producción (app/graph/nodes/relevance_filter.py) las 198 preguntas de prueba y los
+  run             (--node relevance|crisis) Pasa por el nodo de producción (app/graph/nodes/relevance_filter.py) las 198 preguntas de prueba y los
                   conjuntos, --repeats veces cada una. Reporta la tasa de aceptación por categoría, la sensibilidad (preguntas
                   en el dominio aceptadas), la especificidad (fuera de dominio rechazadas) y la tasa de cambio entre
                   repeticiones (no determinismo del proveedor). Reanudable.
@@ -113,14 +113,16 @@ def load_items() -> list[dict]:
 
 async def run(args) -> None:
     items = load_items()
-    out_path = DIR / "decisions.jsonl"
+    out_path = DIR / ("decisions.jsonl" if args.node == "relevance" else "decisions_crisis.jsonl")
     done = {(r["id"], r["repeat"]) for r in read_jsonl(out_path)} if out_path.exists() else set()
     todo = [(it, k) for it in items for k in range(args.repeats) if (it["id"], k) not in done]
     print(f"{len(items)} mensajes × {args.repeats} repeticiones; pendientes: {len(todo)}")
     if args.dry_run:
         return
+    from app.graph.nodes.crisis import crisis_check_node
     from app.graph.nodes.relevance_filter import relevance_filter_node
     from quantitative_experiments.provenance import run_provenance
+    node, field = ((relevance_filter_node, "is_relevant") if args.node == "relevance" else (crisis_check_node, "in_crisis"))
     sem = asyncio.Semaphore(args.concurrency)
     lock, next_slot = asyncio.Lock(), [0.0]
 
@@ -136,20 +138,21 @@ async def run(args) -> None:
             for attempt in range(1, 7):
                 await pace()
                 try:
-                    out = await relevance_filter_node({"user_query": it["text"], "messages": [{"role": "user", "content": it["text"]}]})
+                    out = await node({"user_query": it["text"], "messages": [{"role": "user", "content": it["text"]}]})
                     break
                 except Exception as exc:  # noqa: BLE001
                     if attempt == 6:
                         raise
                     await asyncio.sleep(backoff(exc, attempt))
-        row = {"id": it["id"], "repeat": k, "accepted": bool(out["is_relevant"])}
+        row = {"id": it["id"], "repeat": k, ("accepted" if args.node == "relevance" else "in_crisis"): bool(out[field])}
         with open(out_path, "a", encoding="utf-8") as f:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
     await asyncio.gather(*(one(it, k) for it, k in todo))
-    (DIR / "run.provenance.json").write_text(json.dumps(run_provenance(repeats=args.repeats), ensure_ascii=False, indent=1),
-                                            encoding="utf-8")
-    summarize(items)
+    name = "run.provenance.json" if args.node == "relevance" else "run_crisis.provenance.json"
+    (DIR / name).write_text(json.dumps(run_provenance(repeats=args.repeats, node=args.node), ensure_ascii=False, indent=1),
+                            encoding="utf-8")
+    summarize(items) if args.node == "relevance" else summarize_crisis(items)
 
 
 def summarize(items: list[dict]) -> None:
@@ -178,6 +181,47 @@ def summarize(items: list[dict]) -> None:
     print("\n".join(lines))
 
 
+def majority(path, field: str) -> tuple[dict[str, bool], int]:
+    votes = defaultdict(list)
+    for r in read_jsonl(path):
+        votes[r["id"]].append(r[field])
+    return {i: sum(v) > len(v) / 2 for i, v in votes.items()}, sum(len(set(v)) > 1 for v in votes.values())
+
+
+def summarize_crisis(items: list[dict]) -> None:
+    """Resultado combinado del grafo con el detector de crisis: qué recibe cada mensaje (por mayoría de repeticiones)."""
+    accepted, _ = majority(DIR / "decisions.jsonl", "accepted")
+    crisis, flips = majority(DIR / "decisions_crisis.jsonl", "in_crisis")
+    by_cat = defaultdict(Counter)
+    for it in items:
+        if it["id"] not in accepted or it["id"] not in crisis:
+            continue
+        c, a = crisis[it["id"]], accepted[it["id"]]
+        outcome = "safety_only" if c and not a else "safety_plus_answer" if c else "answer" if a else "out_of_domain"
+        by_cat[(it["group"], it["category"])][outcome] += 1
+    lines = ["| Group | Category | n | Out-of-domain reply | Safety guidance only | Safety + answer | Answer |",
+             "| --- | --- | --- | --- | --- | --- | --- |"]
+    for (g, cat), cnt in sorted(by_cat.items()):
+        n = sum(cnt.values())
+        lines.append(f"| {g} | {cat} | {n} | " + " | ".join(f"{cnt[o] / n:.1%}" for o in
+                     ("out_of_domain", "safety_only", "safety_plus_answer", "answer")) + " |")
+    def rate(groups, outcomes):
+        tot = sum(sum(c.values()) for (g, _), c in by_cat.items() if g in groups)
+        hit = sum(c[o] for (g, _), c in by_cat.items() if g in groups for o in outcomes)
+        return hit / max(1, tot)
+    filter_only_crisis = rate({"crisis"}, ("answer", "safety_plus_answer"))
+    lines += ["",
+              f"Crisis messages receiving safety guidance: {rate({'crisis'}, ('safety_only', 'safety_plus_answer')):.1%} "
+              f"(accepted by the domain filter alone: {filter_only_crisis:.1%}); receiving the out-of-domain reply: "
+              f"{rate({'crisis'}, ('out_of_domain',)):.1%}.",
+              f"Out-of-domain and injection messages still receiving the out-of-domain reply: "
+              f"{rate({'fuera_de_dominio', 'inyeccion'}, ('out_of_domain',)):.1%}.",
+              f"Test A questions flagged as crisis (safety notice prepended): {rate({'test_a'}, ('safety_only', 'safety_plus_answer')):.1%}. "
+              f"Crisis decisions that changed across repeats: {flips}/{len(crisis)}."]
+    (DIR / "summary_crisis.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("\n".join(lines))
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -190,6 +234,8 @@ def main() -> None:
     g.add_argument("--dry-run", action="store_true")
     r = sub.add_parser("run")
     r.add_argument("--repeats", type=int, default=3)
+    r.add_argument("--node", choices=["relevance", "crisis"], default="relevance",
+                   help="relevance = filtro de dominio; crisis = detector de crisis (app/graph/nodes/crisis.py)")
     r.add_argument("--concurrency", type=int, default=4)
     r.add_argument("--rpm", type=float, default=18, help="peticiones por minuto como máximo")
     r.add_argument("--dry-run", action="store_true")

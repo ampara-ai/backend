@@ -4,9 +4,10 @@ from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.graph import END, START, StateGraph
 
 from app.core.config import settings
-from app.graph.edges import route_context, route_relevance, route_retrieval
+from app.graph.edges import route_context, route_retrieval, route_triage
 from app.graph.nodes import no_results_node, out_of_domain_node
 from app.graph.nodes.context_check import context_check_node
+from app.graph.nodes.crisis import crisis_check_node, crisis_notice_node, crisis_response_node, triage_node
 from app.graph.nodes.embedding import embed_query_node
 from app.graph.nodes.generation import generate_node
 from app.graph.nodes.source_grounding import source_grounding_node
@@ -31,9 +32,16 @@ def build_rag_graph():
     # "chunk correcto" de "chunk relacionado pero incorrecto" en este corpus angosto. Si ningún chunk
     # lo supera, el nodo no_results responde con el mensaje fijo y no se llama al generador. El filtro de
     # dominio real es relevance_filter_node, antes de llegar a recuperar.
+    # Crisis: crisis_check corre en paralelo con relevance_filter (sin latencia extra) y no cambia sus decisiones. Un
+    # mensaje de peligro actual que el filtro rechaza recibe indicaciones de seguridad (crisis_response) en lugar de
+    # "fuera de dominio"; si sigue el camino normal, crisis_notice antepone esas indicaciones a la respuesta.
     graph = (
         StateGraph(RAGState)
+        .add_node("crisis_check", crisis_check_node)
         .add_node("relevance_filter", relevance_filter_node)
+        .add_node("triage", triage_node)
+        .add_node("crisis_response", crisis_response_node)
+        .add_node("crisis_notice", crisis_notice_node)
         .add_node("context_check", context_check_node)
         .add_node("embed_query", embed_query_node)
         .add_node("semantic_search", semantic_search_node)
@@ -41,9 +49,11 @@ def build_rag_graph():
         .add_node("source_grounding", source_grounding_node)
         .add_node("out_of_domain", out_of_domain_node)
         .add_node("no_results", no_results_node)
+        .add_edge(START, "crisis_check")
         .add_edge(START, "relevance_filter")
+        .add_edge(["crisis_check", "relevance_filter"], "triage")
         .add_conditional_edges(
-            "relevance_filter", route_relevance, ["context_check", "out_of_domain"]
+            "triage", route_triage, ["context_check", "out_of_domain", "crisis_response"]
         )
         .add_conditional_edges(
             "context_check", route_context, ["embed_query", "generate"]
@@ -53,9 +63,11 @@ def build_rag_graph():
             "semantic_search", route_retrieval, ["generate", "no_results"]
         )
         .add_edge("generate", "source_grounding")
-        .add_edge("source_grounding", END)
+        .add_edge("source_grounding", "crisis_notice")
+        .add_edge("no_results", "crisis_notice")
+        .add_edge("crisis_notice", END)
+        .add_edge("crisis_response", END)
         .add_edge("out_of_domain", END)
-        .add_edge("no_results", END)
         .compile(checkpointer=checkpointer)
     )
     return graph

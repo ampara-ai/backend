@@ -76,6 +76,9 @@ class Settings(BaseSettings):
     # Search, que para el índice de similitud coseno es (1 + coseno) / 2 (rango 0–1): 0.5 equivale a coseno > 0. No se aplica al
     # coseno crudo: en el set de desarrollo un umbral de coseno 0.5 dejaría sin ningún chunk al 32 % de las preguntas del dominio.
     retrieval_k: int = 10
+    # Detector de crisis en paralelo con el filtro de dominio (app/graph/nodes/crisis.py). False reproduce el grafo
+    # evaluado en el artículo.
+    crisis_check_enabled: bool = True
     retrieval_score_threshold: float = 0.5
 
     # Protección de costos para la validación cualitativa (usuarios reales
