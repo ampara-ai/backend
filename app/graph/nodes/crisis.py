@@ -9,7 +9,8 @@ from app.graph.state import RAGState
 SAFETY_NOTICE = (
     "Si estás en peligro ahora mismo, llama al 105 (Policía Nacional) y, si puedes, ve a un lugar seguro "
     "o busca a alguien de confianza. También puedes llamar gratis a la Línea 100, que brinda apoyo y "
-    "orientación ante la violencia."
+    "orientación ante la violencia. Si la persona en peligro está fuera del Perú, llama al número de emergencias "
+    "de ese país."
 )
 CRISIS_FOLLOW_UP = "Cuando estés a salvo, puedo explicarte cómo pedir medidas de protección o cómo denunciar."
 CRISIS_ANSWER = f"{SAFETY_NOTICE}\n\n{CRISIS_FOLLOW_UP}"
