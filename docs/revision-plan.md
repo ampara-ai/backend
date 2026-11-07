@@ -36,6 +36,10 @@ wrong numbers.
 | #47 domain filter | Same 24 rejected in all 9 configurations; retriever Recall@10 0.92 on them vs 0.78 on accepted |
 | Statistical power of Test A | Detects about 0.08 NDCG@10 (fine-tuned vs base) and 0.03–0.05 between close variants |
 | Citation accuracy of the published answers (Table 13 run) | 101 of 174 answers cite articles (158 citations); 79.7% are in the retrieved chunks, 93.0% counting mentions inside them; 7.9% of answers with citations have an unsupported one |
+| Test B (MAJOR #1, #27) | 200 questions over 113 test chunks by Gemini 3.8 Flash, another prompt and no lexical filter, verified by GPT-6.1 Sol; median overlap with the source chunk 0.20 vs 0.11 in Test A. Retrieval not run yet (H1) |
+| Second judge (MAJOR #4) | Gemma 4 31B on all 11,963 pairs: 85.5% agreement, κ 0.73 (relevant vs rest) with GPT-6.1 Sol. Fine-tuned − base NDCG@10 +0.119 / +0.117 / +0.131 / +0.106 (judge 1 / judge 2 / intersection / union); all intervals exclude 0 and the order of the 9 configurations does not change |
+| Domain filter (MAJOR #10) | 198 test questions + 150 synthetic messages, 3 repeats: specificity 97.5%, sensitivity 86.0%, 2.6% unstable decisions; it rejected 11 of 30 messages describing imminent danger |
+| Crisis check (added after the filter result) | In parallel with the unchanged filter: 30 of 30 crisis messages get fixed safety guidance (105, Línea 100), none the out-of-domain reply; 91.7% of out-of-domain messages still get it; 7.6% of Test A answers get the safety notice |
 
 Intervals are 95% bootstrap intervals over source chunks, on strict NDCG@10 unless noted. Every row regenerates with
 `quantitative_experiments/revision/robustness.py`; Tables 9, 10 and 12 with `quantitative_experiments/revision/reproduce_tables.py`.
