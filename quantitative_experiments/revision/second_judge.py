@@ -85,12 +85,24 @@ async def judge(args) -> None:
             if not set(chunks) <= got:
                 raise ValueError(f"{len(set(chunks) - got)} pares sin veredicto válido")
 
-        resp = await llm.json(system, "Juzga estos pares:\n\n" + json.dumps(payload, ensure_ascii=False, indent=1), validate=check)
+        try:
+            resp = await llm.json(system, "Juzga estos pares:\n\n" + json.dumps(payload, ensure_ascii=False, indent=1), validate=check)
+        except RuntimeError:
+            # respuesta inválida reiterada (p. ej. JSON cortado con muchos chunks): se juzga la misma pregunta en bloques más
+            # chicos; solo esas peticiones son nuevas, el resto sigue en caché
+            if args.dry_run or len(chunks) <= args.split_size:
+                raise
+            parts = [await one(q, chunks[i:i + args.split_size]) for i in range(0, len(chunks), args.split_size)]
+            resp = {"judgments": [j for _, part in parts for j in part["judgments"]], "_split": len(parts)}
         return q, resp
 
     if args.limit:
         tasks = tasks[: args.limit]
-    results = await asyncio.gather(*(one(q, cs) for q, cs in tasks))
+    outcomes = await asyncio.gather(*(one(q, cs) for q, cs in tasks), return_exceptions=True)
+    failed = [(q, cs, o) for (q, cs), o in zip(tasks, outcomes) if isinstance(o, BaseException)]
+    results = [o for o in outcomes if not isinstance(o, BaseException)]
+    for q, cs, exc in failed:
+        print(f"  sin veredicto: {q} ({len(cs)} pares): {str(exc)[:160]}")
     print(llm.report())
     if args.dry_run:
         print(f"pares: {sum(len(v) for v in pairs.values())} en {len(tasks)} peticiones")
@@ -102,12 +114,22 @@ async def judge(args) -> None:
                 rows.append({"qid": q, "chunk_id": j["chunk_id"], "relevance": j["relevance"], "rationale": j.get("rationale"),
                              "judge_model": args.model, "role": role.get((q, j["chunk_id"]), "pool")})
     write_jsonl(OUT / "second_judge" / slug(args.model) / "judgments.jsonl", rows)
-    print(f"{len(rows)} veredictos -> {OUT / 'second_judge' / slug(args.model)}")
+    expected = sum(len(v) for v in pairs.values()) if not args.limit else sum(len(cs) for _, cs in tasks)
+    (OUT / "second_judge" / slug(args.model) / "coverage.json").write_text(json.dumps(
+        {"expected_pairs": expected, "judged_pairs": len({(r["qid"], r["chunk_id"]) for r in rows}),
+         "failed_requests": [{"qid": q, "pairs": len(cs)} for q, cs, _ in failed], "pilot_limit": args.limit}, indent=1),
+        encoding="utf-8")
+    print(f"{len(rows)} veredictos ({len(failed)} peticiones sin respuesta) -> {OUT / 'second_judge' / slug(args.model)}")
 
 
 def analyze(args) -> None:
     d2 = OUT / "second_judge" / slug(args.model)
     j2 = {(r["qid"], r["chunk_id"]): r["relevance"] for r in read_jsonl(d2 / "judgments.jsonl")}
+    cov = json.loads((d2 / "coverage.json").read_text(encoding="utf-8")) if (d2 / "coverage.json").exists() else None
+    if not cov or cov.get("pilot_limit") or cov["judged_pairs"] < cov["expected_pairs"]:
+        if not args.allow_partial:
+            raise SystemExit(f"veredictos incompletos ({cov}): completa `judge` o usa --allow-partial")
+        print(f"AVISO: análisis parcial {cov}")
     j1 = {(r["qid"], r["chunk_id"]): r["relevance"] for r in read_jsonl(POOL / "pool_judgments_test.jsonl")}
     # veredictos del juez 1 sobre los chunks de origen: los del armado del dataset (rol "origin")
     j1.update({(r["dataset_id"], r["chunk_id"]): r["relevance"] for r in read_jsonl(dataset_v2() / "judgments.jsonl")
@@ -163,10 +185,12 @@ def main() -> None:
     j.add_argument("--concurrency", type=int, default=4)
     j.add_argument("--chunks-per-task", type=int, default=0, help="0 = todos los chunks de la pregunta en una petición (como el pooling)")
     j.add_argument("--max-tokens", type=int, default=16000)
+    j.add_argument("--split-size", type=int, default=20, help="chunks por bloque al reintentar una petición que falla")
     j.add_argument("--no-origin", dest="include_origin", action="store_false", help="no juzgar los 200 pares estrictos")
     j.add_argument("--limit", type=int, default=0, help="solo las N primeras peticiones (piloto); 0 = todas")
     j.add_argument("--dry-run", action="store_true")
     an = sub.add_parser("analyze")
+    an.add_argument("--allow-partial", action="store_true", help="analizar aunque falten veredictos (no para reportar)")
     for p in (j, an):
         p.add_argument("--model", required=True, help="juez 2: open-weight y de otra familia que GPT, Claude y gpt-oss")
     args = ap.parse_args()
