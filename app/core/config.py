@@ -7,6 +7,12 @@ class Settings(BaseSettings):
     # LLM — OpenRouter (OpenAI-compatible)
     openrouter_api_key: str
     llm_model: str = "openai/gpt-oss-120b"
+    # Temperatura de TODAS las llamadas al LLM del grafo (filtro, decisión de contexto, generación, source grounding).
+    # Los resultados del artículo se obtuvieron con 0; queda explícita para registrarla en cada corrida.
+    llm_temperature: float = 0.0
+    # Archivo de prompts/ con el system prompt del generador. generation.md = el desplegado;
+    # generation_prose_v1.md = candidato del prompt en prosa con el que se evaluó la Tabla 13 (por confirmar).
+    generation_prompt_file: str = "generation.md"
     # Enrutamiento de proveedor fijado en cada request (no solo en la cuenta de
     # OpenRouter): solo este proveedor, sin fallback a otros, y excluyendo
     # proveedores que guardan datos. Vacío = sin restricción.

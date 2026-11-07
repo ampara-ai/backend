@@ -51,6 +51,7 @@ from app.graph.state import RAGState  # noqa: E402
 from quantitative_experiments.ablation.build_runs import model_meta, verify_index  # noqa: E402
 from quantitative_experiments.ablation.eval_ablation import HYBRID_FUSION, config_arg, get_config_docs, parse_config  # noqa: E402
 from scripts.eval_dataset_ragas import load_dataset  # noqa: E402
+from quantitative_experiments.provenance import run_provenance  # noqa: E402
 
 
 def _merge(a: dict | None, b: dict | None) -> dict:
@@ -191,6 +192,10 @@ async def main() -> None:
                     "rrf": HYBRID_FUSION if spec["kind"] == "hybrid" else None, "rerank_k": spec["rerank_k"],
                     "reranker_backend": args.reranker_backend if spec["rerank_k"] else None, "with_generation": args.with_generation}
             (args.out_dir / f"{config}.meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+        # procedencia del LLM (modelo, temperatura, hash de cada prompt) y del código, para toda configuración
+        (args.out_dir / f"{config}.provenance.json").write_text(
+            json.dumps(run_provenance(config=config, with_generation=args.with_generation, dataset=str(args.dataset_path)),
+                       ensure_ascii=False, indent=1), encoding="utf-8")
         no_res = sum(r["no_results"] for r in rows)
         print(f"{config}: {len(rows)} preguntas | rechazadas por el filtro de dominio: {len(rejected)} | sin chunks sobre el umbral: {no_res} -> {args.out_dir}")
 
