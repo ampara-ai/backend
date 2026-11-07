@@ -1,3 +1,5 @@
+> Notas de octubre de 2026. El plan vigente de la revisión y el estado de cada corrección están en [revision-plan.md](revision-plan.md).
+
 # Revisión para el envío a revista Q1: alineación del backend
 
 Esta rama empieza a alinear el código con lo que describe el artículo de AMPARA y agrega las herramientas de evaluación que necesita la revisión. No cambia la recuperación ni el prompt de generación.

@@ -1,0 +1,301 @@
+{
+ "memorization": {
+  "ndcg@10_full": {
+   "estimate": 0.11882740660858657,
+   "ci_low": 0.0627928194345206,
+   "ci_high": 0.17593250102709065
+  },
+  "ndcg@10_heldout": {
+   "estimate": 0.127956511749614,
+   "ci_low": 0.07856176982633656,
+   "ci_high": 0.17794140843839437
+  },
+  "min_depth_after_filter": 18,
+  "recall@10_full": {
+   "estimate": 0.17424242424242425,
+   "ci_low": 0.10344620358090187,
+   "ci_high": 0.24739716198979592
+  },
+  "recall@10_heldout": {
+   "estimate": 0.15151515151515152,
+   "ci_low": 0.09643937914877007,
+   "ci_high": 0.211340206185567
+  },
+  "top10_share_train_chunks": {
+   "dense_base": 0.6898989898989899,
+   "dense_finetuned": 0.6499999999999999
+  },
+  "corpus_share_train_chunks": 0.7211646136618141
+ },
+ "pooled_train": {
+  "added": 499,
+  "by_partition": {
+   "train": 352,
+   "dev": 57,
+   "test": 90
+  },
+  "training_positives": 343,
+  "ft_minus_base_without_train": {
+   "estimate": 0.12040158779747445,
+   "ci_low": 0.07094973422324065,
+   "ci_high": 0.17087877015724642
+  }
+ },
+ "strict_pairs": {
+  "pairs": 200,
+  "queries": 198,
+  "multi": {
+   "test::chunk_tipo02_cp_art_58_01::q01": [
+    "chunk_tipo02_cp_art_58_01",
+    "chunk_tipo02_cp_art_64_01"
+   ],
+   "test::chunk_tipo02_cp_art_58_01::q02": [
+    "chunk_tipo02_cp_art_58_01",
+    "chunk_tipo02_cp_art_64_01"
+   ]
+  }
+ },
+ "table2_vs_3": {
+  "split_counts": {
+   "train": 644,
+   "dev": 77,
+   "test": 165,
+   "excluded": 7
+  },
+  "non_representative_duplicates": {
+   "train": 14,
+   "dev": 1,
+   "test": 1
+  }
+ },
+ "negatives": {
+  "judged": 6432,
+  "questions": 536,
+  "rates": {
+   "si": {
+    "estimate": 0.02347636815920398,
+    "ci_low": 0.01896766169154229,
+    "ci_high": 0.028140547263681592
+   },
+   "parcial": {
+    "estimate": 0.15967039800995025,
+    "ci_low": 0.14754353233830847,
+    "ci_high": 0.17195273631840796
+   },
+   "si+parcial": {
+    "estimate": 0.18314676616915423,
+    "ci_low": 0.16946517412935325,
+    "ci_high": 0.19682835820895522
+   }
+  }
+ },
+ "lexical": {
+  "quantiles": [
+   0.0,
+   0.0,
+   0.111,
+   0.182,
+   0.3
+  ],
+  "low": {
+   "n": 111,
+   "bm25_only": 0.0203771126769632,
+   "dense_base": 0.4191919893095948,
+   "dense_finetuned": 0.5409190945572729
+  },
+  "high": {
+   "n": 87,
+   "bm25_only": 0.1185146710042258,
+   "dense_base": 0.4953064828754281,
+   "dense_finetuned": 0.6104342739789668
+  }
+ },
+ "generator": {
+  "claude-sonnet-4-5": {
+   "n": 48,
+   "ndcg@10": {
+    "estimate": 0.08449032268917,
+    "ci_low": -0.01296330081210912,
+    "ci_high": 0.17584628866438706
+   }
+  },
+  "claude-sonnet-5-5": {
+   "n": 150,
+   "ndcg@10": {
+    "estimate": 0.12981527346279984,
+    "ci_low": 0.060454163202704664,
+    "ci_high": 0.1987605138003745
+   }
+  }
+ },
+ "faithfulness": {
+  "strict_hit": {
+   "n": 137,
+   "mean": 0.6409221163836879
+  },
+  "strict_miss": {
+   "n": 37,
+   "mean": 0.46891891891891896
+  },
+  "pooled_hit": {
+   "n": 154,
+   "mean": 0.6373515924700035
+  },
+  "pooled_miss": {
+   "n": 20,
+   "mean": 0.35020923520923525
+  }
+ },
+ "domain_filter": {
+  "rejected": 24,
+  "same_set_all_configs": true,
+  "by_source_type": {
+   "tipo01": 2,
+   "tipo02": 5,
+   "tipo03": 12,
+   "tipo04": 5
+  },
+  "retriever_recall@10_rejected": 0.9166666666666666,
+  "retriever_recall@10_accepted": 0.7844827586206896,
+  "rejected_questions": [
+   {
+    "dataset_id": "test::chunk_tipo01_ley30364_art_22-b_01::q02",
+    "query": "¿La jueza me va a avisar que puedo pedir quedarme con mis hijos o exigir ayuda de otro tipo, o tengo que saberlo yo sola?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo01_ley30364_art_667_01::q02",
+    "query": "Mi papá nunca me reconoció ni me pasó dinero para mantenerme de niño. Si yo muero, ¿puede heredarme?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo02_cp_art_108_01::q02",
+    "query": "Un hombre mató a alguien para que no lo acusaran de otro delito. ¿Eso lo hace más grave y cuánto tiempo preso le dan?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo02_cp_art_138_01::q01",
+    "query": "Un vecino me insultó y dijo cosas falsas de mí delante de todos. ¿Es la fiscalía quien lo acusa o tengo que hacerlo yo?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo02_cp_art_138_01::q02",
+    "query": "Hablaron mal de mi mamá ya fallecida y me duele mucho. ¿Alguien de la familia puede denunciar por ella?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo02_cp_art_156_01::q02",
+    "query": "¿Cuántos años de cárcel puede tener alguien que cuenta secretos de mi familia que supo por haber trabajado para nosotros?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo02_cp_art_55_01::q02",
+    "query": "Si el sentenciado no cumple sus jornadas de castigo sin motivo, ¿lo pueden mandar a la cárcel?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_152_01::q01",
+    "query": "Mi abogado no reclamó a tiempo que en el juicio de mi caso hicieron algo mal, ¿ya se perdió ese reclamo o todo se anula igual?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_15_01::q01",
+    "query": "Mi esposo vendió a escondidas la casa para no pagarme lo que el juez le va a ordenar por el daño que me hizo. ¿Se puede anular esa venta?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_15_01::q02",
+    "query": "Si pido que se anule una venta hecha para esconder bienes del agresor, ¿cuántos días tiene el comprador para responder y cómo sigue el trámite?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_164_01::q02",
+    "query": "Mi testigo trabaja en una empresa y su jefe no le da permiso para ir a declarar. ¿Qué pasa con eso?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_195_01::q02",
+    "query": "Después de que examinan el cuerpo de un familiar fallecido, ¿cómo comprueban que de verdad es esa persona?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_216_01::q02",
+    "query": "Cuando la policía entra a un domicilio con permiso del juez, ¿tienen que cuidar el pudor de los que están dentro?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_398_01::q02",
+    "query": "Después de ser declarado no culpable, ¿le borran lo que figuraba contra él en la policía?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_39_01::q01",
+    "query": "Tengo miedo de que en mi ciudad el caso no avance bien, ¿en qué situaciones pueden llevar el juicio a otra jurisdicción?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q01",
+    "query": "Si el juez decidió mal sobre el dinero que me deben por el daño, ¿yo puedo reclamar solo esa parte de la sentencia?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_407_01::q02",
+    "query": "¿Mi pareja condenado y la fiscalía pueden reclamar contra todo lo que dijo el juez, o solo contra una parte?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_429_01::q01",
+    "query": "¿Se puede reclamar una sentencia solo porque no estoy de acuerdo, o tiene que haber algún error del juez?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo03_cpp_art_80_01::q01",
+    "query": "No tengo plata para pagar un abogado en el juicio de mi caso. ¿Me dan uno gratis?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo04_jp_00051_e0015_01::q02",
+    "query": "Si un doctor de un hospital público me dejó sin poder concebir sin que yo aceptara, ¿el gobierno responde por eso?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo04_jp_00138_e0094_01::q01",
+    "query": "Un soldado me forzó para castigarme porque no le dije lo que quería saber. ¿Eso es solo violación o algo todavía más grave?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q01",
+    "query": "Mi hija adolescente desapareció y la hallaron muerta. ¿Qué tienen que hacer las autoridades en el lugar donde la encontraron para no perder pistas?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo04_jp_00188_e0004_01::q02",
+    "query": "Fui a avisar que mi hija no aparecía y no la buscaron hasta que murió. ¿Se puede reclamar al Estado por no actuar rápido?"
+   },
+   {
+    "dataset_id": "test::chunk_tipo04_jp_00653_e0003_01::q01",
+    "query": "Mi defensor no llegó el día de mi cita con los jueces y nadie supo por qué. ¿Le pueden cobrar algo por dejarme sola?"
+   }
+  ]
+ },
+ "power": {
+  "dense_finetuned vs dense_base": {
+   "se": 0.028718249213896787,
+   "mde": 0.080411097798911
+  },
+  "dense_finetuned vs hybrid_finetuned": {
+   "se": 0.011273026160392163,
+   "mde": 0.03156447324909806
+  },
+  "dense_finetuned_rerank100 vs dense_base_rerank100": {
+   "se": 0.01715055619439187,
+   "mde": 0.048021557344297236
+  }
+ },
+ "source_type": {
+  "tipo01": {
+   "n": 18,
+   "base": 0.5515748698222601,
+   "ft": 0.6013036565993204
+  },
+  "tipo02": {
+   "n": 35,
+   "base": 0.5106586923320925,
+   "ft": 0.6443634278206293
+  },
+  "tipo03": {
+   "n": 80,
+   "base": 0.36490694330232604,
+   "ft": 0.5522517418292526
+  },
+  "tipo04": {
+   "n": 65,
+   "base": 0.5019694995525733,
+   "ft": 0.5475919414334987
+  }
+ },
+ "win_loss": {
+  "ft_only": 45,
+  "base_only": 10,
+  "both": 114,
+  "neither": 29
+ }
+}
