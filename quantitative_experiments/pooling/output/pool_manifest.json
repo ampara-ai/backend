@@ -1,7 +1,7 @@
 {
  "fingerprint": {
   "corpus_sha256": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0",
-  "dataset_sha256": "3c0ba866883751c3f030e8de967ac26125ee9002f3d98e6c0939ee71016c6b64",
+  "dataset_sha256": "2f91f07eae938f38eef008b4a2764d21609d4208578c99013e454b88692aef73",
   "judge_prompt_sha256": "718ed56a374c159a800f65a9a1830492a2f2e1f1be9500926f5b96f02dc3990e"
  },
  "runs": [
@@ -24,5 +24,12 @@
   "hybrid_finetuned_rerank100",
   "hybrid_finetuned_rerank100.retriever"
  ],
- "depth": 20
+ "depth": 20,
+ "fingerprint_history": [
+  {
+   "dataset_sha256": "3c0ba866883751c3f030e8de967ac26125ee9002f3d98e6c0939ee71016c6b64",
+   "replaced_on": "2026-11-06",
+   "reason": "Revisión Q1: el conjunto de prueba se regeneró en el repo de datos con el juez real en generation.judge (gpt-6.1-sol en vez de claude-sonnet-5.5). Las preguntas, los ids y los chunks de origen son idénticos; ningún juicio del pool depende de ese campo."
+  }
+ ]
 }

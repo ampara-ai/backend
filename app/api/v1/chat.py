@@ -12,6 +12,7 @@ from pydantic import BaseModel
 from app.api.v1.schemas import ChatRequest, ChatResponse, SourceDocument
 from app.core.config import settings
 from app.graph.rag_graph import clear_session_history, rag_graph, touch_session
+from app.graph.nodes.crisis import CRISIS_FOLLOW_UP, SAFETY_NOTICE
 from app.services import postgres, ragas_eval
 
 logger = logging.getLogger(__name__)
@@ -49,7 +50,9 @@ _NODE_STATUS: dict[str, str | None] = {
     "no_results": None,
 }
 
-_TERMINAL_NODES = {"source_grounding", "out_of_domain", "no_results"}
+# crisis_notice va después de source_grounding y de no_results: sus campos se combinan (crisis_notice solo cambia
+# la respuesta y la marca de crisis).
+_TERMINAL_NODES = {"source_grounding", "out_of_domain", "no_results", "crisis_response", "crisis_notice"}
 
 
 def _sse(event: str, data: dict) -> str:
@@ -74,6 +77,7 @@ def _build_done_event(session_id: str, terminal: dict, answer: str, consulta_id:
         "from_context": bool(terminal.get("from_context", False)),
         "out_of_domain": bool(terminal.get("out_of_domain", False)),
         "no_results": bool(terminal.get("no_results", False)),
+        "crisis": bool(terminal.get("crisis", False)),
         "consulta_id": consulta_id,
     }
 
@@ -160,7 +164,15 @@ async def _stream_chat_sse(request: ChatRequest) -> AsyncGenerator[str, None]:
                     if status_msg:
                         yield _sse("status", {"step": node_name, "message": status_msg})
                     if node_name in _TERMINAL_NODES:
-                        terminal_update = update
+                        terminal_update = {**terminal_update, **(update or {})}
+                    # Crisis: las indicaciones de seguridad se envían apenas se detecta el peligro, antes de generar
+                    if node_name == "crisis_check" and (update or {}).get("in_crisis"):
+                        notice = SAFETY_NOTICE + "\n\n"
+                        accumulated_answer.append(notice)
+                        yield _sse("token", {"content": notice})
+                    if node_name == "crisis_response":
+                        accumulated_answer.append(CRISIS_FOLLOW_UP)
+                        yield _sse("token", {"content": CRISIS_FOLLOW_UP})
 
             elif mode == "messages":
                 token, metadata = data
@@ -271,6 +283,7 @@ async def chat(request: ChatRequest) -> ChatResponse:
         from_context=result.get("from_context", False),
         out_of_domain=result.get("out_of_domain", False),
         no_results=result.get("no_results", False),
+        crisis=bool(result.get("crisis", False)),
         consulta_id=consulta_id,
     )
 

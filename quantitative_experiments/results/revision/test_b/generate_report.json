@@ -1,0 +1,11 @@
+{
+ "generator_model": "google/gemini-3.8-flash",
+ "temperature": 0.7,
+ "prompt_sha256": "be50b32c59e4098c30d0aadb88af7e0d7a50813a083562882ac218e17f36df95",
+ "chunks": 165,
+ "counts": {
+  "chunk_omitido": 50,
+  "preguntas_aceptadas": 204,
+  "chunks_con_preguntas": 115
+ }
+}

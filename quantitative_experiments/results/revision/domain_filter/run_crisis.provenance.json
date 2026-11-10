@@ -1,0 +1,30 @@
+{
+ "created_at": "2026-11-07T21:47:59.601161+00:00",
+ "git": {
+  "commit": "82d28553d700bc52ddf9ba3e10e65fe9937d4b95",
+  "dirty": true
+ },
+ "llm": {
+  "llm_model": "openai/gpt-oss-120b",
+  "llm_temperature": 0.0,
+  "llm_max_output_tokens": 8192,
+  "provider": {
+   "provider": {
+    "only": [
+     "groq"
+    ],
+    "allow_fallbacks": false,
+    "data_collection": "deny"
+   }
+  },
+  "generation_prompt_file": "generation.md",
+  "prompts_sha256": {
+   "generation": "90e47259e07d93f2aace2f5da47221288fd5994eb582b7d57b35bb826ba4a433",
+   "relevance_filter": "f83637c6acab3f66d86842911d6ffe89a2b81080800ecf7ded1bf2ab219b1b3b",
+   "context_check": "d637b720c0474b3fb3d71c20ed2efd33e9349ad451a5cda9d4fb94aab1d3d8cf"
+  },
+  "prompts_dir": "/Users/adrianalarcon/esan/ampara/backend-q1/prompts"
+ },
+ "repeats": 3,
+ "node": "crisis"
+}

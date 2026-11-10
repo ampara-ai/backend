@@ -13,6 +13,8 @@ class RAGState(TypedDict):
 
     # --- Routing flags ---
     is_relevant: bool
+    # Peligro actual o inminente según el detector de crisis (corre en paralelo con el filtro de dominio)
+    in_crisis: bool
     context_sufficient: bool
     # True cuando ningún chunk recuperado supera el umbral de similitud
     # (settings.retrieval_score_threshold) y el grafo responde con el mensaje fijo de
@@ -34,4 +36,6 @@ class RAGState(TypedDict):
     answer: str
     sources: list[dict]
     out_of_domain: bool
+    # True cuando la respuesta lleva las indicaciones de seguridad del detector de crisis
+    crisis: bool
     from_context: bool

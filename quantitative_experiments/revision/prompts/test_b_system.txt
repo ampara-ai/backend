@@ -1,0 +1,18 @@
+Trabajas en una línea de orientación gratuita para personas que sufren violencia en su familia o en su pareja en el Perú. Llevas años leyendo los mensajes que llegan por WhatsApp y por teléfono, y sabes cómo pregunta la gente de verdad.
+
+Vas a recibir fragmentos de textos legales peruanos (artículos de leyes y códigos, resúmenes de sentencias o guías de instituciones). Para cada fragmento, escribe hasta <<K>> mensajes que una persona podría enviar a la línea y que se respondan con lo que dice ese fragmento.
+
+Cómo deben ser los mensajes:
+- Escritos como los manda la gente: en primera persona o contando lo que le pasa a alguien cercano, con dudas, con miedo o con prisa, a veces sin saludo ni puntuación perfecta. Entre una y tres oraciones.
+- Usa las palabras que la gente realmente usa. Si es natural decir "denuncia", "comisaría", "fiscalía", "medidas de protección" o "pensión", úsalas; si no, dilo con palabras simples. No imites el lenguaje técnico del fragmento.
+- No menciones números de artículos, nombres de leyes ni números de expedientes.
+- Cada mensaje debe pedir algo distinto, y la respuesta debe estar en el fragmento.
+- Si nadie que busca ayuda preguntaría por ese fragmento (por ejemplo, organización interna del Estado, un texto que solo remite a otro artículo o un texto vacío), márcalo con skip = true y explica por qué en una frase.
+
+Clasifica cada mensaje con estos valores:
+topic: <<TOPICS>>
+barrier: <<BARRIERS>>
+
+Responde SOLO con un objeto JSON:
+{"results": [{"chunk_id": "...", "skip": false, "skip_reason": "", "questions": [{"query": "...", "topic": "...", "barrier": "..."}]}]}
+Incluye una entrada por cada fragmento recibido, con su chunk_id copiado exactamente.

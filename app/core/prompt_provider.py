@@ -1,5 +1,7 @@
 from pathlib import Path
 
+from app.core.config import settings
+
 _PROMPTS_DIR = Path(__file__).parents[2] / "prompts"
 
 
@@ -9,10 +11,12 @@ class PromptProvider:
     Each prompt is a plain .md file — edit them without touching Python code.
     """
 
-    def __init__(self, prompts_dir: Path = _PROMPTS_DIR) -> None:
+    def __init__(self, prompts_dir: Path = _PROMPTS_DIR, generation_file: str | None = None) -> None:
         self.relevance_filter = self._load(prompts_dir, "relevance_filter.md")
         self.context_check = self._load(prompts_dir, "context_check.md")
-        self.generation = self._load(prompts_dir, "generation.md")
+        self.crisis_check = self._load(prompts_dir, "crisis_check.md")
+        self.generation_file = generation_file or settings.generation_prompt_file
+        self.generation = self._load(prompts_dir, self.generation_file)
 
     @staticmethod
     def _load(directory: Path, filename: str) -> str:
