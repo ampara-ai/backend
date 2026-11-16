@@ -11,6 +11,9 @@ MODE=dry-run
 MODE_SET=false
 STAGE=all
 DEVICE=auto
+# FlagEmbedding SameDataset consumes each row's prompt, even without a CLI instruction.
+# Freeze that exact prefix (including its trailing space) for development and test inference.
+QUERY_PREFIX='Represent this sentence for searching relevant passages: '
 
 usage() {
   cat <<'EOF'
@@ -145,7 +148,7 @@ if [ "$STAGE" != evaluate ]; then
   fi
   perform python "$DATA_REPO/entrenamiento/v2/build_naive_dataset.py" --n-neg 10 --out-dir "$TRAIN_DATA"
   if [ "$MODE" = run ]; then
-    python - "$TRAIN_DATA" <<'PY'
+    python - "$TRAIN_DATA" "$QUERY_PREFIX" <<'PY'
 import hashlib
 import json
 import sys
@@ -162,6 +165,9 @@ expected = {
 for name, digest in expected.items():
     if hashlib.sha256((root / name).read_bytes()).hexdigest() != digest:
         raise SystemExit(f"Frozen H2 training data hash differs: {name}")
+    rows = [json.loads(line) for line in (root / name).read_text().splitlines() if line.strip()]
+    if any(row.get("prompt") != sys.argv[2] for row in rows):
+        raise SystemExit(f"Training query prompt differs from frozen inference prefix: {name}")
 PY
   fi
   for arm in full_matched naive; do
@@ -178,13 +184,13 @@ fi
 if [ "$STAGE" != train ]; then
   if [ "$MODE" = run ]; then
     # The upstream launcher publishes provenance only after successful training.
-    python - "$TRAIN_DATA" "$TRAIN_RUNS" <<'PY'
+    python - "$TRAIN_DATA" "$TRAIN_RUNS" "$QUERY_PREFIX" <<'PY'
 import hashlib
 import json
 import sys
 from pathlib import Path
 
-data, runs = map(Path, sys.argv[1:])
+data, runs = map(Path, sys.argv[1:3])
 bases, environments = set(), set()
 expected_data = {
     "naive": "0f8afe1e0fba94a81f3cd870a8d9dfda711c5162f773101985b18f387b68ebdb",
@@ -194,6 +200,9 @@ for arm in ("full_matched", "naive"):
     digest = hashlib.sha256((data / f"training_{arm}.json").read_bytes()).hexdigest()
     if digest != expected_data[arm]:
         raise SystemExit(f"Frozen H2 training data hash differs: {arm}")
+    rows = [json.loads(line) for line in (data / f"training_{arm}.json").read_text().splitlines() if line.strip()]
+    if any(row.get("prompt") != sys.argv[3] for row in rows):
+        raise SystemExit(f"Training query prompt differs from frozen inference prefix: {arm}")
     for seed in (42, 1, 2):
         folder = runs / f"{arm}_seed{seed}"
         p = json.loads((folder / "provenance.json").read_text())
@@ -218,17 +227,17 @@ PY
       run_dir="$TRAIN_RUNS/${arm}_seed${seed}"
       perform_eval python -m quantitative_experiments.revision.select_checkpoint \
         --run-dir "$run_dir" --dataset "$DV2/eval_dev_dataset.jsonl" --qrels "$DV2/eval_dev_qrels.jsonl" \
-        --device "$DEVICE"
+        --device "$DEVICE" --query-prefix "$QUERY_PREFIX"
       selected="<path from $run_dir/selected_checkpoint.txt>"
       if [ "$MODE" = run ]; then IFS= read -r selected < "$run_dir/selected_checkpoint.txt"; fi
       perform_eval python -m quantitative_experiments.revision.local_retrieval \
         --model "cls:$selected" --name "${arm}_seed${seed}" \
         --dataset "$TEST_B/eval_test_b_dataset.jsonl" --qrels "$TEST_B/eval_test_b_qrels.jsonl" \
-        --out-dir "$EVALUATION/runs/test_b" --device "$DEVICE" --max-length 2048 --depth 100
+        --out-dir "$EVALUATION/runs/test_b" --device "$DEVICE" --max-length 2048 --depth 100 --query-prefix "$QUERY_PREFIX"
       perform_eval python -m quantitative_experiments.revision.local_retrieval \
         --model "cls:$selected" --name "${arm}_seed${seed}" \
         --dataset "$TEST_A/eval_test_dataset.jsonl" --qrels "$TEST_A/eval_test_qrels.jsonl" \
-        --out-dir "$EVALUATION/runs/test_a" --device "$DEVICE" --max-length 2048 --depth 100
+        --out-dir "$EVALUATION/runs/test_a" --device "$DEVICE" --max-length 2048 --depth 100 --query-prefix "$QUERY_PREFIX"
     done
   done
   for test in b a; do

@@ -44,7 +44,7 @@ def experiment(tmp_path, monkeypatch):
 
 @pytest.fixture
 def fake_ragas(monkeypatch):
-    state = {"calls": [], "fail_once": False}
+    state = {"calls": [], "fail_once": False, "faithfulness": 0.8, "answer_relevancy": 0.7}
 
     class Faithfulness:
         def __init__(self, **kwargs):
@@ -55,7 +55,7 @@ def fake_ragas(monkeypatch):
             if state["fail_once"]:
                 state["fail_once"] = False
                 raise RuntimeError("Artificial metric failure")
-            return SimpleNamespace(value=0.8)
+            return SimpleNamespace(value=state["faithfulness"])
 
     class AnswerRelevancy:
         def __init__(self, **kwargs):
@@ -63,7 +63,7 @@ def fake_ragas(monkeypatch):
 
         async def ascore(self, **kwargs):
             state["calls"].append(("answer_relevancy", kwargs))
-            return SimpleNamespace(value=0.7)
+            return SimpleNamespace(value=state["answer_relevancy"])
 
     monkeypatch.setitem(sys.modules, "openai", SimpleNamespace(AsyncOpenAI=lambda **kwargs: object()))
     monkeypatch.setitem(sys.modules, "ragas", SimpleNamespace())
@@ -196,6 +196,30 @@ def test_incomplete_scores_are_retried_and_unfingerprinted_legacy_cache_is_ignor
     assert len(fake_ragas["calls"]) == 15
     summary = json.loads((args.out_dir / "summary.json").read_text())
     assert summary["coverage"]["base"]["faithfulness"]["missing"] == 0
+
+
+def test_negative_relevancy_is_preserved_in_summary_and_reused_from_cache(experiment, fake_ragas):
+    args, _, _ = experiment
+    fake_ragas["answer_relevancy"] = -0.2
+    asyncio.run(exp.score(args))
+    asyncio.run(exp.score(args))
+    assert len(fake_ragas["calls"]) == 12
+    summary = json.loads((args.out_dir / "summary.json").read_text())
+    for condition in args.conditions:
+        assert summary["means"][condition]["answer_relevancy"] == pytest.approx(-0.2)
+        assert summary["coverage"][condition]["answer_relevancy"] == {
+            "scored": 2, "missing": 0, "not_applicable": 0}
+    assert summary["paired"]["finetuned|answer_relevancy"]["n"] == 2
+
+
+@pytest.mark.parametrize("metric,value,valid", [
+    ("faithfulness", -0.2, False), ("gold_support", -0.2, False),
+    ("answer_relevancy", -1, True), ("answer_relevancy", -1.01, False),
+    ("answer_relevancy", 1.01, False), ("answer_relevancy", float("nan"), False),
+    ("answer_relevancy", True, False),
+])
+def test_score_validation_respects_each_metric_domain(metric, value, valid):
+    assert bool(exp.finite_score(value, metric)) is valid
 
 
 def test_no_context_faithfulness_is_not_retried_as_failure(experiment, fake_ragas):
@@ -365,3 +389,116 @@ def test_code_errors_uses_selected_dataset_and_isolated_cache(experiment, fake_r
     output = json.loads((args.out_dir / "base.error_codes.json").read_text())
     assert output["answers"] == 2
     assert set(output["per_answer"]) == {"testb::1", "testb::2"}
+
+
+@pytest.mark.parametrize("judge_a,judge_b,expected_codes", [(0.8, 0.1, 0), (0.1, 0.8, 2)])
+def test_code_errors_uses_summary_selection_after_switching_back_to_cached_judge(
+        experiment, fake_ragas, monkeypatch, judge_a, judge_b, expected_codes):
+    args, _, _ = experiment
+    args.judge_model = "judge-A"
+    fake_ragas["faithfulness"] = judge_a
+    asyncio.run(exp.score(args))
+    args.judge_model = "judge-B"
+    fake_ragas["faithfulness"] = judge_b
+    asyncio.run(exp.score(args))
+    args.judge_model = "judge-A"
+    asyncio.run(exp.score(args))  # A is cached; B remains the last appended score for every question.
+    assert len(fake_ragas["calls"]) == 24
+    summary = json.loads((args.out_dir / "summary.json").read_text())
+    assert summary["means"]["base"]["faithfulness"] == judge_a
+    assert summary["scoring_selection"]["configuration"]["judge_model"] == "judge-A"
+    assert exp.read_jsonl(args.out_dir / "base.ragas_partial.jsonl")[-1]["score_config"]["judge_model"] == "judge-B"
+    args.condition, args.threshold, args.model, args.dry_run = "base", 0.5, "fake-coder", False
+    calls = []
+
+    class FakeCoder:
+        def __init__(self, *a, **kw):
+            pass
+
+        async def json(self, system, user, validate):
+            calls.append(user)
+            result = {"claims": [], "main_cause": "consejo_general"}
+            validate(result)
+            return result
+
+        def report(self):
+            return "fake coding"
+
+    monkeypatch.setattr(exp, "LLM", FakeCoder)
+    asyncio.run(exp.code_errors(args))
+    output = json.loads((args.out_dir / "base.error_codes.json").read_text())
+    assert len(calls) == output["answers"] == expected_codes
+    assert output["score_config"]["judge_model"] == "judge-A"
+
+
+@pytest.mark.parametrize("problem", ["legacy_summary", "changed_dataset", "changed_corpus", "changed_selected_row", "missing_cache"])
+def test_code_errors_rejects_stale_or_unselected_evidence_before_coder(
+        experiment, fake_ragas, monkeypatch, problem):
+    args, documents, _ = experiment
+    asyncio.run(exp.score(args))
+    args.condition = "base"
+    if problem == "legacy_summary":
+        path = args.out_dir / "summary.json"
+        summary = json.loads(path.read_text())
+        summary.pop("scoring_selection")
+        path.write_text(json.dumps(summary))
+    elif problem == "changed_dataset":
+        rows = exp.read_jsonl(args.dataset)
+        rows[0]["query"] += " changed"
+        write_rows(args.dataset, rows)
+    elif problem == "changed_corpus":
+        documents["d1"]["text"] += " changed"
+    elif problem == "missing_cache":
+        (args.out_dir / "base.ragas_partial.jsonl").unlink()
+    else:
+        path = args.out_dir / "base.ragas_partial.jsonl"
+        rows = exp.read_jsonl(path)
+        rows[0]["faithfulness"] = 0.1  # Same input/config/cache key, but not the row used in the summary.
+        write_rows(path, rows)
+    monkeypatch.setattr(exp, "LLM", lambda *a, **kw: pytest.fail("Invalid selection must fail before coding"))
+    with pytest.raises(ValueError, match="run score before code-errors"):
+        asyncio.run(exp.code_errors(args))
+
+
+def test_code_errors_uses_exact_selected_row_when_newer_same_key_was_appended(experiment, fake_ragas):
+    args, documents, _ = experiment
+    asyncio.run(exp.score(args))
+    args.condition = "base"
+    path = args.out_dir / "base.ragas_partial.jsonl"
+    rows = exp.read_jsonl(path)
+    newer = copy.deepcopy(rows[0])
+    newer["faithfulness"] = 0.1
+    write_rows(path, [*rows, newer])
+    trace = {r["dataset_id"]: r for r in exp.read_jsonl(args.out_dir / "base.trace.jsonl")}
+    selected, _ = exp.selected_scores_for_coding(args, trace, exp.selected_dataset(args), documents)
+    assert selected[newer["dataset_id"]]["faithfulness"] == 0.8
+
+
+def test_released_final_code_errors_keeps_historical_csv_path_without_scoring_summary(experiment, monkeypatch):
+    args, _, _ = experiment
+    monkeypatch.setattr(exp, "TEST_DATASET", args.dataset)
+    monkeypatch.setattr(exp, "FINAL_TRACE", args.out_dir / "base.trace.jsonl")
+    monkeypatch.setattr(exp, "RESULTS", args.out_dir / "released")
+    csv_path = exp.RESULTS / "pipeline_final/ragas_luna/ragas_y_latencia_por_pregunta.csv"
+    csv_path.parent.mkdir(parents=True)
+    csv_path.write_text("dataset_id,faithfulness\ntestb::1,0.1\ntestb::2,0.9\n")
+    args.condition, args.threshold, args.model, args.dry_run = "released_final", 0.5, "fake-coder", False
+    calls = []
+
+    class FakeCoder:
+        def __init__(self, *a, **kw):
+            pass
+
+        async def json(self, system, user, validate):
+            calls.append(user)
+            return {"claims": [], "main_cause": "consejo_general"}
+
+        def report(self):
+            return "fake coding"
+
+    monkeypatch.setattr(exp, "LLM", FakeCoder)
+    asyncio.run(exp.code_errors(args))
+    output = json.loads((args.out_dir / "released_final.error_codes.json").read_text())
+    assert len(calls) == output["answers"] == 1
+    assert set(output["per_answer"]) == {"testb::1"}
+    assert output["score_config"] is None

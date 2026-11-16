@@ -9,6 +9,9 @@ Modelos:
   st:BAAI/bge-reranker-v2-m3   PyTorch (CUDA, Apple MPS o CPU; FP16 en GPU)
   onnx:<carpeta>               el export ONNX del model service (reranker_onnx_int8), siempre en CPU
 
+Ambos usan logits sin sigmoide para ordenar. No son probabilidades: aplicar la sigmoide en FP16 puede colapsar
+puntajes distintos en el mismo valor y cambiar el ranking por el desempate alfabético de chunk_id.
+
 Uso:
     uv run python -m quantitative_experiments.revision.rerank_local --first-stage released:dense_finetuned \
         --depths 20 50 100 --name bge_reranker_on_ft [--cpu-latency-sample 30]
@@ -33,6 +36,7 @@ class Reranker:
     def __init__(self, spec: str, device: str, max_length: int, fp16: bool) -> None:
         self.type, self.name = spec.split(":", 1)
         self.max_length = max_length
+        self.score_kind = "raw_logits"
         if self.type == "onnx":
             import onnxruntime as ort
             from transformers import AutoTokenizer
@@ -48,19 +52,25 @@ class Reranker:
             half = fp16 and self.device != "cpu"
             self.model = CrossEncoder(self.name, device=self.device, max_length=max_length,
                                       model_kwargs={"torch_dtype": torch.float16} if half else {})
+            self.activation_fn = torch.nn.Identity()
             self.dtype = "fp16" if half else "fp32"
         else:
             raise ValueError("usa st:<hf id> u onnx:<carpeta>")
 
     def score(self, query: str, docs: list[str], batch_size: int = 16) -> np.ndarray:
-        if self.type == "onnx":  # mismo cálculo que el model service: sigmoide del logit
+        if self.type == "onnx":
             logits = []
             for i in range(0, len(docs), batch_size):
                 enc = self.tokenizer([[query, d] for d in docs[i:i + batch_size]], padding=True, truncation=True,
                                      max_length=self.max_length, return_tensors="np")
                 logits.append(self.session.run(None, {k: v for k, v in enc.items() if k in self.inputs})[0].reshape(-1))
-            return 1 / (1 + np.exp(-np.concatenate(logits)))
-        return np.asarray(self.model.predict([(query, d) for d in docs], batch_size=batch_size, show_progress_bar=False))
+            return np.asarray(np.concatenate(logits), dtype=np.float32)
+        # Casting to FP32 after the default sigmoid cannot recover FP16 ties.
+        # Override the activation before prediction for every device/precision.
+        return np.asarray(self.model.predict(
+            [(query, d) for d in docs], batch_size=batch_size, show_progress_bar=False,
+            activation_fn=self.activation_fn, apply_softmax=False,
+        ), dtype=np.float32)
 
 
 def rerank(rr: Reranker, query: str, ranked: list[str], k: int, texts: dict[str, str]) -> tuple[list[str], float]:
@@ -115,7 +125,8 @@ def main(argv=None) -> None:
     rr = Reranker(args.model, args.device, args.max_length, fp16=not args.fp32)
     out_dir.mkdir(parents=True, exist_ok=True)
     first_hash = hashlib.sha256(json.dumps(first, sort_keys=True).encode()).hexdigest()
-    meta = {"model": args.model, "device": rr.device, "dtype": rr.dtype, "first_stage": args.first_stage,
+    meta = {"model": args.model, "device": rr.device, "dtype": rr.dtype, "score_kind": rr.score_kind,
+            "first_stage": args.first_stage,
             "first_stage_sha256": first_hash, "max_length": args.max_length,
             "dataset_sha256": hashlib.sha256(args.dataset.read_bytes()).hexdigest(),
             "qrels_sha256": hashlib.sha256(args.qrels.read_bytes()).hexdigest(), "per_k": {}}

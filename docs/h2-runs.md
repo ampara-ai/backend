@@ -4,6 +4,8 @@ H2 asks whether the complete synthetic-data protocol improves strict NDCG@10 ove
 
 The preparation script is [`run_h2.sh`](../quantitative_experiments/revision/run_h2.sh). It defaults to a dry run, which only prints the commands. It does not require CUDA, a downloaded model, generated training files, or prior experiment outputs, and it creates no outputs. Actual training or inference requires `--run`.
 
+For the staged operator handoff in Spanish, including H1/H3, logs and recovery, see [GPU execution instructions](instrucciones-experimentos-gpu.md).
+
 ## Design and prerequisites
 
 | Condition | Training rows | Distinct questions | Training seeds |
@@ -22,6 +24,8 @@ Before actual execution:
 5. Choose a new `H2_OUT_DIR`. Archive the base snapshot manifest, both repository commits/diffs, exact command/environment, and hashes of development/Test A/Test B inputs and the corpus before starting. Preserve generated `training_data/build_report.json` and all training/selection/ranking metadata. The existing training scripts record the base path, not its immutable Hub revision, so retain the snapshot revision/hash declaration with the run.
 
 All six jobs use one GPU, FP16, per-device batch one, gradient accumulation 16, five epochs, and maximum sequence length 2048. For 1,376 rows this gives 86 updates per epoch, 430 total updates, 43 warmup updates, and checkpoints every 85 updates. These settings are fixed in the wrapper; changing them requires a separately documented protocol amendment, not selecting a configuration after seeing test scores.
+
+Query preprocessing is fixed across training, development selection and Test A/B retrieval: `Represent this sentence for searching relevant passages: `, including its final space. FlagEmbedding's `same_dataset_within_batch` loader uses the training rows' `prompt` field. The wrapper checks that this field is uniform and passes the same explicit `--query-prefix` to selection and retrieval. The frozen training files and their hashes remain unchanged; H1's published-checkpoint comparison retains its own existing query policy.
 
 ## Preview and execute
 

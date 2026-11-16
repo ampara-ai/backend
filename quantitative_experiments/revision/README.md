@@ -4,8 +4,14 @@ Código de los experimentos y análisis de [`docs/revision-plan.md`](../../docs/
 `quantitative_experiments/results/revision/`. Cada script tiene su uso completo en el docstring (`--help`).
 
 **Plan de ejecución vigente, sin asesores legales:** [experimentos pendientes](../../docs/remaining-experiments.md).
+**Entrega al equipo con GPU:** [instrucciones en español, comandos y archivos que deben devolver](../../docs/instrucciones-experimentos-gpu.md).
 H1, H2 y H3 tienen preparación sin ejecución por defecto; los wrappers H2/H3 requieren `--run` para iniciar trabajo.
 No vuelva a generar Test B para ejecutar estos experimentos: se reutilizan las preguntas congeladas.
+
+H2 conserva el prefijo de consulta del entrenamiento también en desarrollo y Test A/B; H1 mantiene su protocolo
+publicado. El reranker ordena por logits sin sigmoide. La evaluación de respuestas conserva los valores negativos
+válidos de Answer Relevancy y `code-errors` usa exactamente los puntajes seleccionados en el último `summary.json`;
+para cachés antiguas, vuelva a ejecutar `score` con el juez/configuración elegidos antes del análisis de errores.
 
 **Dónde corre cada cosa**
 

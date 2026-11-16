@@ -71,13 +71,14 @@ def corpus_embeddings(enc, chunk_ids: list[str], texts: list[str], batch_size: i
 
 
 def retrieve(model: str, dataset: list[dict], query_field: str = "query", depth: int = 100, device: str = "auto",
-             max_length: int = 2048, fp16: bool = True, doc_batch: int = 4, query_batch: int = 32, encoder=None):
+             max_length: int = 2048, fp16: bool = True, doc_batch: int = 4, query_batch: int = 32, encoder=None,
+             *, query_prefix: str = ""):
     """Ranking exacto de las preguntas de `dataset` sobre el corpus; devuelve (corrida, codificador, segundos por etapa)."""
     C = corpus()
     chunk_ids = sorted(C)
     enc = encoder or make_encoder(model, device, max_length, fp16=fp16)
     doc_emb, doc_secs = corpus_embeddings(enc, chunk_ids, [C[c]["text"] for c in chunk_ids], doc_batch, OUT / "embeddings")
-    queries = [d.get(query_field) or d["query"] for d in dataset]
+    queries = [query_prefix + (d.get(query_field) or d["query"]) for d in dataset]
     q_emb, q_secs = timed(enc.encode_queries, queries, query_batch)
     t0 = time.perf_counter()
     ranked = topk(np.asarray(enc.scores(q_emb, doc_emb)), chunk_ids, depth)
@@ -85,12 +86,13 @@ def retrieve(model: str, dataset: list[dict], query_field: str = "query", depth:
     return {d["dataset_id"]: r for d, r in zip(dataset, ranked)}, enc, secs
 
 
-def main() -> None:
+def main(argv=None) -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--model", required=True)
     ap.add_argument("--name", required=True, help="nombre de la configuración (archivo de salida)")
     ap.add_argument("--dataset", type=Path, default=TEST_DATASET)
     ap.add_argument("--query-field", default="query")
+    ap.add_argument("--query-prefix", default="", help="texto literal antepuesto a cada consulta; conservar el espacio final")
     ap.add_argument("--qrels", type=Path, default=None, help="para imprimir métricas; por defecto los estrictos si --dataset es Test A")
     ap.add_argument("--out-dir", type=Path, default=None, help="por defecto results/revision/runs/<nombre del dataset>")
     ap.add_argument("--depth", type=int, default=100)
@@ -100,14 +102,14 @@ def main() -> None:
     ap.add_argument("--doc-batch", type=int, default=4)
     ap.add_argument("--query-batch", type=int, default=32)
     ap.add_argument("--latency-sample", type=int, default=0, help="mide la codificación de N consultas de a una en CPU")
-    args = ap.parse_args()
+    args = ap.parse_args(argv)
 
     dataset = load_dataset(args.dataset)
     out_dir = args.out_dir or OUT / "runs" / args.dataset.stem
     run, enc, secs = retrieve(args.model, dataset, args.query_field, args.depth, args.device, args.max_length,
-                              not args.fp32, args.doc_batch, args.query_batch)
+                              not args.fp32, args.doc_batch, args.query_batch, query_prefix=args.query_prefix)
     print(f"{args.model}: {enc.info()}")
-    queries = [d.get(args.query_field) or d["query"] for d in dataset]
+    queries = [args.query_prefix + (d.get(args.query_field) or d["query"]) for d in dataset]
 
     latency = None
     if args.latency_sample:
@@ -118,6 +120,7 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / f"{args.name}.json").write_text(json.dumps(run, ensure_ascii=False), encoding="utf-8")
     meta = {"name": args.name, **enc.info().__dict__, "dataset": str(args.dataset), "query_field": args.query_field,
+            "query_prefix": args.query_prefix,
             "depth": args.depth, "search": "exact", "corpus_sha256": hashlib.sha256(CORPUS_PATH.read_bytes()).hexdigest(),
             "seconds": secs, "latency": latency,
             "created_at": time.strftime("%Y-%m-%dT%H:%M:%S")}

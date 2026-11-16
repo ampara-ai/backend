@@ -214,13 +214,17 @@ def score_configuration(args, settings) -> dict:
             "reference_condition": args.reference, "metrics": list(METRICS)}
 
 
-def finite_score(value) -> bool:
-    return isinstance(value, (int, float)) and not isinstance(value, bool) and np.isfinite(value) and 0 <= value <= 1
+def finite_score(value, metric: str = "faithfulness") -> bool:
+    # AnswerRelevancy is a mean cosine similarity; valid negative values must not
+    # be discarded or repeatedly billed as failed evaluations.
+    lower = -1 if metric == "answer_relevancy" else 0
+    return (metric in METRICS and isinstance(value, (int, float)) and not isinstance(value, bool)
+            and np.isfinite(value) and lower <= value <= 1)
 
 
 def cached_scores_complete(row: dict, trace: dict) -> bool:
     required = ("gold_support", "answer_relevancy") + (("faithfulness",) if trace["ranked"] else ())
-    return all(finite_score(row.get(metric)) for metric in required)
+    return all(finite_score(row.get(metric), metric) for metric in required)
 
 
 async def score(args) -> None:
@@ -274,7 +278,7 @@ async def score(args) -> None:
                     continue
                 try:
                     value = float((await coro).value)
-                    if not finite_score(value):
+                    if not finite_score(value, name):
                         raise ValueError("Metric returned a nonfinite or out-of-range score")
                     out[name] = value
                 except Exception as exc:  # noqa: BLE001
@@ -302,10 +306,10 @@ async def score(args) -> None:
                 f.write(json.dumps(row, ensure_ascii=False) + "\n")
         per[cond] = done
         print(f"{cond}: {len(done)} respuestas puntuadas")
-    summarize(args, per, expected_qids=qids)
+    summarize(args, per, expected_qids=qids, score_config=config)
 
 
-def summarize(args, per: dict[str, dict[str, dict]], expected_qids=None) -> None:
+def summarize(args, per: dict[str, dict[str, dict]], expected_qids=None, score_config=None) -> None:
     dataset = selected_dataset(args)
     known = {d["dataset_id"] for d in dataset}
     qids = set(expected_qids) if expected_qids is not None else set().union(*(set(v) for v in per.values()))
@@ -318,7 +322,7 @@ def summarize(args, per: dict[str, dict[str, dict]], expected_qids=None) -> None
              "| Condition | Faithfulness | Source-context support | Answer relevancy |", "| --- | --- | --- | --- |"]
     summary, coverage, values = {}, {}, {}
     for cond, rows in per.items():
-        vals = {m: np.array([rows.get(q, {}).get(m) if finite_score(rows.get(q, {}).get(m)) else np.nan
+        vals = {m: np.array([rows.get(q, {}).get(m) if finite_score(rows.get(q, {}).get(m), m) else np.nan
                             for q in sub_ids], float) for m in METRICS}
         summary[cond] = {m: float(np.nanmean(v)) if not np.all(np.isnan(v)) else None for m, v in vals.items()}
         coverage[cond] = {}
@@ -364,10 +368,16 @@ def summarize(args, per: dict[str, dict[str, dict]], expected_qids=None) -> None
     directory = output_dir(args)
     directory.mkdir(parents=True, exist_ok=True)
     (directory / "summary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    selection = None if score_config is None else {
+        "configuration": score_config,
+        "rows": {condition: {qid: {"cache_key": row["cache_key"], "row_fingerprint": fingerprint(row)}
+                             for qid, row in rows.items()} for condition, rows in per.items()},
+    }
     (directory / "summary.json").write_text(json.dumps({"n_questions": len(sub_ids), "question_ids": sub_ids,
         "dataset_sha256": hashlib.sha256(dataset_path(args).read_bytes()).hexdigest(),
         "means": summary, "coverage": coverage, "paired": diffs, "reference": args.reference,
-        "judge_model": args.judge_model, "multiplicity": "H1-H3 Holm adjustment pending"}, indent=1, allow_nan=False), encoding="utf-8")
+        "judge_model": args.judge_model, "scoring_selection": selection,
+        "multiplicity": "H1-H3 Holm adjustment pending"}, indent=1, allow_nan=False), encoding="utf-8")
     print("\n".join(lines))
 
 
@@ -416,11 +426,47 @@ CAUSES = {"afirmacion_legal_sin_respaldo", "articulo_inventado_o_equivocado", "d
           "parafrasis_respaldada"}
 
 
+def selected_scores_for_coding(args, trace, dataset, documents):
+    """Load the exact scoring rows selected by the latest summary, never the latest judge in the cache."""
+    directory = output_dir(args)
+    try:
+        result = json.loads((directory / "summary.json").read_text(encoding="utf-8"))
+    except FileNotFoundError as exc:
+        raise ValueError("No selected scoring configuration; run score before code-errors") from exc
+    selection = result.get("scoring_selection")
+    if not isinstance(selection, dict) or not isinstance(selection.get("configuration"), dict):
+        raise ValueError("No selected scoring configuration in this legacy summary; run score before code-errors")
+    config = selection["configuration"]
+    selected = selection.get("rows", {}).get(args.condition, {})
+    if (result.get("dataset_sha256") != hashlib.sha256(dataset_path(args).read_bytes()).hexdigest()
+            or set(result.get("question_ids", [])) != set(trace) or set(selected) != set(trace)):
+        raise ValueError("No scores match the current dataset/population; run score before code-errors")
+    questions = {d["dataset_id"]: d for d in dataset}
+    hashes = {qid: score_input_fingerprint(questions[qid], row, documents) for qid, row in trace.items()}
+    for qid, entry in selected.items():
+        if entry.get("cache_key") != fingerprint({"input": hashes[qid], "config": config}):
+            raise ValueError("No scores match every current answer/context; run score before code-errors")
+    matches = {}
+    cache = directory / f"{args.condition}.ragas_partial.jsonl"
+    if not cache.is_file():
+        raise ValueError("No scores match the summary's selected scoring rows; run score before code-errors")
+    for row in read_jsonl(cache):
+        qid = row.get("dataset_id")
+        if (qid in selected and row.get("condition") == args.condition and row.get("score_config") == config
+                and row.get("input_fingerprint") == hashes[qid] and row.get("cache_key") == selected[qid]["cache_key"]
+                and fingerprint(row) == selected[qid].get("row_fingerprint")):
+            matches[qid] = row
+    if set(matches) != set(trace):
+        raise ValueError("No scores match the summary's selected scoring rows; run score before code-errors")
+    return matches, config
+
+
 async def code_errors(args) -> None:
     directory = output_dir(args)
     dataset = selected_dataset(args)
     C = corpus()
     ds = {d["dataset_id"]: d for d in dataset}
+    selected_config = None
     if args.condition == "released_final":
         if custom_dataset(args):
             raise ValueError("released_final belongs to Test A, not a custom dataset")
@@ -431,12 +477,8 @@ async def code_errors(args) -> None:
         rows = read_jsonl(directory / f"{args.condition}.trace.jsonl")
         validate_trace_population({args.condition: rows}, dataset, require_all=custom_dataset(args))
         trace = {r["dataset_id"]: r for r in rows}
-        hashes = {qid: score_input_fingerprint(ds[qid], row, C) for qid, row in trace.items()}
-        latest = {r["dataset_id"]: r for r in read_jsonl(directory / f"{args.condition}.ragas_partial.jsonl")
-                  if r["dataset_id"] in hashes and r.get("input_fingerprint") == hashes[r["dataset_id"]]}
-        if set(latest) != set(trace):
-            raise ValueError("No scores match every current answer/context; run score before code-errors")
-        faith = {qid: r["faithfulness"] for qid, r in latest.items() if finite_score(r.get("faithfulness"))}
+        selected, selected_config = selected_scores_for_coding(args, trace, dataset, C)
+        faith = {qid: r["faithfulness"] for qid, r in selected.items() if finite_score(r.get("faithfulness"))}
     low = sorted(q for q, v in faith.items() if v < args.threshold)
     llm = LLM(args.model, directory / "cache_code_errors.jsonl", temperature=0, concurrency=args.concurrency, dry_run=args.dry_run)
 
@@ -459,6 +501,7 @@ async def code_errors(args) -> None:
     main = Counter(r["main_cause"] for _, r in res)
     claims = Counter(c["cause"] for _, r in res for c in r.get("claims") or [])
     out = {"condition": args.condition, "threshold": args.threshold, "answers": len(low), "coder": args.model,
+           "score_config": selected_config,
            "main_cause": dict(main), "claims_by_cause": dict(claims), "per_answer": {q: r for q, r in res}}
     (directory / f"{args.condition}.error_codes.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps({k: out[k] for k in ("answers", "main_cause", "claims_by_cause")}, ensure_ascii=False, indent=1))

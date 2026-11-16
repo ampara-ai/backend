@@ -4,6 +4,10 @@ This runbook supersedes the scheduling and expert-panel assumptions in the Novem
 execution; it does not establish that the experiments have been completed. H1's earlier local attempt was interrupted
 after base retrieval, with no fine-tuned comparison. Do not pool or silently reuse those partial outputs.
 
+The operational handoff, with staged commands, environments, logs and incomplete-scoring recovery, is available in
+[Spanish GPU execution instructions](instrucciones-experimentos-gpu.md). Real CUDA training and provider execution
+still require validation on the execution host.
+
 ## What is necessary
 
 | Priority | Experiment | Work | Claim it can support |
@@ -55,6 +59,8 @@ bash quantitative_experiments/revision/run_h2.sh --run --stage evaluate --device
 Both arms contain **1,376 rows**, not equal unique-question counts: the released builder yields 1,286 distinct questions
 for matched-full and 1,376 for naive. The comparison changes several protocol components together. It is not an exact
 InPars/Promptagator reproduction or a component ablation. Choose each run's checkpoint using development data only.
+Use the same explicit query prefix for H2 training, development selection and Test A/B retrieval; the wrapper validates
+the frozen training-row prompt and forwards it to both evaluation commands. This does not change the training-data hashes.
 
 Three additional full-data seeds are useful if the paper retains a seed-stability claim. They are separate from H2:
 with those included, the minimal training package is nine runs. Freeze a single tested CUDA training environment and
