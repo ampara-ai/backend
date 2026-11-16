@@ -15,6 +15,7 @@ Uso:
 """
 
 import argparse
+import hashlib
 import json
 import statistics
 import time
@@ -66,12 +67,15 @@ def rerank(rr: Reranker, query: str, ranked: list[str], k: int, texts: dict[str,
     head = ranked[:k]
     t0 = time.perf_counter()
     s = rr.score(query, [texts[c] for c in head])
+    s = np.asarray(s).reshape(-1)
+    if len(s) != len(head) or not np.isfinite(s).all():
+        raise ValueError("reranker returned missing or nonfinite scores")
     secs = time.perf_counter() - t0
     order = sorted(range(len(head)), key=lambda i: (-s[i], head[i]))
     return [head[i] for i in order] + ranked[k:], secs
 
 
-def main() -> None:
+def main(argv=None) -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--model", default="st:BAAI/bge-reranker-v2-m3")
     ap.add_argument("--first-stage", required=True, help="ruta a una corrida JSON o released:<config>")
@@ -84,16 +88,37 @@ def main() -> None:
     ap.add_argument("--max-length", type=int, default=1024, help="1024, como el model service")
     ap.add_argument("--fp32", action="store_true")
     ap.add_argument("--cpu-latency-sample", type=int, default=0)
-    args = ap.parse_args()
+    ap.add_argument("--dry-run", action="store_true", help="validate inputs and print plan; no model loading or writes")
+    args = ap.parse_args(argv)
+    if not args.depths or min(args.depths) < 1 or len(args.depths) != len(set(args.depths)):
+        raise ValueError("depths must be distinct positive integers")
 
     dataset = load_dataset(args.dataset)
     first = released_run(args.first_stage.split(":", 1)[1]) if args.first_stage.startswith("released:") else load_run(Path(args.first_stage))
     texts = {c: d["text"] for c, d in corpus().items()}
     out_dir = args.out_dir or OUT / "runs" / args.dataset.stem
-    out_dir.mkdir(parents=True, exist_ok=True)
     qrels, qids = load_qrels(args.qrels), [d["dataset_id"] for d in dataset]
+    if not qids or len(qids) != len(set(qids)) or set(first) != set(qids) or set(qrels) != set(qids):
+        raise ValueError("dataset, first-stage rankings and qrels must cover the same unique query IDs")
+    for q, ranking in first.items():
+        if not isinstance(ranking, list) or not ranking or any(not isinstance(c, str) for c in ranking):
+            raise ValueError(f"invalid first-stage ranking for {q}")
+        if len(ranking) != len(set(ranking)) or not set(ranking) <= texts.keys():
+            raise ValueError(f"duplicate or unknown chunks in first-stage ranking for {q}")
+    targets = [out_dir / f"{args.name}_k{k}.json" for k in args.depths] + [out_dir / f"{args.name}.meta.json"]
+    if any(p.exists() for p in targets):
+        raise ValueError("reranker output already exists; choose a fresh name/output directory")
+    if args.dry_run:
+        print(json.dumps({"model": args.model, "device": args.device, "depths": args.depths,
+                          "queries": len(qids), "outputs": [str(p) for p in targets]}, indent=2))
+        return
     rr = Reranker(args.model, args.device, args.max_length, fp16=not args.fp32)
-    meta = {"model": args.model, "device": rr.device, "dtype": rr.dtype, "first_stage": args.first_stage, "per_k": {}}
+    out_dir.mkdir(parents=True, exist_ok=True)
+    first_hash = hashlib.sha256(json.dumps(first, sort_keys=True).encode()).hexdigest()
+    meta = {"model": args.model, "device": rr.device, "dtype": rr.dtype, "first_stage": args.first_stage,
+            "first_stage_sha256": first_hash, "max_length": args.max_length,
+            "dataset_sha256": hashlib.sha256(args.dataset.read_bytes()).hexdigest(),
+            "qrels_sha256": hashlib.sha256(args.qrels.read_bytes()).hexdigest(), "per_k": {}}
 
     for k in args.depths:
         run, secs = {}, []
