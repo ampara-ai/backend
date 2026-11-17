@@ -14,6 +14,7 @@ from quantitative_experiments.revision.embed import DenseEncoder
 
 
 PREFIX = "Represent this sentence for searching relevant passages: "
+H2_QUERY_PREFIX = ""   # run_h2.sh trains and evaluates H2 with unprefixed queries (empty row prompt)
 
 
 @pytest.mark.parametrize("prefix", ["", PREFIX])
@@ -100,4 +101,4 @@ def test_h2_preview_uses_identical_prefix_for_every_dev_and_test_call():
                 if line.startswith("+") and any(module in line for module in
                     ("revision.select_checkpoint", "revision.local_retrieval"))]
     assert len(commands) == 18
-    assert all(command[command.index("--query-prefix") + 1] == PREFIX for command in commands)
+    assert all(command[command.index("--query-prefix") + 1] == H2_QUERY_PREFIX for command in commands)

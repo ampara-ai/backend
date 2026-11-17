@@ -128,7 +128,7 @@ bash quantitative_experiments/revision/run_h2.sh --run --stage train \
   2>&1 | tee "$EXP_ROOT/logs/h2_train.log"
 ```
 
-Se mantienen los 1,376 registros de cada brazo y sus hashes congelados. Ambos usan el prefijo de consulta de entrenamiento `Represent this sentence for searching relevant passages: ` también durante selección en dev y evaluación A/B. El wrapper valida ese prefijo; no editar los datos para quitarlo. Las seis semillas comparten configuración y entorno; no seleccionar checkpoint mirando Test A/B.
+Se mantienen los 1,376 registros de cada brazo y sus hashes congelados (regenerados al fijar el campo `prompt` vacío). Ninguna consulta lleva prefijo, ni en entrenamiento ni en selección en dev ni en evaluación A/B, igual que en el sistema desplegado. El wrapper valida ese campo; no editar los datos. Las seis semillas comparten configuración y entorno; no seleccionar checkpoint mirando Test A/B.
 
 Activar después el entorno de evaluación. Se puede copiar toda la carpeta H2 a otro equipo y redefinir allí `H2_OUT_DIR`/`AMPARA_DATA_REPO`; conservar `training_data`, todos los checkpoints y los archivos de procedencia. Para evaluar en Mac, sustituir `cuda` por `mps`; para CPU, por `cpu`:
 

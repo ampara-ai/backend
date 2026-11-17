@@ -11,9 +11,9 @@ MODE=dry-run
 MODE_SET=false
 STAGE=all
 DEVICE=auto
-# FlagEmbedding SameDataset consumes each row's prompt, even without a CLI instruction.
-# Freeze that exact prefix (including its trailing space) for development and test inference.
-QUERY_PREFIX='Represent this sentence for searching relevant passages: '
+# FlagEmbedding SameDataset builds each training query as "{row prompt}{query}", even without a CLI instruction.
+# H2 training rows carry an EMPTY prompt, so queries are trained and evaluated unprefixed, as in the deployed system.
+QUERY_PREFIX=''
 
 usage() {
   cat <<'EOF'
@@ -159,8 +159,8 @@ report = json.loads((root / "build_report.json").read_text())
 if report["rows"] != 1376 or report["seed"] != 520 or report["n_neg"] != 10:
     raise SystemExit("Training dataset differs from the frozen H2 design")
 expected = {
-    "training_naive.json": "0f8afe1e0fba94a81f3cd870a8d9dfda711c5162f773101985b18f387b68ebdb",
-    "training_full_matched.json": "233e553ebb1352a4e11d2b5e4e558067d7066a0c984888a39d4eb9c54ac24ff4",
+    "training_naive.json": "da592f14d196e0d25f682ced9b71511f77cc891e8704386757dbc03863c974f0",
+    "training_full_matched.json": "69cfa3d702aa983544385e1e5f48df4061f551064acaa7c6ef17bc560aa80702",
 }
 for name, digest in expected.items():
     if hashlib.sha256((root / name).read_bytes()).hexdigest() != digest:
@@ -193,8 +193,8 @@ from pathlib import Path
 data, runs = map(Path, sys.argv[1:3])
 bases, environments = set(), set()
 expected_data = {
-    "naive": "0f8afe1e0fba94a81f3cd870a8d9dfda711c5162f773101985b18f387b68ebdb",
-    "full_matched": "233e553ebb1352a4e11d2b5e4e558067d7066a0c984888a39d4eb9c54ac24ff4",
+    "naive": "da592f14d196e0d25f682ced9b71511f77cc891e8704386757dbc03863c974f0",
+    "full_matched": "69cfa3d702aa983544385e1e5f48df4061f551064acaa7c6ef17bc560aa80702",
 }
 for arm in ("full_matched", "naive"):
     digest = hashlib.sha256((data / f"training_{arm}.json").read_bytes()).hexdigest()
