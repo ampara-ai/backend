@@ -1,0 +1,9 @@
+# Install the PyTorch build appropriate for the target CUDA / macOS / CPU host first.
+# The remaining versions match the environment used to prepare the H1 launcher.
+torch>=2.6,<3
+numpy==1.26.4
+python-dotenv==1.0.1
+huggingface-hub==0.36.0
+safetensors==0.7.0
+sentence-transformers==5.5.1
+transformers==4.46.2

@@ -15,6 +15,7 @@ Uso:
 """
 
 import argparse
+import hashlib
 import json
 from pathlib import Path
 
@@ -122,7 +123,12 @@ def main() -> None:
         lines.append("")
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text("\n".join(lines), encoding="utf-8")
-    args.out.with_suffix(".json").write_text(json.dumps({"results": result, "holm": adjusted}, indent=1), encoding="utf-8")
+    provenance = {"dataset": str(args.dataset), "qrels": str(args.qrels), "reference": args.reference,
+                  "questions": len(qids), "resamples": args.resamples,
+                  "dataset_sha256": hashlib.sha256(args.dataset.read_bytes()).hexdigest(),
+                  "qrels_sha256": hashlib.sha256(args.qrels.read_bytes()).hexdigest(),
+                  "systems": args.system}
+    args.out.with_suffix(".json").write_text(json.dumps({"results": result, "holm": adjusted, "provenance": provenance}, indent=1), encoding="utf-8")
     print("\n".join(lines))
 
 
