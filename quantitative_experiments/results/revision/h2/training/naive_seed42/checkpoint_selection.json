@@ -1,0 +1,48 @@
+{
+ "rows": [
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-85",
+   "ndcg@10": 0.4668241897809294,
+   "recall@10": 0.6384615384615384,
+   "recall@1": 0.3230769230769231
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-170",
+   "ndcg@10": 0.5048478366181853,
+   "recall@10": 0.6538461538461539,
+   "recall@1": 0.36923076923076925
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-255",
+   "ndcg@10": 0.5124980434822312,
+   "recall@10": 0.7,
+   "recall@1": 0.34615384615384615
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-340",
+   "ndcg@10": 0.5080489788711505,
+   "recall@10": 0.7,
+   "recall@1": 0.3384615384615385
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-425",
+   "ndcg@10": 0.516278340642899,
+   "recall@10": 0.6846153846153846,
+   "recall@1": 0.36153846153846153
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-430",
+   "ndcg@10": 0.516278340642899,
+   "recall@10": 0.6846153846153846,
+   "recall@1": 0.36153846153846153
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed42",
+   "ndcg@10": 0.516278340642899,
+   "recall@10": 0.6846153846153846,
+   "recall@1": 0.36153846153846153
+  }
+ ],
+ "selected": "cls:/Volumes/external/h2_run/training/naive_seed42/checkpoint-425",
+ "query_prefix": ""
+}

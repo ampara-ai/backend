@@ -1,0 +1,48 @@
+{
+ "rows": [
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-85",
+   "ndcg@10": 0.44783466321730536,
+   "recall@10": 0.6076923076923076,
+   "recall@1": 0.3
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-170",
+   "ndcg@10": 0.5054236227931647,
+   "recall@10": 0.6846153846153846,
+   "recall@1": 0.34615384615384615
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-255",
+   "ndcg@10": 0.49628505236838616,
+   "recall@10": 0.676923076923077,
+   "recall@1": 0.33076923076923076
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-340",
+   "ndcg@10": 0.4992266920529307,
+   "recall@10": 0.6923076923076923,
+   "recall@1": 0.33076923076923076
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-425",
+   "ndcg@10": 0.49116815820277615,
+   "recall@10": 0.6692307692307692,
+   "recall@1": 0.3230769230769231
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-430",
+   "ndcg@10": 0.49105712065568574,
+   "recall@10": 0.6692307692307692,
+   "recall@1": 0.3230769230769231
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/naive_seed1",
+   "ndcg@10": 0.49105712065568574,
+   "recall@10": 0.6692307692307692,
+   "recall@1": 0.3230769230769231
+  }
+ ],
+ "selected": "cls:/Volumes/external/h2_run/training/naive_seed1/checkpoint-170",
+ "query_prefix": ""
+}

@@ -1,0 +1,35 @@
+{
+ "seed": 520,
+ "rows": 1376,
+ "n_neg": 10,
+ "query_prompt": "",
+ "naive": {
+  "questions": 1376,
+  "distinct_positives": 485,
+  "positive_source_types": {
+   "tipo_01_ley_30364": 153,
+   "tipo_02_codigo_penal": 211,
+   "tipo_03_codigo_procesal_penal": 534,
+   "tipo_04_jurisprudencia": 472,
+   "tipo_05_documentos_institucionales": 6
+  }
+ },
+ "full_matched": {
+  "from": "dataset_v2/training.json",
+  "full_rows": 2057,
+  "origin": {
+   "case": 417,
+   "chunk": 959
+  }
+ },
+ "inputs_sha256": {
+  "corpus": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0",
+  "chunk_split": "7f5e3854b67d26b3c1561326baeda76081386bb7e1b452e756cbb0324b1e0f59",
+  "chunk_questions_train": "b0133d05271f20da4d2f5ce5deba5e9360ce33a49b92fe77416c3801d2cc212a",
+  "training": "c9b9a95f9bcb879a4f53ed2a3c1915c56803b0485d1e93cbb287d2efad5b22f8"
+ },
+ "outputs_sha256": {
+  "training_naive.json": "da592f14d196e0d25f682ced9b71511f77cc891e8704386757dbc03863c974f0",
+  "training_full_matched.json": "69cfa3d702aa983544385e1e5f48df4061f551064acaa7c6ef17bc560aa80702"
+ }
+}

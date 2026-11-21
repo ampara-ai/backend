@@ -1,0 +1,36 @@
+{
+ "results": {
+  "ndcg@10": {
+   "naive": {
+    "seeds": 3,
+    "mean": 0.5722710499089227,
+    "seed_sd": 0.01776721852247042
+   },
+   "full_matched": {
+    "seeds": 3,
+    "mean": 0.50492287382533,
+    "seed_sd": 0.05347908109191881,
+    "diff": -0.06734817608359278,
+    "ci": [
+     -0.1357174578580075,
+     -0.009421536626230274
+    ],
+    "p_boot": 0.0214
+   }
+  }
+ },
+ "holm": {},
+ "provenance": {
+  "dataset": "/Users/renato/universidad/tp/backend/quantitative_experiments/test_set/eval_test_dataset.jsonl",
+  "qrels": "/Users/renato/universidad/tp/backend/quantitative_experiments/test_set/eval_test_qrels.jsonl",
+  "reference": "naive",
+  "questions": 198,
+  "resamples": 10000,
+  "dataset_sha256": "2f91f07eae938f38eef008b4a2764d21609d4208578c99013e454b88692aef73",
+  "qrels_sha256": "fa3fea73403ad9cf91000190c037d92628a86d2856686ab3d97098de8bcde2ff",
+  "systems": [
+   "naive=/Volumes/external/h2_run/evaluation/runs/test_a/naive_seed42.json,/Volumes/external/h2_run/evaluation/runs/test_a/naive_seed1.json,/Volumes/external/h2_run/evaluation/runs/test_a/naive_seed2.json",
+   "full_matched=/Volumes/external/h2_run/evaluation/runs/test_a/full_matched_seed42.json,/Volumes/external/h2_run/evaluation/runs/test_a/full_matched_seed1.json,/Volumes/external/h2_run/evaluation/runs/test_a/full_matched_seed2.json"
+  ]
+ }
+}

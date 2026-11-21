@@ -1,0 +1,48 @@
+{
+ "rows": [
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-85",
+   "ndcg@10": 0.30782522372674653,
+   "recall@10": 0.4153846153846154,
+   "recall@1": 0.2153846153846154
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-170",
+   "ndcg@10": 0.3544923875703893,
+   "recall@10": 0.5,
+   "recall@1": 0.23076923076923078
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-255",
+   "ndcg@10": 0.36542609563720596,
+   "recall@10": 0.5230769230769231,
+   "recall@1": 0.2230769230769231
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-340",
+   "ndcg@10": 0.3716429918853512,
+   "recall@10": 0.5230769230769231,
+   "recall@1": 0.2230769230769231
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-425",
+   "ndcg@10": 0.3880868909562037,
+   "recall@10": 0.5538461538461539,
+   "recall@1": 0.25384615384615383
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-430",
+   "ndcg@10": 0.3859870485256048,
+   "recall@10": 0.5538461538461539,
+   "recall@1": 0.24615384615384617
+  },
+  {
+   "model": "cls:/Volumes/external/h2_run/training/full_matched_seed1",
+   "ndcg@10": 0.3859870485256048,
+   "recall@10": 0.5538461538461539,
+   "recall@1": 0.24615384615384617
+  }
+ ],
+ "selected": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-425",
+ "query_prefix": ""
+}

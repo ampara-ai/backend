@@ -1,0 +1,26 @@
+{
+ "name": "full_matched_seed1",
+ "spec": "cls:/Volumes/external/h2_run/training/full_matched_seed1/checkpoint-425",
+ "kind": "dense",
+ "device": "mps",
+ "dtype": "fp16",
+ "max_length": 2048,
+ "n_params": 567754752,
+ "prompts": {
+  "query": "",
+  "document": ""
+ },
+ "dataset": "/Users/renato/universidad/tp/backend/quantitative_experiments/results/revision/test_b/eval_test_b_dataset.jsonl",
+ "query_field": "query",
+ "query_prefix": "",
+ "depth": 100,
+ "search": "exact",
+ "corpus_sha256": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0",
+ "seconds": {
+  "corpus_encode": 0.0,
+  "queries_encode": 2.9399151660036296,
+  "search": 0.02678554196609184
+ },
+ "latency": null,
+ "created_at": "2026-11-19T14:02:27"
+}

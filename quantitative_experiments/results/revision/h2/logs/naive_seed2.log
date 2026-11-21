@@ -1,0 +1,276 @@
+Registros: 1376 | pasos/época: 86 | total: 430 | warmup: 43 | checkpoint cada 85
+11/18/2026 03:43:43 - WARNING - FlagEmbedding.abc.finetune.embedder.AbsRunner -   Process rank: -1, device: cuda:0, n_gpu: 1, distributed training: False, 16-bits training: True
+11/18/2026 03:43:43 - INFO - FlagEmbedding.abc.finetune.embedder.AbsRunner -   Training/evaluation parameters EncoderOnlyEmbedderM3TrainingArguments(
+accelerator_config={'split_batches': False, 'dispatch_batches': None, 'even_batches': True, 'use_seedable_sampler': True, 'non_blocking': False, 'gradient_accumulation_kwargs': None, 'use_configured_state': False},
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+auto_find_batch_size=False,
+average_tokens_across_devices=True,
+batch_eval_metrics=False,
+bf16=False,
+bf16_full_eval=False,
+data_seed=None,
+dataloader_drop_last=True,
+dataloader_in_order=True,
+dataloader_multiprocessing_context=None,
+dataloader_num_workers=0,
+dataloader_persistent_workers=False,
+dataloader_pin_memory=True,
+dataloader_prefetch_factor=None,
+ddp_backend=None,
+ddp_broadcast_buffers=None,
+ddp_bucket_cap_mb=None,
+ddp_find_unused_parameters=None,
+ddp_static_graph=None,
+ddp_timeout=1800,
+debug=[],
+deepspeed=/content/h2/data/entrenamiento/v2/ds_config_zero0.json,
+disable_tqdm=False,
+do_eval=False,
+do_predict=False,
+do_train=False,
+enable_jit_checkpoint=False,
+eval_accumulation_steps=None,
+eval_delay=0,
+eval_do_concat_batches=True,
+eval_on_start=False,
+eval_steps=None,
+eval_strategy=IntervalStrategy.NO,
+eval_use_gather_object=False,
+fix_encoder=False,
+fix_position_embedding=False,
+fp16=True,
+fp16_full_eval=False,
+fsdp=None,
+fsdp_config=None,
+full_determinism=False,
+gradient_accumulation_steps=16,
+gradient_checkpointing=True,
+gradient_checkpointing_kwargs=None,
+greater_is_better=None,
+hub_always_push=False,
+hub_model_id=None,
+hub_private_repo=None,
+hub_revision=None,
+hub_strategy=HubStrategy.EVERY_SAVE,
+hub_token=<HUB_TOKEN>,
+ignore_data_skip=False,
+include_for_metrics=[],
+include_num_input_tokens_seen=no,
+kd_loss_type=kl_div,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=5e-06,
+length_column_name=length,
+liger_kernel_config=None,
+load_best_model_at_end=False,
+local_rank=-1,
+log_level=passive,
+log_level_replica=warning,
+log_on_each_node=True,
+logging_first_step=False,
+logging_nan_inf_filter=True,
+logging_steps=10,
+logging_strategy=IntervalStrategy.STEPS,
+lr_scheduler_kwargs=None,
+lr_scheduler_type=SchedulerType.LINEAR,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mrl_dims=[],
+neftune_noise_alpha=None,
+negatives_cross_device=True,
+normalize_embeddings=True,
+num_train_epochs=5.0,
+optim=OptimizerNames.ADAMW_TORCH_FUSED,
+optim_args=None,
+optim_target_modules=None,
+output_dir=/content/h2/training/naive_seed2,
+parallelism_config=None,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=1,
+prediction_loss_only=False,
+project=huggingface,
+push_to_hub=False,
+remove_unused_columns=True,
+report_to=[],
+restore_callback_states_from_checkpoint=False,
+resume_from_checkpoint=None,
+run_name=None,
+save_on_each_node=False,
+save_only_model=False,
+save_steps=85,
+save_strategy=SaveStrategy.STEPS,
+save_total_limit=None,
+seed=2,
+self_distill_start_step=43,
+sentence_pooling_method=cls,
+skip_memory_metrics=True,
+sub_batch_size=None,
+temperature=0.05,
+tf32=None,
+torch_compile=False,
+torch_compile_backend=None,
+torch_compile_mode=None,
+torch_empty_cache_steps=None,
+trackio_bucket_id=None,
+trackio_space_id=None,
+trackio_static_space_id=None,
+train_sampling_strategy=random,
+unified_finetuning=False,
+use_cache=False,
+use_cpu=False,
+use_liger_kernel=False,
+use_mrl=False,
+use_self_distill=False,
+warmup_steps=43.0,
+weight_decay=0.0,
+)
+11/18/2026 03:43:43 - INFO - FlagEmbedding.abc.finetune.embedder.AbsRunner -   Model parameters EncoderOnlyEmbedderM3ModelArguments(model_name_or_path='/content/h2/bge-m3', config_name=None, tokenizer_name=None, cache_dir='/content/h2/training/naive_seed2/.cache/model', trust_remote_code=False, use_fast_tokenizer=True, token=None, colbert_dim=-1)
+11/18/2026 03:43:43 - INFO - FlagEmbedding.abc.finetune.embedder.AbsRunner -   Data parameters AbsEmbedderDataArguments(train_data=['/content/h2/training_data/training_naive.json'], cache_path='/content/h2/training/naive_seed2/.cache/data', train_group_size=9, query_max_len=2048, passage_max_len=2048, pad_to_multiple_of=8, max_example_num_per_dataset=100000000, query_instruction_for_retrieval=None, query_instruction_format='{}{}', knowledge_distillation=False, passage_instruction_for_retrieval=None, passage_instruction_format='{}{}', shuffle_ratio=0.0, same_dataset_within_batch=True, small_threshold=0, drop_threshold=0)
+11/18/2026 03:43:46 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.runner -   Config: XLMRobertaConfig {
+  "add_cross_attention": false,
+  "architectures": [
+    "XLMRobertaModel"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "dtype": "float32",
+  "eos_token_id": 2,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 1024,
+  "id2label": {
+    "0": "LABEL_0"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "is_decoder": false,
+  "label2id": {
+    "LABEL_0": 0
+  },
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 8194,
+  "model_type": "xlm-roberta",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_past": true,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "tie_word_embeddings": true,
+  "transformers_version": "5.22.1",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 250002
+}
+
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 16071.23it/s]
+11/18/2026 03:43:46 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.runner -   loading existing colbert_linear and sparse_linear---------
+11/18/2026 03:43:46 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   loading data from /content/h2/training_data/training_naive.json ...
+11/18/2026 03:43:47 - INFO - httpx -   HTTP Request: HEAD https://s3.amazonaws.com/datasets.huggingface.co/datasets/datasets/json/json.py "HTTP/1.1 200 OK"
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 1264 examples [00:00, 9418.96 examples/s]Generating train split: 1376 examples [00:00, 9445.42 examples/s]
+11/18/2026 03:43:47 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   -- Rank 0: refresh data --
+11/18/2026 03:43:48 - WARNING - accelerate.accelerator -   [RANK 0] Gradient accumulation steps mismatch: GradientAccumulationPlugin has 1, DeepSpeed config has 16. Using DeepSpeed's value.
+  0%|          | 0/430 [00:00<?, ?it/s]/usr/local/lib/python3.13/dist-packages/transformers/tokenization_utils_base.py:2387: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+  0%|          | 1/430 [00:10<1:14:17, 10.39s/it]  0%|          | 2/430 [00:20<1:12:25, 10.15s/it]  1%|          | 3/430 [00:31<1:15:39, 10.63s/it]  1%|          | 4/430 [00:41<1:13:50, 10.40s/it]  1%|          | 5/430 [00:52<1:14:34, 10.53s/it]  1%|▏         | 6/430 [01:02<1:13:35, 10.41s/it]  2%|▏         | 7/430 [01:12<1:11:41, 10.17s/it]  2%|▏         | 8/430 [01:22<1:11:12, 10.12s/it]  2%|▏         | 9/430 [01:31<1:09:32,  9.91s/it]  2%|▏         | 10/430 [01:42<1:10:40, 10.10s/it]                                                  {'loss': '0.8559', 'grad_norm': '29.86', 'learning_rate': '1.047e-06', 'epoch': '0.1163'}
+  2%|▏         | 10/430 [01:42<1:10:40, 10.10s/it]  3%|▎         | 11/430 [01:52<1:11:15, 10.20s/it]  3%|▎         | 12/430 [02:05<1:16:01, 10.91s/it]  3%|▎         | 13/430 [02:15<1:15:00, 10.79s/it]  3%|▎         | 14/430 [02:27<1:16:00, 10.96s/it]  3%|▎         | 15/430 [02:37<1:15:04, 10.86s/it]  4%|▎         | 16/430 [02:48<1:14:51, 10.85s/it]  4%|▍         | 17/430 [02:58<1:13:06, 10.62s/it]  4%|▍         | 18/430 [03:08<1:10:31, 10.27s/it]  4%|▍         | 19/430 [03:20<1:15:46, 11.06s/it]  5%|▍         | 20/430 [03:31<1:13:51, 10.81s/it]                                                  {'loss': '0.8942', 'grad_norm': '19.89', 'learning_rate': '2.209e-06', 'epoch': '0.2326'}
+  5%|▍         | 20/430 [03:31<1:13:51, 10.81s/it]  5%|▍         | 21/430 [03:42<1:14:03, 10.87s/it]  5%|▌         | 22/430 [03:51<1:11:05, 10.45s/it]  5%|▌         | 23/430 [04:01<1:10:01, 10.32s/it]  6%|▌         | 24/430 [04:12<1:10:42, 10.45s/it]  6%|▌         | 25/430 [04:22<1:10:03, 10.38s/it]  6%|▌         | 26/430 [04:34<1:13:37, 10.93s/it]  6%|▋         | 27/430 [04:45<1:13:12, 10.90s/it]  7%|▋         | 28/430 [04:56<1:12:36, 10.84s/it]  7%|▋         | 29/430 [05:08<1:14:01, 11.07s/it]  7%|▋         | 30/430 [05:19<1:15:21, 11.30s/it]                                                  {'loss': '0.9154', 'grad_norm': '23.31', 'learning_rate': '3.372e-06', 'epoch': '0.3488'}
+  7%|▋         | 30/430 [05:19<1:15:21, 11.30s/it]  7%|▋         | 31/430 [05:31<1:15:20, 11.33s/it]  7%|▋         | 32/430 [05:42<1:14:44, 11.27s/it]  8%|▊         | 33/430 [05:54<1:15:47, 11.45s/it]  8%|▊         | 34/430 [06:05<1:14:42, 11.32s/it]  8%|▊         | 35/430 [06:16<1:14:21, 11.29s/it]  8%|▊         | 36/430 [06:27<1:14:18, 11.32s/it]  9%|▊         | 37/430 [06:38<1:12:42, 11.10s/it]  9%|▉         | 38/430 [06:49<1:11:29, 10.94s/it]  9%|▉         | 39/430 [06:58<1:07:50, 10.41s/it]  9%|▉         | 40/430 [07:08<1:07:26, 10.38s/it]                                                  {'loss': '0.8322', 'grad_norm': '35.35', 'learning_rate': '4.535e-06', 'epoch': '0.4651'}
+  9%|▉         | 40/430 [07:08<1:07:26, 10.38s/it] 10%|▉         | 41/430 [07:18<1:06:40, 10.28s/it] 10%|▉         | 42/430 [07:29<1:08:29, 10.59s/it] 10%|█         | 43/430 [07:40<1:09:03, 10.71s/it] 10%|█         | 44/430 [07:52<1:10:41, 10.99s/it] 10%|█         | 45/430 [08:04<1:12:41, 11.33s/it] 11%|█         | 46/430 [08:15<1:11:50, 11.22s/it] 11%|█         | 47/430 [08:27<1:12:31, 11.36s/it] 11%|█         | 48/430 [08:37<1:09:54, 10.98s/it] 11%|█▏        | 49/430 [08:48<1:09:29, 10.94s/it] 12%|█▏        | 50/430 [08:58<1:08:40, 10.84s/it]                                                  {'loss': '0.8068', 'grad_norm': '60.67', 'learning_rate': '4.922e-06', 'epoch': '0.5814'}
+ 12%|█▏        | 50/430 [08:58<1:08:40, 10.84s/it] 12%|█▏        | 51/430 [09:09<1:08:56, 10.91s/it] 12%|█▏        | 52/430 [09:19<1:06:30, 10.56s/it] 12%|█▏        | 53/430 [09:30<1:07:46, 10.79s/it] 13%|█▎        | 54/430 [09:41<1:07:44, 10.81s/it] 13%|█▎        | 55/430 [09:53<1:09:28, 11.12s/it] 13%|█▎        | 56/430 [10:05<1:10:10, 11.26s/it] 13%|█▎        | 57/430 [10:15<1:08:25, 11.01s/it] 13%|█▎        | 58/430 [10:26<1:07:46, 10.93s/it] 14%|█▎        | 59/430 [10:37<1:07:44, 10.96s/it] 14%|█▍        | 60/430 [10:47<1:05:52, 10.68s/it]                                                  {'loss': '0.7133', 'grad_norm': '31.26', 'learning_rate': '4.793e-06', 'epoch': '0.6977'}
+ 14%|█▍        | 60/430 [10:47<1:05:52, 10.68s/it] 14%|█▍        | 61/430 [10:57<1:04:48, 10.54s/it] 14%|█▍        | 62/430 [11:07<1:02:54, 10.26s/it] 15%|█▍        | 63/430 [11:16<1:01:41, 10.09s/it] 15%|█▍        | 64/430 [11:28<1:04:38, 10.60s/it] 15%|█▌        | 65/430 [11:38<1:03:44, 10.48s/it] 15%|█▌        | 66/430 [11:49<1:03:08, 10.41s/it] 16%|█▌        | 67/430 [11:59<1:02:58, 10.41s/it] 16%|█▌        | 68/430 [12:08<1:00:07,  9.97s/it] 16%|█▌        | 69/430 [12:19<1:01:51, 10.28s/it] 16%|█▋        | 70/430 [12:29<1:01:15, 10.21s/it]                                                  {'loss': '0.6658', 'grad_norm': '38.34', 'learning_rate': '4.664e-06', 'epoch': '0.814'}
+ 16%|█▋        | 70/430 [12:29<1:01:15, 10.21s/it] 17%|█▋        | 71/430 [12:39<1:01:18, 10.25s/it] 17%|█▋        | 72/430 [12:50<1:02:02, 10.40s/it] 17%|█▋        | 73/430 [13:02<1:04:55, 10.91s/it] 17%|█▋        | 74/430 [13:13<1:03:42, 10.74s/it] 17%|█▋        | 75/430 [13:24<1:04:02, 10.82s/it] 18%|█▊        | 76/430 [13:34<1:02:22, 10.57s/it] 18%|█▊        | 77/430 [13:45<1:03:35, 10.81s/it] 18%|█▊        | 78/430 [13:56<1:02:56, 10.73s/it] 18%|█▊        | 79/430 [14:06<1:02:38, 10.71s/it] 19%|█▊        | 80/430 [14:18<1:03:57, 10.97s/it]                                                  {'loss': '0.7589', 'grad_norm': '52.34', 'learning_rate': '4.535e-06', 'epoch': '0.9302'}
+ 19%|█▊        | 80/430 [14:18<1:03:57, 10.97s/it] 19%|█▉        | 81/430 [14:27<1:01:26, 10.56s/it] 19%|█▉        | 82/430 [14:38<1:00:31, 10.44s/it] 19%|█▉        | 83/430 [14:48<1:00:50, 10.52s/it] 20%|█▉        | 84/430 [14:59<1:01:51, 10.73s/it] 20%|█▉        | 85/430 [15:10<1:01:10, 10.64s/it]11/18/2026 03:59:12 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2/checkpoint-85
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s][A
+Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.02s/it][AWriting model shards: 100%|██████████| 1/1 [00:03<00:00,  3.02s/it]
+/usr/local/lib/python3.13/dist-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.13/dist-packages/transformers/tokenization_utils_base.py:2387: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+ 20%|██        | 86/430 [15:49<1:49:14, 19.05s/it]11/18/2026 03:59:47 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   -- Rank 0: refresh data --
+ 20%|██        | 87/430 [16:00<1:35:38, 16.73s/it] 20%|██        | 88/430 [16:11<1:25:39, 15.03s/it] 21%|██        | 89/430 [16:21<1:17:00, 13.55s/it] 21%|██        | 90/430 [16:31<1:10:31, 12.45s/it]                                                  {'loss': '0.7473', 'grad_norm': '61.62', 'learning_rate': '4.406e-06', 'epoch': '1.047'}
+ 21%|██        | 90/430 [16:31<1:10:31, 12.45s/it] 21%|██        | 91/430 [16:41<1:05:28, 11.59s/it] 21%|██▏       | 92/430 [16:51<1:04:05, 11.38s/it] 22%|██▏       | 93/430 [17:02<1:03:13, 11.26s/it] 22%|██▏       | 94/430 [17:13<1:02:37, 11.18s/it] 22%|██▏       | 95/430 [17:25<1:02:30, 11.20s/it] 22%|██▏       | 96/430 [17:35<1:01:38, 11.07s/it] 23%|██▎       | 97/430 [17:46<59:58, 10.81s/it]   23%|██▎       | 98/430 [17:56<59:43, 10.80s/it] 23%|██▎       | 99/430 [18:06<58:08, 10.54s/it] 23%|██▎       | 100/430 [18:18<59:58, 10.91s/it]                                                 {'loss': '0.5123', 'grad_norm': '86.86', 'learning_rate': '4.276e-06', 'epoch': '1.163'}
+ 23%|██▎       | 100/430 [18:18<59:58, 10.91s/it] 23%|██▎       | 101/430 [18:28<58:30, 10.67s/it] 24%|██▎       | 102/430 [18:39<58:02, 10.62s/it] 24%|██▍       | 103/430 [18:49<57:44, 10.60s/it] 24%|██▍       | 104/430 [18:59<56:17, 10.36s/it] 24%|██▍       | 105/430 [19:10<56:28, 10.43s/it] 25%|██▍       | 106/430 [19:22<58:45, 10.88s/it] 25%|██▍       | 107/430 [19:33<58:46, 10.92s/it] 25%|██▌       | 108/430 [19:42<56:23, 10.51s/it] 25%|██▌       | 109/430 [19:53<56:26, 10.55s/it] 26%|██▌       | 110/430 [20:03<55:48, 10.47s/it]                                                 {'loss': '0.4911', 'grad_norm': '34.65', 'learning_rate': '4.147e-06', 'epoch': '1.279'}
+ 26%|██▌       | 110/430 [20:03<55:48, 10.47s/it] 26%|██▌       | 111/430 [20:13<54:39, 10.28s/it] 26%|██▌       | 112/430 [20:22<52:44,  9.95s/it] 26%|██▋       | 113/430 [20:33<53:35, 10.14s/it] 27%|██▋       | 114/430 [20:43<54:20, 10.32s/it] 27%|██▋       | 115/430 [20:55<55:55, 10.65s/it] 27%|██▋       | 116/430 [21:05<55:42, 10.64s/it] 27%|██▋       | 117/430 [21:16<55:11, 10.58s/it] 27%|██▋       | 118/430 [21:28<56:59, 10.96s/it] 28%|██▊       | 119/430 [21:40<58:21, 11.26s/it] 28%|██▊       | 120/430 [21:50<57:22, 11.10s/it]                                                 {'loss': '0.4705', 'grad_norm': '46.61', 'learning_rate': '4.018e-06', 'epoch': '1.395'}
+ 28%|██▊       | 120/430 [21:50<57:22, 11.10s/it] 28%|██▊       | 121/430 [22:01<56:33, 10.98s/it] 28%|██▊       | 122/430 [22:11<55:28, 10.81s/it] 29%|██▊       | 123/430 [22:22<55:08, 10.78s/it] 29%|██▉       | 124/430 [22:33<54:44, 10.74s/it] 29%|██▉       | 125/430 [22:44<55:46, 10.97s/it] 29%|██▉       | 126/430 [22:55<54:49, 10.82s/it] 30%|██▉       | 127/430 [23:05<54:06, 10.71s/it] 30%|██▉       | 128/430 [23:18<56:31, 11.23s/it] 30%|███       | 129/430 [23:29<56:11, 11.20s/it] 30%|███       | 130/430 [23:39<54:08, 10.83s/it]                                                 {'loss': '0.5152', 'grad_norm': '31.09', 'learning_rate': '3.889e-06', 'epoch': '1.512'}
+ 30%|███       | 130/430 [23:39<54:08, 10.83s/it] 30%|███       | 131/430 [23:50<53:45, 10.79s/it] 31%|███       | 132/430 [24:01<53:59, 10.87s/it] 31%|███       | 133/430 [24:11<53:26, 10.80s/it] 31%|███       | 134/430 [24:22<52:34, 10.66s/it] 31%|███▏      | 135/430 [24:33<53:26, 10.87s/it] 32%|███▏      | 136/430 [24:44<53:00, 10.82s/it] 32%|███▏      | 137/430 [24:55<53:28, 10.95s/it] 32%|███▏      | 138/430 [25:05<52:00, 10.69s/it] 32%|███▏      | 139/430 [25:16<51:57, 10.71s/it] 33%|███▎      | 140/430 [25:28<53:29, 11.07s/it]                                                 {'loss': '0.4818', 'grad_norm': '29.16', 'learning_rate': '3.76e-06', 'epoch': '1.628'}
+ 33%|███▎      | 140/430 [25:28<53:29, 11.07s/it] 33%|███▎      | 141/430 [25:38<52:09, 10.83s/it] 33%|███▎      | 142/430 [25:48<51:17, 10.69s/it] 33%|███▎      | 143/430 [25:59<51:18, 10.73s/it] 33%|███▎      | 144/430 [26:11<52:12, 10.95s/it] 34%|███▎      | 145/430 [26:23<53:38, 11.29s/it] 34%|███▍      | 146/430 [26:34<53:48, 11.37s/it] 34%|███▍      | 147/430 [26:45<52:53, 11.21s/it] 34%|███▍      | 148/430 [26:55<50:23, 10.72s/it] 35%|███▍      | 149/430 [27:07<52:27, 11.20s/it] 35%|███▍      | 150/430 [27:17<50:53, 10.91s/it]                                                 {'loss': '0.409', 'grad_norm': '52.06', 'learning_rate': '3.63e-06', 'epoch': '1.744'}
+ 35%|███▍      | 150/430 [27:17<50:53, 10.91s/it] 35%|███▌      | 151/430 [27:27<48:51, 10.51s/it] 35%|███▌      | 152/430 [27:39<50:58, 11.00s/it] 36%|███▌      | 153/430 [27:49<49:43, 10.77s/it] 36%|███▌      | 154/430 [28:00<49:08, 10.68s/it] 36%|███▌      | 155/430 [28:11<50:11, 10.95s/it] 36%|███▋      | 156/430 [28:22<49:28, 10.83s/it] 37%|███▋      | 157/430 [28:32<48:59, 10.77s/it] 37%|███▋      | 158/430 [28:43<49:12, 10.85s/it] 37%|███▋      | 159/430 [28:54<48:56, 10.84s/it] 37%|███▋      | 160/430 [29:04<47:29, 10.56s/it]                                                 {'loss': '0.4128', 'grad_norm': '29.9', 'learning_rate': '3.501e-06', 'epoch': '1.86'}
+ 37%|███▋      | 160/430 [29:04<47:29, 10.56s/it] 37%|███▋      | 161/430 [29:14<46:50, 10.45s/it] 38%|███▊      | 162/430 [29:25<46:36, 10.44s/it] 38%|███▊      | 163/430 [29:35<46:22, 10.42s/it] 38%|███▊      | 164/430 [29:45<46:00, 10.38s/it] 38%|███▊      | 165/430 [29:55<44:56, 10.18s/it] 39%|███▊      | 166/430 [30:05<44:29, 10.11s/it] 39%|███▉      | 167/430 [30:16<45:23, 10.35s/it] 39%|███▉      | 168/430 [30:26<44:50, 10.27s/it] 39%|███▉      | 169/430 [30:36<44:47, 10.30s/it] 40%|███▉      | 170/430 [30:47<44:37, 10.30s/it]                                                 {'loss': '0.4043', 'grad_norm': '34.67', 'learning_rate': '3.372e-06', 'epoch': '1.977'}
+ 40%|███▉      | 170/430 [30:47<44:37, 10.30s/it]11/18/2026 04:14:46 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2/checkpoint-170
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s][A
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.14it/s][AWriting model shards: 100%|██████████| 1/1 [00:00<00:00,  1.14it/s]
+/usr/local/lib/python3.13/dist-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.13/dist-packages/transformers/tokenization_utils_base.py:2387: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+ 40%|███▉      | 171/430 [31:22<1:17:13, 17.89s/it] 40%|████      | 172/430 [31:33<1:07:08, 15.62s/it]11/18/2026 04:15:31 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   -- Rank 0: refresh data --
+ 40%|████      | 173/430 [31:43<59:53, 13.98s/it]   40%|████      | 174/430 [31:54<55:46, 13.07s/it] 41%|████      | 175/430 [32:05<53:54, 12.68s/it] 41%|████      | 176/430 [32:15<49:39, 11.73s/it] 41%|████      | 177/430 [32:25<46:56, 11.13s/it] 41%|████▏     | 178/430 [32:35<46:04, 10.97s/it] 42%|████▏     | 179/430 [32:46<45:22, 10.84s/it] 42%|████▏     | 180/430 [32:57<45:12, 10.85s/it]                                                 {'loss': '0.3805', 'grad_norm': '40.82', 'learning_rate': '3.243e-06', 'epoch': '2.093'}
+ 42%|████▏     | 180/430 [32:57<45:12, 10.85s/it] 42%|████▏     | 181/430 [33:07<44:00, 10.60s/it] 42%|████▏     | 182/430 [33:17<43:24, 10.50s/it] 43%|████▎     | 183/430 [33:29<44:38, 10.84s/it] 43%|████▎     | 184/430 [33:38<42:36, 10.39s/it] 43%|████▎     | 185/430 [33:48<41:59, 10.28s/it] 43%|████▎     | 186/430 [33:59<42:36, 10.48s/it] 43%|████▎     | 187/430 [34:08<41:06, 10.15s/it] 44%|████▎     | 188/430 [34:20<42:29, 10.53s/it] 44%|████▍     | 189/430 [34:31<43:18, 10.78s/it] 44%|████▍     | 190/430 [34:42<43:17, 10.82s/it]                                                 {'loss': '0.406', 'grad_norm': '22.56', 'learning_rate': '3.114e-06', 'epoch': '2.209'}
+ 44%|████▍     | 190/430 [34:42<43:17, 10.82s/it] 44%|████▍     | 191/430 [34:53<42:56, 10.78s/it] 45%|████▍     | 192/430 [35:03<42:35, 10.74s/it] 45%|████▍     | 193/430 [35:15<43:25, 10.99s/it] 45%|████▌     | 194/430 [35:26<43:09, 10.97s/it] 45%|████▌     | 195/430 [35:37<42:57, 10.97s/it] 46%|████▌     | 196/430 [35:48<43:18, 11.10s/it] 46%|████▌     | 197/430 [35:58<41:54, 10.79s/it] 46%|████▌     | 198/430 [36:08<40:59, 10.60s/it] 46%|████▋     | 199/430 [36:20<41:57, 10.90s/it] 47%|████▋     | 200/430 [36:32<43:30, 11.35s/it]                                                 {'loss': '0.3651', 'grad_norm': '51.76', 'learning_rate': '2.984e-06', 'epoch': '2.326'}
+ 47%|████▋     | 200/430 [36:32<43:30, 11.35s/it] 47%|████▋     | 201/430 [36:43<42:01, 11.01s/it] 47%|████▋     | 202/430 [36:54<42:25, 11.16s/it] 47%|████▋     | 203/430 [37:05<41:22, 10.93s/it] 47%|████▋     | 204/430 [37:16<41:18, 10.97s/it] 48%|████▊     | 205/430 [37:25<39:52, 10.63s/it] 48%|████▊     | 206/430 [37:36<39:23, 10.55s/it] 48%|████▊     | 207/430 [37:46<38:25, 10.34s/it] 48%|████▊     | 208/430 [37:56<37:43, 10.20s/it] 49%|████▊     | 209/430 [38:07<39:27, 10.71s/it] 49%|████▉     | 210/430 [38:18<39:26, 10.76s/it]                                                 {'loss': '0.3254', 'grad_norm': '36.19', 'learning_rate': '2.855e-06', 'epoch': '2.442'}
+ 49%|████▉     | 210/430 [38:18<39:26, 10.76s/it] 49%|████▉     | 211/430 [38:29<39:40, 10.87s/it] 49%|████▉     | 212/430 [38:40<39:02, 10.75s/it] 50%|████▉     | 213/430 [38:50<38:21, 10.61s/it] 50%|████▉     | 214/430 [39:01<38:42, 10.75s/it] 50%|█████     | 215/430 [39:12<38:28, 10.74s/it] 50%|█████     | 216/430 [39:23<38:29, 10.79s/it] 50%|█████     | 217/430 [39:33<37:32, 10.57s/it] 51%|█████     | 218/430 [39:44<37:43, 10.68s/it] 51%|█████     | 219/430 [39:54<37:07, 10.56s/it] 51%|█████     | 220/430 [40:05<37:29, 10.71s/it]                                                 {'loss': '0.3771', 'grad_norm': '23.79', 'learning_rate': '2.726e-06', 'epoch': '2.558'}
+ 51%|█████     | 220/430 [40:05<37:29, 10.71s/it] 51%|█████▏    | 221/430 [40:16<37:07, 10.66s/it] 52%|█████▏    | 222/430 [40:28<38:16, 11.04s/it] 52%|█████▏    | 223/430 [40:38<37:13, 10.79s/it] 52%|█████▏    | 224/430 [40:49<37:33, 10.94s/it] 52%|█████▏    | 225/430 [40:58<35:27, 10.38s/it] 53%|█████▎    | 226/430 [41:10<36:15, 10.66s/it] 53%|█████▎    | 227/430 [41:21<36:28, 10.78s/it] 53%|█████▎    | 228/430 [41:31<35:52, 10.65s/it] 53%|█████▎    | 229/430 [41:42<35:43, 10.66s/it] 53%|█████▎    | 230/430 [41:53<35:42, 10.71s/it]                                                 {'loss': '0.3394', 'grad_norm': '73.21', 'learning_rate': '2.597e-06', 'epoch': '2.674'}
+ 53%|█████▎    | 230/430 [41:53<35:42, 10.71s/it] 54%|█████▎    | 231/430 [42:04<36:19, 10.95s/it] 54%|█████▍    | 232/430 [42:14<35:28, 10.75s/it] 54%|█████▍    | 233/430 [42:24<34:19, 10.45s/it] 54%|█████▍    | 234/430 [42:33<32:52, 10.06s/it] 55%|█████▍    | 235/430 [42:43<32:12,  9.91s/it] 55%|█████▍    | 236/430 [42:55<34:38, 10.71s/it] 55%|█████▌    | 237/430 [43:06<34:47, 10.82s/it] 55%|█████▌    | 238/430 [43:18<35:41, 11.15s/it] 56%|█████▌    | 239/430 [43:29<35:09, 11.05s/it] 56%|█████▌    | 240/430 [43:40<34:41, 10.96s/it]                                                 {'loss': '0.3653', 'grad_norm': '16.26', 'learning_rate': '2.468e-06', 'epoch': '2.791'}
+ 56%|█████▌    | 240/430 [43:40<34:41, 10.96s/it] 56%|█████▌    | 241/430 [43:51<34:09, 10.84s/it] 56%|█████▋    | 242/430 [44:01<33:38, 10.74s/it] 57%|█████▋    | 243/430 [44:11<33:09, 10.64s/it] 57%|█████▋    | 244/430 [44:21<31:34, 10.18s/it] 57%|█████▋    | 245/430 [44:31<31:46, 10.31s/it] 57%|█████▋    | 246/430 [44:43<32:39, 10.65s/it] 57%|█████▋    | 247/430 [44:53<32:28, 10.64s/it] 58%|█████▊    | 248/430 [45:04<32:07, 10.59s/it] 58%|█████▊    | 249/430 [45:14<31:55, 10.58s/it] 58%|█████▊    | 250/430 [45:25<32:06, 10.70s/it]                                                 {'loss': '0.3212', 'grad_norm': '60.18', 'learning_rate': '2.339e-06', 'epoch': '2.907'}
+ 58%|█████▊    | 250/430 [45:25<32:06, 10.70s/it] 58%|█████▊    | 251/430 [45:36<32:22, 10.85s/it] 59%|█████▊    | 252/430 [45:47<31:38, 10.67s/it] 59%|█████▉    | 253/430 [45:57<31:27, 10.66s/it] 59%|█████▉    | 254/430 [46:07<30:50, 10.51s/it] 59%|█████▉    | 255/430 [46:17<30:09, 10.34s/it]11/18/2026 04:30:17 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2/checkpoint-255
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s][A
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.18it/s][AWriting model shards: 100%|██████████| 1/1 [00:00<00:00,  1.18it/s]
+/usr/local/lib/python3.13/dist-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.13/dist-packages/transformers/tokenization_utils_base.py:2387: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+ 60%|█████▉    | 256/430 [46:53<52:23, 18.07s/it] 60%|█████▉    | 257/430 [47:04<45:36, 15.82s/it] 60%|██████    | 258/430 [47:15<41:14, 14.39s/it]11/18/2026 04:31:14 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   -- Rank 0: refresh data --
+ 60%|██████    | 259/430 [47:25<37:34, 13.18s/it] 60%|██████    | 260/430 [47:36<35:04, 12.38s/it]                                                 {'loss': '0.3409', 'grad_norm': '25.89', 'learning_rate': '2.209e-06', 'epoch': '3.023'}
+ 60%|██████    | 260/430 [47:36<35:04, 12.38s/it] 61%|██████    | 261/430 [47:48<34:29, 12.24s/it] 61%|██████    | 262/430 [47:58<32:22, 11.56s/it] 61%|██████    | 263/430 [48:08<30:44, 11.04s/it] 61%|██████▏   | 264/430 [48:18<30:13, 10.92s/it] 62%|██████▏   | 265/430 [48:28<29:17, 10.65s/it] 62%|██████▏   | 266/430 [48:39<29:05, 10.64s/it] 62%|██████▏   | 267/430 [48:51<30:12, 11.12s/it] 62%|██████▏   | 268/430 [49:01<29:15, 10.84s/it] 63%|██████▎   | 269/430 [49:13<29:42, 11.07s/it] 63%|██████▎   | 270/430 [49:24<29:35, 11.10s/it]                                                 {'loss': '0.2791', 'grad_norm': '34.77', 'learning_rate': '2.08e-06', 'epoch': '3.14'}
+ 63%|██████▎   | 270/430 [49:24<29:35, 11.10s/it] 63%|██████▎   | 271/430 [49:35<29:04, 10.97s/it] 63%|██████▎   | 272/430 [49:47<29:31, 11.21s/it] 63%|██████▎   | 273/430 [49:58<29:38, 11.33s/it] 64%|██████▎   | 274/430 [50:08<28:18, 10.89s/it] 64%|██████▍   | 275/430 [50:18<27:40, 10.72s/it] 64%|██████▍   | 276/430 [50:29<27:13, 10.61s/it] 64%|██████▍   | 277/430 [50:40<27:33, 10.81s/it] 65%|██████▍   | 278/430 [50:51<27:47, 10.97s/it] 65%|██████▍   | 279/430 [51:01<26:48, 10.65s/it] 65%|██████▌   | 280/430 [51:12<26:40, 10.67s/it]                                                 {'loss': '0.3081', 'grad_norm': '23.21', 'learning_rate': '1.951e-06', 'epoch': '3.256'}
+ 65%|██████▌   | 280/430 [51:12<26:40, 10.67s/it] 65%|██████▌   | 281/430 [51:22<26:01, 10.48s/it] 66%|██████▌   | 282/430 [51:33<25:55, 10.51s/it] 66%|██████▌   | 283/430 [51:44<26:29, 10.81s/it] 66%|██████▌   | 284/430 [51:55<26:01, 10.70s/it] 66%|██████▋   | 285/430 [52:06<26:31, 10.98s/it] 67%|██████▋   | 286/430 [52:17<26:30, 11.04s/it] 67%|██████▋   | 287/430 [52:28<26:20, 11.05s/it] 67%|██████▋   | 288/430 [52:39<25:35, 10.81s/it] 67%|██████▋   | 289/430 [52:51<26:40, 11.35s/it] 67%|██████▋   | 290/430 [53:04<27:45, 11.90s/it]                                                 {'loss': '0.3528', 'grad_norm': '47.42', 'learning_rate': '1.822e-06', 'epoch': '3.372'}
+ 67%|██████▋   | 290/430 [53:04<27:45, 11.90s/it] 68%|██████▊   | 291/430 [53:14<26:08, 11.28s/it] 68%|██████▊   | 292/430 [53:24<25:08, 10.93s/it] 68%|██████▊   | 293/430 [53:35<24:54, 10.91s/it] 68%|██████▊   | 294/430 [53:46<24:16, 10.71s/it] 69%|██████▊   | 295/430 [53:56<24:08, 10.73s/it] 69%|██████▉   | 296/430 [54:06<23:00, 10.30s/it] 69%|██████▉   | 297/430 [54:16<22:33, 10.18s/it] 69%|██████▉   | 298/430 [54:25<22:11, 10.08s/it] 70%|██████▉   | 299/430 [54:36<22:31, 10.32s/it] 70%|██████▉   | 300/430 [54:47<22:25, 10.35s/it]                                                 {'loss': '0.2922', 'grad_norm': '29.57', 'learning_rate': '1.693e-06', 'epoch': '3.488'}
+ 70%|██████▉   | 300/430 [54:47<22:25, 10.35s/it] 70%|███████   | 301/430 [54:57<21:59, 10.23s/it] 70%|███████   | 302/430 [55:09<23:19, 10.93s/it] 70%|███████   | 303/430 [55:20<23:00, 10.87s/it] 71%|███████   | 304/430 [55:29<21:48, 10.39s/it] 71%|███████   | 305/430 [55:40<21:43, 10.43s/it] 71%|███████   | 306/430 [55:50<21:26, 10.37s/it] 71%|███████▏  | 307/430 [56:02<22:06, 10.79s/it] 72%|███████▏  | 308/430 [56:13<22:22, 11.00s/it] 72%|███████▏  | 309/430 [56:24<21:56, 10.88s/it] 72%|███████▏  | 310/430 [56:35<21:39, 10.83s/it]                                                 {'loss': '0.2692', 'grad_norm': '53.54', 'learning_rate': '1.563e-06', 'epoch': '3.605'}
+ 72%|███████▏  | 310/430 [56:35<21:39, 10.83s/it] 72%|███████▏  | 311/430 [56:46<21:43, 10.95s/it] 73%|███████▎  | 312/430 [56:55<20:30, 10.43s/it] 73%|███████▎  | 313/430 [57:05<20:05, 10.31s/it] 73%|███████▎  | 314/430 [57:16<20:32, 10.63s/it] 73%|███████▎  | 315/430 [57:27<20:39, 10.78s/it] 73%|███████▎  | 316/430 [57:38<20:27, 10.77s/it] 74%|███████▎  | 317/430 [57:48<19:52, 10.55s/it] 74%|███████▍  | 318/430 [57:58<19:17, 10.34s/it] 74%|███████▍  | 319/430 [58:09<19:38, 10.61s/it] 74%|███████▍  | 320/430 [58:20<19:32, 10.66s/it]                                                 {'loss': '0.3205', 'grad_norm': '27.51', 'learning_rate': '1.434e-06', 'epoch': '3.721'}
+ 74%|███████▍  | 320/430 [58:20<19:32, 10.66s/it] 75%|███████▍  | 321/430 [58:30<18:50, 10.37s/it] 75%|███████▍  | 322/430 [58:42<19:30, 10.84s/it] 75%|███████▌  | 323/430 [58:53<19:17, 10.81s/it] 75%|███████▌  | 324/430 [59:02<18:33, 10.50s/it] 76%|███████▌  | 325/430 [59:12<18:02, 10.31s/it] 76%|███████▌  | 326/430 [59:24<18:35, 10.73s/it] 76%|███████▌  | 327/430 [59:34<18:07, 10.56s/it] 76%|███████▋  | 328/430 [59:46<18:45, 11.04s/it] 77%|███████▋  | 329/430 [59:57<18:29, 10.99s/it] 77%|███████▋  | 330/430 [1:00:07<17:44, 10.64s/it]                                                   {'loss': '0.288', 'grad_norm': '25.91', 'learning_rate': '1.305e-06', 'epoch': '3.837'}
+ 77%|███████▋  | 330/430 [1:00:07<17:44, 10.64s/it] 77%|███████▋  | 331/430 [1:00:20<18:37, 11.29s/it] 77%|███████▋  | 332/430 [1:00:30<17:58, 11.01s/it] 77%|███████▋  | 333/430 [1:00:40<17:06, 10.58s/it] 78%|███████▊  | 334/430 [1:00:50<16:36, 10.38s/it] 78%|███████▊  | 335/430 [1:00:59<15:50, 10.00s/it] 78%|███████▊  | 336/430 [1:01:09<16:00, 10.22s/it] 78%|███████▊  | 337/430 [1:01:19<15:42, 10.13s/it] 79%|███████▊  | 338/430 [1:01:30<15:47, 10.30s/it] 79%|███████▉  | 339/430 [1:01:42<16:23, 10.80s/it] 79%|███████▉  | 340/430 [1:01:52<15:52, 10.58s/it]                                                   {'loss': '0.2672', 'grad_norm': '31.34', 'learning_rate': '1.176e-06', 'epoch': '3.953'}
+ 79%|███████▉  | 340/430 [1:01:52<15:52, 10.58s/it]11/18/2026 04:45:51 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2/checkpoint-340
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s][A
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.11it/s][AWriting model shards: 100%|██████████| 1/1 [00:00<00:00,  1.11it/s]
+/usr/local/lib/python3.13/dist-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.13/dist-packages/transformers/tokenization_utils_base.py:2387: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+ 79%|███████▉  | 341/430 [1:02:28<26:51, 18.11s/it] 80%|███████▉  | 342/430 [1:02:37<22:39, 15.44s/it] 80%|███████▉  | 343/430 [1:02:48<20:19, 14.02s/it] 80%|████████  | 344/430 [1:02:59<18:57, 13.23s/it]11/18/2026 04:46:58 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   -- Rank 0: refresh data --
+ 80%|████████  | 345/430 [1:03:09<17:09, 12.11s/it] 80%|████████  | 346/430 [1:03:19<16:17, 11.63s/it] 81%|████████  | 347/430 [1:03:29<15:25, 11.15s/it] 81%|████████  | 348/430 [1:03:41<15:23, 11.26s/it] 81%|████████  | 349/430 [1:03:49<14:05, 10.44s/it] 81%|████████▏ | 350/430 [1:04:00<13:59, 10.50s/it]                                                   {'loss': '0.2437', 'grad_norm': '36.33', 'learning_rate': '1.047e-06', 'epoch': '4.07'}
+ 81%|████████▏ | 350/430 [1:04:00<13:59, 10.50s/it] 82%|████████▏ | 351/430 [1:04:10<13:41, 10.40s/it] 82%|████████▏ | 352/430 [1:04:20<13:28, 10.37s/it] 82%|████████▏ | 353/430 [1:04:30<13:16, 10.35s/it] 82%|████████▏ | 354/430 [1:04:41<13:02, 10.30s/it] 83%|████████▎ | 355/430 [1:04:53<13:27, 10.77s/it] 83%|████████▎ | 356/430 [1:05:02<12:51, 10.43s/it] 83%|████████▎ | 357/430 [1:05:14<13:08, 10.81s/it] 83%|████████▎ | 358/430 [1:05:23<12:26, 10.37s/it] 83%|████████▎ | 359/430 [1:05:35<12:38, 10.68s/it] 84%|████████▎ | 360/430 [1:05:44<12:07, 10.39s/it]                                                   {'loss': '0.2569', 'grad_norm': '25.89', 'learning_rate': '9.173e-07', 'epoch': '4.186'}
+ 84%|████████▎ | 360/430 [1:05:44<12:07, 10.39s/it] 84%|████████▍ | 361/430 [1:05:54<11:46, 10.24s/it] 84%|████████▍ | 362/430 [1:06:05<11:44, 10.35s/it] 84%|████████▍ | 363/430 [1:06:14<11:16, 10.09s/it] 85%|████████▍ | 364/430 [1:06:27<12:03, 10.96s/it] 85%|████████▍ | 365/430 [1:06:39<12:02, 11.12s/it] 85%|████████▌ | 366/430 [1:06:49<11:31, 10.81s/it] 85%|████████▌ | 367/430 [1:06:59<11:08, 10.62s/it] 86%|████████▌ | 368/430 [1:07:11<11:27, 11.09s/it] 86%|████████▌ | 369/430 [1:07:23<11:23, 11.21s/it] 86%|████████▌ | 370/430 [1:07:34<11:17, 11.30s/it]                                                   {'loss': '0.2525', 'grad_norm': '32.24', 'learning_rate': '7.881e-07', 'epoch': '4.302'}
+ 86%|████████▌ | 370/430 [1:07:34<11:17, 11.30s/it] 86%|████████▋ | 371/430 [1:07:45<10:49, 11.01s/it] 87%|████████▋ | 372/430 [1:07:56<10:37, 10.98s/it] 87%|████████▋ | 373/430 [1:08:07<10:30, 11.05s/it] 87%|████████▋ | 374/430 [1:08:17<09:58, 10.69s/it] 87%|████████▋ | 375/430 [1:08:27<09:37, 10.50s/it] 87%|████████▋ | 376/430 [1:08:37<09:23, 10.44s/it] 88%|████████▊ | 377/430 [1:08:48<09:16, 10.50s/it] 88%|████████▊ | 378/430 [1:08:58<09:07, 10.52s/it] 88%|████████▊ | 379/430 [1:09:10<09:16, 10.91s/it] 88%|████████▊ | 380/430 [1:09:21<09:12, 11.05s/it]                                                   {'loss': '0.3445', 'grad_norm': '52.65', 'learning_rate': '6.589e-07', 'epoch': '4.419'}
+ 88%|████████▊ | 380/430 [1:09:21<09:12, 11.05s/it] 89%|████████▊ | 381/430 [1:09:31<08:43, 10.68s/it] 89%|████████▉ | 382/430 [1:09:41<08:18, 10.40s/it] 89%|████████▉ | 383/430 [1:09:51<08:08, 10.39s/it] 89%|████████▉ | 384/430 [1:10:02<08:05, 10.55s/it] 90%|████████▉ | 385/430 [1:10:14<08:05, 10.79s/it] 90%|████████▉ | 386/430 [1:10:25<08:06, 11.07s/it] 90%|█████████ | 387/430 [1:10:36<07:53, 11.01s/it] 90%|█████████ | 388/430 [1:10:48<07:52, 11.26s/it] 90%|█████████ | 389/430 [1:10:59<07:40, 11.22s/it] 91%|█████████ | 390/430 [1:11:09<07:17, 10.93s/it]                                                   {'loss': '0.2748', 'grad_norm': '29.49', 'learning_rate': '5.297e-07', 'epoch': '4.535'}
+ 91%|█████████ | 390/430 [1:11:09<07:17, 10.93s/it] 91%|█████████ | 391/430 [1:11:20<07:00, 10.77s/it] 91%|█████████ | 392/430 [1:11:30<06:45, 10.66s/it] 91%|█████████▏| 393/430 [1:11:42<06:44, 10.92s/it] 92%|█████████▏| 394/430 [1:11:51<06:20, 10.57s/it] 92%|█████████▏| 395/430 [1:12:03<06:19, 10.84s/it] 92%|█████████▏| 396/430 [1:12:13<05:58, 10.55s/it] 92%|█████████▏| 397/430 [1:12:24<05:54, 10.75s/it] 93%|█████████▎| 398/430 [1:12:34<05:40, 10.66s/it] 93%|█████████▎| 399/430 [1:12:47<05:44, 11.12s/it] 93%|█████████▎| 400/430 [1:12:57<05:26, 10.88s/it]                                                   {'loss': '0.2335', 'grad_norm': '13.79', 'learning_rate': '4.005e-07', 'epoch': '4.651'}
+ 93%|█████████▎| 400/430 [1:12:57<05:26, 10.88s/it] 93%|█████████▎| 401/430 [1:13:07<05:05, 10.54s/it] 93%|█████████▎| 402/430 [1:13:18<04:58, 10.66s/it] 94%|█████████▎| 403/430 [1:13:28<04:49, 10.72s/it] 94%|█████████▍| 404/430 [1:13:39<04:39, 10.75s/it] 94%|█████████▍| 405/430 [1:13:50<04:25, 10.63s/it] 94%|█████████▍| 406/430 [1:14:01<04:19, 10.81s/it] 95%|█████████▍| 407/430 [1:14:13<04:15, 11.12s/it] 95%|█████████▍| 408/430 [1:14:23<04:00, 10.93s/it] 95%|█████████▌| 409/430 [1:14:33<03:40, 10.51s/it] 95%|█████████▌| 410/430 [1:14:43<03:28, 10.42s/it]                                                   {'loss': '0.2432', 'grad_norm': '43.98', 'learning_rate': '2.713e-07', 'epoch': '4.767'}
+ 95%|█████████▌| 410/430 [1:14:43<03:28, 10.42s/it] 96%|█████████▌| 411/430 [1:14:53<03:16, 10.36s/it] 96%|█████████▌| 412/430 [1:15:04<03:07, 10.40s/it] 96%|█████████▌| 413/430 [1:15:14<02:54, 10.27s/it] 96%|█████████▋| 414/430 [1:15:24<02:45, 10.37s/it] 97%|█████████▋| 415/430 [1:15:35<02:38, 10.59s/it] 97%|█████████▋| 416/430 [1:15:46<02:26, 10.47s/it] 97%|█████████▋| 417/430 [1:15:57<02:21, 10.85s/it] 97%|█████████▋| 418/430 [1:16:08<02:09, 10.80s/it] 97%|█████████▋| 419/430 [1:16:19<01:58, 10.76s/it] 98%|█████████▊| 420/430 [1:16:29<01:47, 10.75s/it]                                                   {'loss': '0.221', 'grad_norm': '24.4', 'learning_rate': '1.421e-07', 'epoch': '4.884'}
+ 98%|█████████▊| 420/430 [1:16:29<01:47, 10.75s/it] 98%|█████████▊| 421/430 [1:16:41<01:39, 11.09s/it] 98%|█████████▊| 422/430 [1:16:54<01:32, 11.61s/it] 98%|█████████▊| 423/430 [1:17:04<01:18, 11.20s/it] 99%|█████████▊| 424/430 [1:17:15<01:05, 10.96s/it] 99%|█████████▉| 425/430 [1:17:25<00:53, 10.67s/it]11/18/2026 05:01:24 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2/checkpoint-425
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s][A
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s][AWriting model shards: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s]
+/usr/local/lib/python3.13/dist-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.13/dist-packages/transformers/tokenization_utils_base.py:2387: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+ 99%|█████████▉| 426/430 [1:18:02<01:14, 18.57s/it] 99%|█████████▉| 427/430 [1:18:12<00:47, 15.97s/it]100%|█████████▉| 428/430 [1:18:22<00:28, 14.28s/it]100%|█████████▉| 429/430 [1:18:33<00:13, 13.21s/it]100%|██████████| 430/430 [1:18:44<00:00, 12.71s/it]                                                   {'loss': '0.2368', 'grad_norm': '16.52', 'learning_rate': '1.292e-08', 'epoch': '5'}
+100%|██████████| 430/430 [1:18:44<00:00, 12.71s/it]11/18/2026 05:02:43 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2/checkpoint-430
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s][A
+Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.05it/s][AWriting model shards: 100%|██████████| 1/1 [00:00<00:00,  1.05it/s]
+/usr/local/lib/python3.13/dist-packages/torch/distributed/c10d_logger.py:83: UserWarning: barrier(): using the device under current context. You can specify `device_id` in `init_process_group` to mute this warning.
+  return func(*args, **kwargs)
+11/18/2026 05:03:09 - INFO - FlagEmbedding.abc.finetune.embedder.AbsDataset -   -- Rank 0: refresh data --
+                                                   {'train_runtime': '4751', 'train_samples_per_second': '1.448', 'train_steps_per_second': '0.091', 'train_loss': '0.437', 'epoch': '5'}
+100%|██████████| 430/430 [1:19:11<00:00, 12.71s/it]100%|██████████| 430/430 [1:19:11<00:00, 11.05s/it]
+11/18/2026 05:03:10 - INFO - FlagEmbedding.finetune.embedder.encoder_only.m3.trainer -   Saving model checkpoint to /content/h2/training/naive_seed2
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.61s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.61s/it]
+Listo: /content/h2/training/naive_seed2. Siguiente: elegir el checkpoint en dev (README, paso 3).
