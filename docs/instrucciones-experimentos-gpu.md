@@ -144,13 +144,14 @@ Verificar seis `checkpoint_selection.json`/`selected_checkpoint.txt`, doce ranki
 
 ## 4. H3: cuatro condiciones, mismo generador y juez
 
-Activar el entorno H3. Preparar un snapshot local completo de `BAAI/bge-reranker-v2-m3`, fijar su commit antes de ejecutarlo y conservar la revisión; el protocolo guarda los hashes de sus archivos. Configurar las claves **solo en el entorno local**: `OPENROUTER_API_KEY`; agregar `OPENAI_API_KEY` si el juez usa la API de OpenAI. No pegarlas en comandos compartidos ni logs. La generación usa OpenRouter aunque el juez use otra API.
+Activar el entorno H3. El reranker por defecto es Voyage rerank-2.5 por la API de OpenRouter (el del artículo; antes `voyageai/rerank-2.5`, hoy `mongodb/rerank-2.5`, el mismo modelo con otro identificador); no necesita snapshot local. Para usar `BAAI/bge-reranker-v2-m3` local, fijar `RERANKER_SPEC=st:<snapshot completo y fijado>`. Configurar las claves **solo en el entorno local**: `OPENROUTER_API_KEY`; agregar `OPENAI_API_KEY` si el juez usa la API de OpenAI. No pegarlas en comandos compartidos ni logs. La generación usa OpenRouter aunque el juez use otra API.
 
 ```bash
 export PYTHON=python
-export RERANKER_MODEL=/ruta/modelos/bge-reranker-v2-m3-snapshot-fijado
+# opcional; por defecto openrouter:mongodb/rerank-2.5 (Voyage)
+# export RERANKER_SPEC=openrouter:mongodb/rerank-2.5
 export H3_DEVICE=cuda
-export GENERATION_PROMPT_FILE=generation.md
+export GENERATION_PROMPT_FILE=generation_prose_v1.md   # prompt en prosa (commit c805a9b); generation.md es el de producción actual
 export LLM_MODEL=openai/gpt-oss-120b
 export LLM_PROVIDER_ONLY=groq
 export LLM_TEMPERATURE=0

@@ -16,7 +16,7 @@ still require validation on the execution host.
 | Core if claiming protocol value | H2: matched full protocol vs naive | Six CUDA training runs, dev selection for each, evaluation on B and A | Whole-protocol improvement at equal training-row/update budget |
 | Core if claiming better answers | H3: controlled grounding | Four retrieval contexts, 200 questions each, fixed generator/prompt/settings, automatic scoring | Automated source grounding, not legal correctness |
 | Core analysis | Joint H1–H3 correction | Collect exactly three primary raw p-values, apply Holm once | Multiplicity-controlled primary comparisons |
-| Strongly recommended | Same local reranker on base and FT | Two reranking runs, same model and 100 candidates; included in H3 wrapper | Whether reranking changes the practical retrieval tradeoff |
+| Strongly recommended | Same reranker (Voyage rerank-2.5) on base and FT | Two reranking runs, same model and 100 candidates; included in H3 wrapper | Whether reranking changes the practical retrieval tradeoff |
 | Strongly recommended | One competitive zero-shot embedding baseline | Evaluate on A and B, choose model before seeing results | Whether tuning beats a credible alternative |
 | Needed for a training-stability claim | Repeated full-data training | Three full-data seeds, additional to the six H2 runs | Stability of the principal training recipe |
 | Conditional on retaining safety claims | Independent end-to-end crisis evaluation | New held-out cases, real graph/API, both crisis settings | Routing behavior on that held-out challenge set |
@@ -68,15 +68,18 @@ archive its versions, logs, model/data hashes and checkpoint-selection records.
 
 ## 3. H3: four matched answer-grounding conditions
 
-The wrapper consumes **a complete portable H1 output directory** and a complete, pinned local
-`BAAI/bge-reranker-v2-m3` snapshot. It verifies H1 artifact hashes, reranks both base and FT, then generates 200 answers
-for each of `base`, `finetuned`, `base_rerank`, `finetuned_rerank`.
+The wrapper consumes **a complete portable H1 output directory**. It verifies H1 artifact hashes, reranks the top 100
+candidates of both base and FT with Voyage rerank-2.5 through the OpenRouter rerank API (the paper's reranker; the paper
+cited it as `voyageai/rerank-2.5` and OpenRouter now exposes the same model as `mongodb/rerank-2.5`, the default
+`RERANKER_SPEC=openrouter:mongodb/rerank-2.5`), then generates 200 answers for each of `base`, `finetuned`,
+`base_rerank`, `finetuned_rerank`. A local alternative is `RERANKER_SPEC=st:/path/to/pinned-bge-reranker-v2-m3`.
 
 ```bash
 bash quantitative_experiments/revision/run_h3.sh --dry-run
 # Configure on the execution host before using --run:
 export H1_RUN_DIR=/path/to/completed/h1
-export RERANKER_MODEL=/path/to/pinned/bge-reranker-v2-m3
+# Optional; default is the paper's Voyage rerank-2.5 via OpenRouter:
+# export RERANKER_SPEC=openrouter:mongodb/rerank-2.5
 export H3_DEVICE=auto
 export H3_OUT_DIR=/path/to/new/h3-output
 # Configure API keys locally; never commit them.
@@ -88,8 +91,12 @@ RAGAS 0.4.3; the H1-only requirements file is insufficient. `OPENROUTER_API_KEY`
 required when `JUDGE_API=openai`. Freeze `LLM_MODEL`, `LLM_PROVIDER_ONLY`, `LLM_TEMPERATURE`, `LLM_MAX_OUTPUT_TOKENS`,
 `GENERATION_PROMPT_FILE`, `JUDGE_MODEL`, and `JUDGE_API` before execution. The wrapper records these nonsecret settings.
 
-The default prompt is the current committed `generation.md`. This creates a new controlled experiment; it does not
-reconstruct the still-unconfirmed prompt behind historical Table 13. All four main conditions receive the same prompt
+The default prompt is `generation_prose_v1.md` (the prose prompt from git commit `c805a9b`), not the sectioned
+production prompt `generation.md` (commit `589eb6d`). Evidence: none of the 198 answers behind Table 13 contains the
+sections or help-line referrals that `generation.md` requires (0/198 mention Línea 100, 105 or CEM; median length 403
+characters), so they were not produced with it. This is consistent with the prose prompt but does not prove it is
+byte-identical to the one used; the file and its SHA-256 are recorded in every run. Set `GENERATION_PROMPT_FILE=generation.md`
+to evaluate the current production prompt instead. All four main conditions receive the same prompt
 and top-10 context policy. The optional `none` condition uses a different prompt and must remain exploratory;
 `source_context` supplies the source and aliases, not a proven oracle/upper bound.
 

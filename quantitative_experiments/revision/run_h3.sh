@@ -11,11 +11,16 @@ cd "$ROOT"
 PYTHON="${PYTHON:-python3}"
 H1_RUN_DIR="${H1_RUN_DIR:-$ROOT/quantitative_experiments/results/revision/h1}"
 H3_OUT_DIR="${H3_OUT_DIR:-$ROOT/quantitative_experiments/results/revision/h3}"
-RERANKER_MODEL="${RERANKER_MODEL:-/path/to/pinned-bge-reranker-v2-m3}"
+# Reranker used for the two reranked conditions. Default: Voyage rerank-2.5 through OpenRouter (the paper called it
+# voyageai/rerank-2.5; OpenRouter now exposes the same model as mongodb/rerank-2.5). A local alternative is
+# RERANKER_SPEC=st:/path/to/pinned-bge-reranker-v2-m3.
+RERANKER_SPEC="${RERANKER_SPEC:-openrouter:mongodb/rerank-2.5}"
 H3_DEVICE="${H3_DEVICE:-auto}"
 JUDGE_MODEL="${JUDGE_MODEL:-openai/gpt-5.6-luna}"
 JUDGE_API="${JUDGE_API:-openrouter}"
-export GENERATION_PROMPT_FILE="${GENERATION_PROMPT_FILE:-generation.md}"
+# Default: the prose prompt (git c805a9b, `generation_prose_v1.md`), not the sectioned production prompt `generation.md`.
+# The 198 answers behind the paper's Table 13 are plain prose (no sections, no help-line referrals), which matches this prompt.
+export GENERATION_PROMPT_FILE="${GENERATION_PROMPT_FILE:-generation_prose_v1.md}"
 export LLM_MODEL="${LLM_MODEL:-openai/gpt-oss-120b}"
 export LLM_TEMPERATURE="${LLM_TEMPERATURE:-0}"
 export LLM_MAX_OUTPUT_TOKENS="${LLM_MAX_OUTPUT_TOKENS:-8192}"
@@ -41,14 +46,15 @@ if [[ "$MODE" == --run ]]; then
   if [[ "$JUDGE_API" == openai ]]; then
     : "${OPENAI_API_KEY:?Set OPENAI_API_KEY locally for the selected judge API}"
   fi
-  "$PYTHON" - "$H1_RUN_DIR" "$H3_OUT_DIR" "$RERANKER_MODEL" "$DATASET" "$QRELS" "$H3_DEVICE" "$JUDGE_MODEL" "$JUDGE_API" <<'PY'
+  "$PYTHON" - "$H1_RUN_DIR" "$H3_OUT_DIR" "$RERANKER_SPEC" "$DATASET" "$QRELS" "$H3_DEVICE" "$JUDGE_MODEL" "$JUDGE_API" <<'PY'
 import hashlib, importlib.metadata, json, os, sys
 from datetime import datetime, timezone
 from pathlib import Path
 from quantitative_experiments.revision.h1 import detect_hardware, select_device
 from quantitative_experiments.provenance import llm_provenance
 
-first, out, reranker, dataset, qrels = map(Path, sys.argv[1:6])
+first, out, dataset, qrels = map(Path, [sys.argv[1], sys.argv[2], sys.argv[4], sys.argv[5]])
+reranker_spec = sys.argv[3]
 device, judge, api = sys.argv[6:9]
 if api not in ('openrouter', 'openai'):
     raise SystemExit('JUDGE_API must be openrouter or openai')
@@ -58,8 +64,13 @@ if not hw['torch_available']:
 resolved_device = select_device(device, cuda=hw['cuda'], mps=hw['mps'])
 if out.exists():
     raise SystemExit('H3_OUT_DIR must not exist; no implicit reuse of previous answers or scores')
-if not reranker.is_dir() or not (reranker / 'config.json').is_file():
-    raise SystemExit('RERANKER_MODEL must point to a complete pinned local reranker snapshot')
+reranker = None
+if reranker_spec.startswith('st:'):
+    reranker = Path(reranker_spec[3:])
+    if not reranker.is_dir() or not (reranker / 'config.json').is_file():
+        raise SystemExit('A local RERANKER_SPEC must point to a complete pinned local reranker snapshot')
+elif not reranker_spec.startswith('openrouter:'):
+    raise SystemExit('RERANKER_SPEC must start with openrouter: or st:')
 status = json.loads((first / 'status.json').read_text())
 if status.get('state') != 'complete':
     raise SystemExit('H1_RUN_DIR must be a completed portable H1 run')
@@ -92,11 +103,13 @@ if not prompt.is_file():
 record = {
     'frozen_at_utc': datetime.now(timezone.utc).isoformat(), 'dataset_sha256': sha(dataset),
     'qrels_sha256': sha(qrels), 'corpus_sha256': sha(corpus), 'h1_protocol_sha256': sha(first/'protocol.json'),
-    'reranker_files_sha256': {str(p.relative_to(reranker)): sha(p) for p in reranker.rglob('*')
-                             if p.is_file() and '.cache' not in p.relative_to(reranker).parts},
+    'reranker_spec': reranker_spec,
+    'reranker_files_sha256': ({str(p.relative_to(reranker)): sha(p) for p in reranker.rglob('*')
+                              if p.is_file() and '.cache' not in p.relative_to(reranker).parts}
+                              if reranker is not None else None),
     'conditions': ['base','finetuned','base_rerank','finetuned_rerank'],
     'primary_contrast': 'finetuned minus base automated Faithfulness',
-    'context_chunks': 10, 'rerank_depth': 100, 'reranker_max_length': 1024,
+    'context_chunks': 10, 'rerank_depth': 100, 'reranker_max_length': 1024 if reranker is not None else None,
     'device': resolved_device, 'judge_model': judge, 'judge_api': api,
     'generation': {k: os.environ[k] for k in ['LLM_MODEL','LLM_TEMPERATURE','LLM_MAX_OUTPUT_TOKENS',
                                             'LLM_PROVIDER_ONLY','GENERATION_PROMPT_FILE']},
@@ -114,13 +127,13 @@ out.mkdir(parents=True, exist_ok=False)  # Atomic claim after validation; concur
 PY
 else
   echo "Preparation only. --run performs two reranking runs, 800 answer generations, and automated scoring."
-  echo "Set H1_RUN_DIR to a completed H1 run and RERANKER_MODEL to a pinned local snapshot."
+  echo "Set H1_RUN_DIR to a completed H1 run. Reranker: $RERANKER_SPEC (paid API unless RERANKER_SPEC=st:<local snapshot>)."
   printf 'Generator=%s temperature=%s prompt=%s; judge=%s via %s\n' "$LLM_MODEL" "$LLM_TEMPERATURE" "$GENERATION_PROMPT_FILE" "$JUDGE_MODEL" "$JUDGE_API"
 fi
 
 for condition in base finetuned; do
   command_step "$PYTHON" -m quantitative_experiments.revision.rerank_local \
-    --first-stage "$H1_RUN_DIR/$condition.json" --model "st:$RERANKER_MODEL" \
+    --first-stage "$H1_RUN_DIR/$condition.json" --model "$RERANKER_SPEC" \
     --dataset "$DATASET" --qrels "$QRELS" --depths 100 --name "${condition}_rerank" \
     --out-dir "$H3_OUT_DIR/rerank/$condition" --device "$H3_DEVICE" --max-length 1024
 done

@@ -129,6 +129,57 @@ def test_reranker_dry_run_never_loads_model_or_creates_output(tmp_path, monkeypa
         rerank_local.main(args)
 
 
+class _FakeResponse:
+    def __init__(self, payload):
+        self.payload = payload
+
+    def read(self):
+        return json.dumps(self.payload).encode()
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *exc):
+        return False
+
+
+def _api_reranker(tmp_path, monkeypatch, results, calls):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "test-key-not-real")
+
+    def fake_urlopen(request, timeout=0):
+        calls.append(json.loads(request.data))
+        return _FakeResponse({"results": results})
+    monkeypatch.setattr(rerank_local.urllib.request, "urlopen", fake_urlopen)
+    return rerank_local.Reranker("openrouter:mongodb/rerank-2.5", "auto", 1024, True, cache_path=tmp_path / "cache.jsonl")
+
+
+def test_api_reranker_orders_by_score_breaks_ties_by_chunk_id_and_caches(tmp_path, monkeypatch):
+    calls = []
+    # API returns results sorted by score, with indices out of document order
+    rr = _api_reranker(tmp_path, monkeypatch, [{"index": 2, "relevance_score": 0.9}, {"index": 0, "relevance_score": 0.5},
+                                              {"index": 1, "relevance_score": 0.5}], calls)
+    ranked, _ = rerank_local.rerank(rr, "q", ["b", "a", "c"], 3, {"a": "A", "b": "B", "c": "C"})
+    assert ranked == ["c", "a", "b"]  # c highest; a/b tie broken alphabetically by chunk id
+    assert calls[0]["model"] == "mongodb/rerank-2.5" and calls[0]["top_n"] == 3 and calls[0]["documents"] == ["B", "A", "C"]
+    again = rerank_local.Reranker("openrouter:mongodb/rerank-2.5", "auto", 1024, True, cache_path=tmp_path / "cache.jsonl")
+    rerank_local.rerank(again, "q", ["b", "a", "c"], 3, {"a": "A", "b": "B", "c": "C"})
+    assert len(calls) == 1 and again.api_calls == 0  # second run is served from the disk cache
+
+
+@pytest.mark.parametrize("results", [[{"index": 0, "relevance_score": 0.5}],
+                                     [{"index": 0, "relevance_score": 0.5}, {"index": 0, "relevance_score": 0.4}]])
+def test_api_reranker_rejects_incomplete_or_duplicate_results(tmp_path, monkeypatch, results):
+    rr = _api_reranker(tmp_path, monkeypatch, results, [])
+    with pytest.raises(ValueError):
+        rerank_local.rerank(rr, "q", ["a", "b"], 2, {"a": "A", "b": "B"})
+
+
+def test_api_reranker_requires_key(monkeypatch):
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
+    with pytest.raises(ValueError, match="OPENROUTER_API_KEY"):
+        rerank_local.Reranker("openrouter:mongodb/rerank-2.5", "auto", 1024, True)
+
+
 @pytest.mark.parametrize("script", ["run_h2.sh", "run_h3.sh"])
 @pytest.mark.parametrize("flags", [[], ["--dry-run"]])
 def test_run_wrappers_prepare_only(script, flags, tmp_path):
@@ -142,7 +193,7 @@ def test_run_wrappers_prepare_only(script, flags, tmp_path):
         exe.chmod(0o755)
     env = {**os.environ, "PATH": str(fakebin) + os.pathsep + os.environ["PATH"], "EXECUTION_MARKER": str(marker),
            "AMPARA_DATA_REPO": str(tmp_path / "absent data"), "AMPARA_BASE_SNAPSHOT": str(tmp_path / "absent model"),
-           "H1_RUN_DIR": str(tmp_path / "absent h1"), "RERANKER_MODEL": str(tmp_path / "absent reranker"),
+           "H1_RUN_DIR": str(tmp_path / "absent h1"), "RERANKER_SPEC": "openrouter:mongodb/rerank-2.5",
            "H2_OUT_DIR": str(tmp_path / "h2 output"), "H3_OUT_DIR": str(tmp_path / "h3 output"), "PYTHON": "python3"}
     result = subprocess.run(["bash", str(root / "quantitative_experiments/revision" / script), *flags],
                             cwd=tmp_path, env=env, capture_output=True, text=True)

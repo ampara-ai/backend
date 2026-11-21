@@ -8,9 +8,12 @@ mide además N consultas en CPU, la condición del despliegue sin GPU.
 Modelos:
   st:BAAI/bge-reranker-v2-m3   PyTorch (CUDA, Apple MPS o CPU; FP16 en GPU)
   onnx:<carpeta>               el export ONNX del model service (reranker_onnx_int8), siempre en CPU
+  openrouter:<modelo>          API de OpenRouter (de pago), p. ej. openrouter:mongodb/rerank-2.5; clave en OPENROUTER_API_KEY
 
-Ambos usan logits sin sigmoide para ordenar. No son probabilidades: aplicar la sigmoide en FP16 puede colapsar
-puntajes distintos en el mismo valor y cambiar el ranking por el desempate alfabético de chunk_id.
+Los modelos locales usan logits sin sigmoide para ordenar. No son probabilidades: aplicar la sigmoide en FP16 puede colapsar
+puntajes distintos en el mismo valor y cambiar el ranking por el desempate alfabético de chunk_id. El de API ordena por su
+relevance_score; Voyage rerank-2.5 se llamaba voyageai/rerank-2.5 en el artículo y hoy OpenRouter lo expone como
+mongodb/rerank-2.5 (mismo modelo, otro identificador).
 
 Uso:
     uv run python -m quantitative_experiments.revision.rerank_local --first-stage released:dense_finetuned \
@@ -20,8 +23,11 @@ Uso:
 import argparse
 import hashlib
 import json
+import os
 import statistics
 import time
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 import numpy as np
@@ -33,11 +39,26 @@ from quantitative_experiments.revision.embed import pick_device
 
 
 class Reranker:
-    def __init__(self, spec: str, device: str, max_length: int, fp16: bool) -> None:
+    def __init__(self, spec: str, device: str, max_length: int, fp16: bool, cache_path: Path | None = None) -> None:
         self.type, self.name = spec.split(":", 1)
         self.max_length = max_length
         self.score_kind = "raw_logits"
-        if self.type == "onnx":
+        if self.type == "openrouter":
+            # Remote reranker (paid API). The key is read from the environment and never stored or logged.
+            self.api_key = os.environ.get("OPENROUTER_API_KEY", "")
+            if not self.api_key:
+                raise ValueError("Set OPENROUTER_API_KEY in the environment to use an openrouter: reranker")
+            self.url = os.environ.get("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1").rstrip("/") + "/rerank"
+            self.cache_path = cache_path
+            self.cache: dict[str, list[float]] = {}
+            if cache_path is not None and cache_path.exists():
+                for line in cache_path.read_text(encoding="utf-8").splitlines():
+                    if line.strip():
+                        row = json.loads(line)
+                        self.cache[row["key"]] = row["scores"]
+            self.device, self.dtype, self.score_kind = "api", "api", "api_relevance_score"
+            self.api_calls = 0
+        elif self.type == "onnx":
             import onnxruntime as ort
             from transformers import AutoTokenizer
             folder = Path(self.name)
@@ -55,9 +76,47 @@ class Reranker:
             self.activation_fn = torch.nn.Identity()
             self.dtype = "fp16" if half else "fp32"
         else:
-            raise ValueError("usa st:<hf id> u onnx:<carpeta>")
+            raise ValueError("usa st:<hf id>, onnx:<carpeta> u openrouter:<modelo>")
+
+    def _score_api(self, query: str, docs: list[str]) -> np.ndarray:
+        key = hashlib.sha256(json.dumps([self.name, query, docs], ensure_ascii=False).encode()).hexdigest()
+        if key in self.cache:
+            return np.asarray(self.cache[key], dtype=np.float64)
+        body = json.dumps({"model": self.name, "query": query, "documents": docs, "top_n": len(docs)}).encode()
+        request = urllib.request.Request(
+            self.url, data=body, method="POST",
+            headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"})
+        last: Exception | None = None
+        for attempt in range(5):
+            try:
+                with urllib.request.urlopen(request, timeout=60) as response:
+                    results = json.loads(response.read())["results"]
+                break
+            except (urllib.error.URLError, TimeoutError, KeyError, ValueError) as error:
+                if isinstance(error, urllib.error.HTTPError) and error.code not in (408, 429, 500, 502, 503, 504):
+                    raise
+                last = error
+                time.sleep(2 ** attempt)
+        else:
+            raise RuntimeError(f"rerank API failed after retries: {last!r}")
+        self.api_calls += 1
+        scores = [None] * len(docs)
+        for item in results:
+            if scores[item["index"]] is not None:
+                raise ValueError("rerank API returned a duplicate document index")
+            scores[item["index"]] = float(item["relevance_score"])
+        if any(s is None for s in scores):
+            raise ValueError("rerank API did not score every document")
+        if self.cache_path is not None:
+            self.cache_path.parent.mkdir(parents=True, exist_ok=True)
+            with self.cache_path.open("a", encoding="utf-8") as stream:
+                stream.write(json.dumps({"key": key, "scores": scores}) + "\n")
+        self.cache[key] = scores
+        return np.asarray(scores, dtype=np.float64)
 
     def score(self, query: str, docs: list[str], batch_size: int = 16) -> np.ndarray:
+        if self.type == "openrouter":
+            return self._score_api(query, docs)
         if self.type == "onnx":
             logits = []
             for i in range(0, len(docs), batch_size):
@@ -122,8 +181,9 @@ def main(argv=None) -> None:
         print(json.dumps({"model": args.model, "device": args.device, "depths": args.depths,
                           "queries": len(qids), "outputs": [str(p) for p in targets]}, indent=2))
         return
-    rr = Reranker(args.model, args.device, args.max_length, fp16=not args.fp32)
     out_dir.mkdir(parents=True, exist_ok=True)
+    rr = Reranker(args.model, args.device, args.max_length, fp16=not args.fp32,
+                  cache_path=out_dir / f"{args.name}.api_cache.jsonl")
     first_hash = hashlib.sha256(json.dumps(first, sort_keys=True).encode()).hexdigest()
     meta = {"model": args.model, "device": rr.device, "dtype": rr.dtype, "score_kind": rr.score_kind,
             "first_stage": args.first_stage,
