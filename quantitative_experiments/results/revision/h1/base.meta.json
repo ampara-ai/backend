@@ -1,0 +1,15 @@
+{
+  "spec": "cls:/Users/renato/.cache/huggingface/hub/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181",
+  "kind": "dense",
+  "device": "mps",
+  "dtype": "fp16",
+  "max_length": 2048,
+  "n_params": 567754752,
+  "prompts": {
+    "query": "",
+    "document": ""
+  },
+  "seconds": 73.0821643750096,
+  "protocol_sha256": "aa039324ab3921899e984367520ef41c85c9547da94dcdbcaf23b5ff48a0375f",
+  "rankings_sha256": "592d17297620eded3dd04814300ccde4d952a297f88f16c9cd1ca0fe950f353f"
+}

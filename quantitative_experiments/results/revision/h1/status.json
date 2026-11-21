@@ -1,0 +1,15 @@
+{
+  "state": "complete",
+  "completed_at_utc": "2026-11-17T18:56:49.119486+00:00",
+  "protocol_sha256": "aa039324ab3921899e984367520ef41c85c9547da94dcdbcaf23b5ff48a0375f",
+  "artifacts": {
+    "comparison.md": "e2e9555cde9e8e32380855fbed47b43c7dd986b8a57c9dbcac5bb35c7ebc387e",
+    "finetuned.json": "37f47021677043751fef4f510239765bb41473624c8387c29937a6b14404a677",
+    "finetuned.meta.json": "e647d131c8b951c3f8f6147d4f40bb5264adaa29fe35e41a5253e4dff8723831",
+    "per_query.csv": "e0e3a82457bdbce28b163391e34313fbf90a812cfdb5716de2758d07da2dd65c",
+    "base.meta.json": "d70614968a91d98a59fe2b5cc80e6b8583beea4c9e5681e44c63556c7018fc61",
+    "comparison.json": "4b29faeb9a580205b92396514331fd4620a84ac7bfb0f5aa2ab9989bedf0c828",
+    "protocol.json": "aa039324ab3921899e984367520ef41c85c9547da94dcdbcaf23b5ff48a0375f",
+    "base.json": "592d17297620eded3dd04814300ccde4d952a297f88f16c9cd1ca0fe950f353f"
+  }
+}

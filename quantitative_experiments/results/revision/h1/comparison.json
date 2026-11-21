@@ -1,0 +1,22 @@
+{
+  "hypothesis": "H1",
+  "metric": "strict NDCG@10",
+  "queries": 200,
+  "source_clusters": 113,
+  "base_ndcg10": 0.5154508213225089,
+  "finetuned_ndcg10": 0.6425763550625314,
+  "difference": {
+    "estimate": 0.12712553374002242,
+    "ci_low": 0.07645701261281139,
+    "ci_high": 0.17734028585394923
+  },
+  "raw_bootstrap_tail_p": 0.0,
+  "bootstrap_resamples": 10000,
+  "bootstrap_seed": 0,
+  "confidence": 0.95,
+  "multiplicity": "H1-H3 Holm adjustment pending",
+  "scope": "Single fixed checkpoint; source/alias recovery on synthetic questions; no legal validation",
+  "protocol_sha256": "aa039324ab3921899e984367520ef41c85c9547da94dcdbcaf23b5ff48a0375f",
+  "dataset_sha256": "f4fbd0b56850359b8d0dc796d32d4a5d95495d9af8f4aa68460b6ac1088a91bc",
+  "qrels_sha256": "93e5548fe467f8e1df06ff60b929b707daaf612e61f1e1b166b6d0d837032941"
+}

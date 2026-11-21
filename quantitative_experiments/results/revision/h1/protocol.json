@@ -1,0 +1,91 @@
+{
+  "mode": "run",
+  "hardware": {
+    "torch_available": true,
+    "cuda": false,
+    "mps": true
+  },
+  "models": {
+    "base": {
+      "repository": "BAAI/bge-m3",
+      "revision": "5617a9f61b028005a4858fdac845db406aefb181"
+    },
+    "finetuned": {
+      "repository": "ampara-ai/bge-m3-ampara",
+      "revision": "f2fab1a2bf888b4da42c1660beb578eb32ead313"
+    }
+  },
+  "settings": {
+    "device": "mps",
+    "device_requested": "mps",
+    "precision": "fp16",
+    "device_available_locally": true,
+    "precision_requested": "auto",
+    "max_length": 2048,
+    "depth": 100,
+    "doc_batch": 4,
+    "query_batch": 32,
+    "resamples": 10000,
+    "seed": 0
+  },
+  "inputs": {
+    "dataset": {
+      "path": "/Users/renato/universidad/tp/backend/quantitative_experiments/results/revision/test_b/eval_test_b_dataset.jsonl",
+      "sha256": "f4fbd0b56850359b8d0dc796d32d4a5d95495d9af8f4aa68460b6ac1088a91bc"
+    },
+    "qrels": {
+      "path": "/Users/renato/universidad/tp/backend/quantitative_experiments/results/revision/test_b/eval_test_b_qrels.jsonl",
+      "sha256": "93e5548fe467f8e1df06ff60b929b707daaf612e61f1e1b166b6d0d837032941"
+    },
+    "corpus": {
+      "path": "/Users/renato/universidad/tp/backend/quantitative_experiments/data/inputs/document_chunks_all.jsonl",
+      "sha256": "790ad3769a5ab139555c78e64daa87134161aa69c9604aeabef6f97e3de788f0"
+    }
+  },
+  "queries": 200,
+  "source_clusters": 113,
+  "corpus_chunks": 893,
+  "output_dir": "/Users/renato/universidad/tp/backend/quantitative_experiments/results/revision/h1",
+  "hypothesis": "FT minus base strict NDCG@10 on Test B is positive",
+  "checkpoint_identity": "Default public release is identified as checkpoint-256 by its model card",
+  "multiplicity": "H1-H3 Holm adjustment pending",
+  "frozen_at_utc": "2026-11-17T18:54:00.792274+00:00",
+  "registration": "local run specification, not external preregistration",
+  "model_file_sha256": {
+    "base": {
+      "config.json": "26159e7ad065073448460117eb24b7a4572f6f4e78eadff65dc0a11c052449fa",
+      "pytorch_model.bin": "b5e0ce3470abf5ef3831aa1bd5553b486803e83251590ab7ff35a117cf6aad38",
+      "sentencepiece.bpe.model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+      "special_tokens_map.json": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835",
+      "tokenizer.json": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08",
+      "tokenizer_config.json": "a62b2b6784f990259fddef5f16388693a8043be4f69179e6a5257eeb3f9abac4"
+    },
+    "finetuned": {
+      "config.json": "af73d0884813a8c1e8db0876af368ca5c878984b3f1bf0cf4a9c702a4404572f",
+      "model.safetensors": "7902381e91104e1b6c50c1aa0a751b0b51426ebe8f5f0724dd9ebe47867bfaa1",
+      "tokenizer.json": "5df1f55d60c9705a501ab9a75550728625740741fe4be308dac4806c16b7d51d",
+      "tokenizer_config.json": "9dc74fea52f2666f23d5f5d52d9e2983adc82c00c9a35dadc39346ecbc9aa53a"
+    }
+  },
+  "tokenizers_identical_on_evaluation_inputs": true,
+  "code_sha256": {
+    "quantitative_experiments/revision/h1.py": "f5a81ecf34b9e2a328502057e55a7ea40d7464664758b517b56ba252ba732e39",
+    "quantitative_experiments/revision/embed.py": "e3eae280871850b3310be0460b5fa191eb0a80cca3613c4ff90aaf4baff74f75",
+    "quantitative_experiments/revision/local_retrieval.py": "c016239dd10a260854caf28332ff7f3f6ed155bb17cf78ce68fadb27611f5b6f",
+    "quantitative_experiments/revision/data.py": "10f829481c3e4d9ccc396f77edcfe5c671d965ac47ebefc25da0dad78b79a6d9",
+    "evaluation/metrics.py": "24adc2a545fd5500e1a7f5f4622be2a5d5471ca7e824d067bd00b92417ada43f",
+    "evaluation/bootstrap.py": "59685cd9501b83c44f1f090a346fde54d0722316bf52e6a7a3e5a737ca1aac18"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "platform": "macOS-27.0.1-arm64-arm-64bit",
+    "mps_fallback_env": "unset",
+    "packages": {
+      "torch": "2.15.0",
+      "numpy": "1.26.4",
+      "sentence-transformers": "5.5.1",
+      "transformers": "4.46.2",
+      "huggingface-hub": "0.36.0"
+    }
+  }
+}

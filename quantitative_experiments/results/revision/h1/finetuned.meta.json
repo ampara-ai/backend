@@ -1,0 +1,15 @@
+{
+  "spec": "cls:/Users/renato/.cache/huggingface/hub/models--ampara-ai--bge-m3-ampara/snapshots/f2fab1a2bf888b4da42c1660beb578eb32ead313",
+  "kind": "dense",
+  "device": "mps",
+  "dtype": "fp16",
+  "max_length": 2048,
+  "n_params": 567754752,
+  "prompts": {
+    "query": "",
+    "document": ""
+  },
+  "seconds": 74.28234462501132,
+  "protocol_sha256": "aa039324ab3921899e984367520ef41c85c9547da94dcdbcaf23b5ff48a0375f",
+  "rankings_sha256": "37f47021677043751fef4f510239765bb41473624c8387c29937a6b14404a677"
+}
