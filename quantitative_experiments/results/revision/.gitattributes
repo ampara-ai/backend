@@ -1,0 +1,2 @@
+# Keep generated CSVs byte-exact so the SHA256SUMS manifests stay valid.
+*.csv -text
