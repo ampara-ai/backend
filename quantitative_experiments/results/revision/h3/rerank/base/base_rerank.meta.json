@@ -1,0 +1,21 @@
+{
+ "model": "openrouter:mongodb/rerank-2.5",
+ "device": "api",
+ "dtype": "api",
+ "score_kind": "api_relevance_score",
+ "first_stage": "/Users/renato/universidad/tp/backend/quantitative_experiments/results/revision/h1/base.json",
+ "first_stage_sha256": "0b02d1f6bf6d794ffbdf48e0b02c944e7912c4f97e7c1a16621d27ff10a3512e",
+ "max_length": 1024,
+ "dataset_sha256": "f4fbd0b56850359b8d0dc796d32d4a5d95495d9af8f4aa68460b6ac1088a91bc",
+ "qrels_sha256": "93e5548fe467f8e1df06ff60b929b707daaf612e61f1e1b166b6d0d837032941",
+ "per_k": {
+  "100": {
+   "latency_ms_median": 2830.30066700303,
+   "latency_ms_p95": 4431.12765175174,
+   "recall@10": 0.95,
+   "mrr@10": 0.8041309523809523,
+   "ndcg@10": 0.8405625021079496,
+   "map@10": 0.8041309523809523
+  }
+ }
+}
