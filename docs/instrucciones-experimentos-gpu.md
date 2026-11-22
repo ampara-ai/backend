@@ -176,7 +176,15 @@ Las condiciones son `base`, `finetuned`, `base_rerank` y `finetuned_rerank`, con
 
 ### Si quedan scores incompletos
 
-No relanzar el wrapper sobre la misma carpeta: no ofrece reanudación. Si las cuatro generaciones están completas y el único problema son scores faltantes, conservar los archivos y reintentar **solo scoring**, con el mismo entorno, juez, API y configuración originales. Volver a definir las variables de esa corrida si se abrió otra terminal. Este reintento también puede hacer llamadas con costo:
+Para continuar una corrida interrumpida o con scores incompletos, relanzar con la misma configuración y el mismo commit, añadiendo `--resume`:
+
+```bash
+bash quantitative_experiments/revision/run_h3.sh --run --resume
+```
+
+`--resume` reutiliza `H3_OUT_DIR`, **se niega a continuar si el protocolo congelado cambió** (insumos, prompt, modelos, temperatura, juez o commit de git), salta los pasos ya completos (rerank y respuestas de cada condición) y reintenta los incompletos apoyándose en las cachés, de modo que no se vuelve a pagar lo ya hecho. Sin `--resume`, el wrapper sigue negándose a usar una carpeta existente.
+
+Alternativa manual: si las cuatro generaciones están completas y el único problema son scores faltantes, conservar los archivos y reintentar **solo scoring**, con el mismo entorno, juez, API y configuración originales. Volver a definir las variables de esa corrida si se abrió otra terminal. Este reintento también puede hacer llamadas con costo:
 
 ```bash
 python -m quantitative_experiments.revision.h3_checks "$H3_OUT_DIR"

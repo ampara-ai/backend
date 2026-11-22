@@ -208,3 +208,46 @@ def test_run_wrappers_prepare_only(script, flags, tmp_path):
     else:
         assert result.stdout.count("revision.rerank_local") == 2
         assert result.stdout.count("revision.answer_quality generate") == 4
+
+
+def test_protocol_differences_ignore_freeze_time_and_dirty_flag():
+    saved = {"frozen_at_utc": "t1", "judge_model": "j", "git": {"commit": "abc", "dirty": False}, "generation_prompt_sha256": "p"}
+    same = {**saved, "frozen_at_utc": "t2", "git": {"commit": "abc", "dirty": True}}
+    assert h3_checks.protocol_differences(saved, same) == []
+    changed = {**same, "judge_model": "other", "git": {"commit": "def", "dirty": False}, "generation_prompt_sha256": "q"}
+    assert h3_checks.protocol_differences(saved, changed) == ["generation_prompt_sha256", "git", "judge_model"]
+    assert h3_checks.protocol_differences(saved, {k: v for k, v in saved.items() if k != "judge_model"}) == ["judge_model"]
+
+
+@pytest.mark.parametrize("flags", [["--resume"], ["--dry-run", "--resume"]])
+def test_run_h3_resume_requires_run(flags, tmp_path):
+    root = Path(__file__).resolve().parents[1]
+    result = subprocess.run(["bash", str(root / "quantitative_experiments/revision/run_h3.sh"), *flags],
+                            cwd=tmp_path, capture_output=True, text=True)
+    assert result.returncode == 2 and "--resume only applies to --run" in result.stderr
+
+
+def test_run_h3_resume_skips_only_completed_steps(tmp_path):
+    root = Path(__file__).resolve().parents[1]
+    fakebin, log, out = tmp_path / "bin", tmp_path / "calls.log", tmp_path / "h3"
+    fakebin.mkdir()
+    for name in ["python", "python3"]:
+        exe = fakebin / name
+        exe.write_text('#!/bin/sh\necho "$@" >> "$CALL_LOG"\nexit 0\n')
+        exe.chmod(0o755)
+    for path in ["rerank/base/base_rerank_k100.json", "rerank/base/base_rerank.meta.json",
+                 "answers/base.trace.jsonl", "answers/base.provenance.json"]:
+        (out / path).parent.mkdir(parents=True, exist_ok=True)
+        (out / path).write_text("{}")
+    env = {**os.environ, "PATH": str(fakebin) + os.pathsep + os.environ["PATH"], "CALL_LOG": str(log),
+           "OPENROUTER_API_KEY": "not-a-real-key", "H3_OUT_DIR": str(out), "PYTHON": "python3"}
+    result = subprocess.run(["bash", str(root / "quantitative_experiments/revision/run_h3.sh"), "--run", "--resume"],
+                            cwd=tmp_path, env=env, capture_output=True, text=True)
+    assert result.returncode == 0, result.stderr
+    calls = log.read_text()
+    assert "resume: rerank for base already complete" in result.stdout
+    assert "resume: answers for base already complete" in result.stdout
+    assert calls.count("revision.rerank_local") == 1 and "--name finetuned_rerank" in calls  # base rerank skipped
+    assert calls.count("answer_quality generate") == 3 and "--condition base --run" not in calls
+    assert "--condition finetuned --run" in calls and "--condition base_rerank --run" in calls
+    assert calls.count("answer_quality score") == 1 and calls.count("revision.h3_checks") == 2  # always re-run, cache-backed

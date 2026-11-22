@@ -84,6 +84,8 @@ export H3_DEVICE=auto
 export H3_OUT_DIR=/path/to/new/h3-output
 # Configure API keys locally; never commit them.
 bash quantitative_experiments/revision/run_h3.sh --run
+# If a run is interrupted, continue it (same config and commit; refuses if the frozen protocol changed):
+# bash quantitative_experiments/revision/run_h3.sh --run --resume
 ```
 
 Actual execution makes paid generation/scoring calls. The environment needs the backend's generation dependencies and

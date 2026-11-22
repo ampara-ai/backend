@@ -6,6 +6,21 @@ from pathlib import Path
 from quantitative_experiments.revision.h1 import file_hash
 
 
+def protocol_differences(saved: dict, current: dict) -> list[str]:
+    """Keys whose frozen value differs between a saved protocol and the one computed now (empty list = safe to resume).
+
+    The freeze time is ignored. For ``git`` only the commit matters: the output directory itself can make the tree dirty.
+    """
+    differences = []
+    for key in sorted((set(saved) | set(current)) - {"frozen_at_utc"}):
+        old, new = saved.get(key), current.get(key)
+        if key == "git":
+            old, new = (old or {}).get("commit"), (new or {}).get("commit")
+        if old != new:
+            differences.append(key)
+    return differences
+
+
 def verify_generation(output):
     output = Path(output)
     protocol = json.loads((output / "protocol.json").read_text())

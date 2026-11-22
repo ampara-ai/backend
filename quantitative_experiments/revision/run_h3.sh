@@ -2,9 +2,20 @@
 # Prepare four matched answer-grounding conditions. Only --run performs inference/API calls.
 set -euo pipefail
 
-MODE="${1:---dry-run}"
-if [[ "$#" -gt 1 ]]; then echo "Choose only --dry-run or --run" >&2; exit 2; fi
-case "$MODE" in --dry-run|--run) ;; *) echo "Usage: bash run_h3.sh [--dry-run|--run]" >&2; exit 2 ;; esac
+# Usage: run_h3.sh [--dry-run | --run [--resume]]
+#   --resume continues an interrupted --run in the existing H3_OUT_DIR. It refuses to continue unless the frozen protocol
+#   (inputs, prompt, models, judge, settings, git commit) is identical, skips completed steps, and relies on the append-only
+#   caches so API calls already paid for are never repeated.
+MODE="--dry-run"; RESUME=0; MODE_SET=0
+for arg in "$@"; do
+  case "$arg" in
+    --dry-run|--run) if [[ "$MODE_SET" == 1 ]]; then echo "Choose only --dry-run or --run" >&2; exit 2; fi; MODE="$arg"; MODE_SET=1 ;;
+    --resume) RESUME=1 ;;
+    *) echo "Usage: bash run_h3.sh [--dry-run | --run [--resume]]" >&2; exit 2 ;;
+  esac
+done
+if [[ "$RESUME" == 1 && "$MODE" != --run ]]; then echo "--resume only applies to --run" >&2; exit 2; fi
+export H3_RESUME="$RESUME"
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT="$(cd "$HERE/../.." && pwd)"
 cd "$ROOT"
@@ -32,6 +43,13 @@ export MONGODB_URI="${MONGODB_URI:-mongodb://unused}"
 DATASET="$ROOT/quantitative_experiments/results/revision/test_b/eval_test_b_dataset.jsonl"
 QRELS="$ROOT/quantitative_experiments/results/revision/test_b/eval_test_b_qrels.jsonl"
 
+# True only when resuming and every given file already exists (the step finished in a previous attempt).
+step_done() {
+  [[ "$MODE" == --run && "$RESUME" == 1 ]] || return 1
+  local f
+  for f in "$@"; do [[ -f "$f" ]] || return 1; done
+}
+
 command_step() {
   if [[ "$MODE" == --run ]]; then
     "$@"
@@ -51,7 +69,8 @@ import hashlib, importlib.metadata, json, os, sys
 from datetime import datetime, timezone
 from pathlib import Path
 from quantitative_experiments.revision.h1 import detect_hardware, select_device
-from quantitative_experiments.provenance import llm_provenance
+from quantitative_experiments.provenance import git_state, llm_provenance
+from quantitative_experiments.revision.h3_checks import protocol_differences
 
 first, out, dataset, qrels = map(Path, [sys.argv[1], sys.argv[2], sys.argv[4], sys.argv[5]])
 reranker_spec = sys.argv[3]
@@ -62,8 +81,11 @@ hw = detect_hardware()
 if not hw['torch_available']:
     raise SystemExit('PyTorch is required for reranking')
 resolved_device = select_device(device, cuda=hw['cuda'], mps=hw['mps'])
-if out.exists():
-    raise SystemExit('H3_OUT_DIR must not exist; no implicit reuse of previous answers or scores')
+resume = os.environ.get('H3_RESUME') == '1'
+if out.exists() and not resume:
+    raise SystemExit('H3_OUT_DIR already exists; no implicit reuse. Use --run --resume to continue an interrupted run')
+if resume and not (out / 'protocol.json').is_file():
+    raise SystemExit('--resume needs an existing H3_OUT_DIR created by a previous --run (protocol.json missing)')
 reranker = None
 if reranker_spec.startswith('st:'):
     reranker = Path(reranker_spec[3:])
@@ -115,15 +137,23 @@ record = {
                                             'LLM_PROVIDER_ONLY','GENERATION_PROMPT_FILE']},
     'generation_prompt_sha256': sha(prompt),
     'generation_llm': llm_provenance(),
+    'git': git_state(),
     'question_ids': [json.loads(line)['dataset_id'] for line in dataset.read_text().splitlines() if line.strip()],
     'frozen_inputs': {k: {'path':str(p.resolve()), 'sha256':sha(p)} for k,p in
                       {'dataset':dataset,'qrels':qrels,'corpus':corpus,'prompt':prompt}.items()},
     'packages': {p: importlib.metadata.version(p) for p in ['ragas','openai','torch','sentence-transformers']},
     'interpretation': 'Automated source grounding; no legal validation. Reranker contrasts are exploratory.'
 }
-out.mkdir(parents=True, exist_ok=False)  # Atomic claim after validation; concurrent execution must fail.
-(out/'protocol.json').write_text(json.dumps(record, indent=2)+'\n')
-(out/'status.json').write_text(json.dumps({'state':'running'})+'\n')
+if resume:
+    changed = protocol_differences(json.loads((out / 'protocol.json').read_text()), record)
+    if changed:
+        raise SystemExit('Cannot resume: the frozen protocol differs now in: ' + ', '.join(changed)
+                         + '. Restore the original inputs/settings/commit, or start a fresh H3_OUT_DIR.')
+    (out/'status.json').write_text(json.dumps({'state':'running', 'resumed_at_utc': datetime.now(timezone.utc).isoformat()})+'\n')
+else:
+    out.mkdir(parents=True, exist_ok=False)  # Atomic claim after validation; concurrent execution must fail.
+    (out/'protocol.json').write_text(json.dumps(record, indent=2)+'\n')
+    (out/'status.json').write_text(json.dumps({'state':'running'})+'\n')
 PY
 else
   echo "Preparation only. --run performs two reranking runs, 800 answer generations, and automated scoring."
@@ -132,6 +162,9 @@ else
 fi
 
 for condition in base finetuned; do
+  if step_done "$H3_OUT_DIR/rerank/$condition/${condition}_rerank_k100.json" "$H3_OUT_DIR/rerank/$condition/${condition}_rerank.meta.json"; then
+    echo "resume: rerank for $condition already complete, skipping"; continue
+  fi
   command_step "$PYTHON" -m quantitative_experiments.revision.rerank_local \
     --first-stage "$H1_RUN_DIR/$condition.json" --model "$RERANKER_SPEC" \
     --dataset "$DATASET" --qrels "$QRELS" --depths 100 --name "${condition}_rerank" \
@@ -143,6 +176,9 @@ for condition in base finetuned base_rerank finetuned_rerank; do
     base_rerank) ranking="$H3_OUT_DIR/rerank/base/base_rerank_k100.json" ;;
     finetuned_rerank) ranking="$H3_OUT_DIR/rerank/finetuned/finetuned_rerank_k100.json" ;;
   esac
+  if step_done "$H3_OUT_DIR/answers/$condition.trace.jsonl" "$H3_OUT_DIR/answers/$condition.provenance.json"; then
+    echo "resume: answers for $condition already complete, skipping"; continue
+  fi
   command_step "$PYTHON" -m quantitative_experiments.revision.answer_quality generate \
     --condition "$condition" --run "$ranking" --dataset "$DATASET" --out-dir "$H3_OUT_DIR/answers" \
     --all --k 10 --concurrency 4
